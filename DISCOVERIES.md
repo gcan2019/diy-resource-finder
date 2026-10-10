@@ -1,8 +1,8 @@
 # 📚 Otonom Doğrulanmış Proje & Kaynak Kataloğu
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile teknik olarak doğrulanmış kaynakları içerir.
 
-**Toplam Doğrulanmış Kaynak:** 68 adet
-**Son Güncelleme:** 2026-10-10 15:53:12
+**Toplam Doğrulanmış Kaynak:** 74 adet
+**Son Güncelleme:** 2026-10-10 16:06:46
 
 ---
 
@@ -372,10 +372,54 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (24 adet)
+## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (28 adet)
 _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
-### 1. [Solidworks Tutorial / How to make a Pillow Block Bearing ? - YouTube](https://www.youtube.com/watch?v=bxiyMasyh7c)
+### 1. [ArtStation - GAS BOTTLE CYLINDER TANK HAND TRUCK TROLLEY DOLLY BARROW ...](https://www.artstation.com/marketplace/p/0aGJ3/gas-bottle-cylinder-tank-hand-truck-trolley-dolly-barrow-cart)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 represents a CAD model of a similar gas cylinder truck mechanism with dual wheels and a loading plate, though featuring a different structural frame configuration.
+- **Tarih:** 2026-10-10 16:04:19
+
+![Önizleme](https://cdna.artstation.com/p/marketplace/presentation_assets/005/279/806/large/file.jpg?1775455070)
+
+
+---
+
+### 2. [Gas Bottle Trolley 3d Obj](https://www.turbosquid.com/3d-models/gas-bottle-trolley-3d-obj/668194)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict gas cylinder trucks designed for transporting pressurized gas bottles, though Image 2 features a two-cylinder platform cart design rather than the single-cylinder leaning frame shown in Image 1.
+- **Tarih:** 2026-10-10 16:03:59
+
+![Önizleme](https://p.turbosquid.com/ts-thumb/hV/whVuqn/tILW0WBq/bht13/jpg/1335375482/1920x1080/fit_q87/62949afd73fe699045f40f7665d812578ff50281/bht13.jpg)
+
+
+---
+
+### 3. [Gas Bottle Cylinder Tank on Hand Truck Trolley Barrow Cart - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows a CAD model of a gas cylinder truck with the same functional design, layout, and securing chain as the reference, though rendered in yellow with loaded cylinders.
+- **Tarih:** 2026-10-10 16:03:21
+
+![Önizleme](https://cdn.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart-24.jpg?v=2)
+
+
+---
+
+### 4. [Gas Cylinder on Handtruck - 3D Model by firdz3d](https://www.renderhub.com/firdz3d/gas-cylinder-on-handtruck)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 represents a 3D CAD model of a gas cylinder truck holding a gas tank, which serves the same functional purpose as the reference product despite minor design variations.
+- **Tarih:** 2026-10-10 16:01:15
+
+![Önizleme](https://cdn.renderhub.com/firdz3d/gas-cylinder-on-handtruck/gas-cylinder-on-handtruck-01.jpg)
+
+
+---
+
+### 5. [Solidworks Tutorial / How to make a Pillow Block Bearing ? - YouTube](https://www.youtube.com/watch?v=bxiyMasyh7c)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD model tutorial for a pillow block bearing, which directly corresponds to the reference assembly mechanism.
@@ -386,7 +430,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 2. [UPC 201 type 12mm Pillow Block Bearing 3D model | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/upc-201-type-12mm-pillow-block-bearing)
+### 6. [UPC 201 type 12mm Pillow Block Bearing 3D model | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/upc-201-type-12mm-pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya), corresponding directly to the mechanical assembly shown in the technical drawing of Image 1.
@@ -397,7 +441,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 3. [Response Surface Optimization Design for High-Speed Ball Bearing Double ...](https://www.mdpi.com/2075-4442/13/8/343)
+### 7. [Response Surface Optimization Design for High-Speed Ball Bearing Double ...](https://www.mdpi.com/2075-4442/13/8/343)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded CAD model of the internal rolling bearing assembly and components used inside the pillow block bearing housing shown in Image 1.
@@ -408,7 +452,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 4. [Cast Iron Machining Bearing Housing, Packaging Type: Wooden at best ...](https://www.indiamart.com/proddetail/bearing-housing-23093730633.html)
+### 8. [Cast Iron Machining Bearing Housing, Packaging Type: Wooden at best ...](https://www.indiamart.com/proddetail/bearing-housing-23093730633.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing housing that matches the structural type represented in the reference technical assembly diagram.
@@ -419,7 +463,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 5. [Buy custom CNC Machine parts direct from factory in China](https://metalworksplus.com/machine-parts/)
+### 9. [Buy custom CNC Machine parts direct from factory in China](https://metalworksplus.com/machine-parts/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical pillow block bearing housing that directly corresponds to the mounted bearing assembly illustrated in the technical cross-section of Image 1.
@@ -430,7 +474,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 6. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-8)
+### 10. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-8)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed 3D CAD model of a pillow block bearing that accurately represents the functional assembly depicted in the technical schematic of Image 1.
@@ -441,7 +485,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 7. [UCP Pillow Block Bearing for Superior Performance](https://dmwheelsystems.com/en/products/parts/flange-bearings/ucp-pillow-block-bearing/)
+### 11. [UCP Pillow Block Bearing for Superior Performance](https://dmwheelsystems.com/en/products/parts/flange-bearings/ucp-pillow-block-bearing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing, which is a related component variant to the pillow block assembly shown in the reference image.
@@ -452,7 +496,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 8. [Pillow Block Bearing Drop In Replacement by Pending Progress | Download ...](https://www.printables.com/model/472502-pillow-block-bearing-drop-in-replacement)
+### 12. [Pillow Block Bearing Drop In Replacement by Pending Progress | Download ...](https://www.printables.com/model/472502-pillow-block-bearing-drop-in-replacement)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya) which matches the mechanical type and function of the reference schematic.
@@ -463,7 +507,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 9. [What is a pillow block bearing? - Engistudies](https://engistudies.blogspot.com/2018/10/what-is-pillow-block-bearing.html)
+### 13. [What is a pillow block bearing? - Engistudies](https://engistudies.blogspot.com/2018/10/what-is-pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a labeled 3D CAD model of a pillow block bearing assembly, which matches the exact mechanical component depicted in the reference section view of Image 1.
@@ -474,7 +518,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 10. [Pillow Block Bearing | Autodesk Community Gallery](https://www.autodesk.com/community/gallery/project/169385/pillow-block-bearing)
+### 14. [Pillow Block Bearing | Autodesk Community Gallery](https://www.autodesk.com/community/gallery/project/169385/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya), which is the exact hardware component depicted in the mounted assembly diagram of Image 1.
@@ -485,7 +529,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 11. [Pillow Block Bearing - 3D Model by SimonTGriffiths](https://www.renderhub.com/simontgriffiths/pillow-block-bearing)
+### 15. [Pillow Block Bearing - 3D Model by SimonTGriffiths](https://www.renderhub.com/simontgriffiths/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD wireframe model of a pillow block bearing featuring the correct housing, mounting bolt holes, and grease fitting corresponding to the reference assembly.
@@ -496,7 +540,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 12. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-all-sizes-1)
+### 16. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-all-sizes-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a standard pillow block bearing, which corresponds to the bearing assembly depicted in the technical cross-section of Image 1.
@@ -507,7 +551,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 13. [Pillow Block Bearing Autocad Drawing at Kenneth Kane blog](https://storage.googleapis.com/dmnlrjurrazxge/pillow-block-bearing-autocad-drawing.html)
+### 17. [Pillow Block Bearing Autocad Drawing at Kenneth Kane blog](https://storage.googleapis.com/dmnlrjurrazxge/pillow-block-bearing-autocad-drawing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a standard pillow block bearing, which is functionally equivalent to the reference diagram showing a bearing assembly supporting a rotating shaft.
@@ -518,7 +562,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 14. [Sealed Deep Groove Ball Bearings: Guide for Performance](https://tflbearing.com/blog/sealed-deep-groove-ball-bearings-guide.html)
+### 18. [Sealed Deep Groove Ball Bearings: Guide for Performance](https://tflbearing.com/blog/sealed-deep-groove-ball-bearings-guide.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed CAD model of a deep groove ball bearing which is the core internal component housed within the pillow block bearing assembly depicted in Image 1.
@@ -529,7 +573,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 15. [Bearing housings - NTN Bearing Wizard](https://bearingwizard.com/rolling-bearing-types/bearing-housings/)
+### 19. [Bearing housings - NTN Bearing Wizard](https://bearingwizard.com/rolling-bearing-types/bearing-housings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a clear CAD model of a pillow block bearing assembly (housing, bearing, seal, and shaft), accurately representing the same mechanical component shown in the reference image.
@@ -540,7 +584,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 16. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.com/Pillow-Mounted-Bearings-UCFL205-16-Aligning/dp/B0BNXNV476)
+### 20. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.com/Pillow-Mounted-Bearings-UCFL205-16-Aligning/dp/B0BNXNV476)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 displays detailed renderings and physical components of a pillow block bearing and its insert bearing assembly, directly matching the mechanical concept shown in the reference schematic.
@@ -551,7 +595,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 17. [🔧 KP001 Pillow Block Bearing for 12mm Shaft・Free STL File for ・Cults](https://cults3d.com/en/3d-model/tool/kp001-pillow-block-bearing-for-12mm-shaft)
+### 21. [🔧 KP001 Pillow Block Bearing for 12mm Shaft・Free STL File for ・Cults](https://cults3d.com/en/3d-model/tool/kp001-pillow-block-bearing-for-12mm-shaft)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing matching the mechanical component illustrated in the reference drawing.
@@ -562,7 +606,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 18. [Free STL file pillow block bearing 608 for 8 mm rod・3D print design to ...](https://cults3d.com/en/3d-model/tool/pillow-block-bearing-608-for-8-mm-rod)
+### 22. [Free STL file pillow block bearing 608 for 8 mm rod・3D print design to ...](https://cults3d.com/en/3d-model/tool/pillow-block-bearing-608-for-8-mm-rod)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing housing that matches the structural mounting base and configuration depicted in the assembly schematic of Image 1.
@@ -573,7 +617,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 19. [Free STL file KP000 Pillow Block Bearing for 10mm Shaft・3D printing ...](https://cults3d.com/en/3d-model/tool/kp000-pillow-block-bearing-for-10mm-shaft)
+### 23. [Free STL file KP000 Pillow Block Bearing for 10mm Shaft・3D printing ...](https://cults3d.com/en/3d-model/tool/kp000-pillow-block-bearing-for-10mm-shaft)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing, which is the standard 3D representation corresponding to the technical assembly shown in Image 1.
@@ -584,7 +628,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 20. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/ucf-206-pillow-block-bearing-1)
+### 24. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/ucf-206-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a square flanged pillow block bearing assembly, which matches the bearing component and mounting configuration shown in the reference schematic.
@@ -595,7 +639,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 21. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bearing-kp-series-pillow-block-bearing-1)
+### 25. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bearing-kp-series-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 depicts a standard 3D CAD model of a pillow block bearing, which is the exact functional mechanism shown in the reference assembly drawing of Image 1.
@@ -606,7 +650,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 22. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-5)
+### 26. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-5)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a 3D CAD model of a standard pillow block bearing (UCP205), representing the physical component assembly shown in the technical cross-section of Image 1.
@@ -617,7 +661,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 23. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-d8-1)
+### 27. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-d8-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing, which functionally corresponds to the bearing assembly illustrated in the technical cross-section of Image 1.
@@ -628,7 +672,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 24. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/kp08-support-pillow-block-bearing-for-t8-lead-screw-for-3d-printing-machines-and-cnc-1)
+### 28. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/kp08-support-pillow-block-bearing-for-t8-lead-screw-for-3d-printing-machines-and-cnc-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict pillow block bearing assemblies, though Image 1 shows an installed sectional view while Image 2 shows a 3D CAD model of a standard pillow block unit.
@@ -675,10 +719,32 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-## 💡 Proje Fikirleri & DIY Varyasyonları (8 adet)
+## 💡 Proje Fikirleri & DIY Varyasyonları (10 adet)
 _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
-### 1. [How To Remove Pillow Block Bearing From Shaft at Harry Brawner blog](https://storage.googleapis.com/djrozxznvgxyee/how-to-remove-pillow-block-bearing-from-shaft.html)
+### 1. [Mild Steel Single Gas Cylinder Trolley at Rs 5000 in Bengaluru | ID ...](https://www.indiamart.com/proddetail/industrial-oxygen-cylinder-trolley-2854373149148.html)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 represents a fabricated working variation of the reference gas cylinder truck with a similar multi-wheel layout and chain retention mechanism, though differing in finish and structural frame details.
+- **Tarih:** 2026-10-10 16:06:46
+
+![Önizleme](http://5.imimg.com/data5/SELLER/Default/2024/7/438265007/SG/YB/RE/219026972/single-gas-cylinder-trolley-1000x1000.jpeg)
+
+
+---
+
+### 2. [CO2 And Oxygen gas cylinders trolley at ₹ 4950 | Pune | ID: 2853103318030](https://www.indiamart.com/proddetail/co2-and-oxygen-gas-cylinders-trolley-2853103318030.html)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 88` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows a custom-built, yellow-painted DIY dual gas cylinder truck that closely replicates the mechanical layout and structural frame of the reference design.
+- **Tarih:** 2026-10-10 16:06:29
+
+![Önizleme](https://5.imimg.com/data5/ANDROID/Default/2023/12/370433906/FV/XF/OR/190564741/product-jpeg-1000x1000.jpg)
+
+
+---
+
+### 3. [How To Remove Pillow Block Bearing From Shaft at Harry Brawner blog](https://storage.googleapis.com/djrozxznvgxyee/how-to-remove-pillow-block-bearing-from-shaft.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a handmade custom variation of the pillow block bearing mechanism presented in the reference technical diagram.
@@ -689,7 +755,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 2. [DIY Pillow Bearing block | Bearing Mount DIY - YouTube](https://www.youtube.com/shorts/V8mCz9nTSds)
+### 4. [DIY Pillow Bearing block | Bearing Mount DIY - YouTube](https://www.youtube.com/shorts/V8mCz9nTSds)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a DIY fabrication process attempting to construct a pillow block bearing housing similar to the assembly shown in the reference image.
@@ -700,7 +766,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 3. [Simple Pillow Block Bearing Handmade - YouTube](https://www.youtube.com/watch?v=hegAwQVwkeQ)
+### 5. [Simple Pillow Block Bearing Handmade - YouTube](https://www.youtube.com/watch?v=hegAwQVwkeQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a handmade DIY version of the pillow block bearing mechanism presented in the technical drawing of Image 1.
@@ -711,7 +777,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 4. [Bearing Housings Archives - NBC](https://www.nbcbearings.com/tag/bearing-housings/)
+### 6. [Bearing Housings Archives - NBC](https://www.nbcbearings.com/tag/bearing-housings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical, installed pillow block bearing mechanism that directly corresponds to the engineering schematic shown in the reference image.
@@ -722,7 +788,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 5. [How to make bearing mounts from wood - Use bearings in your woodworking ...](https://www.youtube.com/watch?v=SGYZGCYIgXQ)
+### 7. [How to make bearing mounts from wood - Use bearings in your woodworking ...](https://www.youtube.com/watch?v=SGYZGCYIgXQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom wooden DIY variant of the pillow block bearing shown in Image 1, serving the exact same mechanical functionality.
@@ -733,7 +799,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 6. [Homemade Bearing Blocks by John Heisz | Diy bearing installation, Diy ...](https://www.pinterest.com/pin/bearing-blocks-by-john-heisz-homemade-bearing-blocks-constructed-from-lumber-and-bearings-http--450922981426310832/)
+### 8. [Homemade Bearing Blocks by John Heisz | Diy bearing installation, Diy ...](https://www.pinterest.com/pin/bearing-blocks-by-john-heisz-homemade-bearing-blocks-constructed-from-lumber-and-bearings-http--450922981426310832/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a DIY wooden pillow block bearing assembly functioning as a custom working variation of the standard pillow block bearing shown in the reference image.
@@ -744,7 +810,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 7. [An Easy Way to Create DIY Bearing Mounts - Core77](https://www.core77.com/posts/77963/An-Easy-Way-to-Create-DIY-Bearing-Mounts)
+### 9. [An Easy Way to Create DIY Bearing Mounts - Core77](https://www.core77.com/posts/77963/An-Easy-Way-to-Create-DIY-Bearing-Mounts)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a custom wooden DIY variant of the pillow block bearing shown in Image 1, replicating the clamping mechanism and housing function using plywood and a standard ball bearing.
@@ -755,7 +821,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 8. [Pillow Block Bearing Manufacturers India | Pillow Block Bearings India](https://decbearing.com/pillow-block-bearing-manufacture-india.html)
+### 10. [Pillow Block Bearing Manufacturers India | Pillow Block Bearings India](https://decbearing.com/pillow-block-bearing-manufacture-india.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows assembled pillow block bearings in a workshop setting, which match the technical cross-section shown in Image 1.

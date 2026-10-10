@@ -1,15 +1,10 @@
-name: Otonom Görsel Araştırma Ajanı (Cloud Worker)
+name: Otonom Görsel Araştırma Ajanı (Akıllı Bulut Nöbetçisi)
 
 on:
   schedule:
-    # Her 4 saatte bir otomatik çalışır (Günde 6 kez bulutta uyanıp tarar)
-    - cron: '0 */4 * * *'
-  # GitHub üzerinden tek tıkla elle başlatabilme
+    # Her 2 saatte bir bulutta uyanır ve kontrol eder
+    - cron: '0 */2 * * *'
   workflow_dispatch:
-  # targets klasörüne yeni fotoğraf eklendiğinde hemen çalışır
-  push:
-    paths:
-      - 'targets/**'
 
 permissions:
   contents: write
@@ -21,33 +16,68 @@ jobs:
     steps:
       - name: Repoyu Klonla
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: PC Açık mı Kontrol Et (Dakika Tasarruf Filtresi)
+        id: check-pc
+        run: |
+          # data/knowledge_base.json veya heartbeat dosyasındaki son keşif zamanını kontrol et
+          python -c "
+          import json, time, os
+          kb_path = 'data/knowledge_base.json'
+          should_run = True
+          if os.path.exists(kb_path):
+              try:
+                  kb = json.load(open(kb_path, encoding='utf-8'))
+                  discoveries = kb.get('discoveries', [])
+                  if discoveries:
+                      last_item = discoveries[-1]
+                      last_time_str = last_item.get('discovered_at', '')
+                      # Son keşif zamanı 60 dakikadan daha yeniyse PC aktiftir
+                      last_ts = time.mktime(time.strptime(last_time_str, '%Y-%m-%d %H:%M:%S'))
+                      diff_minutes = (time.time() - last_ts) / 60.0
+                      if diff_minutes < 60:
+                          should_run = False
+                          print(f'🟢 PC AKTIF: Son kesif {diff_minutes:.1f} dakika once yapilmis.')
+                          print('💡 GitHub dakikalarinizi harcamamak icin bulut gorevi atlanıyor.')
+              except Exception as e:
+                  pass
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'should_run={str(should_run).lower()}\n')
+          "
 
       - name: Python 3.11 Kur
+        if: steps.check-pc.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
 
       - name: Bağımlılıkları Yükle
+        if: steps.check-pc.outputs.should_run == 'true'
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Otonom Ajanı Çalıştır (Derin Tarama & Görsel Doğrulama)
+      - name: Nöbeti Devral: Bulutta Taramayı Çalıştır
+        if: steps.check-pc.outputs.should_run == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          # Bulutta 10 tur derinleşerek yeni çizimleri ve modelleri bulur
+          echo "🌙 PC kapali oldugu tespit edildi. Nobeti GitHub Bulut devraldi!"
           python autonomous_agent.py --rounds 10
 
-      - name: Yeni Keşifleri Repoya Kaydet ve Commit Et
+      - name: Bulut Keşiflerini Kaydet ve Commit Et
+        if: steps.check-pc.outputs.should_run == 'true'
         run: |
-          git config --global user.name "Otonom Ajan (Cloud Worker)"
+          git config --global user.name "Otonom Bulut Nobetcisi"
           git config --global user.email "actions@github.com"
           git add data/knowledge_base.json DISCOVERIES.md
           if git diff --staged --quiet; then
-            echo "Yeni keşif yok, commit atlanıyor."
+            echo "Yeni kesif yok, commit atlanıyor."
           else
-            git commit -m "🤖 Otonom Ajan: Yeni doğrulanmış teknik kaynaklar eklendi [skip ci]"
+            git commit -m "🌙 Bulut Nobetcisi: PC kapaliyken yeni kaynaklar bulundu [skip ci]"
             git push
           fi

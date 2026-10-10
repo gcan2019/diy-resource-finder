@@ -739,6 +739,72 @@
       "variant_type": "technical_drawing",
       "reason": "Image 2 presents detailed technical blueprints and CAD models of a plummer block (pillow block bearing), matching the reference mechanism.",
       "discovered_at": "2026-10-10 15:53:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder on Handtruck - 3D Model by firdz3d",
+      "page_url": "https://www.renderhub.com/firdz3d/gas-cylinder-on-handtruck",
+      "candidate_image_url": "https://cdn.renderhub.com/firdz3d/gas-cylinder-on-handtruck/gas-cylinder-on-handtruck-01.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 represents a 3D CAD model of a gas cylinder truck holding a gas tank, which serves the same functional purpose as the reference product despite minor design variations.",
+      "discovered_at": "2026-10-10 16:01:15"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Cylinder Tank on Hand Truck Trolley Barrow Cart - 3D Model ...",
+      "page_url": "https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart",
+      "candidate_image_url": "https://cdn.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart-24.jpg?v=2",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a CAD model of a gas cylinder truck with the same functional design, layout, and securing chain as the reference, though rendered in yellow with loaded cylinders.",
+      "discovered_at": "2026-10-10 16:03:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Trolley 3d Obj",
+      "page_url": "https://www.turbosquid.com/3d-models/gas-bottle-trolley-3d-obj/668194",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/hV/whVuqn/tILW0WBq/bht13/jpg/1335375482/1920x1080/fit_q87/62949afd73fe699045f40f7665d812578ff50281/bht13.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Both images depict gas cylinder trucks designed for transporting pressurized gas bottles, though Image 2 features a two-cylinder platform cart design rather than the single-cylinder leaning frame shown in Image 1.",
+      "discovered_at": "2026-10-10 16:03:59"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "ArtStation - GAS BOTTLE CYLINDER TANK HAND TRUCK TROLLEY DOLLY BARROW ...",
+      "page_url": "https://www.artstation.com/marketplace/p/0aGJ3/gas-bottle-cylinder-tank-hand-truck-trolley-dolly-barrow-cart",
+      "candidate_image_url": "https://cdna.artstation.com/p/marketplace/presentation_assets/005/279/806/large/file.jpg?1775455070",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 represents a CAD model of a similar gas cylinder truck mechanism with dual wheels and a loading plate, though featuring a different structural frame configuration.",
+      "discovered_at": "2026-10-10 16:04:19"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "CO2 And Oxygen gas cylinders trolley at ₹ 4950 | Pune | ID: 2853103318030",
+      "page_url": "https://www.indiamart.com/proddetail/co2-and-oxygen-gas-cylinders-trolley-2853103318030.html",
+      "candidate_image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/12/370433906/FV/XF/OR/190564741/product-jpeg-1000x1000.jpg",
+      "score": 88,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a custom-built, yellow-painted DIY dual gas cylinder truck that closely replicates the mechanical layout and structural frame of the reference design.",
+      "discovered_at": "2026-10-10 16:06:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Mild Steel Single Gas Cylinder Trolley at Rs 5000 in Bengaluru | ID ...",
+      "page_url": "https://www.indiamart.com/proddetail/industrial-oxygen-cylinder-trolley-2854373149148.html",
+      "candidate_image_url": "http://5.imimg.com/data5/SELLER/Default/2024/7/438265007/SG/YB/RE/219026972/single-gas-cylinder-trolley-1000x1000.jpeg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 represents a fabricated working variation of the reference gas cylinder truck with a similar multi-wheel layout and chain retention mechanism, though differing in finish and structural frame details.",
+      "discovered_at": "2026-10-10 16:06:46"
     }
   ]
 }
