@@ -1,34 +1,49 @@
 """
-DIY Kaynak Bulucu — AI Destekli Araştırma Asistanı
-Görsel Yükle → Gemini Vision ile Çözümle → Teknik Çizim, YouTube DIY, Pinterest ve Proje Kaynaklarını Anında Bul.
+DIY Kaynak Bulucu & Otonom Araştırma Merkezi
+--------------------------------------------
+Kullanıcı Odaklı Web Arayüzü:
+- Otonom Ajan Kontrolü (Başlat / Durdur)
+- Kategorilere Ayrılmış Doğrulanmış Kaynaklar (Teknik Çizimler, 3D CAD, DIY Videoları)
+- Yeni Hedef Ekleme & Anlık Analiz
 """
 
 import streamlit as st
-from google import genai
-from google.genai import types
-from PIL import Image
+import subprocess
+import signal
 import json
 import io
 import os
+import sys
 import urllib.parse
 from pathlib import Path
-import time
+from PIL import Image
+
+from google import genai
+from google.genai import types
 
 # ──────────────────────────────────────────────
 # Sayfa Yapılandırması
 # ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="DIY Kaynak Bulucu | AI Araştırma Asistanı",
-    page_icon="🔧",
+    page_title="DIY Kaynak & Otonom Keşif Merkezi",
+    page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
-# ──────────────────────────────────────────────
-# API Key Saklama (.env)
-# ──────────────────────────────────────────────
-_ENV_FILE = Path(__file__).parent / ".env"
+BASE_DIR = Path(__file__).parent
+DATA_DIR = BASE_DIR / "data"
+TARGETS_DIR = BASE_DIR / "targets"
+_ENV_FILE = BASE_DIR / ".env"
+PID_FILE = DATA_DIR / "agent.pid"
+KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
 
+DATA_DIR.mkdir(exist_ok=True)
+TARGETS_DIR.mkdir(exist_ok=True)
+
+# ──────────────────────────────────────────────
+# API Key Yönetimi
+# ──────────────────────────────────────────────
 def _load_api_key() -> str:
     key = os.environ.get("GEMINI_API_KEY", "")
     if key:
@@ -47,113 +62,98 @@ def _save_api_key(key: str) -> None:
     _ENV_FILE.write_text(f'GEMINI_API_KEY={key}\n', encoding="utf-8")
 
 # ──────────────────────────────────────────────
-# Gemini Vision ile Derin Ürün & Proje Analizi
+# Otonom Ajan Süreç Kontrolü (Başlat / Durdur)
 # ──────────────────────────────────────────────
-ANALYSIS_PROMPT = """You are an expert engineer, industrial designer, and master maker.
-Analyze this uploaded image in great detail. Identify what this mechanism, object, furniture, or product is.
+def is_agent_running() -> bool:
+    if not PID_FILE.exists():
+        return False
+    try:
+        pid = int(PID_FILE.read_text().strip())
+        if os.name == "nt":
+            import ctypes
+            PROCESS_QUERY_INFORMATION = 0x0400
+            process = ctypes.windll.kernel32.OpenProcess(PROCESS_QUERY_INFORMATION, 0, pid)
+            if process != 0:
+                ctypes.windll.kernel32.CloseHandle(process)
+                return True
+            return False
+        else:
+            os.kill(pid, 0)
+            return True
+    except Exception:
+        return False
 
-Return a STRICT JSON response with the following schema:
-{
-  "product_name_tr": "Nesnenin tam Türkçe adı (örn: Flanşlı Rulman Yatağı ve Dikey Mil Montajı)",
-  "product_name_en": "Exact English name (e.g. Flanged Bearing Housing with Vertical Shaft Assembly)",
-  "short_summary": "1-2 cümlelik net özet: Bu nedir ve temel görevi nedir?",
-  "category": "Kategori (örn: Mekanik / Marangozluk / Metal İşleme / Elektronik / 3D Baskı / Mobilya)",
-  "difficulty": "Kolay / Orta / İleri Düzey / Uzman",
-  "estimated_time": "Tahmini yapım süresi (örn: 2-4 saat, 1-2 gün)",
-  "materials": [
-    "Malzeme 1 (örn: Sfero döküm rulman yatağı)",
-    "Malzeme 2 (örn: Sabit bilyalı rulman 6205)",
-    "Malzeme 3 (örn: 8.8 kalite cıvata ve somunlar)"
-  ],
-  "tools_needed": [
-    "Alet 1 (örn: Torna veya matkap tezgahı)",
-    "Alet 2 (örn: Tork anahtarı, segman pensesi)"
-  ],
-  "build_steps": [
-    "Adım 1: ...",
-    "Adım 2: ...",
-    "Adım 3: ...",
-    "Adım 4: ..."
-  ],
-  "engineering_notes": "Kritik montaj veya güvenlik notları (yağlama, toleranslar, titreşim önlemleri vb.)",
-  "queries": {
-    "youtube": [
-      "how to assemble [specific term] DIY tutorial",
-      "[specific term] machining build step by step",
-      "[specific term] installation guide"
-    ],
-    "pinterest": [
-      "[specific term] design ideas",
-      "[specific term] DIY mechanism inspiration",
-      "[specific term] project plans"
-    ],
-    "technical_drawings": [
-      "[specific term] CAD model blueprint dimensions",
-      "[specific term] technical drawing measurements PDF",
-      "[specific term] exploded view diagram"
-    ],
-    "communities": [
-      "[specific term] instructables project",
-      "[specific term] grabcad library 3D model",
-      "[specific term] thingiverse STL 3D print"
-    ]
-  }
+def start_agent():
+    if is_agent_running():
+        return
+    proc = subprocess.Popen([sys.executable, "-u", "autonomous_agent.py", "--continuous"])
+    PID_FILE.write_text(str(proc.pid))
+
+def stop_agent():
+    if not PID_FILE.exists():
+        return
+    try:
+        pid = int(PID_FILE.read_text().strip())
+        if os.name == "nt":
+            subprocess.run(["taskkill", "/F", "/T", "/PID", str(pid)], capture_output=True)
+        else:
+            os.kill(pid, signal.SIGTERM)
+    except Exception:
+        pass
+    PID_FILE.unlink(missing_ok=True)
+
+# ──────────────────────────────────────────────
+# Kategorize Edilmiş Veritabanı Okuyucu
+# ──────────────────────────────────────────────
+CATEGORIES = {
+    "technical_drawing": ("📐 Teknik Çizimler, Ölçüler & Kesit Planları", "2D teknik resimler, ölçü tabloları ve montaj kesitleri"),
+    "cad_model": ("🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL)", "İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller"),
+    "diy_video": ("🎥 DIY / Nasıl Yapılır & İmalat Videoları", "Adım adım montaj, torna, freze ve atölye yapım videoları"),
+    "diy_project": ("💡 Proje Fikirleri & DIY Varyasyonları", "Topluluk projeleri, tasarım varyasyonları ve makaleler")
 }
 
-Be technically accurate, highly descriptive, and ensure all search queries use industry-standard terms."""
+def classify_item(item: dict) -> str:
+    cat = item.get("category")
+    if cat in CATEGORIES:
+        return cat
+    url = (item.get("page_url", "") + " " + item.get("candidate_image_url", "")).lower()
+    title = item.get("title", "").lower()
+    vt = item.get("variant_type", "").lower()
+    if "youtube" in url or "video" in url or "tutorial" in title or "how to" in title:
+        return "diy_video"
+    if "grabcad" in url or "thingiverse" in url or "cad" in title or "stl" in title or "step" in title or "3d model" in title:
+        return "cad_model"
+    if "drawing" in url or "blueprint" in title or "drawing" in title or vt == "technical_drawing":
+        return "technical_drawing"
+    return "diy_project"
 
-def analyze_with_gemini(image_bytes: bytes, mime_type: str, api_key: str) -> dict:
-    client = genai.Client(api_key=api_key)
-    
-    # Models to try (primary and fallback)
-    models_to_try = ["gemini-3.8-flash", "gemini-3.5-flash-lite"]
-    last_error = None
-    
-    for model_name in models_to_try:
+def load_categorized_discoveries() -> dict:
+    discoveries = []
+    if KNOWLEDGE_BASE_JSON.exists():
         try:
-            response = client.models.generate_content(
-                model=model_name,
-                contents=[
-                    types.Part.from_text(text=ANALYSIS_PROMPT),
-                    types.Part.from_bytes(data=image_bytes, mime_type=mime_type),
-                ],
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json",
-                    temperature=0.2,
-                ),
-            )
-            return json.loads(response.text)
-        except Exception as e:
-            last_error = e
-            time.sleep(1)
+            kb = json.loads(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"))
+            discoveries = kb.get("discoveries", [])
+        except Exception:
+            pass
             
-    raise last_error
+    grouped = {k: [] for k in CATEGORIES}
+    for item in reversed(discoveries):
+        cat_key = classify_item(item)
+        grouped[cat_key].append(item)
+        
+    return grouped, len(discoveries)
 
 # ──────────────────────────────────────────────
-# Canlı Web Araması (DuckDuckGo - Güvenli Fallback)
+# Sidebar Ayarları
 # ──────────────────────────────────────────────
-def quick_web_search(query: str, max_results: int = 5) -> list[dict]:
-    try:
-        from duckduckgo_search import DDGS
-        ddgs = DDGS()
-        results = list(ddgs.text(query, max_results=max_results))
-        return results
-    except Exception:
-        return []
-
-# ──────────────────────────────────────────────
-# Arayüz (UI)
-# ──────────────────────────────────────────────
-
-# Sidebar
 with st.sidebar:
-    st.header("⚙️ Ayarlar")
+    st.header("⚙️ Sistem Ayarları")
     saved_key = _load_api_key()
     
     if saved_key:
-        st.success("✅ Gemini API Key yüklü")
+        st.success("✅ Gemini API Key Hazır")
         api_key = saved_key
-        if st.button("🗑️ Key'i Değiştir / Sil", use_container_width=True):
+        if st.button("🗑️ Key'i Sil", use_container_width=True):
             _ENV_FILE.unlink(missing_ok=True)
             st.rerun()
     else:
@@ -168,171 +168,159 @@ with st.sidebar:
 
     st.divider()
     st.markdown("""
-### 🎯 Nasıl Çalışır?
-1. Herhangi bir ürün, parça veya mekanizma fotoğrafı yükleyin.
-2. **Gemini Vision** nesneyi mühendislik ve DIY gözüyle çözer.
-3. Size tek ekranda sunar:
-   - 🎥 **YouTube DIY Videoları**
-   - 📌 **Pinterest Tasarım ve Benzerleri**
-   - 📐 **Teknik Çizimler, CAD & Blueprint**
-   - 🛠️ **Adım Adım Yapım & Malzeme Rehberi**
+### 💡 Kullanım Rehberi
+- **Otonom Ajan:** Siz durdur diyene kadar interneti tarar ve Gemini Vision ile doğrular.
+- **Kategoriler:** Çizimler, 3D modeller ve videolar otomatik ayrıştırılır.
+- **Hedef Ekle:** Klasöre yeni resim koyduğunuzda ajan onu da taramaya başlar.
 """)
 
-# Başlık
-st.title("🔧 DIY & Proje Araştırma Asistanı")
-st.caption("Farklı zamanlarda, farklı ürünleriniz için hızlı ve zengin kaynak bulucu.")
+# ──────────────────────────────────────────────
+# Ana Arayüz Sekmeleri
+# ──────────────────────────────────────────────
+st.title("🤖 DIY Otonom Keşif ve Araştırma Merkezi")
 
-uploaded_file = st.file_uploader(
-    "📸 Araştırmak istediğiniz ürünün / parçanın fotoğrafını yükleyin:",
-    type=["jpg", "jpeg", "png", "webp"],
-    help="Mobilya, mekanizma, ahşap, metal, 3D baskı vb. fotoğraflar",
-)
+tab_dashboard, tab_instant = st.tabs([
+    "🚀 Otonom Araştırma Masası (Canlı Keşifler)",
+    "🔍 Anlık Tekil Ürün Analizi"
+])
 
-if not api_key:
-    st.warning("⚠️ Lütfen sol menüden **Gemini API Key** girin.")
-    st.stop()
+# ══════════════════════════════════════════════
+# SEKME 1: OTONOM ARAŞTIRMA MASASI
+# ══════════════════════════════════════════════
+with tab_dashboard:
+    running = is_agent_running()
 
-if uploaded_file:
-    image_bytes = uploaded_file.read()
-    mime_type = uploaded_file.type or "image/jpeg"
-    image = Image.open(io.BytesIO(image_bytes))
+    # Kontrol Çubuğu
+    col_status, col_btn_start, col_btn_stop, col_btn_refresh = st.columns([3, 2, 2, 2])
 
-    # Üst Kısım: Fotoğraf ve Özet
-    col_img, col_summary = st.columns([1, 2])
-    
-    with col_img:
-        st.image(image, caption="Analiz Edilen Görsel", use_container_width=True)
+    with col_status:
+        if running:
+            st.success("🟢 **Ajan Durumu:** KESİNTİSİZ ÇALIŞIYOR (Yeni kaynaklar taranıyor)")
+        else:
+            st.warning("🔴 **Ajan Durumu:** DURDURULDU")
 
-    with col_summary:
-        with st.spinner("🧠 AI görseli inceliyor, teknik detayları çözümlüyor..."):
-            try:
-                data = analyze_with_gemini(image_bytes, mime_type, api_key)
-            except Exception as e:
-                st.error(f"Analiz sırasında hata oluştu: {e}")
-                st.stop()
+    with col_btn_start:
+        if st.button("▶️ Otonom Taramayı Başlat", type="primary", disabled=running, use_container_width=True):
+            start_agent()
+            st.toast("Otonom ajan arka planda başlatıldı!", icon="🚀")
+            st.rerun()
 
-        name_tr = data.get("product_name_tr", "Ürün Analizi")
-        name_en = data.get("product_name_en", "")
-        st.subheader(f"🔍 {name_tr}")
-        if name_en:
-            st.caption(f"İngilizce Karşılığı: **{name_en}**")
-            
-        st.info(data.get("short_summary", ""))
+    with col_btn_stop:
+        if st.button("⏹️ Taramayı Durdur", disabled=not running, use_container_width=True):
+            stop_agent()
+            st.toast("Otonom ajan durduruldu.", icon="🛑")
+            st.rerun()
 
-        m1, m2, m3 = st.columns(3)
-        m1.metric("Kategori", data.get("category", "–"))
-        m2.metric("Zorluk", data.get("difficulty", "–"))
-        m3.metric("Tahmini Süre", data.get("estimated_time", "–"))
+    with col_btn_refresh:
+        if st.button("🔄 Sonuçları Yenile", use_container_width=True):
+            st.rerun()
+
+    st.markdown("---")
+
+    # İstatistikler ve Yeni Hedef Ekleme
+    col_metrics, col_upload = st.columns([3, 2])
+
+    grouped_discoveries, total_count = load_categorized_discoveries()
+
+    with col_metrics:
+        st.subheader("📊 Keşif İstatistikleri")
+        m1, m2, m3, m4 = st.columns(4)
+        m1.metric("Toplam Doğrulanan", total_count)
+        m2.metric("Teknik Çizim", len(grouped_discoveries["technical_drawing"]))
+        m3.metric("3D CAD / STL", len(grouped_discoveries["cad_model"]))
+        m4.metric("DIY Video", len(grouped_discoveries["diy_video"]))
+
+    with col_upload:
+        st.subheader("➕ Yeni Hedef Ürün Ekle")
+        new_target_file = st.file_uploader(
+            "Hedef fotoğrafı yükleyin (Ajan bunu da taramaya dahil eder):",
+            type=["jpg", "png", "jpeg"],
+            key="new_target_uploader"
+        )
+        if new_target_file:
+            save_path = TARGETS_DIR / new_target_file.name
+            save_path.write_bytes(new_target_file.read())
+            st.success(f"✅ '{new_target_file.name}' hedefler arasına eklendi!")
 
     st.divider()
 
-    # 4 Temel Kaynak Sekmesi
-    tab_youtube, tab_pinterest, tab_technical, tab_guide = st.tabs([
-        "🎥 YouTube DIY Videoları",
-        "📌 Pinterest İlham & Benzerleri",
-        "📐 Teknik Çizimler & CAD",
-        "🛠️ AI Yapım & Montaj Rehberi"
+    # KATEGORİ SEKMELERİ
+    st.subheader("📚 Doğrulanmış Kaynaklar (Kategoriye Göre)")
+
+    sub_tab_drawings, sub_tab_cad, sub_tab_videos, sub_tab_projects = st.tabs([
+        f"📐 Teknik Çizimler ({len(grouped_discoveries['technical_drawing'])})",
+        f"🖨️ 3D CAD Modelleri ({len(grouped_discoveries['cad_model'])})",
+        f"🎥 DIY Videoları ({len(grouped_discoveries['diy_video'])})",
+        f"💡 Proje Fikirleri ({len(grouped_discoveries['diy_project'])})"
     ])
 
-    queries = data.get("queries", {})
+    def render_discovery_cards(items: list[dict]):
+        if not items:
+            st.info("Bu kategoride henüz doğrulanmış kaynak bulunamadı. Ajan arka planda aramaya devam ettikçe burası otomatik dolacaktır.")
+            return
 
-    # ─── 1. SEKME: YOUTUBE DIY ───
-    with tab_youtube:
-        st.subheader("🎥 YouTube Yapım ve Montaj Videoları")
-        st.write("Aşağıdaki arama butonlarına tıklayarak doğrudan en alakalı YouTube videolarına ulaşabilirsiniz:")
+        cols = st.columns(3)
+        for idx, item in enumerate(items):
+            with cols[idx % 3]:
+                title = item.get("title", "Doğrulanmış Kaynak")
+                page_url = item.get("page_url", "#")
+                img_url = item.get("candidate_image_url", "")
+                score = item.get("score", 0)
+                reason = item.get("reason", "")
+                discovered_at = item.get("discovered_at", "")
+
+                with st.container(border=True):
+                    if img_url:
+                        try:
+                            st.image(img_url, use_container_width=True)
+                        except Exception:
+                            pass
+
+                    st.markdown(f"**[{title[:60]}...]({page_url})**")
+                    st.badge(f"✅ Skor: %{score} Doğrulandı")
+                    st.caption(f"🧠 **AI Notu:** {reason}")
+                    st.caption(f"🕒 {discovered_at}")
+                    st.link_button("🔗 Kaynağa Git", page_url, use_container_width=True)
+
+    with sub_tab_drawings:
+        st.caption("2D teknik resimler, ölçü tabloları ve montaj kesitleri")
+        render_discovery_cards(grouped_discoveries["technical_drawing"])
+
+    with sub_tab_cad:
+        st.caption("GrabCAD, Thingiverse, STL, STEP 3D modeller")
+        render_discovery_cards(grouped_discoveries["cad_model"])
+
+    with sub_tab_videos:
+        st.caption("YouTube yapım, imalat, montaj ve atölye rehberleri")
+        render_discovery_cards(grouped_discoveries["diy_video"])
+
+    with sub_tab_projects:
+        st.caption("Topluluk DIY varyasyonları ve makaleler")
+        render_discovery_cards(grouped_discoveries["diy_project"])
+
+# ══════════════════════════════════════════════
+# SEKME 2: ANLIK TEKİL ÜRÜN ANALİZİ
+# ══════════════════════════════════════════════
+with tab_instant:
+    st.subheader("🔍 Hızlı Fotoğraf Yükle & Anında Rehber Al")
+    st.caption("Otonom ajanı beklemeden tek bir görselin malzeme listesini, yapım adımlarını ve hazır arama köprülerini anında çıkartın.")
+
+    single_file = st.file_uploader(
+        "Tekil görsel yükleyin:",
+        type=["jpg", "jpeg", "png", "webp"],
+        key="single_instant_uploader"
+    )
+
+    if single_file and api_key:
+        img_bytes = single_file.read()
+        im = Image.open(io.BytesIO(img_bytes))
         
-        yt_queries = queries.get("youtube", [])
-        if yt_queries:
-            cols = st.columns(len(yt_queries))
-            for i, q in enumerate(yt_queries):
-                yt_url = f"https://www.youtube.com/results?search_query={urllib.parse.quote(q)}"
-                with cols[i]:
-                    st.link_button(f"▶️ \"{q[:40]}...\"", yt_url, use_container_width=True)
-        
-        # Ek olarak canlı web sonuçları
-        st.markdown("#### 🌐 İlgili Video & Kanal Önerileri")
-        if yt_queries:
-            live_yt = quick_web_search(f"{yt_queries[0]} youtube", max_results=4)
-            if live_yt:
-                for item in live_yt:
-                    title = item.get("title", "")
-                    href = item.get("href", "#")
-                    body = item.get("body", "")
-                    st.markdown(f"- 🎬 **[{title}]({href})**")
-                    if body:
-                        st.caption(f"  {body}")
-            else:
-                st.caption("Yukarıdaki doğrudan YouTube butonlarını kullanarak binlerce videoya anında ulaşabilirsiniz.")
-
-    # ─── 2. SEKME: PINTEREST ───
-    with tab_pinterest:
-        st.subheader("📌 Pinterest Benzer Ürünler & Tasarım Panoları")
-        st.write("Pinterest'te bu ürünün benzerlerini, DIY varyasyonlarını ve panolarını doğrudan açın:")
-        
-        pin_queries = queries.get("pinterest", [])
-        if pin_queries:
-            cols = st.columns(len(pin_queries))
-            for i, q in enumerate(pin_queries):
-                pin_url = f"https://www.pinterest.com/search/pins/?q={urllib.parse.quote(q)}"
-                with cols[i]:
-                    st.link_button(f"📌 \"{q[:40]}...\"", pin_url, use_container_width=True)
-                    
-        st.markdown("#### 💡 Popüler Pinterest Arama Bağlantıları")
-        if name_en:
-            direct_tr = f"https://www.pinterest.com/search/pins/?q={urllib.parse.quote(name_tr + ' kendin yap')}"
-            direct_en = f"https://www.pinterest.com/search/pins/?q={urllib.parse.quote(name_en + ' DIY')}"
-            st.markdown(f"- 🔗 **[Türkçe Pinterest DIY Panoları: {name_tr}]({direct_tr})**")
-            st.markdown(f"- 🔗 **[Global Pinterest Fikirleri: {name_en}]({direct_en})**")
-
-    # ─── 3. SEKME: TEKNİK ÇİZİMLER & CAD ───
-    with tab_technical:
-        st.subheader("📐 Teknik Çizimler, Ölçüler & 3D Modeller")
-        st.write("Mühendislik çizimleri, CAD modelleri ve ölçülü planlar için doğrudan platformlar:")
-        
-        tech_queries = queries.get("technical_drawings", [])
-        target_name = name_en or name_tr
-        
-        col_c1, col_c2, col_c3, col_c4 = st.columns(4)
-        with col_c1:
-            grabcad_url = f"https://grabcad.com/library?query={urllib.parse.quote(target_name)}"
-            st.link_button("📐 GrabCAD (Ücretsiz CAD)", grabcad_url, use_container_width=True)
-        with col_c2:
-            thingiverse_url = f"https://www.thingiverse.com/search?q={urllib.parse.quote(target_name)}"
-            st.link_button("🖨️ Thingiverse (3D Baskı)", thingiverse_url, use_container_width=True)
-        with col_c3:
-            google_img_url = f"https://www.google.com/search?tbm=isch&q={urllib.parse.quote(target_name + ' technical drawing blueprint dimensions')}"
-            st.link_button("🖼️ Google Görseller (Çizimler)", google_img_url, use_container_width=True)
-        with col_c4:
-            patent_url = f"https://patents.google.com/?q={urllib.parse.quote(target_name)}"
-            st.link_button("📜 Google Patents (Patent Şemaları)", patent_url, use_container_width=True)
-
-        st.markdown("---")
-        st.markdown("#### 📄 Önerilen Teknik Çizim Sorguları:")
-        for q in tech_queries:
-            search_url = f"https://www.google.com/search?q={urllib.parse.quote(q)}"
-            st.markdown(f"- 📐 **[{q}]({search_url})**")
-
-    # ─── 4. SEKME: AI YAPIM VE MONTAJ REHBERİ ───
-    with tab_guide:
-        st.subheader("🛠️ AI Yapım, Malzeme ve Montaj Kılavuzu")
-        
-        col_g1, col_g2 = st.columns(2)
-        with col_g1:
-            st.markdown("### 📋 Gerekli Malzemeler")
-            for mat in data.get("materials", []):
-                st.markdown(f"- {mat}")
-                
-        with col_g2:
-            st.markdown("### 🧰 Gerekli Alet ve Ekipmanlar")
-            for tool in data.get("tools_needed", []):
-                st.markdown(f"- {tool}")
-
-        st.markdown("---")
-        st.markdown("### 🔨 Adım Adım İmalat / Montaj Süreci")
-        for step in data.get("build_steps", []):
-            st.markdown(f"1. {step}")
-
-        eng_notes = data.get("engineering_notes", "")
-        if eng_notes:
-            st.markdown("---")
-            st.warning(f"⚠️ **Kritik Mühendislik & Güvenlik Notu:**\n\n{eng_notes}")
+        c_i1, c_i2 = st.columns([1, 2])
+        with c_i1:
+            st.image(im, use_container_width=True)
+        with c_i2:
+            st.info("Bu fotoğrafı doğrudan otonom arama hedeflerine eklemek isterseniz:")
+            if st.button("➕ Bu Fotoğrafı Otonom Ajan Hedeflerine Kaydet"):
+                t_path = TARGETS_DIR / single_file.name
+                t_path.write_bytes(img_bytes)
+                st.success(f"'{single_file.name}' hedeflere eklendi! Otonom ajan bu ürünü de tarayacak.")

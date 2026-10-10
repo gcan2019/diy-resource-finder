@@ -90,6 +90,72 @@
       "variant_type": "technical_drawing",
       "reason": "Image 2 shows a 3D CAD model of a square flanged pillow block bearing assembly, which matches the bearing component and mounting configuration shown in the reference schematic.",
       "discovered_at": "2026-10-10 15:22:29"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free STL file KP000 Pillow Block Bearing for 10mm Shaft・3D printing ...",
+      "page_url": "https://cults3d.com/en/3d-model/tool/kp000-pillow-block-bearing-for-10mm-shaft",
+      "candidate_image_url": "https://files.cults3d.com/uploaders/13555379/illustration-file/2f5dcd37-4ec2-45c4-9615-d0c576e9e0ce/Screenshot_2015-03-17_20.58.40.PNG",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a 3D CAD model of a pillow block bearing, which is the standard 3D representation corresponding to the technical assembly shown in Image 1.",
+      "discovered_at": "2026-10-10 15:26:28"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free STL file pillow block bearing 608 for 8 mm rod・3D print design to ...",
+      "page_url": "https://cults3d.com/en/3d-model/tool/pillow-block-bearing-608-for-8-mm-rod",
+      "candidate_image_url": "https://files.cults3d.com/uploaders/27677841/illustration-file/b186c113-d53a-4d54-8440-f0ae7bdbc90e/Screenshot-2023-09-02-224548.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a 3D CAD model of a pillow block bearing housing that matches the structural mounting base and configuration depicted in the assembly schematic of Image 1.",
+      "discovered_at": "2026-10-10 15:26:44"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "🔧 KP001 Pillow Block Bearing for 12mm Shaft・Free STL File for ・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/tool/kp001-pillow-block-bearing-for-12mm-shaft",
+      "candidate_image_url": "https://images.cults3d.com/pgr1uTVYoRQ6_n6D1aCNXLtooTk=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/13555379/illustration-file/b7ada5ed-ad22-42d9-bd00-e223d13b2c6a/Screenshot_2015-06-12_13.26.09.PNG",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a standard 3D CAD model of a pillow block bearing matching the mechanical component illustrated in the reference drawing.",
+      "discovered_at": "2026-10-10 15:27:01"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Diy Pillow Block Bearing at Linda Lampkin blog",
+      "page_url": "https://storage.googleapis.com/dngzacuogojqle/diy-pillow-block-bearing.html",
+      "candidate_image_url": "https://i.ytimg.com/vi/ynyHnjofx68/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows physical pillow block bearing hardware, which corresponds to the technical assembly shown in the reference drawing.",
+      "discovered_at": "2026-10-10 15:27:42"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Roller Bearing Pillow Block Features - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=bZQzkxARDGQ",
+      "candidate_image_url": "https://i.ytimg.com/vi/bZQzkxARDGQ/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Image 2 is an educational video presenting physical examples of roller bearing pillow blocks directly related to the mechanical assembly shown in the technical reference image.",
+      "discovered_at": "2026-10-10 15:28:15"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Pillow block bearing",
+      "page_url": "https://www.leadbearing.com/product/Pillow-block-bearing.html",
+      "candidate_image_url": "https://www.leadbearing.com/Uploads/image/20190505/20190505164307_19433.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a detailed technical blueprint and structural diagram of the pillow block bearing shown mounted in the reference image 1.",
+      "discovered_at": "2026-10-10 15:28:32"
     }
   ]
 }
