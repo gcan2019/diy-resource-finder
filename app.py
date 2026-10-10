@@ -2,9 +2,10 @@
 DIY Kaynak Bulucu & Otonom Araştırma Merkezi
 --------------------------------------------
 Kullanıcı Odaklı Web Arayüzü:
-- Otonom Ajan Kontrolü (Başlat / Durdur)
-- Kategorilere Ayrılmış Doğrulanmış Kaynaklar (Teknik Çizimler, 3D CAD, DIY Videoları)
-- Yeni Hedef Ekleme & Anlık Analiz
+- Ürün Seçici (Her ürünün kendi bağımsız dosyası/koleksiyonu vardır, karışmaz)
+- Katalog Dosyasına (DISCOVERIES.md) doğrudan arayüzden erişim ve indirme
+- Otonom Ajan Başlat / Durdur
+- Kategorize edilmiş kartlar (Teknik Çizim, 3D CAD, DIY Videoları)
 """
 
 import streamlit as st
@@ -18,14 +19,11 @@ import urllib.parse
 from pathlib import Path
 from PIL import Image
 
-from google import genai
-from google.genai import types
-
 # ──────────────────────────────────────────────
 # Sayfa Yapılandırması
 # ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="DIY Kaynak & Otonom Keşif Merkezi",
+    page_title="DIY Otonom Keşif & Proje Masası",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -34,6 +32,7 @@ st.set_page_config(
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 TARGETS_DIR = BASE_DIR / "targets"
+DISCOVERIES_MD = BASE_DIR / "DISCOVERIES.md"
 _ENV_FILE = BASE_DIR / ".env"
 PID_FILE = DATA_DIR / "agent.pid"
 KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
@@ -83,10 +82,13 @@ def is_agent_running() -> bool:
     except Exception:
         return False
 
-def start_agent():
+def start_agent(target_file: Path | str = None):
     if is_agent_running():
         return
-    proc = subprocess.Popen([sys.executable, "-u", "autonomous_agent.py", "--continuous"])
+    cmd = [sys.executable, "-u", "autonomous_agent.py", "--continuous"]
+    if target_file:
+        cmd.extend(["--target", str(target_file)])
+    proc = subprocess.Popen(cmd)
     PID_FILE.write_text(str(proc.pid))
 
 def stop_agent():
@@ -127,7 +129,7 @@ def classify_item(item: dict) -> str:
         return "technical_drawing"
     return "diy_project"
 
-def load_categorized_discoveries() -> dict:
+def load_knowledge_base_data(target_filter: str = None) -> tuple[dict, int, list[str], int]:
     discoveries = []
     if KNOWLEDGE_BASE_JSON.exists():
         try:
@@ -136,12 +138,21 @@ def load_categorized_discoveries() -> dict:
         except Exception:
             pass
             
+    # Tüm kayıtlı hedefleri çıkar
+    all_targets = sorted(list({item.get("target_name", "Genel Hedef") for item in discoveries if item.get("target_name")}))
+    
+    total_in_db = len(discoveries)
+    
+    filtered = discoveries
+    if target_filter and target_filter != "Tüm Ürünler":
+        filtered = [item for item in discoveries if item.get("target_name") == target_filter]
+        
     grouped = {k: [] for k in CATEGORIES}
-    for item in reversed(discoveries):
+    for item in reversed(filtered):
         cat_key = classify_item(item)
         grouped[cat_key].append(item)
         
-    return grouped, len(discoveries)
+    return grouped, len(filtered), all_targets, total_in_db
 
 # ──────────────────────────────────────────────
 # Sidebar Ayarları
@@ -168,85 +179,115 @@ with st.sidebar:
 
     st.divider()
     st.markdown("""
-### 💡 Kullanım Rehberi
-- **Otonom Ajan:** Siz durdur diyene kadar interneti tarar ve Gemini Vision ile doğrular.
-- **Kategoriler:** Çizimler, 3D modeller ve videolar otomatik ayrıştırılır.
-- **Hedef Ekle:** Klasöre yeni resim koyduğunuzda ajan onu da taramaya başlar.
+### 💡 1. Seçenek Mimarisi
+- **Ayrı Dosyalar:** Her ürünün sonuçları kendi dosyasında tutulur, asla karışmaz.
+- **Katalog Dosyası:** `DISCOVERIES.md` raporunu doğrudan panelden okuyabilir ve indirebilirsiniz.
+- **Otonom Tarama:** İstediğiniz ürünü seçip başlatın; buldukça üzerine ekler.
 """)
 
 # ──────────────────────────────────────────────
-# Ana Arayüz Sekmeleri
+# Ana Arayüz Başlığı
 # ──────────────────────────────────────────────
-st.title("🤖 DIY Otonom Keşif ve Araştırma Merkezi")
+st.title("🤖 DIY Otonom Keşif ve Proje Masası")
 
-tab_dashboard, tab_instant = st.tabs([
-    "🚀 Otonom Araştırma Masası (Canlı Keşifler)",
-    "🔍 Anlık Tekil Ürün Analizi"
+tab_dashboard, tab_catalog, tab_instant = st.tabs([
+    "🚀 Ürün Dosyaları & Canlı Keşifler",
+    "📖 Katalog Raporu (DISCOVERIES.md)",
+    "🔍 Hızlı Tekil Analiz"
 ])
 
 # ══════════════════════════════════════════════
-# SEKME 1: OTONOM ARAŞTIRMA MASASI
+# SEKME 1: ÜRÜN DOSYALARI & OTONOM KEŞİF
 # ══════════════════════════════════════════════
 with tab_dashboard:
     running = is_agent_running()
 
-    # Kontrol Çubuğu
-    col_status, col_btn_start, col_btn_stop, col_btn_refresh = st.columns([3, 2, 2, 2])
+    # 1. ÜRÜN SEÇİCİ BÖLÜMÜ (EN ÜSTTE)
+    grouped_all, count_all, all_targets, total_in_db = load_knowledge_base_data()
+    
+    target_options = ["Tüm Ürünler"] + all_targets
+    
+    col_sel, col_add = st.columns([3, 2])
+    
+    with col_sel:
+        selected_product = st.selectbox(
+            "📁 Aktif Ürün Dosyası (Sonuçları Görüntüle):",
+            target_options,
+            help="Hangi ürünün teknik çizimlerini ve videolarını görmek istiyorsanız onu seçin. Birbirine karışmaz!"
+        )
+
+    with col_add:
+        st.write("➕ **Yeni Ürün Dosyası Aç (Fotoğraf Yükle):**")
+        new_target = st.file_uploader(
+            "Yeni bir ürün fotoğrafı yükleyin:",
+            type=["jpg", "png", "jpeg"],
+            label_visibility="collapsed",
+            key="dashboard_new_target_uploader"
+        )
+        if new_target:
+            save_path = TARGETS_DIR / new_target.name
+            save_path.write_bytes(new_target.read())
+            st.success(f"✅ '{new_target.name}' yeni hedef olarak kaydedildi!")
+            st.rerun()
+
+    # Filtrelenmiş verileri çek
+    grouped_discoveries, filtered_count, _, _ = load_knowledge_base_data(target_filter=selected_product)
+
+    st.markdown("---")
+
+    # 2. KONTROL ÇUBUĞU (DURUM, BAŞLAT, DURDUR, YENİLE)
+    col_status, col_target_run, col_btn_start, col_btn_stop, col_btn_refresh = st.columns([3, 2, 2, 2, 2])
 
     with col_status:
         if running:
-            st.success("🟢 **Ajan Durumu:** KESİNTİSİZ ÇALIŞIYOR (Yeni kaynaklar taranıyor)")
+            st.success("🟢 **Ajan Durumu:** ÇALIŞIYOR (İnterneti tarıyor)")
         else:
             st.warning("🔴 **Ajan Durumu:** DURDURULDU")
 
+    # Hedef seçimi (çalıştırmak için)
+    available_target_files = [f.name for f in TARGETS_DIR.iterdir() if f.suffix.lower() in [".png", ".jpg", ".jpeg"]]
+    
+    with col_target_run:
+        target_to_scan = st.selectbox(
+            "🎯 Taranacak Ürün:",
+            available_target_files if available_target_files else ["Hedef Yok"],
+            label_visibility="collapsed"
+        )
+
     with col_btn_start:
-        if st.button("▶️ Otonom Taramayı Başlat", type="primary", disabled=running, use_container_width=True):
-            start_agent()
-            st.toast("Otonom ajan arka planda başlatıldı!", icon="🚀")
+        start_disabled = running or not available_target_files
+        if st.button("▶️ Taramayı Başlat", type="primary", disabled=start_disabled, use_container_width=True):
+            if available_target_files and target_to_scan != "Hedef Yok":
+                chosen_path = TARGETS_DIR / target_to_scan
+                start_agent(chosen_path)
+            else:
+                start_agent()
+            st.toast("Otonom tarama başlatıldı!", icon="🚀")
             st.rerun()
 
     with col_btn_stop:
-        if st.button("⏹️ Taramayı Durdur", disabled=not running, use_container_width=True):
+        if st.button("⏹️ Durdur", disabled=not running, use_container_width=True):
             stop_agent()
-            st.toast("Otonom ajan durduruldu.", icon="🛑")
+            st.toast("Otonom tarama durduruldu.", icon="🛑")
             st.rerun()
 
     with col_btn_refresh:
-        if st.button("🔄 Sonuçları Yenile", use_container_width=True):
+        if st.button("🔄 Yenile", use_container_width=True):
             st.rerun()
 
     st.markdown("---")
 
-    # İstatistikler ve Yeni Hedef Ekleme
-    col_metrics, col_upload = st.columns([3, 2])
-
-    grouped_discoveries, total_count = load_categorized_discoveries()
-
-    with col_metrics:
-        st.subheader("📊 Keşif İstatistikleri")
-        m1, m2, m3, m4 = st.columns(4)
-        m1.metric("Toplam Doğrulanan", total_count)
-        m2.metric("Teknik Çizim", len(grouped_discoveries["technical_drawing"]))
-        m3.metric("3D CAD / STL", len(grouped_discoveries["cad_model"]))
-        m4.metric("DIY Video", len(grouped_discoveries["diy_video"]))
-
-    with col_upload:
-        st.subheader("➕ Yeni Hedef Ürün Ekle")
-        new_target_file = st.file_uploader(
-            "Hedef fotoğrafı yükleyin (Ajan bunu da taramaya dahil eder):",
-            type=["jpg", "png", "jpeg"],
-            key="new_target_uploader"
-        )
-        if new_target_file:
-            save_path = TARGETS_DIR / new_target_file.name
-            save_path.write_bytes(new_target_file.read())
-            st.success(f"✅ '{new_target_file.name}' hedefler arasına eklendi!")
+    # 3. İSTATİSTİKLER (SADECE SEÇİLEN ÜRÜNE AİT)
+    st.subheader(f"📊 {selected_product} İstatistikleri")
+    m1, m2, m3, m4 = st.columns(4)
+    m1.metric("Bu Üründeki Kaynak", f"{filtered_count} adet")
+    m2.metric("Teknik Çizim", len(grouped_discoveries["technical_drawing"]))
+    m3.metric("3D CAD / STL", len(grouped_discoveries["cad_model"]))
+    m4.metric("DIY Video", len(grouped_discoveries["diy_video"]))
 
     st.divider()
 
-    # KATEGORİ SEKMELERİ
-    st.subheader("📚 Doğrulanmış Kaynaklar (Kategoriye Göre)")
-
+    # 4. KATEGORİLERE GÖRE DOĞRULANMIŞ GALERİ
     sub_tab_drawings, sub_tab_cad, sub_tab_videos, sub_tab_projects = st.tabs([
         f"📐 Teknik Çizimler ({len(grouped_discoveries['technical_drawing'])})",
         f"🖨️ 3D CAD Modelleri ({len(grouped_discoveries['cad_model'])})",
@@ -256,7 +297,7 @@ with tab_dashboard:
 
     def render_discovery_cards(items: list[dict]):
         if not items:
-            st.info("Bu kategoride henüz doğrulanmış kaynak bulunamadı. Ajan arka planda aramaya devam ettikçe burası otomatik dolacaktır.")
+            st.info("Bu kategoride bu ürün için henüz doğrulanmış kaynak bulunamadı. Ajan taradıkça burası otomatik dolacaktır.")
             return
 
         cols = st.columns(3)
@@ -267,6 +308,7 @@ with tab_dashboard:
                 img_url = item.get("candidate_image_url", "")
                 score = item.get("score", 0)
                 reason = item.get("reason", "")
+                target_name = item.get("target_name", "")
                 discovered_at = item.get("discovered_at", "")
 
                 with st.container(border=True):
@@ -276,7 +318,8 @@ with tab_dashboard:
                         except Exception:
                             pass
 
-                    st.markdown(f"**[{title[:60]}...]({page_url})**")
+                    st.markdown(f"**[{title[:55]}...]({page_url})**")
+                    st.caption(f"🎯 Hedef: `{target_name[:35]}`")
                     st.badge(f"✅ Skor: %{score} Doğrulandı")
                     st.caption(f"🧠 **AI Notu:** {reason}")
                     st.caption(f"🕒 {discovered_at}")
@@ -299,11 +342,43 @@ with tab_dashboard:
         render_discovery_cards(grouped_discoveries["diy_project"])
 
 # ══════════════════════════════════════════════
-# SEKME 2: ANLIK TEKİL ÜRÜN ANALİZİ
+# SEKME 2: KATALOG DOSYASI (DISCOVERIES.MD)
+# ══════════════════════════════════════════════
+with tab_catalog:
+    st.subheader("📖 Canlı Katalog Dosyası (DISCOVERIES.md)")
+    st.caption("Ajanın interneti tarayıp Gemini Vision ile doğruladığı tüm kaynakların derli toplu teknik raporu.")
+
+    if DISCOVERIES_MD.exists():
+        md_content = DISCOVERIES_MD.read_text(encoding="utf-8")
+        
+        # İndirme Butonu
+        col_down, col_info = st.columns([2, 5])
+        with col_down:
+            st.download_button(
+                label="📥 DISCOVERIES.md Dosyasını İndir",
+                data=md_content,
+                file_name="DISCOVERIES.md",
+                mime="text/markdown",
+                type="primary",
+                use_container_width=True
+            )
+        with col_info:
+            st.info("💡 Bu dosya GitHub reponuzda da otomatik olarak saklanır ve her yeni doğrulamada güncellenir.")
+
+        st.divider()
+
+        # Doğrudan Markdown Olarak Göster
+        with st.container(border=True):
+            st.markdown(md_content)
+    else:
+        st.info("Henüz katalog dosyası oluşturulmadı. Ajan ilk keşfini yaptığında burada görünecektir.")
+
+# ══════════════════════════════════════════════
+# SEKME 3: HIZLI TEKİL ANALİZ
 # ══════════════════════════════════════════════
 with tab_instant:
     st.subheader("🔍 Hızlı Fotoğraf Yükle & Anında Rehber Al")
-    st.caption("Otonom ajanı beklemeden tek bir görselin malzeme listesini, yapım adımlarını ve hazır arama köprülerini anında çıkartın.")
+    st.caption("Otonom ajanı beklemeden tek bir görselin malzeme listesini ve yapım adımlarını anında çıkartın.")
 
     single_file = st.file_uploader(
         "Tekil görsel yükleyin:",
@@ -311,7 +386,7 @@ with tab_instant:
         key="single_instant_uploader"
     )
 
-    if single_file and api_key:
+    if single_file:
         img_bytes = single_file.read()
         im = Image.open(io.BytesIO(img_bytes))
         
@@ -320,7 +395,8 @@ with tab_instant:
             st.image(im, use_container_width=True)
         with c_i2:
             st.info("Bu fotoğrafı doğrudan otonom arama hedeflerine eklemek isterseniz:")
-            if st.button("➕ Bu Fotoğrafı Otonom Ajan Hedeflerine Kaydet"):
+            if st.button("➕ Bu Fotoğrafı Otonom Hedefler Listesine Ekle"):
                 t_path = TARGETS_DIR / single_file.name
                 t_path.write_bytes(img_bytes)
-                st.success(f"'{single_file.name}' hedeflere eklendi! Otonom ajan bu ürünü de tarayacak.")
+                st.success(f"'{single_file.name}' hedeflere eklendi! Otonom keşif masasında seçebilirsiniz.")
+                st.rerun()
