@@ -860,6 +860,17 @@
       "variant_type": "technical_drawing",
       "reason": "Image 2 is a detailed engineering technical drawing and bill of materials representing the same gas cylinder truck/trolley mechanism shown in Image 1.",
       "discovered_at": "2026-10-10 17:08:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10\" Solid ...",
+      "page_url": "https://www.vevor.com/welding-cart-c_12105/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-10-solid-wheels-p_010647925665",
+      "candidate_image_url": "https://img.vevorstatic.com/us/SGC440LBS10ICQ7EUV0/original_img-v1/welding-cart-f1.jpg?timestamp=1734069488000&format=webp",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a dual-cylinder welding cart which serves the same functional purpose as the single-cylinder truck in Image 1, though with a modified frame and dual platform layout.",
+      "discovered_at": "2026-10-10 17:09:37"
     }
   ]
 }

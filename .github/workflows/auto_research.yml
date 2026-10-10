@@ -14,29 +14,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repoyu Klonla
+      - name: "Repoyu Klonla"
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
 
-      - name: Python 3.11 Kur
+      - name: "Python 3.11 Kur"
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
-      - name: PC Açık mı Kontrol Et (Dakika Tasarruf Filtresi)
+      - name: "PC Acik mi Kontrol Et"
         id: check-pc
         run: |
           python check_pc_active.py
 
-      - name: Bağımlılıkları Yükle
+      - name: "Bagimliliklari Yukle"
         if: steps.check-pc.outputs.should_run == 'true'
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Nöbeti Devral: Bulutta Taramayı Çalıştır
+      - name: "Nobeti Devral - Bulutta Taramayi Calistir"
         if: steps.check-pc.outputs.should_run == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -44,7 +43,7 @@ jobs:
           echo "🌙 PC kapali oldugu tespit edildi. Nobeti GitHub Bulut devraldi!"
           python autonomous_agent.py --rounds 10
 
-      - name: Bulut Keşiflerini Kaydet ve Commit Et
+      - name: "Bulut Kesiflerini Kaydet ve Commit Et"
         if: steps.check-pc.outputs.should_run == 'true'
         run: |
           git config --global user.name "Otonom Bulut Nobetcisi"
