@@ -85,6 +85,9 @@ def get_target_map() -> dict:
         "Ekran görüntüsü 2026-09-27 202130.png": "Gas cylinder truck / Tüp arabası"
     }
 
+def save_target_map(mapping: dict):
+    TARGET_MAP_JSON.write_text(json.dumps(mapping, indent=2, ensure_ascii=False), encoding="utf-8")
+
 def find_target_file_for_product(product_name: str) -> Path | None:
     if not product_name or product_name == "Tüm Ürünler":
         return None
@@ -639,11 +642,26 @@ with tab_sellable:
                     if bp_img:
                         if st.button(f"🚀 Bu Makineyi Teknik Otonom Tarayıcıya Gönder", key=f"send_machine_to_scanner_{idx}", type="primary", use_container_width=True):
                             try:
-                                import urllib.request
-                                req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0"})
-                                img_data = urllib.request.urlopen(req, timeout=10).read()
                                 clean_fname = "".join(c for c in mname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
                                 target_save_path = TARGETS_DIR / clean_fname
+
+                                img_data = None
+                                try:
+                                    req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                                    with urllib.request.urlopen(req, timeout=10) as resp:
+                                        img_data = resp.read()
+                                except Exception:
+                                    pass
+
+                                if not img_data or len(img_data) < 100:
+                                    from PIL import ImageDraw
+                                    img = Image.new("RGB", (600, 400), color=(240, 240, 240))
+                                    d = ImageDraw.Draw(img)
+                                    d.text((20, 180), mname[:40], fill=(50, 50, 50))
+                                    buf = io.BytesIO()
+                                    img.save(buf, format="PNG")
+                                    img_data = buf.getvalue()
+
                                 target_save_path.write_bytes(img_data)
 
                                 tmap = get_target_map()
@@ -764,19 +782,32 @@ with tab_regional:
                     if bp_img:
                         if st.button(f"🚀 Bu Parçayı Teknik Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
                             try:
-                                import urllib.request
-                                req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0"})
-                                img_data = urllib.request.urlopen(req, timeout=10).read()
                                 clean_fname = "".join(c for c in pname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
                                 target_save_path = TARGETS_DIR / clean_fname
+
+                                img_data = None
+                                try:
+                                    req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                                    with urllib.request.urlopen(req, timeout=10) as resp:
+                                        img_data = resp.read()
+                                except Exception:
+                                    pass
+
+                                if not img_data or len(img_data) < 100:
+                                    from PIL import ImageDraw
+                                    img = Image.new("RGB", (600, 400), color=(240, 240, 240))
+                                    d = ImageDraw.Draw(img)
+                                    d.text((20, 180), pname[:40], fill=(50, 50, 50))
+                                    buf = io.BytesIO()
+                                    img.save(buf, format="PNG")
+                                    img_data = buf.getvalue()
+
                                 target_save_path.write_bytes(img_data)
-                                
-                                # Hedef haritasını güncelle
+
                                 tmap = get_target_map()
                                 tmap[clean_fname] = pname
                                 save_target_map(tmap)
 
-                                # Otonom tarayıcıyı bu parça için başlat
                                 start_agent(target_save_path)
                                 st.toast(f"'{pname}' otonom teknik tarayıcıya aktarıldı ve tarama başlatıldı!", icon="🚀")
                                 st.rerun()
