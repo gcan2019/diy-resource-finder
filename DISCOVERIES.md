@@ -1,15 +1,37 @@
 # 📚 Otonom Doğrulanmış Proje & Kaynak Kataloğu
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile teknik olarak doğrulanmış kaynakları içerir.
 
-**Toplam Doğrulanmış Kaynak:** 76 adet
-**Son Güncelleme:** 2026-10-10 16:07:38
+**Toplam Doğrulanmış Kaynak:** 79 adet
+**Son Güncelleme:** 2026-10-10 17:08:26
 
 ---
 
-## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (34 adet)
+## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (36 adet)
 _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
-### 1. [Gas Cylinder Hand Truck | National Cart](https://nationalcart.com/products/gas-cylinder-hand-truck/)
+### 1. [G Size Oxy-Acet Inline Gas bottle Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/g-size-oxy-acet-inline-gas-bottle-trolley/)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and bill of materials representing the same gas cylinder truck/trolley mechanism shown in Image 1.
+- **Tarih:** 2026-10-10 17:08:26
+
+![Önizleme](https://dotengineering.com.au/wp-content/uploads/2014/01/10579-Sheet1.jpg)
+
+
+---
+
+### 2. [Single S Size Propane Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/single-s-size-propane-trolley/)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and bill of materials representing the exact same type of gas cylinder truck mechanism shown in the reference image.
+- **Tarih:** 2026-10-10 17:08:08
+
+![Önizleme](https://dotengineering.com.au/wp-content/uploads/2013/11/10171-Sheet11.jpg)
+
+
+---
+
+### 3. [Gas Cylinder Hand Truck | National Cart](https://nationalcart.com/products/gas-cylinder-hand-truck/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict gas cylinder hand trucks, although Image 2 is a standard two-wheel upright blueprint whereas Image 1 is a multi-wheel convertible design.
@@ -20,7 +42,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 2. [Plummer Block Assembly With Shaft at Alexis Hoff blog](https://storage.googleapis.com/djxswlwzjgdnke/plummer-block-assembly-with-shaft.html)
+### 4. [Plummer Block Assembly With Shaft at Alexis Hoff blog](https://storage.googleapis.com/djxswlwzjgdnke/plummer-block-assembly-with-shaft.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 presents detailed technical blueprints and CAD models of a plummer block (pillow block bearing), matching the reference mechanism.
@@ -31,7 +53,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 3. [Machine Drawing: PLUMMER BLOCK (PEDESTAL BEARING)](https://machine-drawing.blogspot.com/2015/08/plummer-block-pedestal-bearing.html)
+### 5. [Machine Drawing: PLUMMER BLOCK (PEDESTAL BEARING)](https://machine-drawing.blogspot.com/2015/08/plummer-block-pedestal-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering drawing and assembly blueprint for a plummer block (pillow block bearing assembly) matching the mechanical configuration shown in Image 1.
@@ -42,7 +64,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 4. [UCP20620 Inch Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_inch/UCP206-20)
+### 6. [UCP20620 Inch Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_inch/UCP206-20)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a standard dimensional technical blueprint and engineering drawing of the pillow block bearing mechanism shown in the reference image.
@@ -53,7 +75,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 5. [Item # SNC 207, Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN ...](https://bearingfinder.ntnamericas.com/sl/item/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type/snc-207)
+### 7. [Item # SNC 207, Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN ...](https://bearingfinder.ntnamericas.com/sl/item/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type/snc-207)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides standard engineering technical drawings and dimensional specifications for the pillow block bearing assembly depicted in Image 1.
@@ -64,7 +86,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 6. [KP08 Pillow Block Bearing, Bore Dia. 8mm | Flux Electronix](https://fluxelectronix.com/shop/kp08-pillow-block-bearing-bore-dia-8mm/)
+### 8. [KP08 Pillow Block Bearing, Bore Dia. 8mm | Flux Electronix](https://fluxelectronix.com/shop/kp08-pillow-block-bearing-bore-dia-8mm/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides standard technical drawings, dimensional tables, and product photos of pillow block bearings matching the category shown in the reference image.
@@ -75,7 +97,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 7. [The Role of Plummer Blocks and Pillow Blocks in Industrial Settings](https://nisukaindustries.com/the-role-of-plummer-blocks-and-pillow-blocks/)
+### 9. [The Role of Plummer Blocks and Pillow Blocks in Industrial Settings](https://nisukaindustries.com/the-role-of-plummer-blocks-and-pillow-blocks/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a labeled technical cutaway view of a pillow block / plummer block bearing, matching the mechanism shown in the reference image.
@@ -86,7 +108,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 8. [Pillow block bearings - SUNBEARING Rolling Bearing Manufacturer](https://www.sunbearing.net/n1836001/Pillow-block-bearings.htm)
+### 10. [Pillow block bearings - SUNBEARING Rolling Bearing Manufacturer](https://www.sunbearing.net/n1836001/Pillow-block-bearings.htm)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts a labeled cross-section and cutout of the exact same pillow block bearing (yataklı bilya) mechanism shown in Image 1.
@@ -97,7 +119,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 9. [Pillow Block Bearing Assembly at Constance Woodford blog](https://storage.googleapis.com/dmzlwtnnaaokre/pillow-block-bearing-assembly.html)
+### 11. [Pillow Block Bearing Assembly at Constance Woodford blog](https://storage.googleapis.com/dmzlwtnnaaokre/pillow-block-bearing-assembly.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts the exploded view and installation components of the same pillow block bearing mechanism shown assembled in Image 1.
@@ -108,7 +130,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 10. [Steel Bearing Housing & Adapter, Sleeves at ₹ 15000/number in Bengaluru ...](https://www.indiamart.com/proddetail/bearing-housing-adapter-sleeves-12366756397.html)
+### 12. [Steel Bearing Housing & Adapter, Sleeves at ₹ 15000/number in Bengaluru ...](https://www.indiamart.com/proddetail/bearing-housing-adapter-sleeves-12366756397.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed exploded technical view of the exact same pillow block bearing mechanism seen assembled in Image 1.
@@ -119,7 +141,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 11. [Pillar Block Bearing Sizes – Pillow Block Bearing Dimensions – FIRCZG](https://stay.growingvinestreet.org/pillar-block-bearing-sizes-pillow-block-bearing-dimensions/)
+### 13. [Pillar Block Bearing Sizes – Pillow Block Bearing Dimensions – FIRCZG](https://stay.growingvinestreet.org/pillar-block-bearing-sizes-pillow-block-bearing-dimensions/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the technical blueprint and dimension specifications for the pillow block bearing mechanism shown in Image 1.
@@ -130,7 +152,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 12. [Bearing Housing Casting | Bearing Housing Manufacturing Process](https://mahavirconcast.com/products/casting/product-offerings/bearing-housing/)
+### 14. [Bearing Housing Casting | Bearing Housing Manufacturing Process](https://mahavirconcast.com/products/casting/product-offerings/bearing-housing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows physical pillow block bearing housings (flanged/split plummer blocks) corresponding to the assembly shown in the schematic reference diagram.
@@ -141,7 +163,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 13. [Split Pillow Block Housing Factory - Custom Bearing Chock and Heavy ...](https://yogieindustry.en.made-in-china.com/product/iFTtpYRARHGW/China-Split-Pillow-Block-Housing-Factory.html)
+### 15. [Split Pillow Block Housing Factory - Custom Bearing Chock and Heavy ...](https://yogieindustry.en.made-in-china.com/product/iFTtpYRARHGW/China-Split-Pillow-Block-Housing-Factory.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a large heavy-duty split housing pillow block bearing housing that matches the structural assembly concept of the reference mechanical drawing in Image 1.
@@ -152,7 +174,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 14. [Bearing Housing Cad at Clifford Zak blog](https://storage.googleapis.com/drywqqswvrudue/bearing-housing-cad.html)
+### 16. [Bearing Housing Cad at Clifford Zak blog](https://storage.googleapis.com/drywqqswvrudue/bearing-housing-cad.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed dimensional technical drawing and CAD model of the pillow block bearing mechanism shown assembled in Image 1.
@@ -163,7 +185,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 15. [UCP207 Metric Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_metric/UCP207)
+### 17. [UCP207 Metric Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_metric/UCP207)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a technical drawing schematic of the pillow block bearing assembly shown in the reference image.
@@ -174,7 +196,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 16. [KP004 | Pillow Block Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/kp004/)
+### 18. [KP004 | Pillow Block Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/kp004/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical blueprint with dimensional specifications of the pillow block bearing mechanism shown in Image 1.
@@ -185,7 +207,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 17. [adjustable pillow block bearing, UCP pillow block bearings](https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/)
+### 19. [adjustable pillow block bearing, UCP pillow block bearings](https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical data sheet and dimensioned blueprint of the pillow block bearing mechanism shown in the reference image.
@@ -196,7 +218,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 18. [Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco)
+### 20. [Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering drawing and technical specification of the pillow block bearing assembly shown in Image 1.
@@ -207,7 +229,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 19. [Hobbytronics. Pillow Block Bearing](https://www.hobbytronics.co.za/p/777/pillow-block-bearing)
+### 21. [Hobbytronics. Pillow Block Bearing](https://www.hobbytronics.co.za/p/777/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering blueprint and dimension table for the pillow block bearing assembly shown in Image 1.
@@ -218,7 +240,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 20. [Miniature Pillow Block Bearing – S.M.R. Engineering Services](https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1)
+### 22. [Miniature Pillow Block Bearing – S.M.R. Engineering Services](https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering technical drawing and dimension table of a standard pillow block bearing, which matches the mechanical type shown in the reference image.
@@ -229,7 +251,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 21. [Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16)
+### 23. [Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing depicting the precise pillow block bearing assembly shown in the reference image.
@@ -240,7 +262,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 22. [Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog](https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html)
+### 24. [Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog](https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing depicting the standard pillow block bearing assembly shown in the reference image.
@@ -251,7 +273,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 23. [Self-Aligning vs. Traditional Mounted Tapered Roller Bearings | IBT ...](https://ibtinc.com/self-aligning-vs-traditional-mounted-tapered-roller-bearings/)
+### 25. [Self-Aligning vs. Traditional Mounted Tapered Roller Bearings | IBT ...](https://ibtinc.com/self-aligning-vs-traditional-mounted-tapered-roller-bearings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict pillow block bearing assemblies, with Image 2 providing a detailed technical breakdown and cross-section corresponding to the mechanism in Image 1.
@@ -262,7 +284,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 24. [Pillow Block Bearing Installation Guide Expert Tips - FHD](https://fhdbearings.com/blog/pillow-block-bearing-installation/)
+### 26. [Pillow Block Bearing Installation Guide Expert Tips - FHD](https://fhdbearings.com/blog/pillow-block-bearing-installation/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical illustration of a pillow block bearing assembly, matching the target mechanism type.
@@ -273,7 +295,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 25. [Bearings Exploded Diagram at Fred Mounce blog](https://storage.googleapis.com/denhrkcwfngebe/bearings-exploded-diagram.html)
+### 27. [Bearings Exploded Diagram at Fred Mounce blog](https://storage.googleapis.com/denhrkcwfngebe/bearings-exploded-diagram.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 breaks down the internal components of the bearing utilized within the pillow block assembly shown in Image 1.
@@ -284,7 +306,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 26. [Pillow Block Bearing Sizes Pdf at Harold Mcswain blog](https://storage.googleapis.com/dxgmmdaofqycje/pillow-block-bearing-sizes-pdf.html)
+### 28. [Pillow Block Bearing Sizes Pdf at Harold Mcswain blog](https://storage.googleapis.com/dxgmmdaofqycje/pillow-block-bearing-sizes-pdf.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a technical product catalog sheet and blueprint for the pillow block bearing mechanism shown in Image 1.
@@ -295,7 +317,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 27. [The Ultimate Guide To Pillow Block Bearing Size Charts | AUBEARING](https://www.aubearing.com/the-ultimate-guide-to-pillow-block-bearing-size-charts/)
+### 29. [The Ultimate Guide To Pillow Block Bearing Size Charts | AUBEARING](https://www.aubearing.com/the-ultimate-guide-to-pillow-block-bearing-size-charts/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the technical blueprint and dimension specifications for the pillow block bearing mechanism shown in Image 1.
@@ -306,7 +328,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 28. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.ca/Pillow-Mounted-Bearings-UCP205-16-Aligning/dp/B0BNXQF2XL)
+### 30. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.ca/Pillow-Mounted-Bearings-UCP205-16-Aligning/dp/B0BNXQF2XL)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts a pillow block bearing (yataklı bilya) assembly matching the mechanical configuration and components shown in the reference schematic.
@@ -317,7 +339,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 29. [Split Pillow Blocks | NSK Bearings for Metal Making](https://nskmetals.com/products/bearing-units/split-pillow-blocks/)
+### 31. [Split Pillow Blocks | NSK Bearings for Metal Making](https://nskmetals.com/products/bearing-units/split-pillow-blocks/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows actual pillow block bearing housings corresponding to the technical assembly illustration in Image 1, representing the physical hardware implementation of the same mechanical component.
@@ -328,7 +350,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 30. [Pillow block bearing](https://www.leadbearing.com/product/Pillow-block-bearing.html)
+### 32. [Pillow block bearing](https://www.leadbearing.com/product/Pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed technical blueprint and structural diagram of the pillow block bearing shown mounted in the reference image 1.
@@ -339,7 +361,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 31. [Arrangements and their bearing types | SKF](https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types)
+### 33. [Arrangements and their bearing types | SKF](https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical cross-section of a flanged bearing housing and shaft assembly, which is a detailed schematic representation of the mechanism seen in Image 1.
@@ -350,7 +372,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 32. [UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/)
+### 34. [UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a standard engineering blueprint of a two-bolt flanged bearing unit (UCFL type), which represents the core housing component utilized in the reference assembly.
@@ -361,7 +383,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 33. [UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/)
+### 35. [UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a technical drawing of a standard 4-bolt square flanged bearing housing unit (UCF type), representing the open through-shaft variation of the flanged bearing assembly shown in Image 1.
@@ -372,7 +394,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 34. [Bearing Unit Definition at Helene Winkleman blog](https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html)
+### 36. [Bearing Unit Definition at Helene Winkleman blog](https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the standard engineering drawing and dimension specification for a four-bolt flanged ball bearing unit corresponding to the flanged housing arrangement shown in Image 1.
@@ -730,10 +752,21 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-## 💡 Proje Fikirleri & DIY Varyasyonları (11 adet)
+## 💡 Proje Fikirleri & DIY Varyasyonları (12 adet)
 _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
-### 1. [Gas Cylinder Trolleys | Fast Delivery](https://www.firstmats.co.uk/collections/gas-cylinder-trolleys)
+### 1. [Image result for gas welding cart plans | Welding cart, Welding cart ...](https://www.pinterest.com/pin/330873903857684065/)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 82` (working_variation)
+- **AI Teknik İncelemesi:** Both images show gas cylinder transport trucks with retaining chains and similar wheeled configurations, although the candidate is a custom-built dual-cylinder cart with an integrated toolbox.
+- **Tarih:** 2026-10-10 17:06:49
+
+![Önizleme](https://i.pinimg.com/originals/65/e9/6b/65e96bb9ebc8fa482a8cb64a1be31b2e.jpg)
+
+
+---
+
+### 2. [Gas Cylinder Trolleys | Fast Delivery](https://www.firstmats.co.uk/collections/gas-cylinder-trolleys)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a fully assembled, functional gas cylinder truck with identical structural frame and wheel configuration to the reference product, differing primarily in color and the addition of a loaded gas cylinder.
@@ -744,7 +777,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 2. [Mild Steel Single Gas Cylinder Trolley at Rs 5000 in Bengaluru | ID ...](https://www.indiamart.com/proddetail/industrial-oxygen-cylinder-trolley-2854373149148.html)
+### 3. [Mild Steel Single Gas Cylinder Trolley at Rs 5000 in Bengaluru | ID ...](https://www.indiamart.com/proddetail/industrial-oxygen-cylinder-trolley-2854373149148.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a fabricated working variation of the reference gas cylinder truck with a similar multi-wheel layout and chain retention mechanism, though differing in finish and structural frame details.
@@ -755,7 +788,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 3. [CO2 And Oxygen gas cylinders trolley at ₹ 4950 | Pune | ID: 2853103318030](https://www.indiamart.com/proddetail/co2-and-oxygen-gas-cylinders-trolley-2853103318030.html)
+### 4. [CO2 And Oxygen gas cylinders trolley at ₹ 4950 | Pune | ID: 2853103318030](https://www.indiamart.com/proddetail/co2-and-oxygen-gas-cylinders-trolley-2853103318030.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 88` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a custom-built, yellow-painted DIY dual gas cylinder truck that closely replicates the mechanical layout and structural frame of the reference design.
@@ -766,7 +799,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 4. [How To Remove Pillow Block Bearing From Shaft at Harry Brawner blog](https://storage.googleapis.com/djrozxznvgxyee/how-to-remove-pillow-block-bearing-from-shaft.html)
+### 5. [How To Remove Pillow Block Bearing From Shaft at Harry Brawner blog](https://storage.googleapis.com/djrozxznvgxyee/how-to-remove-pillow-block-bearing-from-shaft.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a handmade custom variation of the pillow block bearing mechanism presented in the reference technical diagram.
@@ -777,7 +810,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 5. [DIY Pillow Bearing block | Bearing Mount DIY - YouTube](https://www.youtube.com/shorts/V8mCz9nTSds)
+### 6. [DIY Pillow Bearing block | Bearing Mount DIY - YouTube](https://www.youtube.com/shorts/V8mCz9nTSds)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a DIY fabrication process attempting to construct a pillow block bearing housing similar to the assembly shown in the reference image.
@@ -788,7 +821,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 6. [Simple Pillow Block Bearing Handmade - YouTube](https://www.youtube.com/watch?v=hegAwQVwkeQ)
+### 7. [Simple Pillow Block Bearing Handmade - YouTube](https://www.youtube.com/watch?v=hegAwQVwkeQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a handmade DIY version of the pillow block bearing mechanism presented in the technical drawing of Image 1.
@@ -799,7 +832,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 7. [Bearing Housings Archives - NBC](https://www.nbcbearings.com/tag/bearing-housings/)
+### 8. [Bearing Housings Archives - NBC](https://www.nbcbearings.com/tag/bearing-housings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical, installed pillow block bearing mechanism that directly corresponds to the engineering schematic shown in the reference image.
@@ -810,7 +843,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 8. [How to make bearing mounts from wood - Use bearings in your woodworking ...](https://www.youtube.com/watch?v=SGYZGCYIgXQ)
+### 9. [How to make bearing mounts from wood - Use bearings in your woodworking ...](https://www.youtube.com/watch?v=SGYZGCYIgXQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom wooden DIY variant of the pillow block bearing shown in Image 1, serving the exact same mechanical functionality.
@@ -821,7 +854,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 9. [Homemade Bearing Blocks by John Heisz | Diy bearing installation, Diy ...](https://www.pinterest.com/pin/bearing-blocks-by-john-heisz-homemade-bearing-blocks-constructed-from-lumber-and-bearings-http--450922981426310832/)
+### 10. [Homemade Bearing Blocks by John Heisz | Diy bearing installation, Diy ...](https://www.pinterest.com/pin/bearing-blocks-by-john-heisz-homemade-bearing-blocks-constructed-from-lumber-and-bearings-http--450922981426310832/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a DIY wooden pillow block bearing assembly functioning as a custom working variation of the standard pillow block bearing shown in the reference image.
@@ -832,7 +865,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 10. [An Easy Way to Create DIY Bearing Mounts - Core77](https://www.core77.com/posts/77963/An-Easy-Way-to-Create-DIY-Bearing-Mounts)
+### 11. [An Easy Way to Create DIY Bearing Mounts - Core77](https://www.core77.com/posts/77963/An-Easy-Way-to-Create-DIY-Bearing-Mounts)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a custom wooden DIY variant of the pillow block bearing shown in Image 1, replicating the clamping mechanism and housing function using plywood and a standard ball bearing.
@@ -843,7 +876,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 11. [Pillow Block Bearing Manufacturers India | Pillow Block Bearings India](https://decbearing.com/pillow-block-bearing-manufacture-india.html)
+### 12. [Pillow Block Bearing Manufacturers India | Pillow Block Bearings India](https://decbearing.com/pillow-block-bearing-manufacture-india.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows assembled pillow block bearings in a workshop setting, which match the technical cross-section shown in Image 1.

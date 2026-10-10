@@ -827,6 +827,39 @@
       "variant_type": "technical_drawing",
       "reason": "Both images depict gas cylinder hand trucks, although Image 2 is a standard two-wheel upright blueprint whereas Image 1 is a multi-wheel convertible design.",
       "discovered_at": "2026-10-10 16:07:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Image result for gas welding cart plans | Welding cart, Welding cart ...",
+      "page_url": "https://www.pinterest.com/pin/330873903857684065/",
+      "candidate_image_url": "https://i.pinimg.com/originals/65/e9/6b/65e96bb9ebc8fa482a8cb64a1be31b2e.jpg",
+      "score": 82,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Both images show gas cylinder transport trucks with retaining chains and similar wheeled configurations, although the candidate is a custom-built dual-cylinder cart with an integrated toolbox.",
+      "discovered_at": "2026-10-10 17:06:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Single S Size Propane Trolley » D.O.T. Engineering",
+      "page_url": "https://dotengineering.com.au/products/gas-bottle-trolleys/single-s-size-propane-trolley/",
+      "candidate_image_url": "https://dotengineering.com.au/wp-content/uploads/2013/11/10171-Sheet11.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a detailed engineering technical drawing and bill of materials representing the exact same type of gas cylinder truck mechanism shown in the reference image.",
+      "discovered_at": "2026-10-10 17:08:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "G Size Oxy-Acet Inline Gas bottle Trolley » D.O.T. Engineering",
+      "page_url": "https://dotengineering.com.au/products/gas-bottle-trolleys/g-size-oxy-acet-inline-gas-bottle-trolley/",
+      "candidate_image_url": "https://dotengineering.com.au/wp-content/uploads/2014/01/10579-Sheet1.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a detailed engineering technical drawing and bill of materials representing the same gas cylinder truck/trolley mechanism shown in Image 1.",
+      "discovered_at": "2026-10-10 17:08:26"
     }
   ]
 }

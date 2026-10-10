@@ -19,41 +19,16 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: PC Açık mı Kontrol Et (Dakika Tasarruf Filtresi)
-        id: check-pc
-        run: |
-          # data/knowledge_base.json veya heartbeat dosyasındaki son keşif zamanını kontrol et
-          python -c "
-          import json, time, os
-          kb_path = 'data/knowledge_base.json'
-          should_run = True
-          if os.path.exists(kb_path):
-              try:
-                  kb = json.load(open(kb_path, encoding='utf-8'))
-                  discoveries = kb.get('discoveries', [])
-                  if discoveries:
-                      last_item = discoveries[-1]
-                      last_time_str = last_item.get('discovered_at', '')
-                      # Son keşif zamanı 60 dakikadan daha yeniyse PC aktiftir
-                      last_ts = time.mktime(time.strptime(last_time_str, '%Y-%m-%d %H:%M:%S'))
-                      diff_minutes = (time.time() - last_ts) / 60.0
-                      if diff_minutes < 60:
-                          should_run = False
-                          print(f'🟢 PC AKTIF: Son kesif {diff_minutes:.1f} dakika once yapilmis.')
-                          print('💡 GitHub dakikalarinizi harcamamak icin bulut gorevi atlanıyor.')
-              except Exception as e:
-                  pass
-
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-              f.write(f'should_run={str(should_run).lower()}\n')
-          "
-
       - name: Python 3.11 Kur
-        if: steps.check-pc.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
+
+      - name: PC Açık mı Kontrol Et (Dakika Tasarruf Filtresi)
+        id: check-pc
+        run: |
+          python check_pc_active.py
 
       - name: Bağımlılıkları Yükle
         if: steps.check-pc.outputs.should_run == 'true'
