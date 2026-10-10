@@ -43,6 +43,9 @@ TARGET_MAP_JSON = DATA_DIR / "target_map.json"
 REGIONAL_GAPS_JSON = DATA_DIR / "regional_gaps.json"
 REGIONAL_REPORT_MD = BASE_DIR / "REGIONAL_OPPORTUNITIES.md"
 REGIONAL_PID_FILE = DATA_DIR / "regional_agent.pid"
+SELLABLE_MACHINES_JSON = DATA_DIR / "sellable_machines.json"
+SELLABLE_REPORT_MD = BASE_DIR / "SELLABLE_MACHINES.md"
+SELLABLE_PID_FILE = DATA_DIR / "sellable_machines.pid"
 
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
@@ -217,6 +220,57 @@ def load_regional_gaps_data() -> list[dict]:
     return []
 
 # ──────────────────────────────────────────────
+# İnternetten Satılabilir Makineler Radarı Kontrolü
+# ──────────────────────────────────────────────
+def is_sellable_agent_running() -> bool:
+    if not SELLABLE_PID_FILE.exists():
+        return False
+    try:
+        pid = int(SELLABLE_PID_FILE.read_text().strip())
+        if os.name == "nt":
+            import ctypes
+            PROCESS_QUERY_INFORMATION = 0x0400
+            process = ctypes.windll.kernel32.OpenProcess(PROCESS_QUERY_INFORMATION, 0, pid)
+            if process != 0:
+                ctypes.windll.kernel32.CloseHandle(process)
+                return True
+            return False
+        else:
+            os.kill(pid, 0)
+            return True
+    except Exception:
+        return False
+
+def start_sellable_agent(category: str = "all"):
+    if is_sellable_agent_running():
+        stop_sellable_agent()
+        time.sleep(1)
+    cmd = [sys.executable, "-u", "sellable_machines_agent.py", "--category", category, "--continuous"]
+    proc = subprocess.Popen(cmd)
+    SELLABLE_PID_FILE.write_text(str(proc.pid))
+
+def stop_sellable_agent():
+    if SELLABLE_PID_FILE.exists():
+        try:
+            pid = int(SELLABLE_PID_FILE.read_text().strip())
+            if os.name == "nt":
+                subprocess.run(["taskkill", "/F", "/T", "/PID", str(pid)], capture_output=True)
+            else:
+                os.kill(pid, signal.SIGTERM)
+        except Exception:
+            pass
+        SELLABLE_PID_FILE.unlink(missing_ok=True)
+
+def load_sellable_machines_data() -> list[dict]:
+    if SELLABLE_MACHINES_JSON.exists():
+        try:
+            db = json.loads(SELLABLE_MACHINES_JSON.read_text(encoding="utf-8"))
+            return db.get("machines", [])
+        except Exception:
+            pass
+    return []
+
+# ──────────────────────────────────────────────
 # Kategorize Edilmiş Veritabanı Okuyucu
 # ──────────────────────────────────────────────
 CATEGORIES = {
@@ -302,8 +356,9 @@ with st.sidebar:
 # ──────────────────────────────────────────────
 st.title("🤖 DIY Otonom Keşif ve Proje Masası")
 
-tab_dashboard, tab_regional, tab_catalog, tab_instant = st.tabs([
+tab_dashboard, tab_sellable, tab_regional, tab_catalog, tab_instant = st.tabs([
     "🚀 Ürün Dosyaları & Canlı Keşifler",
+    "🛒 Satılabilir Makineler (Üret & Sat)",
     "📍 Bölgesel Sanayi Açığı Radarı (Merzifon OSB)",
     "📖 Katalog Raporları",
     "🔍 Hızlı Tekil Analiz"
@@ -478,7 +533,140 @@ with tab_dashboard:
         render_discovery_cards(grouped_discoveries["diy_project"])
 
 # ══════════════════════════════════════════════
-# SEKME 2: BÖLGESEL SANAYİ AÇIĞI RADARI (MERZİFON OSB)
+# SEKME 2: İNTERNETTEN SATILABİLİR MAKİNELER (ÜRET & SAT)
+# ══════════════════════════════════════════════
+with tab_sellable:
+    st.subheader("🛒 İnternetten Satılabilir Makineler Radarı (Üret & Sat)")
+    st.caption("Atölyede standart profil, sac, torna ve motor ile imal edilip Sahibinden, Trendyol veya yurt dışına (Etsy/eBay) yüksek kâr marjıyla doğrudan satılabilecek makineleri tespit eder.")
+
+    sell_running = is_sellable_agent_running()
+
+    # Kontrol Kartı
+    with st.container(border=True):
+        col_s_ctrl, col_s_actions = st.columns([3, 2])
+        with col_s_ctrl:
+            if sell_running:
+                st.success("🟢 **Satılabilir Makine Radarı:** ÇALIŞIYOR (Pazar & E-Ticaret Taranıyor)")
+                st.caption("Ajan internetteki satılabilir makine fırsatlarını ve atölye projelerini sürekli tarıyor.")
+            else:
+                st.warning("🔴 **Satılabilir Makine Radarı:** DURDURULDU (Boşta)")
+                st.caption("Ajan şu anda beklemede. Sağdaki butonla yeni makine fikirlerini taratabilirsiniz.")
+
+        with col_s_actions:
+            if sell_running:
+                col_sb1, col_sb2 = st.columns(2)
+                with col_sb1:
+                    if st.button("⏹️ Radarı Durdur", key="stop_sellable_btn", type="secondary", use_container_width=True):
+                        stop_sellable_agent()
+                        st.toast("Makine radarı durduruldu.", icon="🛑")
+                        st.rerun()
+                with col_sb2:
+                    if st.button("🔄 Yenile", key="ref_sellable_btn", use_container_width=True):
+                        st.rerun()
+            else:
+                col_sb1, col_sb2 = st.columns(2)
+                with col_sb1:
+                    if st.button("▶️ Yeni Makineleri Tara", key="start_sellable_btn", type="primary", use_container_width=True):
+                        start_sellable_agent()
+                        st.toast("Satılabilir makine radarı başlatıldı!", icon="🚀")
+                        st.rerun()
+                with col_sb2:
+                    if st.button("🔄 Yenile", key="ref_sellable_btn_2", use_container_width=True):
+                        st.rerun()
+
+    # Kategori Filtre Butonları (Sağlı Sollu)
+    machines_all = load_sellable_machines_data()
+    all_cats = ["🌐 Tümü (Sağlı Sollu)"] + sorted(list({m.get("category", "Genel") for m in machines_all if m.get("category")}))
+
+    sel_category = st.radio(
+        "Kategori Filtresi:",
+        all_cats,
+        horizontal=True,
+        label_visibility="collapsed"
+    )
+
+    filtered_machines = machines_all
+    if sel_category != "🌐 Tümü (Sağlı Sollu)":
+        filtered_machines = [m for m in machines_all if m.get("category") == sel_category]
+
+    st.markdown(f"### 💡 Tespit Edilen Yüksek Kâr Marjlı Makineler ({len(filtered_machines)} Adet)")
+
+    if not filtered_machines:
+        st.info("Bu kategoride henüz kayıtlı makine bulunamadı. Yukarıdaki butona basarak taramayı başlatabilirsiniz.")
+    else:
+        for idx, m in enumerate(reversed(filtered_machines), 1):
+            mname = m.get("machine_name", "İsimsiz Makine")
+            eng_name = m.get("english_name", "")
+            cat = m.get("category", "Genel")
+            cost = m.get("estimated_material_cost_tl", "")
+            price = m.get("online_sales_price_tl", "")
+            margin = m.get("profit_margin_percent", 70)
+            shipping = m.get("shipping_ease", "Kargo Koli")
+            demand = m.get("market_demand", "")
+            cust = m.get("target_customers", "")
+            tools = m.get("required_workshop_tools", "")
+            score = m.get("opportunity_score", 90)
+            bp_img = m.get("blueprint_image_url")
+            cad_url = m.get("cad_model_url")
+            vid_url = m.get("video_url")
+
+            with st.container(border=True):
+                col_m_info, col_m_img = st.columns([3, 2])
+                with col_m_info:
+                    st.markdown(f"#### {idx}. {mname}")
+                    st.caption(f"🌍 `{eng_name}` | 📂 Kategori: **{cat}**")
+                    st.badge(f"⭐ Fırsat: %{score} | 📈 Kâr Marjı: %{margin}")
+
+                    c_fin1, c_fin2, c_fin3 = st.columns(3)
+                    c_fin1.metric("Tahmini Maliyet", cost)
+                    c_fin2.metric("İnternet Satış Fiyatı", price)
+                    c_fin3.metric("Kargolama", shipping)
+
+                    st.markdown(f"**💡 Neden Çok Satılır?**\n{demand}")
+                    if cust:
+                        st.markdown(f"**👥 Kimler Satın Alır?** {cust}")
+                    if tools:
+                        st.markdown(f"**🛠️ Gereken Atölye Aletleri:** `{tools}`")
+
+                    b_mc1, b_mc2 = st.columns(2)
+                    with b_mc1:
+                        if cad_url:
+                            st.link_button("🖨️ 3D CAD Dosyası", cad_url, use_container_width=True)
+                    with b_mc2:
+                        if vid_url:
+                            st.link_button("🎥 Yapım / İmalat Videosu", vid_url, use_container_width=True)
+
+                    if bp_img:
+                        if st.button(f"🚀 Bu Makineyi Teknik Otonom Tarayıcıya Gönder", key=f"send_machine_to_scanner_{idx}", type="primary", use_container_width=True):
+                            try:
+                                import urllib.request
+                                req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0"})
+                                img_data = urllib.request.urlopen(req, timeout=10).read()
+                                clean_fname = "".join(c for c in mname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
+                                target_save_path = TARGETS_DIR / clean_fname
+                                target_save_path.write_bytes(img_data)
+
+                                tmap = get_target_map()
+                                tmap[clean_fname] = mname
+                                save_target_map(tmap)
+
+                                start_agent(target_save_path)
+                                st.toast(f"'{mname}' otonom teknik tarayıcıya aktarıldı ve tarama başlatıldı!", icon="🚀")
+                                st.rerun()
+                            except Exception as e:
+                                st.error(f"Hedefe aktarılırken hata: {e}")
+
+                with col_m_img:
+                    if bp_img:
+                        try:
+                            st.image(bp_img, caption="📐 2D Teknik Çizim / Kesit / Tasarım", use_container_width=True)
+                        except Exception:
+                            st.caption("Teknik çizim görseli yüklenemedi.")
+                    else:
+                        st.info("Bu makine için teknik çizim önizlemesi aranıyor...")
+
+# ══════════════════════════════════════════════
+# SEKME 3: BÖLGESEL SANAYİ AÇIĞI RADARI (MERZİFON OSB)
 # ══════════════════════════════════════════════
 with tab_regional:
     st.subheader("📍 Bölgesel Sanayi Açığı & İmalat Fırsatı Radarı")
@@ -611,8 +799,9 @@ with tab_catalog:
     st.subheader("📖 Canlı Katalog & Araştırma Raporları")
     st.caption("Yapay zeka tarafından oluşturulan doğrulanmış teknik kaynak ve bölgesel fırsat raporları.")
 
-    sub_cat_tech, sub_cat_reg = st.tabs([
-        "📐 Teknik Keşifler (DISCOVERIES.md)",
+    sub_cat_tech, sub_cat_sellable, sub_cat_reg = st.tabs([
+        "📐 Ürüne Özel Teknik Keşifler",
+        "🛒 Satılabilir Makineler (SELLABLE_MACHINES.md)",
         "📍 Bölgesel Sanayi Açıkları (REGIONAL_OPPORTUNITIES.md)"
     ])
 
@@ -646,7 +835,6 @@ with tab_catalog:
             if prod_cat_path.exists():
                 target_md_content = prod_cat_path.read_text(encoding="utf-8")
             else:
-                # Eğer dosya henüz oluşmadıysa knowledge_base'den anında oluştur
                 grouped_disc, f_count, _, _ = load_knowledge_base_data(target_filter=sel_cat_product)
                 all_items_for_p = []
                 for cat_k in grouped_disc:
@@ -677,6 +865,22 @@ with tab_catalog:
                 st.markdown(target_md_content)
         else:
             st.info("Bu ürün için henüz katalog dosyası oluşturulmadı.")
+
+    with sub_cat_sellable:
+        if SELLABLE_REPORT_MD.exists():
+            sell_md_content = SELLABLE_REPORT_MD.read_text(encoding="utf-8")
+            st.download_button(
+                label="📥 SELLABLE_MACHINES.md Dosyasını İndir",
+                data=sell_md_content,
+                file_name="SELLABLE_MACHINES.md",
+                mime="text/markdown",
+                key="down_sell_md",
+                type="primary"
+            )
+            with st.container(border=True):
+                st.markdown(sell_md_content)
+        else:
+            st.info("Henüz satılabilir makineler raporu oluşturulmadı.")
 
     with sub_cat_reg:
         if REGIONAL_REPORT_MD.exists():
