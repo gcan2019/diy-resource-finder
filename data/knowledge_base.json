@@ -40,6 +40,56 @@
       "variant_type": "technical_drawing",
       "reason": "Image 2 shows a technical cross-section of a flanged bearing housing and shaft assembly, which is a detailed schematic representation of the mechanism seen in Image 1.",
       "discovered_at": "2026-10-10 14:58:59"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/kp08-support-pillow-block-bearing-for-t8-lead-screw-for-3d-printing-machines-and-cnc-1",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/ded9d483f362493f5df15a2d3b9567a8/large.jpg",
+      "score": 85,
+      "variant_type": "technical_drawing",
+      "reason": "Both images depict pillow block bearing assemblies, though Image 1 shows an installed sectional view while Image 2 shows a 3D CAD model of a standard pillow block unit.",
+      "discovered_at": "2026-10-10 15:21:25"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/pillow-block-bearing-d8-1",
+      "candidate_image_url": "https://grabcad.com/screenshots/pics/e3c4611078b1f9ad9ceaf40d41ae500a/large.JPG",
+      "score": 90,
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 shows a 3D CAD model of a pillow block bearing, which functionally corresponds to the bearing assembly illustrated in the technical cross-section of Image 1.",
+      "discovered_at": "2026-10-10 15:21:40"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/pillow-block-bearing-5",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7505a525df00435efc0639133295cadd/large.png",
+      "score": 85,
+      "variant_type": "working_variation",
+      "reason": "Image 2 displays a 3D CAD model of a standard pillow block bearing (UCP205), representing the physical component assembly shown in the technical cross-section of Image 1.",
+      "discovered_at": "2026-10-10 15:21:57"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/bearing-kp-series-pillow-block-bearing-1",
+      "candidate_image_url": "https://grabcad.com/screenshots/pics/cfc6ab2747b7b43622d6193cc7ddb8e3/large.JPG",
+      "score": 85,
+      "variant_type": "working_variation",
+      "reason": "Image 2 depicts a standard 3D CAD model of a pillow block bearing, which is the exact functional mechanism shown in the reference assembly drawing of Image 1.",
+      "discovered_at": "2026-10-10 15:22:13"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/ucf-206-pillow-block-bearing-1",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5f6a37c458c698b1b3d643eccb0d6077/large.png",
+      "score": 90,
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 shows a 3D CAD model of a square flanged pillow block bearing assembly, which matches the bearing component and mounting configuration shown in the reference schematic.",
+      "discovered_at": "2026-10-10 15:22:29"
     }
   ]
 }

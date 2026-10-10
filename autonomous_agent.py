@@ -66,41 +66,82 @@ def load_knowledge_base() -> dict:
 def save_knowledge_base(kb: dict):
     KNOWLEDGE_BASE_JSON.write_text(json.dumps(kb, indent=2, ensure_ascii=False), encoding="utf-8")
 
+CATEGORIES = {
+    "technical_drawing": ("📐 Teknik Çizimler, Ölçüler & Kesit Planları", "2D teknik resimler, ölçü tabloları ve montaj kesitleri"),
+    "cad_model": ("🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL)", "İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller"),
+    "diy_video": ("🎥 DIY / Nasıl Yapılır & İmalat Videoları", "Adım adım montaj, torna, freze ve atölye yapım videoları"),
+    "diy_project": ("💡 Proje Fikirleri & DIY Varyasyonları", "Topluluk projeleri, tasarım varyasyonları ve makaleler")
+}
+
+def classify_item(item: dict) -> str:
+    cat = item.get("category")
+    if cat in CATEGORIES:
+        return cat
+    url = (item.get("page_url", "") + " " + item.get("candidate_image_url", "")).lower()
+    title = item.get("title", "").lower()
+    vt = item.get("variant_type", "").lower()
+    if "youtube" in url or "video" in url or "tutorial" in title or "how to" in title:
+        return "diy_video"
+    if "grabcad" in url or "thingiverse" in url or "cad" in title or "stl" in title or "step" in title or "3d model" in title:
+        return "cad_model"
+    if "drawing" in url or "blueprint" in title or "drawing" in title or vt == "technical_drawing":
+        return "technical_drawing"
+    return "diy_project"
+
 def update_markdown_catalog(kb: dict):
-    """Bulunan doğrulanmış tüm kaynakları zengin bir Markdown kataloğuna döker."""
+    """Bulunan doğrulanmış tüm kaynakları KATEGORİLERE GÖRE GRUPLAYARAK zengin bir Markdown kataloğuna döker."""
+    discoveries = kb.get("discoveries", [])
+    total_count = len(discoveries)
+
     lines = [
         "# 📚 Otonom Doğrulanmış Proje & Kaynak Kataloğu",
         "> Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile teknik olarak doğrulanmış kaynakları içerir.",
         "",
-        f"**Toplam Doğrulanmış Kaynak:** {len(kb.get('discoveries', []))} adet",
+        f"**Toplam Doğrulanmış Kaynak:** {total_count} adet",
         f"**Son Güncelleme:** {time.strftime('%Y-%m-%d %H:%M:%S')}",
         "",
         "---",
         ""
     ]
 
-    discoveries = kb.get("discoveries", [])
     if not discoveries:
         lines.append("_Henüz doğrulanmış keşif bulunamadı._\n")
-    else:
-        for idx, item in enumerate(reversed(discoveries), 1):
-            target_name = item.get("target_name", "Genel Hedef")
-            score = item.get("score", 0)
-            reason = item.get("reason", "")
-            title = item.get("title", "Başlıksız Kaynak")
-            page_url = item.get("page_url", "#")
-            img_url = item.get("candidate_image_url", "")
-            variant_type = item.get("variant_type", "Bilinmiyor")
-            discovered_at = item.get("discovered_at", "")
+        DISCOVERIES_MD.write_text("\n".join(lines), encoding="utf-8")
+        return
 
-            lines.append(f"### {idx}. [{title}]({page_url})")
-            lines.append(f"- **Hedef Parça:** `{target_name}`")
-            lines.append(f"- **Doğrulama Skoru:** `% {score}` ({variant_type})")
-            lines.append(f"- **AI Teknik İncelemesi:** {reason}")
-            lines.append(f"- **Tarih:** {discovered_at}")
-            if img_url:
-                lines.append(f"\n![Önizleme]({img_url})\n")
-            lines.append("\n---\n")
+    # Grupla
+    grouped = {k: [] for k in CATEGORIES}
+    for item in reversed(discoveries):
+        cat_key = classify_item(item)
+        grouped[cat_key].append(item)
+
+    # Kategorilere göre yaz
+    for cat_key, (cat_title, cat_desc) in CATEGORIES.items():
+        items_in_cat = grouped[cat_key]
+        lines.append(f"## {cat_title} ({len(items_in_cat)} adet)")
+        lines.append(f"_{cat_desc}_\n")
+
+        if not items_in_cat:
+            lines.append("_Bu kategoride henüz doğrulanmış kaynak bulunamadı._\n")
+        else:
+            for idx, item in enumerate(items_in_cat, 1):
+                target_name = item.get("target_name", "Genel Hedef")
+                score = item.get("score", 0)
+                reason = item.get("reason", "")
+                title = item.get("title", "Başlıksız Kaynak")
+                page_url = item.get("page_url", "#")
+                img_url = item.get("candidate_image_url", "")
+                variant_type = item.get("variant_type", "Bilinmiyor")
+                discovered_at = item.get("discovered_at", "")
+
+                lines.append(f"### {idx}. [{title}]({page_url})")
+                lines.append(f"- **Hedef Parça:** `{target_name}`")
+                lines.append(f"- **Doğrulama Skoru:** `% {score}` ({variant_type})")
+                lines.append(f"- **AI Teknik İncelemesi:** {reason}")
+                lines.append(f"- **Tarih:** {discovered_at}")
+                if img_url:
+                    lines.append(f"\n![Önizleme]({img_url})\n")
+                lines.append("\n---\n")
 
     DISCOVERIES_MD.write_text("\n".join(lines), encoding="utf-8")
 
@@ -227,6 +268,7 @@ Return JSON:
 {{
   "verified": true/false (true ONLY if similarity score >= 75 and it is genuinely related),
   "score": integer between 0 and 100,
+  "category": "technical_drawing" OR "cad_model" OR "diy_video" OR "diy_project",
   "variant_type": "exact_match" OR "technical_drawing" OR "working_variation" OR "irrelevant",
   "reason": "1 sentence technical explanation of why it matches or differs"
 }}"""
@@ -316,6 +358,7 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
                     "page_url": page_url,
                     "candidate_image_url": img_url,
                     "score": score,
+                    "category": verdict.get("category") or classify_item({"page_url": page_url, "title": cand.get("title")}),
                     "variant_type": verdict.get("variant_type"),
                     "reason": verdict.get("reason"),
                     "discovered_at": time.strftime("%Y-%m-%d %H:%M:%S")
