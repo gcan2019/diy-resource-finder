@@ -365,6 +365,94 @@
       "variant_type": "working_variation",
       "reason": "Image 2 represents a custom wooden DIY variant of the pillow block bearing shown in Image 1, serving the exact same mechanical functionality.",
       "discovered_at": "2026-10-10 15:36:17"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog",
+      "page_url": "https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html",
+      "candidate_image_url": "https://nzminiaturebearings.com/photos/common/di-pillow-block-bearings.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a detailed engineering technical drawing depicting the standard pillow block bearing assembly shown in the reference image.",
+      "discovered_at": "2026-10-10 15:36:59"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...",
+      "page_url": "https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16",
+      "candidate_image_url": "https://cad.timken.com/Asset/Pillow-Block-2-Bolt-Base-Bearing-2a.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a detailed engineering technical drawing depicting the precise pillow block bearing assembly shown in the reference image.",
+      "discovered_at": "2026-10-10 15:37:15"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Miniature Pillow Block Bearing – S.M.R. Engineering Services",
+      "page_url": "https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1",
+      "candidate_image_url": "https://smrengineering.co.uk/cdn/shop/files/miniaturepillowbock.png?v=1712570551&width=1445",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 provides a detailed engineering technical drawing and dimension table of a standard pillow block bearing, which matches the mechanical type shown in the reference image.",
+      "discovered_at": "2026-10-10 15:37:31"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Hobbytronics. Pillow Block Bearing",
+      "page_url": "https://www.hobbytronics.co.za/p/777/pillow-block-bearing",
+      "candidate_image_url": "https://www.hobbytronics.co.za/content/images/thumbs/0010536_pillow-block-bearing.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 provides a detailed engineering blueprint and dimension table for the pillow block bearing assembly shown in Image 1.",
+      "discovered_at": "2026-10-10 15:37:48"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...",
+      "page_url": "https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco",
+      "candidate_image_url": "https://cad.timken.com/Asset/Timken---Type-E-Dim-Drawing.JPG",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 provides a detailed engineering drawing and technical specification of the pillow block bearing assembly shown in Image 1.",
+      "discovered_at": "2026-10-10 15:39:21"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "adjustable pillow block bearing, UCP pillow block bearings",
+      "page_url": "https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/",
+      "candidate_image_url": "https://www.nskbearingcatalogue.com/wp-content/uploads/2018/08/SSUCP205.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 provides a detailed technical data sheet and dimensioned blueprint of the pillow block bearing mechanism shown in the reference image.",
+      "discovered_at": "2026-10-10 15:39:37"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "Pillow Block Bearing Drop In Replacement by Pending Progress | Download ...",
+      "page_url": "https://www.printables.com/model/472502-pillow-block-bearing-drop-in-replacement",
+      "candidate_image_url": "https://media.printables.com/media/prints/472502/images/3868994_2f57964c-ec22-49a5-8092-a9c664c0903a/226c4d29d900602d2637ce166a7977bc_display_large_472502.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya) which matches the mechanical type and function of the reference schematic.",
+      "discovered_at": "2026-10-10 15:40:17"
+    },
+    {
+      "target_name": "Pillow block bearing / Yataklı bilya",
+      "title": "UCP Pillow Block Bearing for Superior Performance",
+      "page_url": "https://dmwheelsystems.com/en/products/parts/flange-bearings/ucp-pillow-block-bearing/",
+      "candidate_image_url": "https://static.dmwheelsystems.com/product/ucp-lagerblokken/ucp-lagerblokken-2_1531747047.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a 3D CAD model of a pillow block bearing, which is a related component variant to the pillow block assembly shown in the reference image.",
+      "discovered_at": "2026-10-10 15:40:32"
     }
   ]
 }

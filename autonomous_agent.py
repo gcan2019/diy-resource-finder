@@ -392,8 +392,7 @@ def main():
 
     api_key = get_api_key()
     if not api_key:
-        print("HATA: GEMINI_API_KEY bulunamadı.")
-        return
+        sys.exit("HATA: GEMINI_API_KEY bulunamadı. Lütfen GitHub Repo -> Settings -> Secrets and variables -> Actions kısmına GEMINI_API_KEY ekleyin.")
 
     client = genai.Client(api_key=api_key)
     target_path = Path(args.target)
