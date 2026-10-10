@@ -871,6 +871,72 @@
       "variant_type": "working_variation",
       "reason": "Image 2 shows a dual-cylinder welding cart which serves the same functional purpose as the single-cylinder truck in Image 1, though with a modified frame and dual platform layout.",
       "discovered_at": "2026-10-10 17:09:37"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Cart 2.0 – Strong Hand Tools",
+      "page_url": "https://stronghandtools.com/products/gcc210",
+      "candidate_image_url": "https://i.shgcdn.com/2ceb1515-9507-4e6c-85a6-a660c7043c92/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a custom yellow-painted gas cylinder truck with pneumatic wheels, closely matching the multi-wheeled inclined frame design of the reference.",
+      "discovered_at": "2026-10-10 17:15:41"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "GAS CYLINDER CART - MMA Steel",
+      "page_url": "https://www.mma.com.sg/latest-projects/gas-cylinder-cart/",
+      "candidate_image_url": "https://www.mma.com.sg/wp-content/uploads/2024/06/Gas-cylinder-cart-450x600.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 represents a custom-built working variation of a gas cylinder truck with matching frame geometry and cylinder retention mechanism, though built with simplified dual wheels instead of the reference four-wheel design.",
+      "discovered_at": "2026-10-10 17:16:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Build Plans Welding Trolley, English in Millimeter - Etsy",
+      "page_url": "https://www.etsy.com/listing/1590782514/build-plans-welding-trolley-english-in",
+      "candidate_image_url": "https://i.etsystatic.com/27224814/r/il/50396e/5525401125/il_794xN.5525401125_4w2x.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Image 2 is a construction plan for a welding trolley designed to hold gas cylinders, sharing the same functional purpose and category as the reference gas cylinder truck despite structural differences.",
+      "discovered_at": "2026-10-10 17:16:50"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Tüp Taşıma Arabaları | Gaz Tüpü Taşıma ve Kaynak Set Arabaları – Vona Gaz",
+      "page_url": "https://vonagaz.com/tup-tasima-arabalari-pd-375",
+      "candidate_image_url": "https://docs.vonagaz.com/images/upload/46e4388ef4dc0e426dae9ea6c90c00c9.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Both images depict gas cylinder trucks (tüp arabası), though Image 2 shows a dual-cylinder welded frame design rather than the specific multi-caster folding tubular frame in Image 1.",
+      "discovered_at": "2026-10-10 17:18:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Cart Trolley",
+      "page_url": "https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart-trolley",
+      "candidate_image_url": "https://valleycraft.com/wp-content/uploads/2023/06/Cylinder-Hand-Trucks-product-photo.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a different model of a gas cylinder truck designed for multiple bottles rather than the single-bottle tripod design in Image 1, but it serves the identical functional purpose.",
+      "discovered_at": "2026-10-10 17:19:52"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxy Acetylene Gas Bottle Trolley w/ Ramp » D.O.T. Engineering",
+      "page_url": "https://dotengineering.com.au/products/gas-bottle-trolleys/oxy-acetylene-gas-bottle-trolley-ramp/",
+      "candidate_image_url": "https://dotengineering.com.au/wp-content/uploads/2017/10/G-size-oxy-bottle-with-ramp.gif",
+      "score": 82,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a detailed engineering drawing of a heavy-duty gas cylinder trolley with a ramp, sharing the same fundamental application as the reference gas cylinder truck.",
+      "discovered_at": "2026-10-10 17:24:26"
     }
   ]
 }

@@ -311,6 +311,26 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
     except Exception:
         target_name = target_img_path.stem
 
+    # Aktif hedef bilgisini kaydet (Arayüzde net görünmesi için)
+    target_info = {
+        "target_file": target_img_path.name,
+        "target_name": target_name,
+        "started_at": time.strftime("%Y-%m-%d %H:%M:%S")
+    }
+    (DATA_DIR / "current_target.json").write_text(json.dumps(target_info, ensure_ascii=False), encoding="utf-8")
+    (DATA_DIR / "current_target.txt").write_text(f"{target_img_path.name} | {target_name}", encoding="utf-8")
+
+    # Hedef haritasını güncelle
+    try:
+        tmap_file = DATA_DIR / "target_map.json"
+        tmap = {}
+        if tmap_file.exists():
+            tmap = json.loads(tmap_file.read_text(encoding="utf-8"))
+        tmap[target_img_path.name] = target_name
+        tmap_file.write_text(json.dumps(tmap, indent=2, ensure_ascii=False), encoding="utf-8")
+    except Exception:
+        pass
+
     print(f"🎯 Hedef Tanımlandı: {target_name}\n")
 
     kb = load_knowledge_base()
