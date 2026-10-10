@@ -1,0 +1,35 @@
+{
+  "targets": {},
+  "discoveries": [
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği",
+      "title": "Bearing Unit Definition at Helene Winkleman blog",
+      "page_url": "https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html",
+      "candidate_image_url": "https://www.nskbearingcatalogue.com/wp-content/uploads/2023/06/UCF315-drawing.png",
+      "score": 85,
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 provides the standard engineering drawing and dimension specification for a four-bolt flanged ball bearing unit corresponding to the flanged housing arrangement shown in Image 1.",
+      "discovered_at": "2026-10-10 14:57:57"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği",
+      "title": "UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings",
+      "page_url": "https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/",
+      "candidate_image_url": "https://www.airebearings.co.uk/wp-content/uploads/2021/12/UCF-Bearing-Unit-Drawing.jpg",
+      "score": 82,
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a technical drawing of a standard 4-bolt square flanged bearing housing unit (UCF type), representing the open through-shaft variation of the flanged bearing assembly shown in Image 1.",
+      "discovered_at": "2026-10-10 14:58:08"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği",
+      "title": "UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings",
+      "page_url": "https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/",
+      "candidate_image_url": "https://www.airebearings.co.uk/wp-content/uploads/2021/12/UCFL-Bearing-Unit-Drawing.jpg",
+      "score": 85,
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 is a standard engineering blueprint of a two-bolt flanged bearing unit (UCFL type), which represents the core housing component utilized in the reference assembly.",
+      "discovered_at": "2026-10-10 14:58:16"
+    }
+  ]
+}
