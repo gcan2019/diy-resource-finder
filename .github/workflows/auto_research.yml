@@ -1,0 +1,53 @@
+name: Otonom Görsel Araştırma Ajanı (Cloud Worker)
+
+on:
+  schedule:
+    # Her 4 saatte bir otomatik çalışır (Günde 6 kez bulutta uyanıp tarar)
+    - cron: '0 */4 * * *'
+  # GitHub üzerinden tek tıkla elle başlatabilme
+  workflow_dispatch:
+  # targets klasörüne yeni fotoğraf eklendiğinde hemen çalışır
+  push:
+    paths:
+      - 'targets/**'
+
+permissions:
+  contents: write
+
+jobs:
+  run-autonomous-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 Kur
+        uses: setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Bağımlılıkları Yükle
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Otonom Ajanı Çalıştır (Derin Tarama & Görsel Doğrulama)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          # Bulutta 10 tur derinleşerek yeni çizimleri ve modelleri bulur
+          python autonomous_agent.py --rounds 10
+
+      - name: Yeni Keşifleri Repoya Kaydet ve Commit Et
+        run: |
+          git config --global user.name "Otonom Ajan (Cloud Worker)"
+          git config --global user.email "actions@github.com"
+          git add data/knowledge_base.json DISCOVERIES.md
+          if git diff --staged --quiet; then
+            echo "Yeni keşif yok, commit atlanıyor."
+          else
+            git commit -m "🤖 Otonom Ajan: Yeni doğrulanmış teknik kaynaklar eklendi [skip ci]"
+            git push
+          fi
