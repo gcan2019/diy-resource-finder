@@ -698,6 +698,13 @@ with tab_sellable:
                     st.caption(f"🌍 `{eng_name}` | 📂 Kategori: **{cat}**")
                     st.badge(f"⭐ Fırsat: %{score} | 📈 Kâr Marjı: %{margin}")
 
+                    tr_avail = m.get("turkey_availability", "🇹🇷 Türkiye'de Çok Nadir / İthal Bağımlı")
+                    tr_reason = m.get("turkey_market_reason", "")
+
+                    st.markdown(f"**🇹🇷 Türkiye Pazarı Durumu:** `{tr_avail}`")
+                    if tr_reason:
+                        st.info(f"🔎 **Neden Türkiye'de Yok/Az?** {tr_reason}")
+
                     c_fin1, c_fin2, c_fin3 = st.columns(3)
                     c_fin1.metric("Tahmini Maliyet", cost)
                     c_fin2.metric("İnternet Satış Fiyatı", price)

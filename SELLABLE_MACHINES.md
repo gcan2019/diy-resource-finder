@@ -1,13 +1,269 @@
 # 🛒 İnternetten Satılabilir Makineler (Üret & Sat Kataloğu)
 > Bu katalog, küçük/orta atölyelerde düşük sermayeyle imal edilip **Sahibinden, e-ticaret siteleri veya yurt dışına (Etsy/eBay)** doğrudan yüksek kâr marjıyla satılabilecek makineleri ve aparatları içerir.
 
-**Toplam Satılabilir Makine Fırsatı:** 18 adet
-**Son Güncelleme:** 2026-10-10 22:57:57
+**Toplam Satılabilir Makine Fırsatı:** 33 adet
+**Son Güncelleme:** 2026-10-10 23:22:48
 
 ---
 
-## 1. Masaüstü Pnömatik Parfüm ve Şişe Sıvama (Capping) Makinesi (⭐ Fırsat: %94 | 📈 Kâr Marjı: %76)
+## 1. Masaüstü Hassas Tel ve Şerit Bükme Aparatı (CNC Destekli Versiyon Potansiyeli) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %75)
+- **Kategori:** `⚙️ Tel & Şerit Metal Şekillendirme` | **Teknik Adı:** `Manual Wire and Strip Forming Jig / Bending Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Yok - Sadece Endüstriyel Büyük Üretim Hattı Var`
+- 🔎 **Neden Türkiye'de Yok/Az:** Teli veya yassı şeridi belirli bir formda (kanca, yay, özel bağlantı elemanı) bükmek için üreticiler özel kalıp yaptırıyor. Küçük atölyeler için ayarlanabilir pinli ve kalıp sistemli 'büküm tezgahı' niş bir alan ve Türkiye'de profesyonel seviyede üreticisi yok.
+- **Tahmini Malzeme Maliyeti:** `4.000 - 6.000 TL`
+- **İnternet Satış Fiyatı:** `18.000 - 24.000 TL`
+- **Kargolama / Lojistik:** `Küçük Paket - Kargo ile Gönderilebilir`
+- **Pazar Talebi:** Özel tasarım mobilya aksesuarları, aydınlatma armatürleri yapanlar ve prototip üreticileri için bulunmaz nimet.
+- **Hedef Alıcılar:** Tasarımcılar, mobilya aksesuarcıları, prototip atölyeleri, tel işiyle uğraşan sanatçılar
+- **Gereken Atölye Aletleri:** `Hassas torna işleri (pimler için), lazer kesim tabla, yüzey sertleştirme (ısıl işlem - opsiyonel)`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://www.craftsmanspace.com/sites/default/files/free-plans-articles/wire_bending_table_mount_jig_drawing.gif)
+
+- 🖨️ **3D CAD Modeli:** [Manual wire bender | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/manual-wire-bender-1)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [The Easiest DIY Wire Bender You'll Ever Make - Full TutorialA Simple Wire Bending Tool that Quickly Creates Metal Shapes!Wire Bender - Wire Bending Jig - YouTubeSimple Wire Bending Jig - YouTubeThe Ultimate DIY Jig For Perfect Wire Grids. - YouTubeDIY Wire Bending Jig for Perfect 90° Bends ... - YouTubeManual Precision Steel Wire & Strip Bending - YouTube](https://www.youtube.com/watch?v=VrJ3cRvONPk)
+
+---
+
+## 2. Motorlu Kompakt Metal Kumlama (Sandblasting) Kabini (⭐ Fırsat: %95 | 📈 Kâr Marjı: %70)
+- **Kategori:** `🛠️ Yüzey İşlem ve Restorasyon` | **Teknik Adı:** `Benchtop Abrasive Blasting Cabinet`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Yok - Sadece Çin'den İthal`
+- 🔎 **Neden Türkiye'de Yok/Az:** Yerli üreticiler sadece devasa endüstriyel kabinler üretiyor. Küçük dükkanlar için masaüstü, toz emiş sistemi entegre edilmiş, kompakt kumlama kabini piyasada boşlukta. Çin'den gelenler ise kargo maliyetiyle çok pahalıya geliyor.
+- **Tahmini Malzeme Maliyeti:** `8.000 - 10.000 TL`
+- **İnternet Satış Fiyatı:** `28.000 - 35.000 TL`
+- **Kargolama / Lojistik:** `Demonte Koli - Kolay Kurulum`
+- **Pazar Talebi:** Oto restorasyon meraklıları, CNC parça üreticileri ve antikacılar metal parçaları temizlemek için ciddi arayış içinde.
+- **Hedef Alıcılar:** Motosiklet/Araba restorasyoncuları, diş teknisyenleri, 3D baskı sonrası temizlik yapanlar, hobi atölyeleri
+- **Gereken Atölye Aletleri:** `Lazer kesim sac, pleksiglas pencere kesimi, basit sızdırmazlık contaları, standart kompresör bağlantı elemanları`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://www.raptorblaster.com/wp-content/uploads/2017/08/5446-Dimensions-sm.jpg)
+
+
+---
+
+## 3. Mobil Atölye Tipi Manyetik İnce Sac Bükme Makinesi (⭐ Fırsat: %98 | 📈 Kâr Marjı: %72)
+- **Kategori:** `⚡ Sac & Metal İşleme Aparatları` | **Teknik Adı:** `Magnetic Sheet Metal Folder / Box and Pan Brake`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Az - İthalatı Çok Pahalı`
+- 🔎 **Neden Türkiye'de Yok/Az:** Türkiye'de sac bükme makinesi denilince ağır döküm gövdeli kollar gelir. Elektromanyetik sistemler ise sadece büyük sanayi tipi üretiliyor. Küçük atölye için 'kutu' ve 'pan' (kapalı kutu formu) bükebilen, yer kaplamayan taşınabilir manyetik bükücü yok denecek kadar az.
+- **Tahmini Malzeme Maliyeti:** `12.000 - 15.000 TL`
+- **İnternet Satış Fiyatı:** `45.000 - 55.000 TL`
+- **Kargolama / Lojistik:** `Demonte Koli - Kargo ile Gönderilebilir`
+- **Pazar Talebi:** Havalandırmacılar, hobi amaçlı kasa yapanlar ve mutfak ekipmanı imalatçıları, kapalı kutu bükümü yapamadıkları için ciddi sıkıntı çekiyor.
+- **Hedef Alıcılar:** Havalandırmacılar, sac pano üreticileri, hobi demircileri, mutfak ekipman üreticileri
+- **Gereken Atölye Aletleri:** `Lazer kesim sac, güçlü elektromıknatıs bobin sarımı/temini, basit torna işleri, gazaltı kaynak`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://s3.amazonaws.com/iliketomakestuff.com/wp-content/uploads/2017/09/27160320/yt_metalBrake.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Pan Brake sheet metal folder | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/pan-brake-sheet-metal-folder-1)
+
+---
+
+## 4. Ayarlanabilir Taşınabilir Sac Kenetleme ve Kırım Aparatı (⭐ Fırsat: %94 | 📈 Kâr Marjı: %70)
+- **Kategori:** `🛠️ İnşaat & Sac Metal İşleme` | **Teknik Adı:** `Portable Sheet Metal Folding/Bending Tool`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `3.000 - 5.000 TL`
+- **İnternet Satış Fiyatı:** `12.000 - 18.000 TL`
+- **Kargolama / Lojistik:** `Demonte Paket (Uzun profil kutusu)`
+- **Pazar Talebi:** Çatı ve oluk sistemleri yapan ustalar için sahada sac bükmek büyük bir problem. Büyük tezgahlar götürülemiyor, ancak bu kompakt el aparatı ile yerinde büküm yapabiliyorlar.
+- **Hedef Alıcılar:** Çatı izolasyoncuları, olukçular, hobi atölyeleri, sac levha işleyen ustalar.
+- **Gereken Atölye Aletleri:** `Lazer kesim kalın sac (10-15mm), kaynak, matkap/kılavuz çekme.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://www.evolutioner.eu/image/cache/catalog/production/sheet_metal_folding_machine/folding_machine-drawing-1000x1000.jpg)
+
+
+---
+
+## 5. Motorlu Kompakt Mantar ve Sebze Doğrama/Dilimleme Makinesi (⭐ Fırsat: %92 | 📈 Kâr Marjı: %74)
+- **Kategori:** `🍴 Gıda İşleme & Gastronomi` | **Teknik Adı:** `Electric Industrial Vegetable/Mushroom Slicer`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `4.500 - 6.500 TL`
+- **İnternet Satış Fiyatı:** `18.000 - 25.000 TL`
+- **Kargolama / Lojistik:** `Kolay Koli (Masaüstü tipi)`
+- **Pazar Talebi:** Küçük ölçekli restoranlar, evden satış yapan gıda üreticileri ve pazarcılar için standart ticari makineler çok pahalı. Paslanmaz çelikten üretilen kompakt bir versiyon çok hızlı satılır.
+- **Hedef Alıcılar:** Butik gıda üreticileri, restoran sahipleri, dondurulmuş gıda hazırlayanlar.
+- **Gereken Atölye Aletleri:** `Gıda tipi paslanmaz sac (lazer kesim), elektrik motoru, torna (bıçak mili için).`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://i.ytimg.com/vi/fHYriJmL4ig/maxresdefault.jpg)
+
+- 🖨️ **3D CAD Modeli:** [mushroom slicer | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/mushroom-slicer-1)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [Multi Purpose Vegetable Slicer---Mushroom Zucchini Slicer](https://www.youtube.com/watch?v=qEHoQa_82Pc)
+
+---
+
+## 6. Elektrikli Taşınabilir Hidrolik Kılavuz Çekme Makinesi (⭐ Fırsat: %96 | 📈 Kâr Marjı: %72)
+- **Kategori:** `⚙️ Endüstriyel Aparatlar & Atölye` | **Teknik Adı:** `Portable Electric Hydraulic Tapping Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `8.000 - 12.000 TL`
+- **İnternet Satış Fiyatı:** `35.000 - 45.000 TL`
+- **Kargolama / Lojistik:** `Standart Kargo (Koli ile gönderim)`
+- **Pazar Talebi:** Metal atölyelerinde sürekli kılavuz çekme ihtiyacı var; elle yapılan kılavuz çekme işlemi çok yavaş ve hata payı yüksek. Profesyonel çözümler ise çok pahalı.
+- **Hedef Alıcılar:** Çelik konstrüksiyon atölyeleri, makine imalatçıları, oto tamirhaneleri, CNC atölyeleri.
+- **Gereken Atölye Aletleri:** `Lazer kesim sac, standart dişli kutusu/redüktör, torna işçiliği, gazaltı kaynak.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://www.cnccookbook.com/wp-content/uploads/2021/07/TA2Persp3D.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Powerx- Hydraulic Equipment - PowerX Hydraulic Pumps](https://www.bing.com/aclick?ld=e8AIUYMrPBBoTDj0O6DgcrpTVUCUyTi5CYi4nIn0R9JDh9M9LfyUJEavYYinVqSc9r3bw9aP5K_pP3kjuCVXMnomPVhqyzF0YqGZb6IKIuxPO0FYYYCpKiWFnsPpOca1S3qVPWjjesB3GXbxq-sJMQF7diK2fPKOYwdXfgtEc4hCOaTjnmoLWso2g3eidb3GYlU4ltPA&u=aHR0cHMlM2ElMmYlMmZwb3dlcnhpbnRlcm5hdGlvbmFsLmNvbSUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNlYXJjaF9CcmFuZF9Db21wZXRpdG9yJTI2dXRtX3Rlcm0lM2RlbGVjdHJpYyUyNTIwaHlkcmF1bGljJTI2dXRtX2NvbnRlbnQlM2QxMjI1OTU3MDYzMDg2NDQ5JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkcGFpZCUyNnV0bV9jYW1wYWlnbiUzZDQ4ODE4NTc1MSUyNnV0bV9jb250ZW50JTNkMTIyNTk1NzA2MzA4NjQ0OSUyNnV0bV90ZXJtJTNkZWxlY3RyaWMlMjUyMGh5ZHJhdWxpYyUyNnBwY19rZXl3b3JkJTNkZWxlY3RyaWMlMjUyMGh5ZHJhdWxpYyUyNmdhZGlkJTNkJTI2bXNjbGtpZCUzZDVhMzMwODlkZjEwNjE3NzhjZWY4NjI1NzZhMTQ3NzIw&rlid=5a33089df1061778cef862576a147720)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [Rovi Accu-Tapper Machine - Portable Tapping Machine](https://www.bing.com/aclick?ld=e8JOlbOy9kjhSI8fjLhp0pPTVUCUxF5pdvpuEGIqpmne0xYP6GwnCFyTAcIorvsboYHmlgHKgj1ay636Xtz2cv9bTnBucrBbzhk8SqbIqbXjgPenCEW76WWdkZ2s7MADDzGOjThx-zKSXIhNFmPvvODfD6dY_Z1ZzEN9flqX5BCotVDOrNXwDE3xK1CYWPRfUGiRiyLg&u=aHR0cHMlM2ElMmYlMmZ3d3cucm92aXByb2R1Y3RzLmNvbSUyZnNwZWNpYWx0eS10b29saW5nLW1hY2hpbmVzJTJmYWNjdS10YXBwZXItcG9ydGFibGUtdGFwcGluZy1tYWNoaW5lJTJmJTNmZGV2aWNlJTNkYyUyNmtleXdvcmQlM2Ryb3ZpcHJvZHVjdHMlMjZjYW1wYWlnbiUzZDQyODA0MTExMyUyNm1zY2xraWQlM2RjY2Q1NzVkNzVlMTcxNmYyNDAxOTFmMWRjNTAzYWZhYyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZCoqTFAlMjUyMERTQSUyNTIwLSUyNTIwQWxsJTI1MjBQYWdlcyUyNnV0bV90ZXJtJTNkcm92aXByb2R1Y3RzJTI2dXRtX2NvbnRlbnQlM2RBbGwlMjUyMFBhZ2Vz&rlid=ccd575d75e1716f240191f1dc503afac)
+
+---
+
+## 7. Motorlu Kompakt Tohum ve Tahıl Temizleme/Eleme Makinesi (⭐ Fırsat: %96 | 📈 Kâr Marjı: %72)
+- **Kategori:** `🌾 Tarım & Gıda İşleme` | **Teknik Adı:** `Compact Motorized Seed and Grain Cleaning Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `4.000 - 6.000 TL`
+- **İnternet Satış Fiyatı:** `15.000 - 22.000 TL`
+- **Kargolama / Lojistik:** `Koli (Kısmen demonte)`
+- **Pazar Talebi:** Küçük çiftçiler ve hobi bahçeciliği yapanlar, hasat ettikleri ürünleri elemek ve temizlemek için profesyonel boyutlarda olmayan, uygun fiyatlı kompakt makineler arıyor.
+- **Hedef Alıcılar:** Küçük ölçekli çiftçiler, hobi bahçıvanları, organik ürün yetiştiricileri.
+- **Gereken Atölye Aletleri:** `Lazer kesim, profil kaynak, basit elektrik panosu montajı.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://www.realseeds.co.uk/images/seed+cleaner2a.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Grain Cleaning machine | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/grain-cleaning-machine-1)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [DIY Seed Cleaning Machine - Grain Cleaning Machine - YouTubehow to make Small grain cleaning machine| sachool science ...DIY Seed Cleaning Machine: Separating Seeds from Chaff with a ...DIY Seed Cleaning Machine - YouTubeDIY Seed Cleaning machine ( limpiador de semilla ) - YouTubeDIY Mini Grain Cleaning Machine | Amazing Cardboard Project ...How to make wheat cleaning machine at home - YouTube](https://www.youtube.com/watch?v=OvKHqVIbE1g)
+
+---
+
+## 8. Hidrolik Destekli Küçük Ölçekli Kutu Profil Köşe Presi (Capping Machine) (⭐ Fırsat: %95 | 📈 Kâr Marjı: %68)
+- **Kategori:** `🏗️ Metal Şekillendirme` | **Teknik Adı:** `Hydraulic Tube End Notching & Forming Press`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `6.000 - 8.500 TL`
+- **İnternet Satış Fiyatı:** `22.000 - 28.000 TL`
+- **Kargolama / Lojistik:** `Palet kargo`
+- **Pazar Talebi:** Profil demirleri birbirine kusursuz birleştirmek için pahalı endüstriyel makinelerin yerini tutabilecek, masaüstü veya kompakt hidrolik preslere yoğun talep var.
+- **Hedef Alıcılar:** Çit üreticileri, korkuluk imalatçıları, otomotiv modifiye atölyeleri.
+- **Gereken Atölye Aletleri:** `Torna, lazer kesim, hidrolik ünite montajı.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://i.ytimg.com/vi/o2QbaVE6bFE/maxresdefault.jpg)
+
+
+---
+
+## 9. Ayarlanabilir Taşınabilir Boru ve Profil Gönye Kesme Aparatı (Testere Standı) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %70)
+- **Kategori:** `🛠️ Atölye & Metal İşleme` | **Teknik Adı:** `Adjustable Miter Saw Stand for Metal Cut-off Saw`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `2.500 - 3.500 TL`
+- **İnternet Satış Fiyatı:** `8.500 - 12.000 TL`
+- **Kargolama / Lojistik:** `Demonte (Düz paket)`
+- **Pazar Talebi:** DIY ustaları ve kaynak atölyeleri hassas gönye kesim için standart makinelere entegre edilebilecek ekonomik çözümler arıyor.
+- **Hedef Alıcılar:** Ev tipi atölyeler, kaynakçılar, mobilya imalatçıları, hobi kullanıcıları.
+- **Gereken Atölye Aletleri:** `Lazer kesim sac, gazaltı kaynak, matkap tezgahı.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://fixthisbuildthat.com/wp-content/uploads/2020/04/miter-saw-stand-plans-narrow.jpg)
+
+- 🖨️ **3D CAD Modeli:** [material support stand for cut off saw etc - GrabCAD](https://grabcad.com/library/material-support-stand-for-cut-off-saw-etc-1)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [DIY Adjustable Miter Saw Platform | Height & Tilt ControlUltimate Budget Metal Miter Saw Setup - DIY project - YouTubeUltimate Cutting Roller Stand for Metal & Wood - YouTubeUltimate Heavy Duty Miter Saw Stand - YouTubeMiter Saw Station | Build It | Ask This Old House - YouTubeAdjustable Miter Saw Platform Build #woodworking #tools #diyULTIMATE DIY Miter Saw Stand | How to Build - YouTube](https://www.youtube.com/watch?v=rk8RhlMjg8c)
+
+---
+
+## 10. Masaüstü Otomatik Kuluçka Çevirme Aparatı ve Kontrol Sistemi (İskelet) (⭐ Fırsat: %91 | 📈 Kâr Marjı: %72)
+- **Kategori:** `🌾 Tarım & Hobi` | **Teknik Adı:** `Automated Egg Turning Rack and Controller System`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `2.000 - 3.500 TL`
+- **İnternet Satış Fiyatı:** `8.500 - 12.000 TL`
+- **Kargolama / Lojistik:** `Kolay Koli`
+- **Pazar Talebi:** Hobi bahçeciliği ve doğal yumurta üretimi popülerleşiyor. İnsanlar kuluçka makinelerini kendileri yapmak istiyor ancak çevirme mekanizması en zor kısım.
+- **Hedef Alıcılar:** Hobi kümes sahipleri, doğal tarım meraklıları, kuluçka makinesi üreticileri.
+- **Gereken Atölye Aletleri:** `Lazer kesim sac veya alüminyum profil, redüktörlü düşük devirli DC motor, basic arduino/röle montajı.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://i.pinimg.com/736x/9d/3c/0e/9d3c0efae4f1a0d07db568cdf04384ca.jpg)
+
+
+---
+
+## 11. Motorlu Taşınabilir Boru ve Profil Boy Kesme (Abrasif Testere) Aparatı (⭐ Fırsat: %92 | 📈 Kâr Marjı: %68)
+- **Kategori:** `🔨 Atölye & Metal İşleme` | **Teknik Adı:** `Portable Abrasive Metal Cut-off Saw Stand`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `3.500 - 5.000 TL`
+- **İnternet Satış Fiyatı:** `12.000 - 16.000 TL`
+- **Kargolama / Lojistik:** `Demonte Paket`
+- **Pazar Talebi:** Sanayi tipi büyük makineler pahalı ve hantal kalıyor. Küçük atölyeler için 45/90 derece hassas kesim yapabilen pratik aparatlara sürekli talep var.
+- **Hedef Alıcılar:** Kendin yap (DIY) kullanıcıları, garaj atölyeleri, hobi demir doğramacıları.
+- **Gereken Atölye Aletleri:** `Lazer kesim sac, torna (mil yataklama için), gazaltı kaynak.`
+
+---
+
+## 12. Kompakt Elektrikli İndüksiyonlu veya Rezistanslı Shrink Ambalaj Makinesi (Tünelsiz) (⭐ Fırsat: %95 | 📈 Kâr Marjı: %70)
+- **Kategori:** `📦 Paketleme & E-Ticaret` | **Teknik Adı:** `Compact Manual Heat Shrink Packaging Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `4.500 - 6.500 TL`
+- **İnternet Satış Fiyatı:** `16.000 - 22.000 TL`
+- **Kargolama / Lojistik:** `Kolay Koli (Masaüstü)`
+- **Pazar Talebi:** E-ticaret yapan küçük işletmelerin ürünlerini profesyonelce paketleme ihtiyacı, özellikle kozmetik ve hediyelik eşya sektöründe yüksek.
+- **Hedef Alıcılar:** Evden satış yapanlar, butik üreticiler, küçük e-ticaret depoları.
+- **Gereken Atölye Aletleri:** `Lazer kesim sac gövde, rezistans kontrol devreleri, elektrik bağlantı ekipmanları.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://www.allpackchina.com/wp-content/uploads/2024/05/Components-Of-I-Bar-Shrink-Wrapping-Machine-With-Heat-Gun.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Heat Shrink Packaging Systems - Packaging Shrink Tunnels](https://www.bing.com/aclick?ld=e8INUPYJuVXXeT4n8MCUFpVTVUCUyLPOyUQ6WEbhO5Oxz3-rmEKbqpKAdbMZUvZC0p_F4ogxCZzBw4ZLalKKXhE1YU4Qu4Z3KRMm4xG-qSoU8lgKV7YBJjLl4q32qxvodHrZfxucolASNZAaYMnmr-yRbLrT3KqeJEXFm_fyziATkBlmlGKZb9QQxqhaJVUiXA4c28Iwsjkxiito_N88rZkruIgrA&u=aHR0cHMlM2ElMmYlMmZtcnNocmlua3dyYXAuY29tJTJmaGVhdC1zaHJpbmstdHVubmVscyUzZldpY2tlZHNvdXJjZSUzZE1pY3Jvc29mdCUyNldpY2tlZGlkJTNkNzg4MjE0NjIxMDQ0MzUlN2NIZWF0JTI1MjBzaHJpbmslMjUyMHBhY2thZ2luZyUyNTIwbWFjaGluZXMlN2NwJTI2d19jYW1wYWlnbmlkJTNkNTkwNDU4ODQ4JTI2d2lja2Vkc291cmNlJTNkZ29vZ2xlJTI2d2lja2VkaWQlM2QlMjZ3X2FkaWQlM2QlMjZ3X2NhbXBhaWduaWQlM2Q1OTA0NTg4NDglMjZtc2Nsa2lkJTNkMGQ0NjcxNzcyZGYxMWQxOWIzY2MxYmJkYjc0OTlmYzYlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RNU1clMjUyMERFQyUyNTIwLSUyNTIwSGVhdCUyNTIwU2hyaW5rJTI1MjBUdW5uZWxzJTI1MjAwNjEyJTI2dXRtX3Rlcm0lM2RIZWF0JTI1MjBzaHJpbmslMjUyMHBhY2thZ2luZyUyNTIwbWFjaGluZXMlMjZ1dG1fY29udGVudCUzZEhlYXQlMjUyMFNocmluayUyNTIwVHVubmVscw&rlid=0d4671772df11d19b3cc1bbdb7499fc6)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [Manual L Sealer with Shrink Tunnel Machine Installation ...Compact Heat Shrink Wrapping Machine | Small Business ...Manual L Sealer with Shrink Wrapping Machine | Compact ...Compact 260 Heat Shrink Machine | Efficient Packaging for ...HSE 25 - Quick Start Guide - Compact Combo Shrink MachineDIY Video Shrink Wrap Machine - YouTubeCompact Heat Shrink Wrapping Machine - Perfect for Small ...](https://www.youtube.com/watch?v=1d9jGRjQLEA)
+
+---
+
+## 13. Yüksek Torklu Elektrikli Çok Amaçlı Boru ve Profil Zımpara ve Pah Kırma Makinesi (⭐ Fırsat: %95 | 📈 Kâr Marjı: %62)
+- **Kategori:** `🔨 Atölye & Metal İşleme` | **Teknik Adı:** `Electric Pipe and Tube Belt Sander (Corner Grinder)`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `7.000 - 9.000 TL`
+- **İnternet Satış Fiyatı:** `20.000 - 26.000 TL`
+- **Kargolama / Lojistik:** `Koli (Demonte gönderilebilir)`
+- **Pazar Talebi:** Korkuluk, mobilya ve paslanmaz metal imalatçıları için boru birleşim yerlerini temizlemek ve pah kırmak en büyük zaman kaybıdır.
+- **Hedef Alıcılar:** Ferforje ustaları, metal mobilya üreticileri, korkuluk imalatçıları.
+- **Gereken Atölye Aletleri:** `Torna, lazer kesim sac parçalar, yataklama mekanizmaları, standart rulmanlar ve motor.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://i.ytimg.com/vi/H5HFKkFCX20/maxresdefault.jpg)
+
+- 🖨️ **3D CAD Modeli:** [belt grinder - Recent models | 3D CAD Model Collection ...](https://grabcad.com/library?page=1&time=all_time&query=belt+grinder)
+- 🎥 **İmalat / Nasıl Yapılır Videosu:** [DIY Angle grinder Belt sander For Tube / pipe - YouTubeMake A Angle Grinder Belt Sander For Tube / Pipe || DIY Angle ...DIY pipe belt sander and polisher-by FAHATMOTORSHow to make a Belt Grinder, in detail from start to finish ...DIY belt sanding machine. Anyone can do this!!! - YouTubeDIY Belt Grinder - YouTubeSo easy!!! Build the world's best belt grinder with free ...](https://www.youtube.com/watch?v=IkaUtryDUQ8)
+
+---
+
+## 14. Dikey Tip Düşük Torklu Yavaş Devirli Metal/Plastik Çapak Alma ve Polisaj Tamburu (Vibrasyonlu) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %60)
+- **Kategori:** `⚙️ Yüzey İşleme & Finisaj` | **Teknik Adı:** `Vibratory Tumbler Polisher`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `8.000 - 10.000 TL`
+- **İnternet Satış Fiyatı:** `22.000 - 28.000 TL`
+- **Kargolama / Lojistik:** `Koli (Demonte gönderilebilir)`
+- **Pazar Talebi:** 3D yazıcı çıktılarını pürüzsüzleştirme, takı üretimi ve metal parçaların çapağını alma ihtiyacı çok yüksek.
+- **Hedef Alıcılar:** Takı tasarımcıları, 3D baskı atölyeleri, küçük metal parça imalatçıları.
+- **Gereken Atölye Aletleri:** `Sac bükme, balans ayarlı motor montajı, poliüretan kaplama (veya kova içi izolasyon), güçlü vibrasyon motoru.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://laserbros.shop/cdn/shop/files/2_3128fe91-4bac-4781-9a99-9495f33fd085.png?v=1724679420&width=1946)
+
+
+---
+
+## 15. Ayarlanabilir Pnömatik veya Manuel Küçük Ölçekli Poşet Vakum Kapama Makinesi (⭐ Fırsat: %96 | 📈 Kâr Marjı: %65)
+- **Kategori:** `📦 Paketleme & Gıda İşleme` | **Teknik Adı:** `Tabletop Chamber Vacuum Sealer`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
+- **Tahmini Malzeme Maliyeti:** `12.000 - 15.000 TL`
+- **İnternet Satış Fiyatı:** `35.000 - 45.000 TL`
+- **Kargolama / Lojistik:** `Kolay Koli (Masaüstü tipi)`
+- **Pazar Talebi:** E-ticaret ile küçük üreticilerin (baharat, kuruyemiş, kurutulmuş gıda) profesyonel paketleme ihtiyacı patlama yaşıyor.
+- **Hedef Alıcılar:** Ev tipi üreticiler, butik kahveciler, gıda işletmecileri.
+- **Gereken Atölye Aletleri:** `Lazer kesim paslanmaz sac, TIG kaynak, sızdırmazlık contası montajı, vakum pompası entegrasyonu.`
+
+#### 📐 2D Teknik Çizim / Kesit:
+![Teknik Çizim](https://i.ytimg.com/vi/j34XXIg9YwA/maxresdefault.jpg)
+
+- 🖨️ **3D CAD Modeli:** [vacuum chamber - Recent models | 3D CAD Model Collection - GrabCAD](https://grabcad.com/library/tag/vacuum+chamber)
+
+---
+
+## 16. Masaüstü Pnömatik Parfüm ve Şişe Sıvama (Capping) Makinesi (⭐ Fırsat: %94 | 📈 Kâr Marjı: %76)
 - **Kategori:** `📦 Dolum, Kozmetik & Paketleme` | **Teknik Adı:** `Pneumatic Desktop Perfume Spray Vial Capping Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `3.800 - 5.200 TL`
 - **İnternet Satış Fiyatı:** `16.500 - 22.500 TL`
 - **Kargolama / Lojistik:** `Kolay Koli / Standart Yurtiçi & Yurtdışı Kargo (10-14 kg)`
@@ -21,8 +277,9 @@
 
 ---
 
-## 2. Kompakt Disk ve Kayış Zımpara Çapak Alma Aparatı (Açı Ayarlı) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %74)
+## 17. Kompakt Disk ve Kayış Zımpara Çapak Alma Aparatı (Açı Ayarlı) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %74)
 - **Kategori:** `🔨 Atölye & Metal/Ahşap İşleme` | **Teknik Adı:** `Combination 12 Inch Disc and 4x36 Belt Sander Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `4.500 - 6.200 TL`
 - **İnternet Satış Fiyatı:** `18.500 - 24.000 TL`
 - **Kargolama / Lojistik:** `Karton Koli / Standart Kargo (Demonte Açı Tablası, 18-22 kg)`
@@ -36,8 +293,9 @@
 
 ---
 
-## 3. Kompakt Motorlu Pelet Yem ve Yakıt Presi (Düz Diskli) (⭐ Fırsat: %95 | 📈 Kâr Marjı: %70)
+## 18. Kompakt Motorlu Pelet Yem ve Yakıt Presi (Düz Diskli) (⭐ Fırsat: %95 | 📈 Kâr Marjı: %70)
 - **Kategori:** `🌾 Tarım, Hayvancılık & Biyokütle` | **Teknik Adı:** `Flat Die Pellet Mill (Feed & Wood Pellet Machine)`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `16.000 - 22.000 TL`
 - **İnternet Satış Fiyatı:** `58.000 - 75.000 TL`
 - **Kargolama / Lojistik:** `Ahşap Sandık / Paletli Ambar veya Ağır Kargo (60-80 kg)`
@@ -53,8 +311,9 @@
 
 ---
 
-## 4. Kompakt Motorlu Kanatlı Tüy Yolma Makinesi (⭐ Fırsat: %92 | 📈 Kâr Marjı: %73)
+## 19. Kompakt Motorlu Kanatlı Tüy Yolma Makinesi (⭐ Fırsat: %92 | 📈 Kâr Marjı: %73)
 - **Kategori:** `🌾 Tarım & Hayvancılık Ekipmanları` | **Teknik Adı:** `Electric Rotary Poultry Plucker Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `4.800 - 6.800 TL`
 - **İnternet Satış Fiyatı:** `18.500 - 27.000 TL`
 - **Kargolama / Lojistik:** `Demonte Ayaklı Büyük Koli (25-30 kg, Ambar veya Anlaşmalı Desi Kargo)`
@@ -70,8 +329,9 @@
 
 ---
 
-## 5. Üniversal Kompakt Lama ve Çubuk Bükme Aparatı (Manuel) (⭐ Fırsat: %94 | 📈 Kâr Marjı: %75)
+## 20. Üniversal Kompakt Lama ve Çubuk Bükme Aparatı (Manuel) (⭐ Fırsat: %94 | 📈 Kâr Marjı: %75)
 - **Kategori:** `🔨 Atölye & Metal Şekillendirme` | **Teknik Adı:** `Universal Compact Metal Bender (Di-Acro Style)`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `1.900 - 2.700 TL`
 - **İnternet Satış Fiyatı:** `7.500 - 11.500 TL`
 - **Kargolama / Lojistik:** `Kompakt Yassı Kutu (Kalıp aparatlarıyla birlikte 14-18 kg, Kolay Kargo)`
@@ -87,8 +347,9 @@
 
 ---
 
-## 6. Masaüstü Motorlu Kaynak Pozisyoneri (Döner Tabla) (⭐ Fırsat: %96 | 📈 Kâr Marjı: %74)
+## 21. Masaüstü Motorlu Kaynak Pozisyoneri (Döner Tabla) (⭐ Fırsat: %96 | 📈 Kâr Marjı: %74)
 - **Kategori:** `⚡ Kaynak & Metal İmalat` | **Teknik Adı:** `Benchtop Rotary Welding Positioner Turntable`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `3.800 - 5.200 TL`
 - **İnternet Satış Fiyatı:** `16.500 - 24.000 TL`
 - **Kargolama / Lojistik:** `Tek Koli (Demonte Mandrenli, 18-22 kg, Standart Yurtiçi/Yurtdışı Kargo)`
@@ -103,8 +364,9 @@
 
 ---
 
-## 7. Masaüstü Sac Kordon / Form Verme Makinesi (⭐ Fırsat: %98 | 📈 Kâr Marjı: %76)
+## 22. Masaüstü Sac Kordon / Form Verme Makinesi (⭐ Fırsat: %98 | 📈 Kâr Marjı: %76)
 - **Kategori:** `🔧 Metal İşleme & Restorasyon` | **Teknik Adı:** `Bead Roller for Sheet Metal`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `5.000 - 7.500 TL`
 - **İnternet Satış Fiyatı:** `22.000 - 32.000 TL`
 - **Kargolama / Lojistik:** `Ağır Hizmet Kolisi / Ambar`
@@ -120,8 +382,9 @@
 
 ---
 
-## 8. Elektrikli Tambur Elek (Kompost ve Toprak Eleme) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %77)
+## 23. Elektrikli Tambur Elek (Kompost ve Toprak Eleme) (⭐ Fırsat: %92 | 📈 Kâr Marjı: %77)
 - **Kategori:** `🌱 Tarım & Bahçe Ekipmanları` | **Teknik Adı:** `Electric Trommel Sifter`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `8.000 - 11.000 TL`
 - **İnternet Satış Fiyatı:** `35.000 - 48.000 TL`
 - **Kargolama / Lojistik:** `Yarı-Demontaj / Paletli Kargo`
@@ -137,8 +400,9 @@
 
 ---
 
-## 9. Masaüstü Vakum Şekillendirme Makinesi (Termoform) (⭐ Fırsat: %95 | 📈 Kâr Marjı: %75)
+## 24. Masaüstü Vakum Şekillendirme Makinesi (Termoform) (⭐ Fırsat: %95 | 📈 Kâr Marjı: %75)
 - **Kategori:** `🛠️ Prototipleme & Hobi İmalat` | **Teknik Adı:** `Desktop Vacuum Forming Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `4.500 - 6.500 TL`
 - **İnternet Satış Fiyatı:** `18.000 - 26.000 TL`
 - **Kargolama / Lojistik:** `Koli / Demonte Gönderilebilir`
@@ -152,8 +416,9 @@
 
 ---
 
-## 10. Elektrikli Burgulu Kütük ve Odun Yarma Makinesi (⭐ Fırsat: %92 | 📈 Kâr Marjı: %73)
+## 25. Elektrikli Burgulu Kütük ve Odun Yarma Makinesi (⭐ Fırsat: %92 | 📈 Kâr Marjı: %73)
 - **Kategori:** `🌾 Tarım, Orman & Bahçe Makineleri` | **Teknik Adı:** `Electric Screw Cone Log Splitter`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `5.000 - 7.000 TL`
 - **İnternet Satış Fiyatı:** `21.000 - 29.000 TL`
 - **Kargolama / Lojistik:** `Kompakt Palet veya Sandık (Demonte Ayaklar ile Tek Kutu, 40-50 kg)`
@@ -169,8 +434,9 @@
 
 ---
 
-## 11. Masaüstü Çift Milli Plastik ve Atık Parçalayıcı (Precious Plastic Tipi) (⭐ Fırsat: %94 | 📈 Kâr Marjı: %74)
+## 26. Masaüstü Çift Milli Plastik ve Atık Parçalayıcı (Precious Plastic Tipi) (⭐ Fırsat: %94 | 📈 Kâr Marjı: %74)
 - **Kategori:** `♻️ Geri Dönüşüm & Çevre Teknolojileri` | **Teknik Adı:** `Desktop Dual Shaft Plastic Shredder Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `6.500 - 8.500 TL`
 - **İnternet Satış Fiyatı:** `28.000 - 38.000 TL`
 - **Kargolama / Lojistik:** `Demonte Paket / Tek Ağır Koli (25-30 kg, kargo firmaları standart taşır)`
@@ -184,8 +450,9 @@
 
 ---
 
-## 12. Ağır Hizmet Boru ve Profil Çentik Açma Aparatı (Tube Notcher) (⭐ Fırsat: %96 | 📈 Kâr Marjı: %78)
+## 27. Ağır Hizmet Boru ve Profil Çentik Açma Aparatı (Tube Notcher) (⭐ Fırsat: %96 | 📈 Kâr Marjı: %78)
 - **Kategori:** `🔨 Atölye & Metal İşleme` | **Teknik Adı:** `Heavy Duty Industrial Tube and Pipe Notcher`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `2.200 - 3.200 TL`
 - **İnternet Satış Fiyatı:** `11.500 - 16.500 TL`
 - **Kargolama / Lojistik:** `Kolay Koli (Karton Kutu İçinde Demonte/Yarı Monteli, 7-10 kg)`
@@ -201,8 +468,9 @@
 
 ---
 
-## 13. Motorlu Kompakt Profil ve Boru Bükme Makinesi (Vals Kıvırma) (⭐ Fırsat: %93 | 📈 Kâr Marjı: %73)
+## 28. Motorlu Kompakt Profil ve Boru Bükme Makinesi (Vals Kıvırma) (⭐ Fırsat: %93 | 📈 Kâr Marjı: %73)
 - **Kategori:** `🔨 Atölye & Metal İşleme` | **Teknik Adı:** `Electric Tube and Pipe Roll Bender (Section Bender)`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `9.500 - 13.000 TL`
 - **İnternet Satış Fiyatı:** `38.000 - 48.000 TL`
 - **Kargolama / Lojistik:** `Kompakt Sandıklı Kargo (45-55 kg, ambar veya ağır kargo taşımacılığı)`
@@ -218,8 +486,9 @@
 
 ---
 
-## 14. Masaüstü Manuel Plastik Enjeksiyon Makinesi (Kaldıraç Kollu) (⭐ Fırsat: %94 | 📈 Kâr Marjı: %78)
+## 29. Masaüstü Manuel Plastik Enjeksiyon Makinesi (Kaldıraç Kollu) (⭐ Fırsat: %94 | 📈 Kâr Marjı: %78)
 - **Kategori:** `♻️ Geri Dönüşüm & Prototipleme` | **Teknik Adı:** `Desktop Manual Lever Plastic Injection Molding Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `4.800 - 6.800 TL`
 - **İnternet Satış Fiyatı:** `24.000 - 34.000 TL`
 - **Kargolama / Lojistik:** `Demonte Koli (18-24 kg, kargo şubelerinden rahatça sevk edilebilir)`
@@ -233,8 +502,9 @@
 
 ---
 
-## 15. Masaüstü Manuel Yuvarlak Şişe ve Kavanoz Etiketleme Aparatı (⭐ Fırsat: %96 | 📈 Kâr Marjı: %80)
+## 30. Masaüstü Manuel Yuvarlak Şişe ve Kavanoz Etiketleme Aparatı (⭐ Fırsat: %96 | 📈 Kâr Marjı: %80)
 - **Kategori:** `📦 Ambalaj & Paketleme Aparatları` | **Teknik Adı:** `Manual Round Bottle Labeling Machine / Applicator`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `1.400 - 2.200 TL`
 - **İnternet Satış Fiyatı:** `7.500 - 11.500 TL`
 - **Kargolama / Lojistik:** `Kolay Koli (Demonte veya Monteli, 6-8 kg, standart kargo)`
@@ -249,8 +519,9 @@
 
 ---
 
-## 16. Elektrikli Redüktörlü Hurda Kablo Soyma Makinesi (⭐ Fırsat: %94 | 📈 Kâr Marjı: %72)
+## 31. Elektrikli Redüktörlü Hurda Kablo Soyma Makinesi (⭐ Fırsat: %94 | 📈 Kâr Marjı: %72)
 - **Kategori:** `♻️ Geri Dönüşüm & Şantiye Aletleri` | **Teknik Adı:** `Motorized Scrap Copper Wire Stripping Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `4.200 - 5.800 TL`
 - **İnternet Satış Fiyatı:** `17.000 - 23.500 TL`
 - **Kargolama / Lojistik:** `Kompakt Ağır Koli / MNG-Yurtiçi Kargo (20-25 kg)`
@@ -266,8 +537,9 @@
 
 ---
 
-## 17. Masaüstü Pnömatik Sıvı ve Macun Dolum Makinesi (50-500 ml) (⭐ Fırsat: %93 | 📈 Kâr Marjı: %73)
+## 32. Masaüstü Pnömatik Sıvı ve Macun Dolum Makinesi (50-500 ml) (⭐ Fırsat: %93 | 📈 Kâr Marjı: %73)
 - **Kategori:** `📦 Paketleme & Kimya / Gıda` | **Teknik Adı:** `Desktop Semi-Automatic Pneumatic Piston Filling Machine`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `4.800 - 6.800 TL`
 - **İnternet Satış Fiyatı:** `19.500 - 27.000 TL`
 - **Kargolama / Lojistik:** `Tek Koli / Standart Kargo (15-20 kg)`
@@ -281,8 +553,9 @@
 
 ---
 
-## 18. 2x72 İnç Bant Zımpara Tezgahı (Bıçakçı ve Metalci Tipi) (⭐ Fırsat: %96 | 📈 Kâr Marjı: %74)
+## 33. 2x72 İnç Bant Zımpara Tezgahı (Bıçakçı ve Metalci Tipi) (⭐ Fırsat: %96 | 📈 Kâr Marjı: %74)
 - **Kategori:** `🔨 Atölye & Metal İşleme` | **Teknik Adı:** `2x72 Belt Grinder Chassis and Tool Arm System`
+- 🇹🇷 **Türkiye Pazarı Durumu:** `Türkiye'de Çok Nadir / İthal Bağımlı`
 - **Tahmini Malzeme Maliyeti:** `6.500 - 8.500 TL`
 - **İnternet Satış Fiyatı:** `26.000 - 34.000 TL`
 - **Kargolama / Lojistik:** `Demonte Paket / 2 Adet Ağır Hizmet Karton Koli`

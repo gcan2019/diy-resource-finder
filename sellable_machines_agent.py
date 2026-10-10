@@ -110,33 +110,40 @@ CATEGORIES = [
 # Yapay Zeka ile Satılabilir Makine Keşfi
 # ──────────────────────────────────────────────
 def discover_sellable_machines(client: genai.Client, category_filter: str, existing_names: list[str]) -> list[dict]:
-    prompt = f"""Sen deneyimli bir Makine İmalatçısı, E-Ticaret Girişimcisi ve KOBİ Stratejistisin.
-GÖREV:
-Bir küçük/orta boy atölyede (lazer kesim sac parçalar, profil demir, basit torna işleri, standart rulmanlar ve elektrik motorları kullanılarak)
-imal edilebilecek ve internet üzerinden (Sahibinden, Trendyol, Hepsiburada, Instagram veya yurt dışına Etsy/eBay)
-doğrudan son kullanıcıya, ustalara, çiftçilere veya atölyelere SATILABİLECEK 3 ADET YÜKSEK KÂR MARJLI MAKİNE / APARAT tespit et.
+    prompt = f"""Sen Türkiye imalat sektörünü, ithalat bağımlılıklarını, gümrük vergilerini, KOBİ ve küçük atölye imkanlarını çok iyi bilen kıdemli bir Makine İmalat Mühendisi ve E-Ticaret Girişimcisisin.
 
-Kapsam: Alan fark etmez (Sağlı sollu: Atölye aletleri, tarım makineleri, dolum/paketleme, geri dönüşüm/plastik, sac/boru aparatları).
+TEMEL HEDEF:
+TÜRKİYE'DE YA HİÇ ÜRETİLMEYEN YA DA ÇOK AZ / ÇOK PAHALI BULUNAN (İTHALAT VE GÜMRÜK BAĞIMLILIĞI OLAN),
+ancak küçük/orta ölçekli bir Türk atölyesinde (lazer kesim sac, profil çelik, standart torna işleri, piyasada satılan standart rulman, kayış-kasnak ve elektrik motorları ile) kolayca üretilebilecek ve internetten (Sahibinden, Trendyol, Hepsiburada, Instagram veya yurt dışına Etsy/eBay) satıldığında KAPIŞ KAPIŞ GİDECEK 3 ADET YÜKSEK KÂR MARJLI NİŞ MAKİNE / APARAT tespit et.
+
+ÖNCELİK KRİTERLERİ (TÜRKİYE PAZARI ODAKLI):
+1. 🇹🇷 TÜRKİYE'DE YOKLUK / AZLIK DERECESİ: İnsanlar bunu ya Çin'den (Alibaba, AliExpress, Amazon) yüksek gümrük vergileri ve uzun kargo süreleriyle getirtmeye çalışıyor olmalı, ya da Türkiye'de birkaç kişi fahiş fiyatlara satıyor olmalı.
+2. 🔨 ATÖLYEDE YAPILABİLİRLİK: Komple döküm gövde veya 5 eksen CNC gerektirmeyen; lazer sac kesim + büküm + torna pimi/mili + kaynak + standart motor/redüktör ile toplanabilen mekanizmalar olmalı.
+3. 📦 KARGOLANABİLİRLİK: Boyutları aşırı devasa olmayan (demonte koli veya kompakt kargo ile tüm Türkiye'ye gönderilebilen).
+4. 💰 YÜKSEK KÂR MARJI: Malzeme ve işçilik maliyeti uygun, ancak piyasada bulunamadığı veya ithali pahalı olduğu için 3x - 5x kâr marjıyla satılabilecek.
+
+Kapsam: Alan fark etmez (Sağlı sollu: Atölye ve metal işleme aparatları, niş tarım ve gıda makineleri, dolum/paketleme/etiketleme, mini geri dönüşüm/plastik/filament, sac/boru bükme/çentikleme aparatları).
+
 Mevcut listede zaten olan makineler (tekrar etme):
 {existing_names}
-
-Her bir makine için gerçekçi maliyet, satış fiyatı, kâr marjı ve pazar analizi yap.
 
 Aşağıdaki JSON şemasında çıktı ver:
 {{
   "machines": [
     {{
-      "machine_name": "Türkçe Makine Adı (Örn: 2x72 Bant Zımpara Tezgahı)",
-      "english_name": "İngilizce Teknik Adı (Örn: 2x72 Belt Grinder)",
-      "category": "Kategori Adı (Örn: 🔨 Atölye & Metal İşleme)",
+      "machine_name": "Türkçe Makine Adı (Örn: Manyetik Tabla Sac Caka Bükme Makinesi)",
+      "english_name": "İngilizce Teknik Adı (Örn: Sheet Metal Magnetic Box and Pan Brake)",
+      "category": "Kategori Adı (Örn: ⚡ Sac & Metal İşleme Aparatları)",
+      "turkey_availability": "Türkiye'de Yok / İthalatı Çok Pahalı / Çok Az Üretici Var (Örn: 'Türkiye'de Yok - Sadece İthal Var')",
+      "turkey_market_reason": "Türkiye'de neden yok veya az? Yerli üreticiler neden atlamış, ustalar neden bunu arıyor?",
       "estimated_material_cost_tl": "Tahmini Malzeme Maliyeti TL (Örn: 5.500 - 7.500 TL)",
       "online_sales_price_tl": "İnternet Satış Fiyatı TL (Örn: 24.000 - 32.000 TL)",
       "profit_margin_percent": 75,
       "shipping_ease": "Kolay Koli / Demonte Paket / Palet / Kargo Tipi",
       "market_demand": "Neden internette çok satılır? Talep nereden geliyor?",
-      "target_customers": "Kimler satın alır? (Örn: Hobi bıçakçıları, demir doğramacılar, kaynak atölyeleri)",
+      "target_customers": "Kimler satın alır? (Örn: Havalandırmacılar, pano üreticileri, hobi demircileri)",
       "required_workshop_tools": "İmalat için gereken asgari aletler (Örn: Gazaltı kaynak, torna, lazer kesim sac siparişi)",
-      "opportunity_score": 90-98 arası tamsayı,
+      "opportunity_score": 90-99 arası tamsayı,
       "blueprint_search_term": "Teknik çizim arama terimi",
       "cad_search_term": "3D CAD modeli arama terimi",
       "video_search_term": "İmalat/yapım videosu arama terimi"
@@ -228,8 +235,14 @@ def update_sellable_machines_report(db: dict):
         tools = m.get("required_workshop_tools", "")
         score = m.get("opportunity_score", 90)
         
+        tr_avail = m.get("turkey_availability", "Türkiye'de Çok Nadir / İthal Bağımlı")
+        tr_reason = m.get("turkey_market_reason", "")
+
         lines.append(f"## {idx}. {mname} (⭐ Fırsat: %{score} | 📈 Kâr Marjı: %{margin})")
         lines.append(f"- **Kategori:** `{cat}` | **Teknik Adı:** `{eng_name}`")
+        lines.append(f"- 🇹🇷 **Türkiye Pazarı Durumu:** `{tr_avail}`")
+        if tr_reason:
+            lines.append(f"- 🔎 **Neden Türkiye'de Yok/Az:** {tr_reason}")
         lines.append(f"- **Tahmini Malzeme Maliyeti:** `{cost}`")
         lines.append(f"- **İnternet Satış Fiyatı:** `{price}`")
         lines.append(f"- **Kargolama / Lojistik:** `{shipping}`")
