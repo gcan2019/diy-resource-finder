@@ -30,6 +30,16 @@
       "variant_type": "technical_drawing",
       "reason": "Image 2 is a standard engineering blueprint of a two-bolt flanged bearing unit (UCFL type), which represents the core housing component utilized in the reference assembly.",
       "discovered_at": "2026-10-10 14:58:16"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği",
+      "title": "Arrangements and their bearing types | SKF",
+      "page_url": "https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types",
+      "candidate_image_url": "https://cdn.skfmediahub.skf.com/api/public/0901d196805ecdd5/png_highpreview_800/0901d196805ecdd5_png_highpreview_800.png",
+      "score": 85,
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 shows a technical cross-section of a flanged bearing housing and shaft assembly, which is a detailed schematic representation of the mechanism seen in Image 1.",
+      "discovered_at": "2026-10-10 14:58:59"
     }
   ]
 }
