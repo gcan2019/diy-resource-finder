@@ -1,0 +1,10 @@
+# API key ve gizli bilgiler
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
