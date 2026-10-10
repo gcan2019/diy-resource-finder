@@ -1,10 +1,11 @@
 """
-Otonom Görsel Araştırma Ajanı (Autonomous Visual Research Agent)
-----------------------------------------------------------------
+Otonom Görsel Araştırma Ajanı (Kesintisiz / Sürekli Keşif Motoru)
+-----------------------------------------------------------------
+Hiç beklemeden, buldukça daha derine inen ve sürekli üzerine ekleyen otonom döngü.
+
 Kullanım:
-    python autonomous_agent.py --target targets/ornek.jpg          # Tek seferlik tarama
-    python autonomous_agent.py --watch-dir targets/                # targets klasöründeki tüm hedefleri tara
-    python autonomous_agent.py --daemon --interval 3600            # Sürekli arka planda çalış (her saat başı tara)
+    python autonomous_agent.py --continuous          # Kesintisiz, ardışık turlar halinde sürekli tara
+    python autonomous_agent.py --target targets/x.png # Tek bir hedefe odaklan
 """
 
 import os
@@ -15,6 +16,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
+
 import json
 import time
 import argparse
@@ -77,7 +79,6 @@ def update_markdown_catalog(kb: dict):
         ""
     ]
 
-    # Hedeflere göre grupla
     discoveries = kb.get("discoveries", [])
     if not discoveries:
         lines.append("_Henüz doğrulanmış keşif bulunamadı._\n")
@@ -123,31 +124,51 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
     raise last_err
 
 # ──────────────────────────────────────────────
-# 1. Aşama: Hedef Analizi ve Arama Terimleri
+# Dinamik & Sürekli Derinleşen Arama Terimleri
 # ──────────────────────────────────────────────
-def analyze_target_image(client: genai.Client, target_img_bytes: bytes) -> dict:
-    prompt = """Analyze this reference mechanism/product image. 
+FOCUS_ANGLES = [
+    ("📐 Teknik Resim & Kesit Planları", "technical drawing cross section dimension blueprint CAD diagram"),
+    ("🖨️ 3D CAD, GrabCAD & STL Modeller", "GrabCAD 3D model STEP STL Thingiverse free download"),
+    ("🎥 İmalat, Torna & Yapım Videoları", "machining fabrication lathe build DIY assembly tutorial youtube"),
+    ("🔧 Montaj Detayları, Keçe & Miller", "shaft mounting seal arrangement tolerance exploded assembly view"),
+    ("📌 Alternatif Mekanizmalar & Tasarımlar", "alternative design mechanism variations DIY project ideas")
+]
+
+def generate_adaptive_queries(client: genai.Client, target_name: str, round_num: int, recent_titles: list[str]) -> list[str]:
+    focus_title, focus_keywords = FOCUS_ANGLES[round_num % len(FOCUS_ANGLES)]
+    
+    prompt = f"""Target mechanism: "{target_name}".
+Current Research Round: #{round_num} (Focus: {focus_title}).
+Recent findings we already have: {recent_titles[-4:] if recent_titles else 'None yet'}.
+
+Generate 3 NEW, highly specific, diverse search queries targeting this round's focus: "{focus_keywords}".
+Ensure queries find real CAD blueprints, DIY build videos, or technical diagrams on the web.
 Return JSON:
-{
-  "target_name": "Exact specific name in English and Turkish",
-  "search_terms": [
-    "specific search term 1 for technical drawings / blueprints",
-    "specific search term 2 for DIY build tutorials / CAD models",
-    "specific search term 3 for pinterest mechanism ideas"
+{{
+  "queries": [
+    "query 1",
+    "query 2",
+    "query 3"
   ]
-}"""
-    res = safe_generate_content(
-        client,
-        contents=[
-            types.Part.from_text(text=prompt),
-            types.Part.from_bytes(data=target_img_bytes, mime_type="image/jpeg")
-        ],
-        config=types.GenerateContentConfig(response_mime_type="application/json")
-    )
-    return json.loads(res.text)
+}}"""
+
+    try:
+        res = safe_generate_content(
+            client,
+            contents=[types.Part.from_text(text=prompt)],
+            config=types.GenerateContentConfig(response_mime_type="application/json")
+        )
+        data = json.loads(res.text)
+        return data.get("queries", [f"{target_name} {focus_keywords}"])
+    except Exception:
+        return [
+            f"{target_name} {focus_keywords}",
+            f"{target_name} blueprint dimensions",
+            f"{target_name} CAD 3D model"
+        ]
 
 # ──────────────────────────────────────────────
-# 2. Aşama: Webden Aday Görselleri Toplama
+# Webden Aday Görselleri Toplama (DDGS)
 # ──────────────────────────────────────────────
 def harvest_candidates(search_terms: list[str], max_per_term: int = 5) -> list[dict]:
     ddgs = DDGS()
@@ -171,12 +192,12 @@ def harvest_candidates(search_terms: list[str], max_per_term: int = 5) -> list[d
                     })
             time.sleep(1)
         except Exception as e:
-            print(f"[Arama Hatası ({term})]: {e}")
+            print(f"   [Arama Uyarısı ({term[:30]})]: {e}")
             
     return candidates
 
 # ──────────────────────────────────────────────
-# 3. Aşama: Görsel İndirme (Thumbnail / Resim)
+# Görsel İndirme
 # ──────────────────────────────────────────────
 def fetch_image_bytes(url: str, timeout: int = 8) -> bytes | None:
     try:
@@ -186,20 +207,15 @@ def fetch_image_bytes(url: str, timeout: int = 8) -> bytes | None:
         )
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             data = resp.read()
-            # Geçerli bir resim mi kontrol et
             Image.open(io.BytesIO(data))
             return data
     except Exception:
         return None
 
 # ──────────────────────────────────────────────
-# 4. Aşama: Gemini Vision ile İkili Karşılaştırma & Doğrulama
+# Gemini Vision ile İkili Karşılaştırma & Doğrulama
 # ──────────────────────────────────────────────
 def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: bytes, target_name: str) -> dict:
-    """
-    Referans resim ile bulunan aday resmi yan yana Gemini Vision'a verir.
-    Teknik benzerlik skoru ve geçerlilik onayı ister.
-    """
     prompt = f"""You are a strict mechanical/product verification inspector.
 Compare these two images:
 - Image 1 is the REFERENCE product/mechanism (Target: {target_name}).
@@ -227,114 +243,128 @@ Return JSON:
         )
         return json.loads(res.text)
     except Exception as e:
-        print(f"[Doğrulama Hatası]: {e}")
         return {"verified": False, "score": 0, "reason": str(e)}
 
 # ──────────────────────────────────────────────
-# 5. Aşama: Ana Otonom İş Akışı (Research Cycle)
+# Sürekli Keşif Döngüsü
 # ──────────────────────────────────────────────
-def run_research_for_target(client: genai.Client, target_img_path: Path):
-    print(f"\n🎯 [Hedef İnceleniyor]: {target_img_path.name}")
+def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_rounds: int = 50):
+    print(f"\n=======================================================")
+    print(f"🚀 KESİNTİSİZ OTONOM KEŞİF BAŞLATILDI: {target_img_path.name}")
+    print(f"=======================================================")
+
     ref_bytes = target_img_path.read_bytes()
 
-    # 1. Hedefin analizini ve arama terimlerini çıkar
-    analysis = analyze_target_image(client, ref_bytes)
-    target_name = analysis.get("target_name", target_img_path.stem)
-    queries = analysis.get("search_terms", [])
-    print(f"   Tanımlandı: {target_name}")
-    print(f"   Arama Sorguları: {queries}")
+    # Hedef adını analiz et
+    try:
+        desc_res = safe_generate_content(
+            client,
+            contents=[
+                types.Part.from_text(text="What is this mechanism/part? Return only its short technical name in English/Turkish."),
+                types.Part.from_bytes(data=ref_bytes, mime_type="image/jpeg")
+            ],
+            config=types.GenerateContentConfig(temperature=0.1)
+        )
+        target_name = desc_res.text.strip().replace('"', '')
+    except Exception:
+        target_name = target_img_path.stem
 
-    # 2. İnternetten aday görselleri topla
-    print("   🌐 Adaylar taranıyor...")
-    candidates = harvest_candidates(queries, max_per_term=4)
-    print(f"   Toplam {len(candidates)} potansiyel aday bulundu.")
+    print(f"🎯 Hedef Tanımlandı: {target_name}\n")
 
     kb = load_knowledge_base()
     known_urls = {item.get("page_url") for item in kb.get("discoveries", [])}
+    past_titles = [item.get("title", "") for item in kb.get("discoveries", [])]
 
-    new_discoveries_count = 0
+    round_num = 1
 
-    # 3. Her adayı görsel olarak indir ve Gemini Vision ile doğrula
-    for idx, cand in enumerate(candidates, 1):
-        page_url = cand.get("page_url", "")
-        img_url = cand.get("image_url", "")
+    while round_num <= max_rounds:
+        focus_title, _ = FOCUS_ANGLES[round_num % len(FOCUS_ANGLES)]
+        print(f"\n--- [TUR #{round_num}] Odak: {focus_title} ---")
 
-        # Daha önce bulduysak atla
-        if page_url in known_urls:
-            continue
+        # Yeni sorgular üret
+        queries = generate_adaptive_queries(client, target_name, round_num, past_titles)
+        print(f"🔍 Yeni Arama Sorguları: {queries}")
 
-        print(f"   [{idx}/{len(candidates)}] Aday görsel indiriliyor: {cand.get('title')[:35]}...")
-        cand_bytes = fetch_image_bytes(img_url)
-        if not cand_bytes:
-            continue
+        candidates = harvest_candidates(queries, max_per_term=5)
+        print(f"📦 {len(candidates)} potansiyel aday toplandı. Doğrulama başlıyor...")
 
-        # Gemini Vision Hakemliği
-        verdict = verify_candidate(client, ref_bytes, cand_bytes, target_name)
-        score = verdict.get("score", 0)
-        verified = verdict.get("verified", False)
+        new_in_this_round = 0
 
-        if verified and score >= 75:
-            print(f"      ✅ DOĞRULANDI! (Skor: %{score}) -> {verdict.get('reason')}")
-            discovery_record = {
-                "target_name": target_name,
-                "title": cand.get("title"),
-                "page_url": page_url,
-                "candidate_image_url": img_url,
-                "score": score,
-                "variant_type": verdict.get("variant_type"),
-                "reason": verdict.get("reason"),
-                "discovered_at": time.strftime("%Y-%m-%d %H:%M:%S")
-            }
-            kb["discoveries"].append(discovery_record)
-            known_urls.add(page_url)
-            new_discoveries_count += 1
-            # Anında kaydet
-            save_knowledge_base(kb)
-            update_markdown_catalog(kb)
-        else:
-            print(f"      ❌ Elendi (Skor: %{score}): {verdict.get('reason')}")
+        for cand in candidates:
+            page_url = cand.get("page_url", "")
+            img_url = cand.get("image_url", "")
 
-    print(f"🎉 Hedef Tamamlandı: {new_discoveries_count} yeni doğrulanmış kaynak kütüphaneye eklendi.")
+            if page_url in known_urls:
+                continue
+
+            cand_bytes = fetch_image_bytes(img_url)
+            if not cand_bytes:
+                continue
+
+            # Gemini Vision Hakemliği
+            verdict = verify_candidate(client, ref_bytes, cand_bytes, target_name)
+            score = verdict.get("score", 0)
+            verified = verdict.get("verified", False)
+
+            if verified and score >= 75:
+                print(f"   ✅ DOĞRULANDI (%{score}) -> {cand.get('title')[:45]}...")
+                print(f"      Gerekçe: {verdict.get('reason')}")
+                
+                discovery_record = {
+                    "target_name": target_name,
+                    "title": cand.get("title"),
+                    "page_url": page_url,
+                    "candidate_image_url": img_url,
+                    "score": score,
+                    "variant_type": verdict.get("variant_type"),
+                    "reason": verdict.get("reason"),
+                    "discovered_at": time.strftime("%Y-%m-%d %H:%M:%S")
+                }
+                kb["discoveries"].append(discovery_record)
+                known_urls.add(page_url)
+                past_titles.append(cand.get("title", ""))
+                new_in_this_round += 1
+
+                # Anında dosyaya işle
+                save_knowledge_base(kb)
+                update_markdown_catalog(kb)
+            else:
+                print(f"   ❌ Elendi (%{score}): {verdict.get('reason')[:60]}...")
+
+        total_count = len(kb.get("discoveries", []))
+        print(f"📊 Tur #{round_num} Bitti: +{new_in_this_round} yeni keşif eklendi. (Toplam Kütüphane: {total_count} adet)")
+
+        # Bir sonraki tura hemen devam et (kısa 5 saniyelik nefes alma)
+        round_num += 1
+        print("⚡ Durmak yok: Yeni varyasyonlar ve açılar için sonraki tur hemen başlıyor (5s)...")
+        time.sleep(5)
 
 def main():
-    parser = argparse.ArgumentParser(description="Otonom Görsel Araştırma Ajanı")
-    parser.add_argument("--target", type=str, help="Taranacak tek bir hedef görsel yolu")
-    parser.add_argument("--watch-dir", type=str, default="targets", help="Hedef görsellerin bulunduğu klasör")
-    parser.add_argument("--daemon", action="store_true", help="Arka planda sürekli çalıştır")
-    parser.add_argument("--interval", type=int, default=3600, help="Döngü aralığı (saniye)")
+    parser = argparse.ArgumentParser(description="Kesintisiz Otonom Araştırma Ajanı")
+    parser.add_argument("--target", type=str, default="targets/flanged_bearing.png", help="Hedef görsel")
+    parser.add_argument("--continuous", action="store_true", default=True, help="Kesintisiz çalış")
+    parser.add_argument("--rounds", type=int, default=100, help="Maksimum tur sayısı")
 
     args = parser.parse_args()
 
     api_key = get_api_key()
     if not api_key:
-        print("HATA: GEMINI_API_KEY bulunamadı (.env dosyasına ekleyin veya ortam değişkeni tanımlayın).")
+        print("HATA: GEMINI_API_KEY bulunamadı.")
         return
 
     client = genai.Client(api_key=api_key)
+    target_path = Path(args.target)
 
-    def execute_all():
-        targets_to_run = []
-        if args.target:
-            targets_to_run.append(Path(args.target))
+    if not target_path.exists():
+        # İlk bulduğu resmi al
+        existing = list(TARGETS_DIR.glob("*.png")) + list(TARGETS_DIR.glob("*.jpg"))
+        if existing:
+            target_path = existing[0]
         else:
-            p = Path(args.watch_dir)
-            targets_to_run = list(p.glob("*.jpg")) + list(p.glob("*.png")) + list(p.glob("*.jpeg"))
-
-        if not targets_to_run:
-            print(f"Hedef bulunamadı! '{args.watch_dir}' klasörüne araştırmak istediğiniz ürün fotoğraflarını ekleyin.")
+            print("Hedef görsel bulunamadı! 'targets/' klasörüne bir fotoğraf koyun.")
             return
 
-        for t in targets_to_run:
-            run_research_for_target(client, t)
-
-    if args.daemon:
-        print(f"🤖 Otonom Ajan Başlatıldı! Her {args.interval} saniyede bir tarama yapılacak. (Durdurmak için Ctrl+C)")
-        while True:
-            execute_all()
-            print(f"\n💤 Bir sonraki tarama turuna kadar bekleniyor ({args.interval}s)...")
-            time.sleep(args.interval)
-    else:
-        execute_all()
+    run_continuous_discovery(client, target_path, max_rounds=args.rounds)
 
 if __name__ == "__main__":
     main()
