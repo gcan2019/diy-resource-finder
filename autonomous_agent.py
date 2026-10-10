@@ -75,6 +75,25 @@ CATEGORIES = {
     "diy_project": ("💡 Proje Fikirleri & DIY Varyasyonları", "Topluluk projeleri, tasarım varyasyonları ve makaleler")
 }
 
+def clean_product_name(raw_name: str) -> str:
+    if not raw_name:
+        return ""
+    text = raw_name.replace("**", "").replace("__", "")
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    if len(lines) > 1:
+        parts = []
+        for l in lines:
+            for prefix in ["English:", "Turkish:", "İngilizce:", "Türkçe:"]:
+                if l.startswith(prefix):
+                    l = l[len(prefix):].strip()
+            if l:
+                parts.append(l)
+        return " / ".join(parts) if parts else text
+    for prefix in ["English:", "Turkish:", "İngilizce:", "Türkçe:"]:
+        if text.startswith(prefix):
+            text = text[len(prefix):].strip()
+    return " ".join(text.split())
+
 def classify_item(item: dict) -> str:
     cat = item.get("category")
     if cat in CATEGORIES:
@@ -334,9 +353,9 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
             ],
             config=types.GenerateContentConfig(temperature=0.1)
         )
-        target_name = desc_res.text.strip().replace('"', '')
+        target_name = clean_product_name(desc_res.text.strip().replace('"', ''))
     except Exception:
-        target_name = target_img_path.stem
+        target_name = clean_product_name(target_img_path.stem)
 
     # Aktif hedef bilgisini kaydet (Arayüzde net görünmesi için)
     target_info = {

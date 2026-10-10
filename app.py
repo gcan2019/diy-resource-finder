@@ -92,18 +92,76 @@ def find_target_file_for_product(product_name: str) -> Path | None:
     if not product_name or product_name == "Tüm Ürünler":
         return None
     tmap = get_target_map()
+    clean_pname = clean_product_name(product_name)
     for fname, pname in tmap.items():
-        if pname == product_name or product_name in pname or pname in product_name:
+        cp = clean_product_name(pname)
+        if cp == clean_pname or clean_pname in cp or cp in clean_pname:
             fpath = TARGETS_DIR / fname
             if fpath.exists():
                 return fpath
     for f in TARGETS_DIR.iterdir():
-        if f.stem.lower() in product_name.lower() or product_name.lower() in f.stem.lower():
+        if f.stem.lower() in clean_pname.lower() or clean_pname.lower() in f.stem.lower():
             return f
     all_targets = [f for f in TARGETS_DIR.iterdir() if f.suffix.lower() in [".png", ".jpg", ".jpeg"]]
     if len(all_targets) == 1:
         return all_targets[0]
     return None
+
+def clean_product_name(raw_name: str) -> str:
+    if not raw_name:
+        return ""
+    text = raw_name.replace("**", "").replace("__", "")
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    if len(lines) > 1:
+        parts = []
+        for l in lines:
+            for prefix in ["English:", "Turkish:", "İngilizce:", "Türkçe:"]:
+                if l.startswith(prefix):
+                    l = l[len(prefix):].strip()
+            if l:
+                parts.append(l)
+        return " / ".join(parts) if parts else text
+    for prefix in ["English:", "Turkish:", "İngilizce:", "Türkçe:"]:
+        if text.startswith(prefix):
+            text = text[len(prefix):].strip()
+    return " ".join(text.split())
+
+def get_all_product_targets() -> list[str]:
+    targets_set = set()
+
+    # 1. Veritabanındaki tüm keşifler
+    if KNOWLEDGE_BASE_JSON.exists():
+        try:
+            kb = json.loads(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"))
+            for item in kb.get("discoveries", []):
+                t = item.get("target_name")
+                if t:
+                    targets_set.add(clean_product_name(t))
+        except Exception:
+            pass
+
+    # 2. Hedef haritasındaki tüm ürünler (targets/ klasöründekiler)
+    tmap = get_target_map()
+    for fname, pname in tmap.items():
+        if pname:
+            targets_set.add(clean_product_name(pname))
+
+    # 3. Şu anda aktif taranan hedef
+    active_info = get_active_agent_info()
+    if active_info:
+        act_name = active_info.get("target_name")
+        if act_name:
+            targets_set.add(clean_product_name(act_name))
+
+    # 4. targets/ klasöründeki henüz eşleşmemiş görseller
+    if TARGETS_DIR.exists():
+        for f in TARGETS_DIR.iterdir():
+            if f.suffix.lower() in [".png", ".jpg", ".jpeg"]:
+                if f.name not in tmap:
+                    targets_set.add(clean_product_name(f.stem))
+
+    return sorted(list(targets_set))
+
 
 def is_agent_running() -> bool:
     if not PID_FILE.exists():
@@ -306,21 +364,31 @@ def load_knowledge_base_data(target_filter: str = None) -> tuple[dict, int, list
             discoveries = kb.get("discoveries", [])
         except Exception:
             pass
-            
-    # Tüm kayıtlı hedefleri çıkar
-    all_targets = sorted(list({item.get("target_name", "Genel Hedef") for item in discoveries if item.get("target_name")}))
-    
+
+    # Keşiflerdeki hedef isimlerini temizle
+    for item in discoveries:
+        item["target_name"] = clean_product_name(item.get("target_name", "Genel Hedef"))
+
+    # Tüm kayıtlı hedefleri (veritabanı + targets/ + taranan aktif hedef) eksiksiz topla!
+    all_targets = get_all_product_targets()
+
     total_in_db = len(discoveries)
-    
+
     filtered = discoveries
     if target_filter and target_filter != "Tüm Ürünler":
-        filtered = [item for item in discoveries if item.get("target_name") == target_filter]
-        
+        clean_filter = clean_product_name(target_filter)
+        filtered = [
+            item for item in discoveries 
+            if item.get("target_name") == clean_filter
+            or clean_filter in item.get("target_name", "")
+            or item.get("target_name", "") in clean_filter
+        ]
+
     grouped = {k: [] for k in CATEGORIES}
     for item in reversed(filtered):
         cat_key = classify_item(item)
         grouped[cat_key].append(item)
-        
+
     return grouped, len(filtered), all_targets, total_in_db
 
 # ──────────────────────────────────────────────
@@ -415,11 +483,21 @@ with tab_dashboard:
     grouped_all, count_all, all_targets, total_in_db = load_knowledge_base_data()
     target_options = ["Tüm Ürünler"] + all_targets
 
+    # Aktif olarak taranan ürün varsa varsayılan olarak onu seç
+    default_idx = 0
+    if running and active_info:
+        active_tname = active_info.get("target_name", "")
+        for idx, opt in enumerate(target_options):
+            if opt != "Tüm Ürünler" and (opt in active_tname or active_tname in opt):
+                default_idx = idx
+                break
+
     col_sel, col_add = st.columns([3, 2])
     with col_sel:
         selected_product = st.selectbox(
             "📁 Ekranda İncelenen Ürün Arşivi:",
             target_options,
+            index=default_idx,
             help="İncelemek istediğiniz ürünün arşivini seçin. Her ürünün dosyası bağımsızdır!"
         )
 

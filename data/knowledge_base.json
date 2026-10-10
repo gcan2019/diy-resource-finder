@@ -1190,6 +1190,182 @@
       "variant_type": "working_variation",
       "reason": "Image 2 presents a CAD model of a gas cylinder truck with dimensions, matching the general structural concept and purpose of the reference product in Image 1.",
       "discovered_at": "2026-10-10 21:55:12"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "🧞♂️ Log And Stump Screw / Cone splitter for mini-excavator / screw log ...",
+      "page_url": "https://cults3d.com/en/3d-model/tool/log-and-stump-screw-cone-splitter-for-mini-excavator-screw-log-splitter",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/47064319/illustration-file/ead2136a-d61d-49f3-9ad2-9d436b18a5d2/dgsfdhfdgdgdfgdfg.jpg",
+      "score": 82,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "The candidate is a CAD representation of the threaded cone splitter mechanism, showing the same functional screw-splitting principle despite stylistic differences in the mounting base and tip.",
+      "discovered_at": "2026-10-10 23:00:36"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "🚜 Hitachi zx250 screw log splitter・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/various/hitachi-zx250-screw-log-splitter",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/13876910/illustration-file/8953b2fa-8ba9-45bd-8708-c54d830b2396/vite2.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 is a CAD model of a hydraulic drive assembly that incorporates the screw log splitter cone detailed in the reference technical drawing.",
+      "discovered_at": "2026-10-10 23:00:41"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "drill bit for splitting wood 3D Models | Page 1 | STLFinder",
+      "page_url": "https://www.stlfinder.com/3dmodels/drill-bit-for-splitting-wood/",
+      "candidate_image_url": "https://bamax.es/php/files/uploads/668/splitting-wood-cone-drill-bit-rXcw8thB_200.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Image 2 is a 3D CAD representation that perfectly matches the mechanical geometry, threading, and mounting features specified in the technical drawing.",
+      "discovered_at": "2026-10-10 23:00:46"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Firewood Log Splitter, 3pcs Drill Bit Removable Cones Kindling Wood ...",
+      "page_url": "https://dropshopping.org/product/firewood-log-splitter-3pcs-drill-bit-removable-cones-kindling-wood-splitting-logs-bits-heavy-duty-electric-drills-screw-cone-driver-hex-square-round-32mm-1-26inch",
+      "candidate_image_url": "https://image.dropshopping.org/az/7/71ILWbZcTRL._SL1500_.jpg",
+      "score": 98,
+      "category": "diy_project",
+      "variant_type": "exact_match",
+      "reason": "Image 2 is a finished commercial product that exactly implements the screw log splitter cone mechanism and thread geometry specified in the technical drawing of Image 1.",
+      "discovered_at": "2026-10-10 23:01:11"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Screw Wood Splitter Plans",
+      "page_url": "https://woodsplitterplans.com/splitters/screw-wood-splitters.htm",
+      "candidate_image_url": "https://woodsplitterplans.com/pics/unicorn-splitter.jpg",
+      "score": 100,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "The candidate image is an identical technical drawing of the screw log splitter cone, providing a complete match of dimensions, thread profiles, and mounting specifications.",
+      "discovered_at": "2026-10-10 23:01:16"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...",
+      "page_url": "https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter",
+      "candidate_image_url": "https://jbequipment.us/cdn/shop/files/Cone_Splitter_Sizes.jpg?v=1737546318",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Image 2 represents a technical assembly blueprint of a machinery attachment where the primary active component is the identical screw log splitter cone shown in Image 1.",
+      "discovered_at": "2026-10-10 23:01:21"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "42 mm wood splitter drill, splitting wood cone wood splitter drill ...",
+      "page_url": "https://bigamart.com/product/42-mm-wood-splitter-drill-splitting-wood-cone-wood-splitter-drill-cone-gap-wood-splitter-screw-cone-firewood-splitter-drill-screw-cone/",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/71NXaX7aqML._AC_SL1500_.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Image 2 represents a portable, consumer-grade version of the same screw log splitter mechanism detailed in the industrial technical blueprint of Image 1.",
+      "discovered_at": "2026-10-10 23:01:30"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Sidiros Screw Cone Log Splitter SPL80EL - Σχιστικό ξύλων με κώνο ...",
+      "page_url": "https://www.youtube.com/watch?v=WexxBjvy1O8",
+      "candidate_image_url": "https://i.ytimg.com/vi/WexxBjvy1O8/maxresdefault.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a fully functional log splitter machine that utilizes the specific type of threaded cone mechanism detailed in the technical blueprint of Image 1.",
+      "discovered_at": "2026-10-10 23:01:55"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Twist Log Splitter Cone Miniduino High-Speed Firewood Drill Bit - Wood ...",
+      "page_url": "https://bitfoundry.co.za/Miniduino-High-Speed-Firewood-Drill-Bit-Wood-Splitting-Screw-844133",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/71qJ+IEqKhS._AC_UF1000,1000_QL80_.jpg",
+      "score": 95,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 displays a commercial, drill-mounted version of the threaded conical log splitter mechanism specified in the technical drawing of Image 1.",
+      "discovered_at": "2026-10-10 23:02:26"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Firewood Log Splitter Cone Bits 6-Piece Firewood Log Splitter Drill Bit ...",
+      "page_url": "https://bat-prefab.com/944271/6-Piece-Firewood-Log-Splitter-Drill-Bit-Set-32mm-42mm-Wood",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/71bEBUxlthL.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows the practical application of a screw log splitter cone consistent with the design specifications detailed in the technical drawing.",
+      "discovered_at": "2026-10-10 23:02:32"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...",
+      "page_url": "https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html",
+      "candidate_image_url": "https://litb-cgis.rightinthebox.com/desc_image/202211/bps/desc/inc/xpzmnf1669342181712.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Image 1 provides the specific engineering blueprint for a screw log splitter, while Image 2 shows the practical application and operational instructions for the same type of tool.",
+      "discovered_at": "2026-10-10 23:02:41"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "32mm Firewood Drill Bit HSS Wood Splitting Cone for Wood Breaking ...",
+      "page_url": "https://www.dhgate.com/goods/997154161.html",
+      "candidate_image_url": "https://img4.dhresource.com/webp/m/f3/albu/jc/s/03/cf61a12b-f2a4-4bcf-8f40-97d0632cc185.jpg",
+      "score": 95,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "The candidate image shows the physical assembly of a screw log splitter cone identical in form and function to the technical specifications provided in the reference drawing.",
+      "discovered_at": "2026-10-10 23:02:49"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...",
+      "page_url": "https://www.pinterest.com/pin/331999803785874352/",
+      "candidate_image_url": "https://i.pinimg.com/736x/30/6d/bd/306dbdcd4ff7e27ef92f76ae2d61e362.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "The candidate image displays physical examples of a screw log splitter cone that functionally match the geometry and purpose of the technical blueprint provided in the reference.",
+      "discovered_at": "2026-10-10 23:02:58"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...",
+      "page_url": "https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more",
+      "candidate_image_url": "https://www.jbequipment.co.uk/cdn/shop/files/JCS-Cone-Splitters_600x600.jpg?v=1716735930",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "The first image is the formal technical blueprint detailing dimensions and threading specifications for the screw log splitter cone shown as a component in the second image's assembled units.",
+      "discovered_at": "2026-10-10 23:03:05"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...",
+      "page_url": "https://www.pinterest.com/pin/splitting-cones-log-splitter-splitting-machine-wwwlogsplitterscrewcom--921267667495643911/",
+      "candidate_image_url": "https://i.pinimg.com/736x/86/5c/a5/865ca501f033e45ab8aed32a58334032.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "The candidate image shows a complete, assembled working log splitter mechanism that includes the cone component detailed in the reference technical drawing.",
+      "discovered_at": "2026-10-10 23:03:13"
+    },
+    {
+      "target_name": "**English:** Screw log splitter cone (Wood splitter cone)  \n**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)",
+      "title": "Wood Splitter Plans (Build it Yourself)",
+      "page_url": "https://woodsplitterplans.com/",
+      "candidate_image_url": "https://woodsplitterplans.com/pics/wood-splitter-components.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 1 represents the component-level technical drawing of the splitting cone, while Image 2 is an assembly-level technical schematic of a log splitter utilizing such a cone as a functional component.",
+      "discovered_at": "2026-10-10 23:04:48"
     }
   ]
 }
