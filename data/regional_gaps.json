@@ -1,0 +1,78 @@
+{
+  "regions": {},
+  "opportunities": [
+    {
+      "part_name": "Ankastre Fırın ve Davlumbaz İçin Soft-Close / Push-to-Open Yaylı Menteşe ve Klips Mekanizması",
+      "english_name": "Soft-close and Push-to-Open Hinge Latch Assembly for Built-in Appliances",
+      "category": "Ankastre & Beyaz Eşya",
+      "market_reason": "Merzifon OSB, Türkiye'nin en büyük ankastre davlumbaz ve mutfak cihazı üretim üslerinden biridir (Silverline vb.). Ancak fırın kapakları ve davlumbaz cam kapaklarındaki hassas sönümleyici damperler, yaylı bas-çek mekanizmaları ve soft-close menteşeler çoğunlukla Manisa, Bursa veya Çin/İtalya'dan tedarik edilmektedir. Bölgedeki yüksek hacimli ankastre üretimi yerel tedarikçi açığı oluşturmaktadır.",
+      "local_buyers": [
+        "Silverline Endüstri A.Ş.",
+        "Apaydın Metal Ürünleri A.Ş.",
+        "Merzifon OSB Beyaz Eşya Yan Sanayi Firmaları"
+      ],
+      "nearby_synergy": "Çorum'daki hassas sac işleme atölyeleri kalıp ve gövde bileşenlerini sağlayabilir; imal edilen mekanizmalar Samsun Limanı üzerinden Karadeniz ülkesi ihracat pazarlarına sevk edilebilir.",
+      "required_machinery": "60t-100t Progresif Eksantrik Pres, Hassas Montaj Otomasyon Hattı, Yay Sarım/Montaj Aparatları, Ömür ve Yorulma Test Cihazı",
+      "difficulty": "Orta",
+      "opportunity_score": 95,
+      "blueprint_search_term": "oven door soft close hinge technical drawing",
+      "cad_search_term": "push to open damper latch mechanism 3d cad model",
+      "video_search_term": "built in hood hinge manufacturing process assembly",
+      "region": "Merzifon, Amasya",
+      "blueprint_image_url": "https://imagecdn.atasanusa.com/product-technical/01K4Z0AC6SQSCA25QG6P6RM46H.webp",
+      "blueprint_source_url": "https://atasanusa.com/products/oven-hinges/soft-closesoft-open/k20",
+      "discovered_at": "2026-10-10 21:56:51"
+    },
+    {
+      "part_name": "Tarım Römorkları İçin Bilyalı Döner Tabla ve Torsiyon Süspansiyon Göbek Montajı",
+      "english_name": "Ball Bearing Turntable Slewing Ring and Torsion Axle Hub Assembly for Agricultural Trailers",
+      "category": "Tarım Makineleri & Römork Sanayi",
+      "market_reason": "Amasya ve Merzifon çevresinde yoğun tarım ekipmanı ve römork imalatı yapılmaktadır. Römorkların yönlendirilmesini sağlayan bilyalı döner tablalar (slewing ring) ve ağır hizmet torsiyon aks göbekleri çoğunlukla Konya veya yurt dışından yüksek nakliye maliyetleriyle getirtilmektedir. Yerel üretim lojistik süreyi ve maliyeti ciddi oranda düşürecektir.",
+      "local_buyers": [
+        "Merzifon Römork ve Tarım Aletleri Üreticileri",
+        "Amasya Bölgesi Ekipman İmalatçıları",
+        "Çorum Tarım Makineleri Fabrikaları"
+      ],
+      "nearby_synergy": "Çorum döküm sanayisi gövde ve kovan dökümlerini üretebilir; Merzifon'da CNC talaşlı imalat ve bilyalama montajı yapılarak Samsun lojistik hattı üzerinden tüm Karadeniz'e dağıtılabilir.",
+      "required_machinery": "CNC Dik Torna, İndüksiyon ile Yüzey Sertleştirme Tezgahı, 4 Eksen CNC İşleme Merkezi, Ağır Hizmet Bilya Montaj Presi",
+      "difficulty": "Yüksek",
+      "opportunity_score": 91,
+      "blueprint_search_term": "trailer slewing ring turntable blueprint dwg",
+      "cad_search_term": "agricultural trailer torsion axle assembly STEP",
+      "video_search_term": "slewing ring bearing manufacturing process CNC turning",
+      "region": "Merzifon, Amasya",
+      "blueprint_image_url": "https://www.slewing-bearing.com/wp-content/uploads/2020/08/se9-drawing-600x521.jpg",
+      "blueprint_source_url": "https://www.slewing-bearing.com/",
+      "cad_model_title": "Wanda Slewing Ring Bearing - Quality is our culture",
+      "cad_model_url": "https://www.bing.com/aclick?ld=e81hGjoPzkBpmNxd-Xmi2IWjVUCUzgzAa8eWPoOjcgkhsP00De60pQnVA4909-_XPdbP13ReQ1Ux4SEr0OcKj745RDXwYXhEgnCIYUEKKRsow2eOtIjH1scqfEFpjGoxJISW9x0ZCsTg7YRI8mpT3uG_TKwdnr9ljBSFToTwWL-cvtDRBog3z_aExe80g-o9PTz8T0Wg&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2xldy1iZWFyaW5nLmNvbSUyZlNMRVdJTkctQkVBUklORy1wbDUwMjgyMy5odG1sJTNmbXNjbGtpZCUzZGIxMmRlMzhmNWMyNTE2OTQyZGE2ODk0NWQ2NTllZDQzJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUHJvZHVjdCVlZiViYyU4OCVlNiU4YSU5NSVlNiU5NCViZSVlNyViZSU4ZSVlNSU5YiViZCVlZiViYyU4OSUyNnV0bV90ZXJtJTNkc2xld2luZyUyNTIwcmluZyUyNTIwYmVhcmluZyUyNnV0bV9jb250ZW50JTNkQ29tbW9uJTI1MjBrZXl3b3Jkcw&rlid=b12de38f5c2516942da68945d659ed43",
+      "video_title": "High quality slewing bearing - High Precision",
+      "video_url": "https://www.bing.com/aclick?ld=e8W2WlPpzHKrqjgBTWYkrO_jVUCUx0Q0HTNf5_dn7_-2m4-2oBNURfIVSGUrLcQb3xhG58-fGF5SALM4sQVaYJlrrS9rIbyYw0Z5rr5cCUhSEuooyer6c3LFC0aNL2BFxudxITqzO_B88t9dk7z1AsJet0u1rEXEp5NeVAz9TfmlMWfTPGzLV43XLYWZHvwAPS7OYDcQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2xldy1iZWFyaW5nLmNvbSUyZlNMRVdJTkctQkVBUklORy1wbDUwMjgyMy5odG1sJTNmbXNjbGtpZCUzZGQwYjQwODk5Y2VmZTFiMzU3N2MzNjI1MzQ0ODEzYTg4JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUHJvZHVjdCVlZiViYyU4OCVlNiU4YSU5NSVlNiU5NCViZSVlNyViZSU4ZSVlNSU5YiViZCVlZiViYyU4OSUyNnV0bV90ZXJtJTNkYmFsbCUyNTIwYmVhcmluZyUyNTIwdHVybnRhYmxlJTI2dXRtX2NvbnRlbnQlM2RDb21tb24lMjUyMGtleXdvcmRz&rlid=d0b40899cefe1b3577c3625344813a88",
+      "discovered_at": "2026-10-10 21:56:57"
+    },
+    {
+      "part_name": "Değirmen Valsleri İçin Hassas Eksantrik Merdane Ayar ve Kilitleme Mekanizması",
+      "english_name": "Precision Eccentric Roller Adjustment and Locking Mechanism for Grain Roller Mills",
+      "category": "Değirmen & Gıda İşleme Makineleri",
+      "market_reason": "Komşu il Çorum, dünyada değirmen makinesi üretiminde lider merkezlerden biridir. Merzifon OSB ise Çorum'un ana tedarik ekseninde yer alır. Değirmen vals makinelerinde öğütme hassasiyetini belirleyen eksantrik ayar blokları ve pnömatik kilit mekanizmaları yüksek kalitede talaşlı imalat ve taşlama gerektirdiği için Bursa/İstanbul'dan veya ithal alınmaktadır.",
+      "local_buyers": [
+        "Çorum Değirmen Makinesi Üreticileri (Alapala, Uğur Makina vb.)",
+        "Merzifon OSB Talaşlı İmalat Tedarikçileri"
+      ],
+      "nearby_synergy": "Sfero döküm parçalar Çorum dökümhanelerinden temin edilir, Merzifon OSB'deki hassas CNC taşlama hatlarında işlenir ve Çorum'daki ana montaj fabrikalarına tam zamanlı (JIT) sevk edilir.",
+      "required_machinery": "CNC Silindir Taşlama Tezgahı, 5 Eksen CNC İşleme Merkezi, CMM Ölçüm Cihazı, Nitrasyon/Isıl İşlem Fırını",
+      "difficulty": "Yüksek",
+      "opportunity_score": 88,
+      "blueprint_search_term": "flour mill roller engagement mechanism blueprint",
+      "cad_search_term": "roller mill eccentric adjustment mechanism 3D cad",
+      "video_search_term": "roller mill roll adjustment assembly machining",
+      "region": "Merzifon, Amasya",
+      "blueprint_image_url": "https://starmillrolls.com/wp-content/uploads/2025/04/WechatIMG453.png",
+      "blueprint_source_url": "https://starmillrolls.com/complete-guide-to-adjusting-flour-mill-grinding-rolls-key-steps-to-enhance-processing-quality-and-efficiency/",
+      "cad_model_title": "roller mechanism - Recent models | 3D CAD Model Collection ...",
+      "cad_model_url": "https://grabcad.com/library/tag/roller+mechanism",
+      "video_title": "SvenMill Roller Mill Adjustment - YouTube- YouTubeHow to adjust the roller mill before run the flour ... - YouTubeAdjusting the Roll Mill - YouTubeAutomatic Roller Adjustment System - YouTubeBuilding a Better Grain Mill - YouTubeCPM Lineator Roll Adjustment Video - YouTube",
+      "video_url": "https://www.youtube.com/watch?v=--mLXmB33_w",
+      "discovered_at": "2026-10-10 21:57:02"
+    }
+  ]
+}

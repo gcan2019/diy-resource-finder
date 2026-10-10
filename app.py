@@ -39,6 +39,9 @@ PID_FILE = DATA_DIR / "agent.pid"
 KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
 CURRENT_TARGET_JSON = DATA_DIR / "current_target.json"
 TARGET_MAP_JSON = DATA_DIR / "target_map.json"
+REGIONAL_GAPS_JSON = DATA_DIR / "regional_gaps.json"
+REGIONAL_REPORT_MD = BASE_DIR / "REGIONAL_OPPORTUNITIES.md"
+REGIONAL_PID_FILE = DATA_DIR / "regional_agent.pid"
 
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
@@ -161,6 +164,57 @@ def stop_agent():
     CURRENT_TARGET_JSON.unlink(missing_ok=True)
 
 # ──────────────────────────────────────────────
+# Bölgesel Sanayi Açığı Radarı Kontrolü
+# ──────────────────────────────────────────────
+def is_regional_agent_running() -> bool:
+    if not REGIONAL_PID_FILE.exists():
+        return False
+    try:
+        pid = int(REGIONAL_PID_FILE.read_text().strip())
+        if os.name == "nt":
+            import ctypes
+            PROCESS_QUERY_INFORMATION = 0x0400
+            process = ctypes.windll.kernel32.OpenProcess(PROCESS_QUERY_INFORMATION, 0, pid)
+            if process != 0:
+                ctypes.windll.kernel32.CloseHandle(process)
+                return True
+            return False
+        else:
+            os.kill(pid, 0)
+            return True
+    except Exception:
+        return False
+
+def start_regional_agent(region: str = "Merzifon, Amasya"):
+    if is_regional_agent_running():
+        stop_regional_agent()
+        time.sleep(1)
+    cmd = [sys.executable, "-u", "regional_agent.py", "--region", region, "--continuous"]
+    proc = subprocess.Popen(cmd)
+    REGIONAL_PID_FILE.write_text(str(proc.pid))
+
+def stop_regional_agent():
+    if REGIONAL_PID_FILE.exists():
+        try:
+            pid = int(REGIONAL_PID_FILE.read_text().strip())
+            if os.name == "nt":
+                subprocess.run(["taskkill", "/F", "/T", "/PID", str(pid)], capture_output=True)
+            else:
+                os.kill(pid, signal.SIGTERM)
+        except Exception:
+            pass
+        REGIONAL_PID_FILE.unlink(missing_ok=True)
+
+def load_regional_gaps_data() -> list[dict]:
+    if REGIONAL_GAPS_JSON.exists():
+        try:
+            db = json.loads(REGIONAL_GAPS_JSON.read_text(encoding="utf-8"))
+            return db.get("opportunities", [])
+        except Exception:
+            pass
+    return []
+
+# ──────────────────────────────────────────────
 # Kategorize Edilmiş Veritabanı Okuyucu
 # ──────────────────────────────────────────────
 CATEGORIES = {
@@ -246,9 +300,10 @@ with st.sidebar:
 # ──────────────────────────────────────────────
 st.title("🤖 DIY Otonom Keşif ve Proje Masası")
 
-tab_dashboard, tab_catalog, tab_instant = st.tabs([
+tab_dashboard, tab_regional, tab_catalog, tab_instant = st.tabs([
     "🚀 Ürün Dosyaları & Canlı Keşifler",
-    "📖 Katalog Raporu (DISCOVERIES.md)",
+    "📍 Bölgesel Sanayi Açığı Radarı (Merzifon OSB)",
+    "📖 Katalog Raporları",
     "🔍 Hızlı Tekil Analiz"
 ])
 
@@ -421,36 +476,173 @@ with tab_dashboard:
         render_discovery_cards(grouped_discoveries["diy_project"])
 
 # ══════════════════════════════════════════════
-# SEKME 2: KATALOG DOSYASI (DISCOVERIES.MD)
+# SEKME 2: BÖLGESEL SANAYİ AÇIĞI RADARI (MERZİFON OSB)
+# ══════════════════════════════════════════════
+with tab_regional:
+    st.subheader("📍 Bölgesel Sanayi Açığı & İmalat Fırsatı Radarı")
+    st.caption("Belirli bir sanayi bölgesinde (Örn: Merzifon OSB) fabrikaların dışarıdan/ithal temin ettiği, bölgede üretilmeyen yüksek katma değerli parçaları otonom tespit eder.")
+
+    reg_running = is_regional_agent_running()
+
+    # Kontrol Kartı
+    with st.container(border=True):
+        col_reg_input, col_reg_ctrl = st.columns([3, 2])
+        with col_reg_input:
+            selected_region = st.text_input(
+                "🎯 Hedef Sanayi Bölgesi / Şehir:",
+                value="Merzifon, Amasya",
+                help="Taramak istediğiniz sanayi bölgesini yazın (Örn: Merzifon, Çorum, Samsun, Konya)"
+            )
+            # Hızlı seçim butonları
+            c_p1, c_p2, c_p3 = st.columns(3)
+            with c_p1:
+                if st.button("📍 Merzifon (Ankastre/Tarım)", use_container_width=True):
+                    selected_region = "Merzifon, Amasya"
+            with c_p2:
+                if st.button("📍 Çorum (Makine/Döküm)", use_container_width=True):
+                    selected_region = "Çorum"
+            with c_p3:
+                if st.button("📍 Samsun (Liman/Medikal)", use_container_width=True):
+                    selected_region = "Samsun"
+
+        with col_reg_ctrl:
+            if reg_running:
+                st.success("🟢 **Bölgesel Radar:** ÇALIŞIYOR (İnterneti & Raporları Tarıyor)")
+                col_b1, col_b2 = st.columns(2)
+                with col_b1:
+                    if st.button("⏹️ Radarı Durdur", type="secondary", use_container_width=True):
+                        stop_regional_agent()
+                        st.toast("Bölgesel radar durduruldu.", icon="🛑")
+                        st.rerun()
+                with col_b2:
+                    if st.button("🔄 Radarı Yenile", use_container_width=True):
+                        st.rerun()
+            else:
+                st.warning("🔴 **Bölgesel Radar:** DURDURULDU (Boşta)")
+                if st.button("▶️ Bu Bölgede İmalat Açıklarını Tara", type="primary", use_container_width=True):
+                    start_regional_agent(selected_region)
+                    st.toast(f"{selected_region} için tarama başlatıldı!", icon="🚀")
+                    st.rerun()
+
+    st.markdown("---")
+
+    # Tespit Edilen Fırsatlar
+    opps = load_regional_gaps_data()
+    st.markdown(f"### 💡 Tespit Edilen Yüksek Katma Değerli İmalat Açıkları ({len(opps)} Adet)")
+
+    if not opps:
+        st.info("Bu bölge için henüz kaydedilmiş açık bulunamadı. Yukarıdaki butona basarak taramayı başlatabilirsiniz.")
+    else:
+        for idx, opp in enumerate(reversed(opps), 1):
+            pname = opp.get("part_name", "İsimsiz Parça")
+            eng_name = opp.get("english_name", "")
+            region = opp.get("region", "Bilinmeyen Bölge")
+            score = opp.get("opportunity_score", 90)
+            category = opp.get("category", "Sanayi")
+            reason = opp.get("market_reason", "")
+            buyers = ", ".join(opp.get("local_buyers", []))
+            synergy = opp.get("nearby_synergy", "")
+            machinery = opp.get("required_machinery", "")
+            diff = opp.get("difficulty", "Orta")
+            bp_img = opp.get("blueprint_image_url")
+            cad_url = opp.get("cad_model_url")
+            vid_url = opp.get("video_url")
+
+            with st.container(border=True):
+                col_info, col_img = st.columns([3, 2])
+                with col_info:
+                    st.markdown(f"#### {idx}. {pname}")
+                    st.caption(f"🌍 `{eng_name}` | 📍 Bölge: **{region}** | 🏷️ Kategori: **{category}**")
+                    st.badge(f"⭐ Fırsat Skoru: %{score}")
+                    st.markdown(f"**💡 Neden Bu Bölgede Açık Var?**\n{reason}")
+                    if buyers:
+                        st.markdown(f"**🏢 Potansiyel Yerel Alıcılar:** {buyers}")
+                    if synergy:
+                        st.markdown(f"**🤝 Çevre İllerle Sinerji:** {synergy}")
+                    st.markdown(f"**🛠️ Gereken Tezgah/Atölye Altyapısı:** `{machinery}` *(Zorluk: {diff})*")
+
+                    # Eylemler: CAD & Video Butonları
+                    b_c1, b_c2 = st.columns(2)
+                    with b_c1:
+                        if cad_url:
+                            st.link_button("🖨️ 3D CAD Dosyası", cad_url, use_container_width=True)
+                    with b_c2:
+                        if vid_url:
+                            st.link_button("🎥 İmalat / Yapım Videosu", vid_url, use_container_width=True)
+
+                    # Bu parçayı bizim otonom teknik tarayıcıya gönderme butonu:
+                    if bp_img:
+                        if st.button(f"🚀 Bu Parçayı Teknik Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
+                            try:
+                                import urllib.request
+                                req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0"})
+                                img_data = urllib.request.urlopen(req, timeout=10).read()
+                                clean_fname = "".join(c for c in pname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
+                                target_save_path = TARGETS_DIR / clean_fname
+                                target_save_path.write_bytes(img_data)
+                                
+                                # Hedef haritasını güncelle
+                                tmap = get_target_map()
+                                tmap[clean_fname] = pname
+                                save_target_map(tmap)
+
+                                # Otonom tarayıcıyı bu parça için başlat
+                                start_agent(target_save_path)
+                                st.toast(f"'{pname}' otonom teknik tarayıcıya aktarıldı ve tarama başlatıldı!", icon="🚀")
+                                st.rerun()
+                            except Exception as e:
+                                st.error(f"Hedefe aktarılırken hata: {e}")
+
+                with col_img:
+                    if bp_img:
+                        try:
+                            st.image(bp_img, caption="📐 2D Teknik Çizim / Kesit Görünümü", use_container_width=True)
+                        except Exception:
+                            st.caption("Teknik çizim görseli yüklenemedi.")
+                    else:
+                        st.info("Bu açık için henüz teknik çizim önizlemesi bulunamadı.")
+
+# ══════════════════════════════════════════════
+# SEKME 3: KATALOG RAPORLARI
 # ══════════════════════════════════════════════
 with tab_catalog:
-    st.subheader("📖 Canlı Katalog Dosyası (DISCOVERIES.md)")
-    st.caption("Ajanın interneti tarayıp Gemini Vision ile doğruladığı tüm kaynakların derli toplu teknik raporu.")
+    st.subheader("📖 Canlı Katalog & Araştırma Raporları")
+    st.caption("Yapay zeka tarafından oluşturulan doğrulanmış teknik kaynak ve bölgesel fırsat raporları.")
 
-    if DISCOVERIES_MD.exists():
-        md_content = DISCOVERIES_MD.read_text(encoding="utf-8")
-        
-        # İndirme Butonu
-        col_down, col_info = st.columns([2, 5])
-        with col_down:
+    sub_cat_tech, sub_cat_reg = st.tabs([
+        "📐 Teknik Keşifler (DISCOVERIES.md)",
+        "📍 Bölgesel Sanayi Açıkları (REGIONAL_OPPORTUNITIES.md)"
+    ])
+
+    with sub_cat_tech:
+        if DISCOVERIES_MD.exists():
+            md_content = DISCOVERIES_MD.read_text(encoding="utf-8")
             st.download_button(
                 label="📥 DISCOVERIES.md Dosyasını İndir",
                 data=md_content,
                 file_name="DISCOVERIES.md",
                 mime="text/markdown",
-                type="primary",
-                use_container_width=True
+                key="down_disc_md"
             )
-        with col_info:
-            st.info("💡 Bu dosya GitHub reponuzda da otomatik olarak saklanır ve her yeni doğrulamada güncellenir.")
+            with st.container(border=True):
+                st.markdown(md_content)
+        else:
+            st.info("Henüz teknik katalog oluşturulmadı.")
 
-        st.divider()
-
-        # Doğrudan Markdown Olarak Göster
-        with st.container(border=True):
-            st.markdown(md_content)
-    else:
-        st.info("Henüz katalog dosyası oluşturulmadı. Ajan ilk keşfini yaptığında burada görünecektir.")
+    with sub_cat_reg:
+        if REGIONAL_REPORT_MD.exists():
+            reg_md_content = REGIONAL_REPORT_MD.read_text(encoding="utf-8")
+            st.download_button(
+                label="📥 REGIONAL_OPPORTUNITIES.md Dosyasını İndir",
+                data=reg_md_content,
+                file_name="REGIONAL_OPPORTUNITIES.md",
+                mime="text/markdown",
+                key="down_reg_md"
+            )
+            with st.container(border=True):
+                st.markdown(reg_md_content)
+        else:
+            st.info("Henüz bölgesel fırsat raporu oluşturulmadı.")
 
 # ══════════════════════════════════════════════
 # SEKME 3: HIZLI TEKİL ANALİZ

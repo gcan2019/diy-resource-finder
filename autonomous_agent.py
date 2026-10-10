@@ -149,10 +149,17 @@ def update_markdown_catalog(kb: dict):
 # Güvenilir Model Çağrısı (Retry & Fallback)
 # ──────────────────────────────────────────────
 def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig):
-    models = ["gemini-3.8-flash", "gemini-3.5-flash-lite"]
+    models = [
+        "gemini-3.5-flash",
+        "gemini-3.7-flash",
+        "gemini-3-flash-preview",
+        "gemini-3.1-flash-lite",
+        "gemini-3.8-flash",
+        "gemini-3.5-flash-lite"
+    ]
     last_err = None
     for model_name in models:
-        for attempt in range(3):
+        for attempt in range(2):
             try:
                 return client.models.generate_content(
                     model=model_name,
@@ -161,7 +168,9 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
                 )
             except Exception as e:
                 last_err = e
-                time.sleep(2 * (attempt + 1))
+                if "429" in str(e) or "404" in str(e):
+                    break
+                time.sleep(1)
     raise last_err
 
 # ──────────────────────────────────────────────
