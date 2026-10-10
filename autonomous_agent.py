@@ -35,11 +35,13 @@ from ddgs import DDGS
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 TARGETS_DIR = BASE_DIR / "targets"
+CATALOGS_DIR = BASE_DIR / "catalogs"
 DISCOVERIES_MD = BASE_DIR / "DISCOVERIES.md"
 KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
 
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
+CATALOGS_DIR.mkdir(exist_ok=True)
 
 # ──────────────────────────────────────────────
 # Yardımcılar: API Key & Veritabanı
@@ -88,16 +90,14 @@ def classify_item(item: dict) -> str:
         return "technical_drawing"
     return "diy_project"
 
-def update_markdown_catalog(kb: dict):
-    """Bulunan doğrulanmış tüm kaynakları KATEGORİLERE GÖRE GRUPLAYARAK zengin bir Markdown kataloğuna döker."""
-    discoveries = kb.get("discoveries", [])
+def generate_catalog_markdown(target_title: str, discoveries: list[dict]) -> str:
     total_count = len(discoveries)
-
     lines = [
-        "# 📚 Otonom Doğrulanmış Proje & Kaynak Kataloğu",
-        "> Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile teknik olarak doğrulanmış kaynakları içerir.",
+        f"# 📚 {target_title} - Doğrulanmış Teknik Kaynak Kataloğu",
+        "> Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.",
         "",
-        f"**Toplam Doğrulanmış Kaynak:** {total_count} adet",
+        f"**Hedef Ürün:** `{target_title}`",
+        f"**Doğrulanmış Kaynak Sayısı:** {total_count} adet",
         f"**Son Güncelleme:** {time.strftime('%Y-%m-%d %H:%M:%S')}",
         "",
         "---",
@@ -105,17 +105,14 @@ def update_markdown_catalog(kb: dict):
     ]
 
     if not discoveries:
-        lines.append("_Henüz doğrulanmış keşif bulunamadı._\n")
-        DISCOVERIES_MD.write_text("\n".join(lines), encoding="utf-8")
-        return
+        lines.append("_Bu ürün için henüz doğrulanmış keşif bulunamadı._\n")
+        return "\n".join(lines)
 
-    # Grupla
     grouped = {k: [] for k in CATEGORIES}
     for item in reversed(discoveries):
         cat_key = classify_item(item)
         grouped[cat_key].append(item)
 
-    # Kategorilere göre yaz
     for cat_key, (cat_title, cat_desc) in CATEGORIES.items():
         items_in_cat = grouped[cat_key]
         lines.append(f"## {cat_title} ({len(items_in_cat)} adet)")
@@ -125,7 +122,7 @@ def update_markdown_catalog(kb: dict):
             lines.append("_Bu kategoride henüz doğrulanmış kaynak bulunamadı._\n")
         else:
             for idx, item in enumerate(items_in_cat, 1):
-                target_name = item.get("target_name", "Genel Hedef")
+                target_name = item.get("target_name", target_title)
                 score = item.get("score", 0)
                 reason = item.get("reason", "")
                 title = item.get("title", "Başlıksız Kaynak")
@@ -143,7 +140,28 @@ def update_markdown_catalog(kb: dict):
                     lines.append(f"\n![Önizleme]({img_url})\n")
                 lines.append("\n---\n")
 
-    DISCOVERIES_MD.write_text("\n".join(lines), encoding="utf-8")
+    return "\n".join(lines)
+
+def update_markdown_catalog(kb: dict):
+    """Bulunan doğrulanmış tüm kaynakları hem Genel hem de HER ÜRÜNE ÖZEL AYRI KATALOGLAR halinde kaydeder."""
+    discoveries = kb.get("discoveries", [])
+
+    # 1. Genel birleşik katalog
+    general_md = generate_catalog_markdown("Tüm Ürünler Genel Kataloğu", discoveries)
+    DISCOVERIES_MD.write_text(general_md, encoding="utf-8")
+
+    # 2. Her ürün için ayrı katalog dosyası (catalogs/ klasöründe)
+    CATALOGS_DIR.mkdir(exist_ok=True)
+    all_targets = set(item.get("target_name") for item in discoveries if item.get("target_name"))
+
+    for t_name in all_targets:
+        t_items = [d for d in discoveries if d.get("target_name") == t_name]
+        t_md = generate_catalog_markdown(t_name, t_items)
+
+        clean_name = t_name.replace("/", "_").replace("\\", "_").replace(":", "_").strip()
+        clean_name = "".join(c for c in clean_name if c.isalnum() or c in (" ", "_", "-")).strip()
+        cat_file = CATALOGS_DIR / f"{clean_name}.md"
+        cat_file.write_text(t_md, encoding="utf-8")
 
 # ──────────────────────────────────────────────
 # Güvenilir Model Çağrısı (Retry & Fallback)

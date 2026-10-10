@@ -8,3 +8,8 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# Runtime pid files
+*.pid
+data/*.pid
+

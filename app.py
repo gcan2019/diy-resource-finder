@@ -33,6 +33,7 @@ st.set_page_config(
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 TARGETS_DIR = BASE_DIR / "targets"
+CATALOGS_DIR = BASE_DIR / "catalogs"
 DISCOVERIES_MD = BASE_DIR / "DISCOVERIES.md"
 _ENV_FILE = BASE_DIR / ".env"
 PID_FILE = DATA_DIR / "agent.pid"
@@ -45,6 +46,7 @@ REGIONAL_PID_FILE = DATA_DIR / "regional_agent.pid"
 
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
+CATALOGS_DIR.mkdir(exist_ok=True)
 
 # ──────────────────────────────────────────────
 # API Key Yönetimi
@@ -615,19 +617,66 @@ with tab_catalog:
     ])
 
     with sub_cat_tech:
-        if DISCOVERIES_MD.exists():
-            md_content = DISCOVERIES_MD.read_text(encoding="utf-8")
-            st.download_button(
-                label="📥 DISCOVERIES.md Dosyasını İndir",
-                data=md_content,
-                file_name="DISCOVERIES.md",
-                mime="text/markdown",
-                key="down_disc_md"
-            )
+        st.markdown("### 📁 Ürüne Özel Katalog Seçici")
+        st.caption("Her ürünün teknik çizimleri, 3D modelleri ve yapım videoları tamamen bağımsız bir katalog dosyası olarak tutulur, asla karışmaz.")
+
+        # Kayıtlı tüm ürünleri bul
+        _, _, all_targets, _ = load_knowledge_base_data()
+        
+        cat_options = all_targets + ["📚 Tüm Ürünler Birleşik Kataloğu"]
+        
+        sel_cat_product = st.selectbox(
+            "📁 İncelemek ve İndirmek İstediğiniz Ürün Kataloğu:",
+            cat_options if cat_options else ["Henüz Kayıt Yok"],
+            help="İncelemek istediğiniz ürünün bağımsız katalog raporunu seçin."
+        )
+
+        target_md_content = ""
+        download_file_name = "KATALOG.md"
+
+        if sel_cat_product == "📚 Tüm Ürünler Birleşik Kataloğu":
+            if DISCOVERIES_MD.exists():
+                target_md_content = DISCOVERIES_MD.read_text(encoding="utf-8")
+            download_file_name = "TUM_URUNLER_GENEL_KATALOG.md"
+        elif sel_cat_product and sel_cat_product != "Henüz Kayıt Yok":
+            clean_name = sel_cat_product.replace("/", "_").replace("\\", "_").replace(":", "_").strip()
+            clean_name = "".join(c for c in clean_name if c.isalnum() or c in (" ", "_", "-")).strip()
+            prod_cat_path = CATALOGS_DIR / f"{clean_name}.md"
+
+            if prod_cat_path.exists():
+                target_md_content = prod_cat_path.read_text(encoding="utf-8")
+            else:
+                # Eğer dosya henüz oluşmadıysa knowledge_base'den anında oluştur
+                grouped_disc, f_count, _, _ = load_knowledge_base_data(target_filter=sel_cat_product)
+                all_items_for_p = []
+                for cat_k in grouped_disc:
+                    all_items_for_p.extend(grouped_disc[cat_k])
+                from autonomous_agent import generate_catalog_markdown
+                target_md_content = generate_catalog_markdown(sel_cat_product, all_items_for_p)
+                prod_cat_path.write_text(target_md_content, encoding="utf-8")
+
+            download_file_name = f"{clean_name}_KATALOG.md"
+
+        if target_md_content:
+            col_down, col_info = st.columns([3, 4])
+            with col_down:
+                st.download_button(
+                    label=f"📥 '{sel_cat_product[:25]}' Özel Raporunu İndir",
+                    data=target_md_content,
+                    file_name=download_file_name,
+                    mime="text/markdown",
+                    key="down_prod_cat_md",
+                    type="primary",
+                    use_container_width=True
+                )
+            with col_info:
+                st.info(f"💡 Bu dosya yalnızca **{sel_cat_product}** ürününe aittir; diğer ürünlerle karışmaz.")
+
+            st.divider()
             with st.container(border=True):
-                st.markdown(md_content)
+                st.markdown(target_md_content)
         else:
-            st.info("Henüz teknik katalog oluşturulmadı.")
+            st.info("Bu ürün için henüz katalog dosyası oluşturulmadı.")
 
     with sub_cat_reg:
         if REGIONAL_REPORT_MD.exists():
