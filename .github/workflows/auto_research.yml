@@ -79,5 +79,6 @@ jobs:
             echo "Yeni kesif yok, commit atlanıyor."
           else
             git commit -m "🌙 Bulut Nobetcisi: PC kapaliyken yeni kaynaklar bulundu [skip ci]"
-            git push
+            git pull --rebase origin main || true
+            git push origin main
           fi

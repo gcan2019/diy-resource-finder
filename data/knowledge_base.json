@@ -805,6 +805,28 @@
       "variant_type": "working_variation",
       "reason": "Image 2 represents a fabricated working variation of the reference gas cylinder truck with a similar multi-wheel layout and chain retention mechanism, though differing in finish and structural frame details.",
       "discovered_at": "2026-10-10 16:06:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Trolleys | Fast Delivery",
+      "page_url": "https://www.firstmats.co.uk/collections/gas-cylinder-trolleys",
+      "candidate_image_url": "https://www.firstmats.co.uk/cdn/shop/products/3-wheel-gas-cylinder-trolley-rear.png?v=1687953961",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Image 2 shows a fully assembled, functional gas cylinder truck with identical structural frame and wheel configuration to the reference product, differing primarily in color and the addition of a loaded gas cylinder.",
+      "discovered_at": "2026-10-10 16:07:20"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Hand Truck | National Cart",
+      "page_url": "https://nationalcart.com/products/gas-cylinder-hand-truck/",
+      "candidate_image_url": "https://nationalcart.com/wp-content/uploads/2020/06/8000493_Dim_Square.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Both images depict gas cylinder hand trucks, although Image 2 is a standard two-wheel upright blueprint whereas Image 1 is a multi-wheel convertible design.",
+      "discovered_at": "2026-10-10 16:07:38"
     }
   ]
 }
