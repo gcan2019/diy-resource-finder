@@ -8,7 +8,7 @@
       "onAutoForward": "openBrowser"
     }
   },
-  "postCreateCommand": "pip install -r requirements.txt",
+  "postCreateCommand": "pip install -r requirements.txt && python -m playwright install --with-deps chromium",
   "customizations": {
     "vscode": {
       "extensions": [

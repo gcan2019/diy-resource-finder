@@ -16,6 +16,7 @@ import io
 import os
 import urllib.parse
 from pathlib import Path
+from pinterest_bot import scrape_pinterest_pins
 
 # ──────────────────────────────────────────────
 # API Key kalıcı saklama (.env dosyası)
@@ -164,29 +165,30 @@ def _dedup(items: list[dict], key: str = "href") -> list[dict]:
     return out
 
 
-# ── Pinterest ──
+# ── Pinterest (Playwright Bot ile Gerçek Pinler) ──
 def search_pinterest(queries: list[str]) -> dict:
     results: list[dict] = []
     direct_links: list[dict] = []
 
     for q in queries:
-        # Genel arama + pinterest anahtar kelimesiyle (site: operatörü yerine)
-        text_results = _ddg_text(f"pinterest {q}", max_results=8)
-        pin_results = [r for r in text_results if "pinterest" in r.get("href", "").lower()]
-        results.extend(pin_results)
-
-        # Ayrıca genel görsel arama — pinterest pinlerine benzer görseller
-        img_results = _ddg_images(f"{q} pinterest", max_results=6)
-        results.extend([
-            {"title": r.get("title", ""), "href": r.get("url", ""), "body": r.get("source", "")}
-            for r in img_results
-            if "pinterest" in r.get("url", "").lower()
-        ])
-
         direct_links.append({
             "query": q,
             "url": f"https://www.pinterest.com/search/pins/?q={urllib.parse.quote(q)}",
         })
+
+    # Playwright botu ile ilk/en spesifik sorgudan gerçek pinleri ve görselleri çek
+    if queries:
+        primary_query = queries[0]
+        bot_pins = scrape_pinterest_pins(primary_query, max_pins=18)
+        if bot_pins:
+            results.extend(bot_pins)
+
+    # Bot sonucu gelmezse fallback olarak text arama
+    if not results:
+        for q in queries:
+            text_results = _ddg_text(f"pinterest {q}", max_results=6)
+            pin_results = [r for r in text_results if "pinterest" in r.get("href", "").lower()]
+            results.extend(pin_results)
 
     return {"results": _dedup(results)[:18], "direct_links": direct_links}
 
@@ -423,12 +425,18 @@ if uploaded_file and api_key:
             cols = st.columns(3)
             for i, r in enumerate(pin_res["results"]):
                 with cols[i % 3]:
-                    title = r.get("title", "Başlık yok")
+                    img_url = r.get("image", "")
+                    title = r.get("title", "Pinterest Pin")
                     href = r.get("href", "#")
-                    body = r.get("body", "")
-                    st.markdown(f"📌 **[{title[:80]}]({href})**")
-                    if body:
-                        st.caption(body[:120])
+                    
+                    if img_url:
+                        try:
+                            st.image(img_url, use_container_width=True)
+                        except Exception:
+                            pass
+                    
+                    st.markdown(f"📌 **[{title[:75]}]({href})**")
+                    st.markdown("---")
         else:
             st.info("Sonuç bulunamadı — yukarıdaki butonlarla Pinterest'te doğrudan arayın.")
 
