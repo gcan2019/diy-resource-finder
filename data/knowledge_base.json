@@ -1740,6 +1740,116 @@
       "variant_type": "technical_drawing",
       "reason": "Both images illustrate flanged bearing housing assemblies with rotating shafts, representing the same class of mechanical engineering components for industrial support and sealing.",
       "discovered_at": "2026-10-11 00:24:39"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Turning a Precision Bearing Seat on Shaft | CNC Lathe Machining # ...",
+      "page_url": "https://www.youtube.com/watch?v=96Xnr9xIoHg",
+      "candidate_image_url": "https://i.ytimg.com/vi/96Xnr9xIoHg/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEgwDw==&rs=AOn4CLDcq_7sDtaP4ET0HhsWwuRZw1K67A",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "The candidate image shows the machining process (turning on a lathe) required to create the shaft and bearing seat shown in the technical reference.",
+      "discovered_at": "2026-10-11 04:11:53"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Adjusting M Type lathe spindle bearings 2 - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=mGzwNrD3GVM",
+      "candidate_image_url": "https://i.ytimg.com/vi/mGzwNrD3GVM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgXChSMA8=&rs=AOn4CLCDt4F0mO-jyi_mSiUGvnSGzGQ0hg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "The candidate image depicts a functional mechanical assembly involving a bearing housing structure similar to the flanged bearing unit shown in the reference cross-section.",
+      "discovered_at": "2026-10-11 04:12:10"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "UCFL204 Self-Lube Flanged Bearing Unit - Aire Bearings",
+      "page_url": "https://www.airebearings.co.uk/product/ucfl204-fsb-self-lube-flanged-bearing-unit/",
+      "candidate_image_url": "https://www.airebearings.co.uk/wp-content/uploads/2021/12/UCFL-Bearing-Unit-Drawing.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Both images illustrate a flanged bearing unit; the candidate provides the engineering specification drawing for the type of bearing assembly cross-sectionally depicted in the reference.",
+      "discovered_at": "2026-10-11 04:12:33"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Fixed Flanged Bearing Units Overview | PDF",
+      "page_url": "https://www.scribd.com/document/807308215/24080-Datasheet-5056-Fixed-Bearing-Units-Flange-Version-En",
+      "candidate_image_url": "https://imgv2-2-f.scribdassets.com/img/document/807308215/original/424446e3a4/1?v=1",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Both images illustrate a flanged bearing unit assembly designed for shaft support, featuring comparable mounting configurations and internal ball bearing arrangements.",
+      "discovered_at": "2026-10-11 04:12:39"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Center Flange Mounted with a 1 1/8\" Plain Bearing | EEE18K",
+      "page_url": "https://www.triangleoshkosh.com/3-bolt-flange-bearing-with-bushing-eee18k",
+      "candidate_image_url": "https://www.triangleoshkosh.com/media/catalog/product/technical-images/EEE18K.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "The candidate image is a formal engineering blueprint for a flanged ball bearing assembly, which provides the technical specifications for the mechanism depicted in the reference image.",
+      "discovered_at": "2026-10-11 04:12:49"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Sealed flange bearing unit for Food Industry Open :cover Fixing numbers ...",
+      "page_url": "https://shop.hpceurope.com/an/produit.asp?prid=4805",
+      "candidate_image_url": "https://shop.hpceurope.com/images/pdts/schema/fr/SBFBop.gif",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Both images illustrate the cross-sectional anatomy and assembly mounting of a flanged bearing housing unit.",
+      "discovered_at": "2026-10-11 04:12:54"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Open flange bearing unit for food industry Open :cover Fixing numbers:4 ...",
+      "page_url": "https://shop.hpceurope.com/an/produit.asp?prid=4801",
+      "candidate_image_url": "https://shop.hpceurope.com/images/pdts/schema/fr/SBFop.gif",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Both images illustrate a flanged bearing unit; the candidate provides a precise technical blueprint of a high-performance variant, while the reference shows the unit integrated into an assembly.",
+      "discovered_at": "2026-10-11 04:13:11"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "bearing seat tolerance-bearing seat mnufacturer",
+      "page_url": "https://www.bearing-manufacturers.com/bearing-seat-tolerance/",
+      "candidate_image_url": "https://www.bearing-manufacturers.com/wp-content/uploads/2020/03/bearing-seat-tolerance-1.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Image 2 provides technical fit tolerances and shaft diameter deviation data directly related to the flanged bearing assembly shown in Image 1.",
+      "discovered_at": "2026-10-11 04:13:21"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Tolerance Shaft Bearing | PDF | Engineering Tolerance | Bearing ...",
+      "page_url": "https://www.scribd.com/document/931700678/Tolerance-Shaft-Bearing",
+      "candidate_image_url": "https://imgv2-2-f.scribdassets.com/img/document/931700678/original/ec914c8757/1?v=1",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "While image 2 is a technical reference table for bearing tolerances and not a schematic, it serves as the official engineering documentation for the installation of the mechanical component shown in image 1.",
+      "discovered_at": "2026-10-11 04:13:41"
+    },
+    {
+      "target_name": "Flanged bearing unit / Flanşlı yatak",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/bearing-housing-52",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/23168af139d11122cb80093e0fb8fa73/large.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "The candidate image shows a 3D CAD model of a three-bolt flanged bearing housing which matches the functional configuration of the housing depicted in the reference cross-section.",
+      "discovered_at": "2026-10-11 04:13:57"
     }
   ]
 }
