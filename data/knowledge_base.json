@@ -4644,6 +4644,17 @@
       "variant_type": "working_variation",
       "reason": "Both images illustrate the mechanical assembly of a flanged or pillow block bearing unit, though they represent different bearing types and mounting configurations.",
       "discovered_at": "2026-10-11 16:17:50"
+    },
+    {
+      "target_name": "Flanged Bearing Unit / Flanşlı Rulman Yatağı",
+      "title": "Precision Machining of Bearing Housing - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=MhWPnOSEFcI",
+      "candidate_image_url": "https://i.ytimg.com/vi/MhWPnOSEFcI/hqdefault.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Both images show industrial flanged housing components designed for rotational support, confirming they are variants of the same mechanical product class.",
+      "discovered_at": "2026-10-11 18:12:09"
     }
   ]
 }
