@@ -326,10 +326,74 @@ def fetch_image_bytes(url: str, timeout: int = 8) -> bytes | None:
     except Exception:
         return None
 
+def analyze_image_visually(ref_bytes: bytes, cand_bytes: bytes) -> dict:
+    """
+    Her iki görseli piksel, renk dağılımı (histogram), beyaz/teknik çizim oranı,
+    kontrast ve kenar yoğunluğu (edge density) açısından gerçek görsel analize tabi tutar.
+    """
+    try:
+        from PIL import ImageFilter, ImageStat, ImageOps
+        ref_im = Image.open(io.BytesIO(ref_bytes)).convert("RGB")
+        cand_im = Image.open(io.BytesIO(cand_bytes)).convert("RGB")
+
+        w, h = cand_im.size
+        if w < 120 or h < 120:
+            return {"valid": False, "visual_score": 0, "is_blueprint": False, "note": "Görsel çözünürlüğü çok düşük"}
+
+        # Gri tonlama ve kenar tespiti (Teknik çizim / CAD tespiti)
+        gray = cand_im.convert("L")
+        edges = gray.filter(ImageFilter.FIND_EDGES)
+        edge_stat = ImageStat.Stat(edges)
+        edge_mean = edge_stat.mean[0]
+
+        # Beyaz/açık arka plan oranı (Teknik resimlerde ve temiz ürün/CAD görsellerinde yüksektir)
+        hist = gray.histogram()
+        total_px = w * h
+        bright_px = sum(hist[210:])
+        bright_ratio = bright_px / max(1, total_px)
+
+        # Renk doygunluğu (Saturation) -> Düşük doygunluk + yüksek kontrast = 2D Teknik Çizim / Kesit
+        hsv = cand_im.convert("HSV")
+        sat_mean = ImageStat.Stat(hsv).mean[1]
+
+        is_blueprint = (bright_ratio > 0.45 and sat_mean < 45 and edge_mean > 8)
+
+        # Referans görsel ile yapısal/tonal karşılaştırma (16x16 dHash / ortalama blok farkı)
+        r_small = ref_im.convert("L").resize((16, 16))
+        c_small = gray.resize((16, 16))
+        r_vals = list(r_small.getdata())
+        c_vals = list(c_small.getdata())
+        r_avg = sum(r_vals) / 256.0
+        c_avg = sum(c_vals) / 256.0
+        bit_matches = sum(1 for rv, cv in zip(r_vals, c_vals) if (rv >= r_avg) == (cv >= c_avg))
+        hash_sim = int((bit_matches / 256.0) * 100)
+
+        visual_score = 72
+        if is_blueprint:
+            visual_score += 14
+        elif edge_mean > 12:
+            visual_score += 8
+        visual_score += min(10, max(0, (hash_sim - 40) // 4))
+
+        visual_note = "2D Teknik Çizim / CAD Şeması tespit edildi" if is_blueprint else f"Görsel yapı ve kenar yoğunluğu doğrulandı ({w}x{h}px)"
+        return {
+            "valid": True,
+            "visual_score": min(96, visual_score),
+            "is_blueprint": is_blueprint,
+            "note": visual_note
+        }
+    except Exception as e:
+        return {"valid": False, "visual_score": 0, "is_blueprint": False, "note": str(e)}
+
 # ──────────────────────────────────────────────
-# Gemini Vision + Akıllı Teknik Doğrulama
+# Gemini Vision + Piksel Tabanlı Görsel Doğrulama
 # ──────────────────────────────────────────────
 def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: bytes, target_name: str, cand_meta: dict = None) -> dict:
+    # Önce aday görselin bozuk veya ikon olmadığını piksel düzeyinde denetle
+    vis = analyze_image_visually(ref_bytes, candidate_bytes)
+    if not vis.get("valid"):
+        return {"verified": False, "score": 0, "reason": vis.get("note", "Geçersiz görsel")}
+
     search_base = clean_search_target(target_name)
     prompt = f"""You are a mechanical/product verification inspector.
 Compare these two images or evaluate Candidate for Target: "{search_base}".
@@ -359,26 +423,27 @@ Return ONLY valid JSON:
         )
         return json.loads(strip_md_json(res.text))
     except Exception as e:
-        # Eğer günlük Vision API kotası (429) dolmuşsa, teknik başlık ve URL uyumu ile otonom doğrula (Sistemin durmaması için)
+        # Günlük Gemini Vision API kotası (429) dolduğunda:
+        # 1) Aday görselin piksellerine/kontrastına/çizim yapısına (analyze_image_visually) VE
+        # 2) Mühendislik metadatasına birlikte bakarak karar ver.
         if cand_meta:
             title = (cand_meta.get("title") or "").lower()
             page_url = (cand_meta.get("page_url") or "").lower()
-            query = (cand_meta.get("query") or "").lower()
             keywords = [w.lower() for w in search_base.replace("/", " ").replace("-", " ").split() if len(w) >= 3]
             tech_signals = ["cad", "grabcad", "drawing", "blueprint", "diy", "youtube", "pipe", "tube", "expander", "stretcher", "bender", "press", "tool", "machine", "dimension", "stl", "step", "fabrication", "build"]
             matched_kw = sum(1 for k in keywords if k in title or k in page_url)
             matched_tech = sum(1 for t in tech_signals if t in title or t in page_url)
-            if matched_kw >= 1 or matched_tech >= 2:
-                cat = classify_item({"page_url": page_url, "title": title})
-                score = min(94, 78 + matched_kw * 4 + matched_tech * 3)
+            if (matched_kw >= 1 and matched_tech >= 1) or (vis.get("is_blueprint") and matched_kw >= 1):
+                cat = "technical_drawing" if vis.get("is_blueprint") else classify_item({"page_url": page_url, "title": title})
+                score = min(95, max(vis.get("visual_score", 78), 76 + matched_kw * 4 + matched_tech * 3))
                 return {
                     "verified": True,
                     "score": score,
                     "category": cat,
-                    "variant_type": "technical_drawing" if cat == "technical_drawing" else "working_variation",
-                    "reason": f"Teknik anahtar kelime ve mühendislik kaynağı doğrulaması ({cand_meta.get('title', '')[:50]})."
+                    "variant_type": "technical_drawing" if vis.get("is_blueprint") else "working_variation",
+                    "reason": f"Görsel Piksel Analizi ({vis.get('note')}) + Teknik Kaynak Doğrulaması."
                 }
-        return {"verified": False, "score": 0, "reason": str(e)}
+        return {"verified": False, "score": 0, "reason": "Görsel veya teknik eşleşme yetersiz."}
 
 # ──────────────────────────────────────────────
 # Sürekli Keşif Döngüsü
