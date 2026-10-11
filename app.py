@@ -430,7 +430,7 @@ st.title("🤖 DIY Otonom Keşif ve Proje Masası")
 tab_dashboard, tab_sellable, tab_regional, tab_catalog, tab_instant = st.tabs([
     "🚀 Ürün Dosyaları & Canlı Keşifler",
     "🛒 Satılabilir Makineler (Üret & Sat)",
-    "📍 Bölgesel Sanayi Açığı Radarı (Merzifon OSB)",
+    "⚙️ Mekanikya & MISUMI Hızlı Nakit Radarı",
     "📖 Katalog Raporları",
     "🔍 Hızlı Tekil Analiz"
 ])
@@ -769,11 +769,16 @@ with tab_sellable:
                         st.info("Bu makine için teknik çizim önizlemesi aranıyor...")
 
 # ══════════════════════════════════════════════
-# SEKME 3: BÖLGESEL SANAYİ AÇIĞI RADARI (MERZİFON OSB)
+# SEKME 3: MEKANİKYA.COM.TR — MISUMI & HIZLI NAKİT ÜRÜN AVCISI
 # ══════════════════════════════════════════════
 with tab_regional:
-    st.subheader("📍 Bölgesel Sanayi Açığı & İmalat Fırsatı Radarı")
-    st.caption("Belirli bir sanayi bölgesinde (Örn: Merzifon OSB) fabrikaların dışarıdan/ithal temin ettiği, bölgede üretilmeyen yüksek katma değerli parçaları otonom tespit eder.")
+    st.subheader("⚙️ Mekanikya (mekanikya.com.tr) — MISUMI & Hızlı Nakit Ürün Avcısı")
+    st.caption(
+        "Ortak Uygulamacı Makine Mühendisi Ajanı: `jp.misumi-ec.com/vona2/`, `content.misumi-ec.com` ve `inCAD Library` "
+        "arşivlerini tarar; Türkiye pazarındaki (Trendyol, Hepsiburada, E-Makine vb.) canlı TL karşılıklarını bulur. "
+        "Ağır döküm, PLC ve uzun CNC gerektirenleri eleyip **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Elemanlarla 1-3 günde** "
+        "üreterek ilk müşteriden en hızlı nakit kazanacağımız ürünleri **6 zorunlu maddeyle** sunar."
+    )
 
     reg_running = is_regional_agent_running()
 
@@ -781,91 +786,134 @@ with tab_regional:
     with st.container(border=True):
         col_reg_input, col_reg_ctrl = st.columns([3, 2])
         with col_reg_input:
-            selected_region = st.text_input(
-                "🎯 Hedef Sanayi Bölgesi / Şehir:",
-                value="Merzifon, Amasya",
-                help="Taramak istediğiniz sanayi bölgesini yazın (Örn: Merzifon, Çorum, Samsun, Konya)"
+            focus_options = [
+                "Tümü (Tüm %80+ Sac & Profil Mekanizmaları)",
+                "Taşıma & Lojistik Arabaları (Dolly / Cart / Lifter)",
+                "Hızlı Bağlama, Kaynak & Montaj Fikstürleri (Jig / Toggle Clamp Bracket)",
+                "Konveyör & Rulo Hat Sehpaları / Gergi Aparatları (Roller Stand / Bracket)",
+                "Kablo, Hortum, Bobin Açıcı & Rulo Taşıyıcılar (Reel Stand / Decoiler)",
+                "Sensör, Kamera, Monitör & Kontrol Paneli Kolları (Mounting Bracket / Arm)",
+                "Seviye Ayarlı Makine Şasileri & Titreşim Önleyici Ayak Braketleri (Leveling Caster Frame)"
+            ]
+            selected_region = st.selectbox(
+                "🎯 MISUMI & Türkiye Pazarı Odak Kategorisi (%80+ Sac / Abkant / Profil):",
+                focus_options,
+                help="Ajanın MISUMI Japonya indeksinde ve Türkiye e-ticaret sitelerinde öncelikli tarayacağı ürün grubu."
             )
-            # Hızlı seçim butonları
-            c_p1, c_p2, c_p3 = st.columns(3)
-            with c_p1:
-                if st.button("📍 Merzifon (Ankastre/Tarım)", use_container_width=True):
-                    selected_region = "Merzifon, Amasya"
-            with c_p2:
-                if st.button("📍 Çorum (Makine/Döküm)", use_container_width=True):
-                    selected_region = "Çorum"
-            with c_p3:
-                if st.button("📍 Samsun (Liman/Medikal)", use_container_width=True):
-                    selected_region = "Samsun"
 
         with col_reg_ctrl:
             if reg_running:
-                st.success("🟢 **Bölgesel Radar:** ÇALIŞIYOR (İnterneti & Raporları Tarıyor)")
+                st.success("🟢 **Mekanikya & MISUMI Avcısı:** ÇALIŞIYOR (`vona2` & TR Pazarı Taranıyor)")
                 col_b1, col_b2 = st.columns(2)
                 with col_b1:
-                    if st.button("⏹️ Radarı Durdur", type="secondary", use_container_width=True):
+                    if st.button("⏹️ Avcıyı Durdur", type="secondary", use_container_width=True):
                         stop_regional_agent()
-                        st.toast("Bölgesel radar durduruldu.", icon="🛑")
+                        st.toast("Mekanikya ürün avcısı durduruldu.", icon="🛑")
                         st.rerun()
                 with col_b2:
-                    if st.button("🔄 Radarı Yenile", use_container_width=True):
+                    if st.button("🔄 Sonuçları Yenile", use_container_width=True):
                         st.rerun()
             else:
-                st.warning("🔴 **Bölgesel Radar:** DURDURULDU (Boşta)")
-                if st.button("▶️ Bu Bölgede İmalat Açıklarını Tara", type="primary", use_container_width=True):
-                    start_regional_agent(selected_region)
-                    st.toast(f"{selected_region} için tarama başlatıldı!", icon="🚀")
-                    st.rerun()
+                st.warning("🔴 **Mekanikya & MISUMI Avcısı:** DURDURULDU (Boşta)")
+                col_b1, col_b2 = st.columns(2)
+                with col_b1:
+                    if st.button("▶️ Sürekli MISUMI & TR Avını Başlat", type="primary", use_container_width=True):
+                        clean_focus = "Tümü" if selected_region.startswith("Tümü") else selected_region
+                        start_regional_agent(clean_focus)
+                        st.toast("MISUMI & Türkiye Pazarı Hızlı Nakit Avcısı başlatıldı!", icon="🚀")
+                        st.rerun()
+                with col_b2:
+                    if st.button("🔄 Yenile", key="ref_mekanikya_idle", use_container_width=True):
+                        st.rerun()
 
     st.markdown("---")
 
-    # Tespit Edilen Fırsatlar
-    opps = load_regional_gaps_data()
-    st.markdown(f"### 💡 Tespit Edilen Yüksek Katma Değerli İmalat Açıkları ({len(opps)} Adet)")
+    # Tespit Edilen Mekanikya Ürünleri
+    opps_raw = load_regional_gaps_data()
+    # Önce 6 maddeli yeni Mekanikya ürünlerini göster
+    mekanikya_opps = [o for o in opps_raw if "1_misumi_identity" in o]
+    legacy_opps = [o for o in opps_raw if "1_misumi_identity" not in o]
+    display_opps = mekanikya_opps if mekanikya_opps else opps_raw
 
-    if not opps:
-        st.info("Bu bölge için henüz kaydedilmiş açık bulunamadı. Yukarıdaki butona basarak taramayı başlatabilirsiniz.")
+    st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilebilir Hızlı Nakit Ürünleri ({len(display_opps)} Adet)")
+
+    if not display_opps:
+        st.info("Henüz ürün kaydı yok. Yukarıdaki **'▶️ Sürekli MISUMI & TR Avını Başlat'** butonuna basarak taramayı başlatabilirsiniz.")
     else:
-        for idx, opp in enumerate(reversed(opps), 1):
-            pname = opp.get("part_name", "İsimsiz Parça")
+        for idx, opp in enumerate(reversed(display_opps), 1):
+            pname = opp.get("part_name", "İsimsiz Ürün")
             eng_name = opp.get("english_name", "")
-            region = opp.get("region", "Bilinmeyen Bölge")
-            score = opp.get("opportunity_score", 90)
-            category = opp.get("category", "Sanayi")
-            reason = opp.get("market_reason", "")
-            buyers = ", ".join(opp.get("local_buyers", []))
-            synergy = opp.get("nearby_synergy", "")
-            machinery = opp.get("required_machinery", "")
-            diff = opp.get("difficulty", "Orta")
+            category = opp.get("category", "Sac & Profil Mekanizma")
+            score = opp.get("opportunity_score", 95)
+            prod_days = opp.get("production_time_days", "1-3 Gün")
+            fab_ratio = opp.get("fabrication_ratio", "%85 Lazer Sac + Abkant")
             bp_img = opp.get("blueprint_image_url")
             cad_url = opp.get("cad_model_url")
             vid_url = opp.get("video_url")
+
+            m1 = opp.get("1_misumi_identity", {})
+            m2 = opp.get("2_dual_price_proof", {})
+            m3 = opp.get("3_workshop_problem_solved", opp.get("market_reason", ""))
+            m4 = opp.get("4_bom_recipe", {})
+            m5 = opp.get("5_cost_profit_analysis", {})
+            m6 = opp.get("6_mekanikya_product_card", {})
 
             with st.container(border=True):
                 col_info, col_img = st.columns([3, 2])
                 with col_info:
                     st.markdown(f"#### {idx}. {pname}")
-                    st.caption(f"🌍 `{eng_name}` | 📍 Bölge: **{region}** | 🏷️ Kategori: **{category}**")
-                    st.badge(f"⭐ Fırsat Skoru: %{score}")
-                    st.markdown(f"**💡 Neden Bu Bölgede Açık Var?**\n{reason}")
-                    if buyers:
-                        st.markdown(f"**🏢 Potansiyel Yerel Alıcılar:** {buyers}")
-                    if synergy:
-                        st.markdown(f"**🤝 Çevre İllerle Sinerji:** {synergy}")
-                    st.markdown(f"**🛠️ Gereken Tezgah/Atölye Altyapısı:** `{machinery}` *(Zorluk: {diff})*")
+                    st.caption(f"🌍 `{eng_name}` | 🏷️ **{category}** | ⏱️ İmalat: **{prod_days}** (`{fab_ratio}`)")
+                    st.badge(f"⭐ Hızlı Nakit Skoru: %{score} | 📈 Net Kâr: %{m5.get('net_profit_margin_percent', 72) if m5 else 70}")
+
+                    if m1 or m2 or m4 or m5 or m6:
+                        # 1. MISUMI Resmi Kimliği
+                        with st.expander("1️⃣ MISUMI Resmi Kimliği (Model Kodu, Japonca Adı, Seri No & CDN)", expanded=True):
+                            st.markdown(f"- **Tam Model Kodu:** `{m1.get('model_code', '-')}`")
+                            st.markdown(f"- **Japonca Resmi Adı:** `{m1.get('japanese_name', '-')}`")
+                            st.markdown(f"- **Seri Numarası / VONA2:** `{m1.get('series_number', '-')}`")
+                            if m1.get("misumi_page_url"):
+                                st.markdown(f"- **MISUMI / inCAD Kaynağı:** `{m1.get('misumi_page_url')}`")
+                            st.markdown(f"- **Doğrulanmış Görsel URL:** `{m1.get('verified_image_url', bp_img or '-')}`")
+
+                        # 2. Çifte Fiyat Kanıtı & 5. Maliyet ve Kâr Analizi Metrikleri
+                        st.markdown("##### 2️⃣ Çifte Fiyat Kanıtı & 5️⃣ Mekanikya Maliyet / Kâr Analizi")
+                        c_p1, c_p2, c_p3, c_p4 = st.columns(4)
+                        c_p1.metric("🇯🇵 MISUMI Japonya", m2.get("misumi_jpy_price", "-"), m2.get("misumi_tl_equivalent", ""))
+                        c_p2.metric("🇹🇷 TR Canlı Piyasa", m2.get("tr_market_live_price", "-"), m2.get("tr_market_source", ""))
+                        c_p3.metric("🛠️ Yerli Maliyetimiz", m5.get("local_manufacturing_cost_tl", "-"))
+                        c_p4.metric("💰 Mekanikya Fiyatımız", m5.get("mekanikya_sales_price_tl", "-"), f"Net Kâr: {m5.get('net_profit_tl', '')}")
+
+                        # 3. Çözdüğü Atölye Problemi
+                        st.info(f"**3️⃣ Çözdüğü Atölye Problemi (Usta/Fabrika Neden Hemen Para Verir?):**\n{m3}")
+
+                        # 4. İmalat Reçetesi (BOM)
+                        with st.expander("4️⃣ İmalat Reçetesi (BOM — Sac, Abkant, Profil & Hazır Elemanlar)", expanded=True):
+                            st.markdown(f"- **Sac Kalınlığı & Malzeme Cinsi:** `{m4.get('sheet_metal_specs', '-')}`")
+                            st.markdown(f"- **Kesim / Abkant Büküm / Kaynak Adımı:** {m4.get('cutting_bending_steps', '-')}")
+                            st.markdown(f"- **Piyasadan Hazır Alınacak Standart Parçalar:** {m4.get('off_the_shelf_parts', '-')}")
+
+                        # 6. Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+                        with st.expander("6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı (Kopyala & Yükle)", expanded=True):
+                            st.markdown(f"**🛒 Ürün Başlığı:** {m6.get('card_title', '-')}")
+                            st.markdown(f"**🏷️ Rozet:** `{m6.get('badge_text', '-')}`")
+                            st.markdown(f"**📝 Kısa Teknik Açıklama:**\n{m6.get('short_tech_description', '-')}")
+                            st.success(f"**{m6.get('whatsapp_cta', '-')}**")
+                    else:
+                        # Eski kayıt uyumluluğu
+                        st.markdown(f"**💡 Açıklama:** {m3}")
 
                     # Eylemler: CAD & Video Butonları
                     b_c1, b_c2 = st.columns(2)
                     with b_c1:
                         if cad_url:
-                            st.link_button("🖨️ 3D CAD Dosyası", cad_url, use_container_width=True)
+                            st.link_button("🖨️ 3D CAD Dosyası (GrabCAD / inCAD)", cad_url, use_container_width=True)
                     with b_c2:
                         if vid_url:
-                            st.link_button("🎥 İmalat / Yapım Videosu", vid_url, use_container_width=True)
+                            st.link_button("🎥 İmalat / Mekanizma Videosu", vid_url, use_container_width=True)
 
-                    # Bu parçayı bizim otonom teknik tarayıcıya gönderme butonu:
+                    # Bu ürünü otonom teknik tarayıcıya gönderme butonu
                     if bp_img:
-                        if st.button(f"🚀 Bu Parçayı Teknik Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
+                        if st.button(f"🚀 Bu Ürünü Teknik Çizim & CAD Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
                             try:
                                 clean_fname = "".join(c for c in pname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
                                 target_save_path = TARGETS_DIR / clean_fname
@@ -902,23 +950,23 @@ with tab_regional:
                 with col_img:
                     if bp_img:
                         try:
-                            st.image(bp_img, caption="📐 2D Teknik Çizim / Kesit Görünümü", use_container_width=True)
+                            st.image(bp_img, caption=f"📐 {m1.get('model_code', 'MISUMI / Teknik Görsel')}", use_container_width=True)
                         except Exception:
-                            st.caption("Teknik çizim görseli yüklenemedi.")
+                            st.caption("Görsel önizlemesi yüklenemedi.")
                     else:
-                        st.info("Bu açık için henüz teknik çizim önizlemesi bulunamadı.")
+                        st.info("Bu ürün için henüz görsel önizlemesi bulunamadı.")
 
 # ══════════════════════════════════════════════
-# SEKME 3: KATALOG RAPORLARI
+# SEKME 4: KATALOG RAPORLARI
 # ══════════════════════════════════════════════
 with tab_catalog:
     st.subheader("📖 Canlı Katalog & Araştırma Raporları")
-    st.caption("Yapay zeka tarafından oluşturulan doğrulanmış teknik kaynak ve bölgesel fırsat raporları.")
+    st.caption("Yapay zeka tarafından oluşturulan doğrulanmış teknik kaynak ve Mekanikya hızlı nakit ürün raporları.")
 
     sub_cat_tech, sub_cat_sellable, sub_cat_reg = st.tabs([
         "📐 Ürüne Özel Teknik Keşifler",
         "🛒 Satılabilir Makineler (SELLABLE_MACHINES.md)",
-        "📍 Bölgesel Sanayi Açıkları (REGIONAL_OPPORTUNITIES.md)"
+        "⚙️ Mekanikya & MISUMI Raporu (REGIONAL_OPPORTUNITIES.md)"
     ])
 
     with sub_cat_tech:
