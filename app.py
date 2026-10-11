@@ -430,7 +430,7 @@ st.title("🤖 DIY Otonom Keşif ve Proje Masası")
 tab_dashboard, tab_sellable, tab_regional, tab_catalog, tab_instant = st.tabs([
     "🚀 Ürün Dosyaları & Canlı Keşifler",
     "🛒 Satılabilir Makineler (Üret & Sat)",
-    "⚙️ Mekanikya & MISUMI Hızlı Nakit Radarı",
+    "⚙️ Mekanikya Hızlı Nakit & Makine Radarı",
     "📖 Katalog Raporları",
     "🔍 Hızlı Tekil Analiz"
 ])
@@ -769,15 +769,14 @@ with tab_sellable:
                         st.info("Bu makine için teknik çizim önizlemesi aranıyor...")
 
 # ══════════════════════════════════════════════
-# SEKME 3: MEKANİKYA.COM.TR — MISUMI & HIZLI NAKİT ÜRÜN AVCISI
+# SEKME 3: MEKANİKYA.COM.TR — HIZLI NAKİT & ÜRET-SAT MAKİNE AVCISI
 # ══════════════════════════════════════════════
 with tab_regional:
-    st.subheader("⚙️ Mekanikya (mekanikya.com.tr) — MISUMI & Hızlı Nakit Ürün Avcısı")
+    st.subheader("⚙️ Mekanikya (mekanikya.com.tr) — Hızlı Nakit & İnternetten Satılabilir Makine Avcısı")
     st.caption(
-        "Ortak Uygulamacı Makine Mühendisi Ajanı: `jp.misumi-ec.com/vona2/`, `content.misumi-ec.com` ve `inCAD Library` "
-        "arşivlerini tarar; Türkiye pazarındaki (Trendyol, Hepsiburada, E-Makine vb.) canlı TL karşılıklarını bulur. "
-        "Ağır döküm, PLC ve uzun CNC gerektirenleri eleyip **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Elemanlarla 1-3 günde** "
-        "üreterek ilk müşteriden en hızlı nakit kazanacağımız ürünleri **6 zorunlu maddeyle** sunar."
+        "Ortak Uygulamacı Makine Mühendisi Ajanı: Dünya genelinde çok satan pratik makineleri ve Türkiye pazarındaki (Trendyol, Hepsiburada, Sahibinden, E-Makine vb.) "
+        "canlı TL karşılıklarını tarar. Ağır döküm, PLC ve uzun CNC gerektirenleri eleyip **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Elemanlarla 1-3 günde** "
+        "üreterek internetten satıp ilk müşteriden en hızlı nakit kazanacağımız makineleri ve aparatları **6 zorunlu maddeyle** sunar."
     )
 
     reg_running = is_regional_agent_running()
@@ -787,40 +786,40 @@ with tab_regional:
         col_reg_input, col_reg_ctrl = st.columns([3, 2])
         with col_reg_input:
             focus_options = [
-                "Tümü (Tüm %80+ Sac & Profil Mekanizmaları)",
-                "Taşıma & Lojistik Arabaları (Dolly / Cart / Lifter)",
-                "Hızlı Bağlama, Kaynak & Montaj Fikstürleri (Jig / Toggle Clamp Bracket)",
-                "Konveyör & Rulo Hat Sehpaları / Gergi Aparatları (Roller Stand / Bracket)",
-                "Kablo, Hortum, Bobin Açıcı & Rulo Taşıyıcılar (Reel Stand / Decoiler)",
-                "Sensör, Kamera, Monitör & Kontrol Paneli Kolları (Mounting Bracket / Arm)",
-                "Seviye Ayarlı Makine Şasileri & Titreşim Önleyici Ayak Braketleri (Leveling Caster Frame)"
+                "Tümü (Tüm %80+ Sac & Profil Satılabilir Makineler)",
+                "Sac, Boru & Profil Şekillendirme Makineleri / Aparatları",
+                "Atölye Taşıma, Kaldırma & Tezgah Ekipmanları",
+                "Kaynak, Bağlama & Montaj Fikstürleri / Aparatları",
+                "Zımpara, Polisaj, Çapak Alma & Yüzey İşlem Makineleri",
+                "Kablo, Bobin, Paketleme & Geri Dönüşüm Makineleri",
+                "Tarım, Bahçe, Odun & Gıda İşleme Makineleri"
             ]
             selected_region = st.selectbox(
-                "🎯 MISUMI & Türkiye Pazarı Odak Kategorisi (%80+ Sac / Abkant / Profil):",
+                "🎯 İnternetten Satılabilir Makine Odak Kategorisi (%80+ Sac / Abkant / Profil):",
                 focus_options,
-                help="Ajanın MISUMI Japonya indeksinde ve Türkiye e-ticaret sitelerinde öncelikli tarayacağı ürün grubu."
+                help="Ajanın global pazarda ve Türkiye e-ticaret sitelerinde öncelikli tarayacağı makine grubu."
             )
 
         with col_reg_ctrl:
             if reg_running:
-                st.success("🟢 **Mekanikya & MISUMI Avcısı:** ÇALIŞIYOR (`vona2` & TR Pazarı Taranıyor)")
+                st.success("🟢 **Mekanikya Makine Avcısı:** ÇALIŞIYOR (Global & TR Pazarı Taranıyor)")
                 col_b1, col_b2 = st.columns(2)
                 with col_b1:
                     if st.button("⏹️ Avcıyı Durdur", type="secondary", use_container_width=True):
                         stop_regional_agent()
-                        st.toast("Mekanikya ürün avcısı durduruldu.", icon="🛑")
+                        st.toast("Mekanikya makine avcısı durduruldu.", icon="🛑")
                         st.rerun()
                 with col_b2:
                     if st.button("🔄 Sonuçları Yenile", use_container_width=True):
                         st.rerun()
             else:
-                st.warning("🔴 **Mekanikya & MISUMI Avcısı:** DURDURULDU (Boşta)")
+                st.warning("🔴 **Mekanikya Makine Avcısı:** DURDURULDU (Boşta)")
                 col_b1, col_b2 = st.columns(2)
                 with col_b1:
-                    if st.button("▶️ Sürekli MISUMI & TR Avını Başlat", type="primary", use_container_width=True):
+                    if st.button("▶️ Sürekli Makine & Ürün Avını Başlat", type="primary", use_container_width=True):
                         clean_focus = "Tümü" if selected_region.startswith("Tümü") else selected_region
                         start_regional_agent(clean_focus)
-                        st.toast("MISUMI & Türkiye Pazarı Hızlı Nakit Avcısı başlatıldı!", icon="🚀")
+                        st.toast("Mekanikya Hızlı Nakit Makine Avcısı başlatıldı!", icon="🚀")
                         st.rerun()
                 with col_b2:
                     if st.button("🔄 Yenile", key="ref_mekanikya_idle", use_container_width=True):
@@ -830,20 +829,18 @@ with tab_regional:
 
     # Tespit Edilen Mekanikya Ürünleri
     opps_raw = load_regional_gaps_data()
-    # Önce 6 maddeli yeni Mekanikya ürünlerini göster
     mekanikya_opps = [o for o in opps_raw if "1_misumi_identity" in o]
-    legacy_opps = [o for o in opps_raw if "1_misumi_identity" not in o]
     display_opps = mekanikya_opps if mekanikya_opps else opps_raw
 
-    st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilebilir Hızlı Nakit Ürünleri ({len(display_opps)} Adet)")
+    st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilip İnternetten Satılabilir Makineler ({len(display_opps)} Adet)")
 
     if not display_opps:
-        st.info("Henüz ürün kaydı yok. Yukarıdaki **'▶️ Sürekli MISUMI & TR Avını Başlat'** butonuna basarak taramayı başlatabilirsiniz.")
+        st.info("Henüz makine/ürün kaydı yok. Yukarıdaki **'▶️ Sürekli Makine & Ürün Avını Başlat'** butonuna basarak taramayı başlatabilirsiniz.")
     else:
         for idx, opp in enumerate(reversed(display_opps), 1):
-            pname = opp.get("part_name", "İsimsiz Ürün")
+            pname = opp.get("part_name", "İsimsiz Makine")
             eng_name = opp.get("english_name", "")
-            category = opp.get("category", "Sac & Profil Mekanizma")
+            category = opp.get("category", "Sac & Profil Makine")
             score = opp.get("opportunity_score", 95)
             prod_days = opp.get("production_time_days", "1-3 Gün")
             fab_ratio = opp.get("fabrication_ratio", "%85 Lazer Sac + Abkant")
@@ -866,25 +863,23 @@ with tab_regional:
                     st.badge(f"⭐ Hızlı Nakit Skoru: %{score} | 📈 Net Kâr: %{m5.get('net_profit_margin_percent', 72) if m5 else 70}")
 
                     if m1 or m2 or m4 or m5 or m6:
-                        # 1. MISUMI Resmi Kimliği
-                        with st.expander("1️⃣ MISUMI Resmi Kimliği (Model Kodu, Japonca Adı, Seri No & CDN)", expanded=True):
-                            st.markdown(f"- **Tam Model Kodu:** `{m1.get('model_code', '-')}`")
-                            st.markdown(f"- **Japonca Resmi Adı:** `{m1.get('japanese_name', '-')}`")
-                            st.markdown(f"- **Seri Numarası / VONA2:** `{m1.get('series_number', '-')}`")
-                            if m1.get("misumi_page_url"):
-                                st.markdown(f"- **MISUMI / inCAD Kaynağı:** `{m1.get('misumi_page_url')}`")
+                        # 1. Global Referans & Ürün Kimliği
+                        with st.expander("1️⃣ Global Referans Model & Türkiye Pazar Durumu", expanded=True):
+                            st.markdown(f"- **Referans Model / Tip Kodu:** `{m1.get('model_code', '-')}`")
+                            st.markdown(f"- **Global Satış / Teknik Adı:** `{m1.get('japanese_name', '-')}`")
+                            st.markdown(f"- **Türkiye Pazarı Durumu:** `{m1.get('series_number', '-')}`")
                             st.markdown(f"- **Doğrulanmış Görsel URL:** `{m1.get('verified_image_url', bp_img or '-')}`")
 
                         # 2. Çifte Fiyat Kanıtı & 5. Maliyet ve Kâr Analizi Metrikleri
                         st.markdown("##### 2️⃣ Çifte Fiyat Kanıtı & 5️⃣ Mekanikya Maliyet / Kâr Analizi")
                         c_p1, c_p2, c_p3, c_p4 = st.columns(4)
-                        c_p1.metric("🇯🇵 MISUMI Japonya", m2.get("misumi_jpy_price", "-"), m2.get("misumi_tl_equivalent", ""))
+                        c_p1.metric("🌍 Global Satış Fiyatı", m2.get("misumi_jpy_price", "-"), m2.get("misumi_tl_equivalent", ""))
                         c_p2.metric("🇹🇷 TR Canlı Piyasa", m2.get("tr_market_live_price", "-"), m2.get("tr_market_source", ""))
                         c_p3.metric("🛠️ Yerli Maliyetimiz", m5.get("local_manufacturing_cost_tl", "-"))
                         c_p4.metric("💰 Mekanikya Fiyatımız", m5.get("mekanikya_sales_price_tl", "-"), f"Net Kâr: {m5.get('net_profit_tl', '')}")
 
                         # 3. Çözdüğü Atölye Problemi
-                        st.info(f"**3️⃣ Çözdüğü Atölye Problemi (Usta/Fabrika Neden Hemen Para Verir?):**\n{m3}")
+                        st.info(f"**3️⃣ Çözdüğü Atölye Problemi (Usta/Müşteri Neden Hemen Para Verir?):**\n{m3}")
 
                         # 4. İmalat Reçetesi (BOM)
                         with st.expander("4️⃣ İmalat Reçetesi (BOM — Sac, Abkant, Profil & Hazır Elemanlar)", expanded=True):
@@ -899,21 +894,20 @@ with tab_regional:
                             st.markdown(f"**📝 Kısa Teknik Açıklama:**\n{m6.get('short_tech_description', '-')}")
                             st.success(f"**{m6.get('whatsapp_cta', '-')}**")
                     else:
-                        # Eski kayıt uyumluluğu
                         st.markdown(f"**💡 Açıklama:** {m3}")
 
                     # Eylemler: CAD & Video Butonları
                     b_c1, b_c2 = st.columns(2)
                     with b_c1:
                         if cad_url:
-                            st.link_button("🖨️ 3D CAD Dosyası (GrabCAD / inCAD)", cad_url, use_container_width=True)
+                            st.link_button("🖨️ 3D CAD Dosyası (GrabCAD)", cad_url, use_container_width=True)
                     with b_c2:
                         if vid_url:
-                            st.link_button("🎥 İmalat / Mekanizma Videosu", vid_url, use_container_width=True)
+                            st.link_button("🎥 İmalat / Yapım Videosu", vid_url, use_container_width=True)
 
                     # Bu ürünü otonom teknik tarayıcıya gönderme butonu
                     if bp_img:
-                        if st.button(f"🚀 Bu Ürünü Teknik Çizim & CAD Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
+                        if st.button(f"🚀 Bu Makineyi Teknik Çizim & CAD Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
                             try:
                                 clean_fname = "".join(c for c in pname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
                                 target_save_path = TARGETS_DIR / clean_fname
@@ -950,23 +944,23 @@ with tab_regional:
                 with col_img:
                     if bp_img:
                         try:
-                            st.image(bp_img, caption=f"📐 {m1.get('model_code', 'MISUMI / Teknik Görsel')}", use_container_width=True)
+                            st.image(bp_img, caption=f"📐 {m1.get('model_code', 'Ürün / Teknik Görsel')}", use_container_width=True)
                         except Exception:
                             st.caption("Görsel önizlemesi yüklenemedi.")
                     else:
-                        st.info("Bu ürün için henüz görsel önizlemesi bulunamadı.")
+                        st.info("Bu makine için henüz görsel önizlemesi bulunamadı.")
 
 # ══════════════════════════════════════════════
 # SEKME 4: KATALOG RAPORLARI
 # ══════════════════════════════════════════════
 with tab_catalog:
     st.subheader("📖 Canlı Katalog & Araştırma Raporları")
-    st.caption("Yapay zeka tarafından oluşturulan doğrulanmış teknik kaynak ve Mekanikya hızlı nakit ürün raporları.")
+    st.caption("Yapay zeka tarafından oluşturulan doğrulanmış teknik kaynak ve Mekanikya hızlı nakit makine raporları.")
 
     sub_cat_tech, sub_cat_sellable, sub_cat_reg = st.tabs([
         "📐 Ürüne Özel Teknik Keşifler",
         "🛒 Satılabilir Makineler (SELLABLE_MACHINES.md)",
-        "⚙️ Mekanikya & MISUMI Raporu (REGIONAL_OPPORTUNITIES.md)"
+        "⚙️ Mekanikya 6 Maddeli Makine Raporu (REGIONAL_OPPORTUNITIES.md)"
     ])
 
     with sub_cat_tech:

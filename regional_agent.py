@@ -1,19 +1,20 @@
 """
-Mekanikya Hızlı Nakit & MISUMI B2B Ürün Avcısı (Fast Cash Product Engine)
--------------------------------------------------------------------------
+Mekanikya Hızlı Nakit & Pratik Üret-Sat Ürün Avcısı (Fast Cash Product Engine)
+------------------------------------------------------------------------------
 Ortak Uygulamacı Makine Mühendisi Ajanı:
-Amacımız teorik fikir üretmek değil; Mekanikya (mekanikya.com.tr) sitemize koyup
+Amacımız teorik fikir üretmek veya tek bir yabancı kataloğa bağlı kalmak değil;
+Mekanikya (mekanikya.com.tr) sitemize, Trendyol'a, Hepsiburada'ya ve Sahibinden'e koyup
 ilk müşteriden ilk parayı en hızlı şekilde kazanacağımız, %80+ lazer kesim sac +
-abkant büküm + kutu profil + standart hazır elemanlarla (cıvata, pim, klemp, tekerlek)
-1-3 günde hemen üretebileceğimiz ürünleri bulmaktır.
+abkant büküm + kutu profil + standart hazır elemanlarla (cıvata, pim, klemp, rulman, tekerlek, motor)
+1-3 günde hemen üretebileceğimiz ürünleri ve makineleri bulmaktır.
 
 Arama Zinciri:
-1. Web arama indeksini kullanarak doğrudan `jp.misumi-ec.com/vona2/`, `content.misumi-ec.com`
-   CDN sunucularını ve `inCAD Library` / `ideanote` arşivlerini tarar (404 engellerini indeks üzerinden aşar).
-2. Aynı ürünün Türkiye pazarında (Trendyol, Hepsiburada, E-Makine, Takım Sanayi, Sahibinden vb.)
-   aktif satılan karşılığını ve canlı TL fiyatını bulur.
+1. Dünya genelinde (Etsy, eBay, Amazon, YouTube DIY builds, Vevor, Eastwood, Baileigh, GrabCAD)
+   çok satan pratik atölye makinelerini, aparatları ve ekipmanları tarar.
+2. Aynı ürünün Türkiye pazarında (Trendyol, Hepsiburada, Sahibinden, E-Makine, Takım Sanayi vb.)
+   aktif satılan karşılığını, boşluğunu ve canlı TL fiyatını bulur.
 3. Ağır döküm, elektronik/PLC veya uzun CNC işleme gerektiren ürünleri eler; sadece %80+ sac/profil/basit torna
-   ile 1-3 günde üretilebilecek mekanik ürünlere odaklanır.
+   ile 1-3 günde üretilebilecek mekanik ürünlere ve makinelere odaklanır.
 4. Bulunan her ürünü istisnasız 6 zorunlu maddeyle JSON ve Markdown raporuna kaydeder.
 
 Kullanım:
@@ -118,121 +119,121 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
     raise last_err
 
 # ──────────────────────────────────────────────
-# MISUMI & Türkiye Pazarı Arama Kategorileri (%80+ Sac / Profil / Hazır Eleman)
+# Global & Türkiye Pazarı Arama Kategorileri (%80+ Sac / Profil / Hazır Eleman)
 # ──────────────────────────────────────────────
-MISUMI_SEARCH_THEMES = [
+SEARCH_THEMES = [
     {
-        "category": "Taşıma & Lojistik Arabaları (Dolly / Cart / Lifter)",
-        "misumi_queries": [
-            "site:jp.misumi-ec.com/vona2/ 台車 カート スチール 板金",
-            "site:jp.misumi-ec.com inCAD Library cart dolly lifter mechanism",
-            "content.misumi-ec.com dolly frame sheet metal caster"
+        "category": "Sac, Boru & Profil Şekillendirme Makineleri / Aparatları",
+        "global_queries": [
+            "sheet metal bead roller pipe bender tube notcher laser cut DIY plans",
+            "benchtop press brake attachment english wheel sheet metal folder price",
+            "manual square tube roller bender fabrication machine"
         ],
         "tr_queries": [
-            "varil taşıma arabası kalıp taşıma arabası ağır yük platformu fiyat Trendyol Hepsiburada",
-            "atölye takım arabası sac taşıma arabası imalat fiyat TL"
+            "boru profil bükme makinesi sac kordon makinesi boru kurt ağzı açma aparatı fiyat Trendyol",
+            "atölye presi abkant büküm aparatı manuel sac bükme caka fiyat TL"
         ]
     },
     {
-        "category": "Hızlı Bağlama, Kaynak & Montaj Fikstürleri (Jig / Toggle Clamp Bracket)",
-        "misumi_queries": [
-            "site:jp.misumi-ec.com/vona2/ トグルクランプ ブラケット 治具 板金",
-            "site:jp.misumi-ec.com/vona2/ 溶接 治具 アングル プレート",
-            "misumi inCAD Library toggle clamp positioning jig sheet metal"
+        "category": "Atölye Taşıma, Kaldırma & Tezgah Ekipmanları",
+        "global_queries": [
+            "heavy duty retractable workbench caster lift pedal mechanism",
+            "sheet metal panel carrier cart drum lifter dolly heavy duty",
+            "adjustable conveyor roller stand welding table cart"
         ],
         "tr_queries": [
-            "kaynak gönyesi fikstür tablası dikey yatay klemp bağlantı ayağı fiyat Trendyol",
-            "lazer kesim kaynak fikstür aparatı satış fiyatı TL"
+            "pedallı tezgah kaldırma tekerleği varil taşıma arabası sac taşıma arabası fiyat Trendyol",
+            "ayarlı malzeme sürme sehpası rulolu konveyör sehpa fiyat Hepsiburada"
         ]
     },
     {
-        "category": "Konveyör & Rulo Hat Sehpaları / Gergi Aparatları (Roller Stand / Bracket)",
-        "misumi_queries": [
-            "site:jp.misumi-ec.com/vona2/ ローラコンベヤ スタンド ブラケット",
-            "site:jp.misumi-ec.com/vona2/ コンベヤ ガイド ブラケット 板金",
-            "misumi vona2 adjustable roller stand support frame"
+        "category": "Kaynak, Bağlama & Montaj Fikstürleri / Aparatları",
+        "global_queries": [
+            "laser cut welding fixture table square angle clamp jig",
+            "rotary welding positioner turntable pipe welding roller stand",
+            "modular welding accessories toggle clamp bracket"
         ],
         "tr_queries": [
-            "ayarlı rulo destek sehpası testere malzeme sürme sehpası fiyat Trendyol Hepsiburada",
-            "avare rulolu konveyör sehpası fiyat TL"
+            "kaynak fikstür tablası gönye aparatı boru kaynak çevirici fiyat Trendyol",
+            "modüler kaynak masası aksesuarları klemp dayama fiyat TL"
         ]
     },
     {
-        "category": "Kablo, Hortum, Bobin Açıcı & Rulo Taşıyıcılar (Reel Stand / Decoiler)",
-        "misumi_queries": [
-            "site:jp.misumi-ec.com/vona2/ リールスタンド ロールハンガー 板金",
-            "site:jp.misumi-ec.com/vona2/ ケーブル ドラム スタンド ローラ",
-            "misumi inCAD Library roll feeder unwinder stand"
+        "category": "Zımpara, Polisaj, Çapak Alma & Yüzey İşlem Makineleri",
+        "global_queries": [
+            "2x72 belt grinder chassis tilting mechanism surface grinding attachment",
+            "rotary tumbler deburring machine sheet metal laser cut parts",
+            "benchtop sandblasting cabinet pipe polisher attachment"
         ],
         "tr_queries": [
-            "kablo makarası açma sehpası rulo sac bobin açıcı stand fiyat Trendyol",
-            "çember makinesi arabası bobin taşıma sehpası fiyat TL"
+            "2x72 bant zımpara makinesi tamburlu çapak alma makinesi kumlama kabini fiyat Trendyol",
+            "boru polisaj aparatı avuç taşlama bant zımpara aparatı fiyat TL"
         ]
     },
     {
-        "category": "Sensör, Kamera, Monitör & Kontrol Paneli Kolları (Mounting Bracket / Arm)",
-        "misumi_queries": [
-            "site:jp.misumi-ec.com/vona2/ モニタアーム キーボード台 アルミフレーム 板金",
-            "site:jp.misumi-ec.com/vona2/ センサブラケット カメラスタンド 曲げ加工",
-            "misumi vona2 industrial monitor stand bracket sheet metal"
+        "category": "Kablo, Bobin, Paketleme & Geri Dönüşüm Makineleri",
+        "global_queries": [
+            "scrap copper wire stripping machine motorized cable drum roller stand",
+            "strapping dispenser cart stretch film wrapping stand machine",
+            "manual bottle capping filling machine stainless sheet metal"
         ],
         "tr_queries": [
-            "endüstriyel monitör kolu operatör paneli taşıyıcı ayak fiyat TL",
-            "makine kontrol paneli askı kolu sac braket fiyat"
+            "hurda kablo soyma makinesi kablo makarası açma sehpası çember arabası fiyat Trendyol",
+            "manuel şişe kapak kapatma sıvı dolum makinesi fiyat Hepsiburada"
         ]
     },
     {
-        "category": "Seviye Ayarlı Makine Şasileri & Titreşim Önleyici Ayak Braketleri (Leveling Caster Frame)",
-        "misumi_queries": [
-            "site:jp.misumi-ec.com/vona2/ アジャスタ フット ブラケット 板金 溶接",
-            "site:jp.misumi-ec.com/vona2/ キャスター ステップ ストッパー 架台",
-            "misumi vona2 pedal lock lift caster frame mechanism"
+        "category": "Tarım, Bahçe, Odun & Gıda İşleme Makineleri",
+        "global_queries": [
+            "manual log splitter kindling cracker wall mounted firewood splitter",
+            "walnut cracker machine motorized fruit crusher stainless steel",
+            "garden compost trommel sifter rotary soil screen"
         ],
         "tr_queries": [
-            "pedallı makine kaldırma tekerleği seviye ayarlı makine ayağı braketi fiyat Trendyol",
-            "ağır yük tekerlekli krikolu makine taşıma aparatı fiyat TL"
+            "duvara monte çıra odun kırma aparatı ceviz kırma soyma makinesi fiyat Trendyol",
+            "toprak gübre eleme tamburu üzüm meyve ezme makinesi fiyat TL"
         ]
     }
 ]
 
 # ──────────────────────────────────────────────
-# 1. & 2. ZİNCİR: MISUMI İndeksi / CDN ve Türkiye Pazarı Taraması
+# 1. & 2. ZİNCİR: Global İnternet Pazarı ve Türkiye Pazarı Taraması
 # ──────────────────────────────────────────────
-def fetch_misumi_and_tr_market_context(focus_filter: str = "") -> tuple[str, list[str], dict]:
+def fetch_global_and_tr_market_context(focus_filter: str = "") -> tuple[str, list[str], dict]:
     """
-    1. jp.misumi-ec.com/vona2/, content.misumi-ec.com CDN ve inCAD Library indekslerini tarar.
-    2. Türkiye pazarında (Trendyol, Hepsiburada, E-Makine vb.) canlı TL fiyatlarını tarar.
+    1. Dünya genelinde çok satan pratik makineleri ve atölye ekipmanlarını tarar.
+    2. Türkiye pazarında (Trendyol, Hepsiburada, Sahibinden, E-Makine vb.) canlı TL fiyatlarını tarar.
     """
     ddgs = DDGS()
-    theme = random.choice(MISUMI_SEARCH_THEMES)
-    if focus_filter and focus_filter not in ("Tümü", "Merzifon, Amasya"):
-        for t in MISUMI_SEARCH_THEMES:
+    theme = random.choice(SEARCH_THEMES)
+    if focus_filter and not focus_filter.startswith("Tümü"):
+        for t in SEARCH_THEMES:
             if focus_filter.lower() in t["category"].lower():
                 theme = t
                 break
 
     snippets = [f"=== SEÇİLEN ODAK KATEGORİSİ: {theme['category']} ==="]
-    found_cdn_images = []
+    found_images = []
 
-    # 1. MISUMI Web & Görsel İndeks Taraması
-    snippets.append("\n--- [ADIM 1: MISUMI JAPONYA & inCAD LIBRARY İNDEKS VERİLERİ] ---")
-    for mq in theme["misumi_queries"]:
+    # 1. Global Web & Görsel Taraması
+    snippets.append("\n--- [ADIM 1: GLOBAL PAZARDA ÇOK SATAN MAKİNE & APARAT VERİLERİ] ---")
+    for gq in theme["global_queries"]:
         try:
-            res = list(ddgs.text(mq, max_results=4))
+            res = list(ddgs.text(gq, max_results=3))
             for r in res:
-                snippets.append(f"- [MISUMI WEB] {r.get('title', '')} | URL: {r.get('href', '')} | Özet: {r.get('body', '')}")
+                snippets.append(f"- [GLOBAL] {r.get('title', '')} | URL: {r.get('href', '')} | Özet: {r.get('body', '')}")
         except Exception:
             pass
 
-    # MISUMI Görsel / CDN Taraması
+    # Görsel Taraması
     try:
-        img_q = f"site:misumi-ec.com {theme['category'].split('(')[-1].replace(')', '')} sheet metal"
-        img_res = list(ddgs.images(img_q, max_results=6))
+        img_q = f"{theme['global_queries'][0]} machine product photo"
+        img_res = list(ddgs.images(img_q, max_results=5))
         for ir in img_res:
             img_url = ir.get("image", "")
             if img_url:
-                found_cdn_images.append(img_url)
-                snippets.append(f"- [MISUMI CDN GÖRSEL] Başlık: {ir.get('title', '')} | Görsel URL: {img_url} | Kaynak: {ir.get('url', '')}")
+                found_images.append(img_url)
+                snippets.append(f"- [GÖRSEL] Başlık: {ir.get('title', '')} | Görsel URL: {img_url} | Kaynak: {ir.get('url', '')}")
     except Exception:
         pass
 
@@ -246,77 +247,78 @@ def fetch_misumi_and_tr_market_context(focus_filter: str = "") -> tuple[str, lis
         except Exception:
             pass
 
-    return "\n".join(snippets), found_cdn_images, theme
+    return "\n".join(snippets), found_images, theme
 
 # ──────────────────────────────────────────────
 # 3. ZİNCİR: Uygulamacı Makine Mühendisi Ajan Analizi (6 Zorunlu Madde)
 # ──────────────────────────────────────────────
 def discover_mekanikya_products(client: genai.Client, web_context: str, existing_names: list[str]) -> list[dict]:
     prompt = f"""Sen benim ortağım olan uygulamacı bir makina mühendisisin.
-Amacımız teorik fikir üretmek değil; Mekanikya (mekanikya.com.tr) sitemize koyup **ilk müşteriden ilk parayı en hızlı şekilde kazanacağımız**, lazer kesim sac + abkant büküm + kutu profil + standart hazır elemanlarla (cıvata, pim, klemp, tekerlek) hemen üretebileceğimiz ürünleri bulmaktır.
+Amacımız teorik fikir üretmek değil; Mekanikya (mekanikya.com.tr) sitemize, Trendyol'a ve Sahibinden'e koyup **ilk müşteriden ilk parayı en hızlı şekilde kazanacağımız**, lazer kesim sac + abkant büküm + kutu profil + standart hazır elemanlarla (cıvata, pim, klemp, rulman, tekerlek, redüktör/motor) hemen üretebileceğimiz **internetten satılabilir makineleri ve mekanik aparatları** bulmaktır.
 
-Aşağıda web arama indeksinden (`jp.misumi-ec.com/vona2/`, `content.misumi-ec.com`, `inCAD Library`) ve Türkiye pazarından (Trendyol, Hepsiburada, E-Makine, Takım Sanayi vb.) çekilen gerçek indeks verileri yer alıyor:
+Aşağıda global internet pazarından ve Türkiye pazarından (Trendyol, Hepsiburada, Sahibinden, E-Makine vb.) çekilen güncel veriler yer alıyor:
 {web_context}
 
-Halihazırda sitemiz için bulduğumuz ürünler (bunları tekrar etme, tamamen yeni ve farklı ürünler bul):
+Halihazırda sitemiz için bulduğumuz ürünler (bunları tekrar etme, tamamen yeni ve farklı makineler/ürünler bul):
 {existing_names}
 
 FİLTRELEME VE SEÇİM KURALLARI:
-1. Ağır döküm, elektronik/PLC veya uzun CNC işleme gerektiren ürünleri KESİNLİKLE ELE.
-2. Sadece %80+ lazer kesim sac / abkant büküm / kutu profil / basit torna pimi ile 1-3 günde üretilebilecek mekanik ürünlere odaklan.
-3. Her turda **2 ADET** yüksek hızlı nakit potansiyelli ürün çıkar.
-4. Bulduğun her ürünü İSTİSNASIZ şu 6 maddeyi eksiksiz dolduracak şekilde aşağıdaki JSON şemasında sun:
+1. Ağır döküm, karmaşık elektronik/PLC veya uzun CNC işleme gerektiren ürünleri KESİNLİKLE ELE.
+2. Sadece %80+ lazer kesim sac / abkant büküm / kutu profil / basit torna pimi ile 1-3 günde üretilebilecek internetten satılabilir makinelere ve aparatlara odaklan.
+3. Türkiye'de ya hiç olmayan ya da ithal/fahiş fiyatlı satılan ürünlere öncelik ver.
+4. Her turda **2 ADET** yüksek hızlı nakit potansiyelli makine/ürün çıkar.
+5. Bulduğun her ürünü İSTİSNASIZ şu 6 maddeyi eksiksiz dolduracak şekilde aşağıdaki JSON şemasında sun:
 
 {{
   "opportunities": [
     {{
-      "part_name": "Mekanikya Ürün Adı (Örn: Pedallı Krikolu Ağır Yük Makine Taşıma ve Sabitleme Ayağı)",
-      "english_name": "İngilizce Teknik Adı (Örn: Foot Pedal Lift & Lock Leveling Caster Bracket)",
-      "category": "Ürün Kategorisi (Örn: Taşıma & Şasi Aparatları)",
-      "production_time_days": "1-2 Gün (Lazer Kesim + Abkant + Gazaltı Kaynak)",
-      "fabrication_ratio": "%85 Lazer Sac & Abkant + %15 Standart Civata/Tekerlek",
-      "opportunity_score": 96,
+      "part_name": "Mekanikya Makine / Ürün Adı (Örn: Matkap/Taşlama Tahrikli Boru ve Profil Kurt Ağzı Açma Makinesi - Tube Notcher)",
+      "english_name": "İngilizce Teknik Adı (Örn: Heavy Duty Pipe & Tube Notcher Machine)",
+      "category": "Ürün Kategorisi (Örn: Sac, Boru & Profil Şekillendirme Makineleri)",
+      "production_time_days": "1-2 Gün (Lazer Kesim + Abkant + Basit Torna Mili)",
+      "fabrication_ratio": "%85 Lazer Sac & Profil + %15 Hazır Rulman/Mil",
+      "opportunity_score": 97,
 
       "1_misumi_identity": {{
-        "model_code": "Tam MISUMI Model Kodu (Örn: FJLB-100-S veya CLBM-60-B / inCAD No.000142)",
-        "japanese_name": "Japonca Resmi Adı ve Okunuşu (Örn: フットジャッキ付キャスターブラケット / Foot Jack Caster Bracket)",
-        "series_number": "MISUMI Seri Numarası / VONA2 Katalog Kodu (Örn: Series 110302648720)",
-        "misumi_page_url": "https://jp.misumi-ec.com/vona2/detail/110302648720/ veya inCAD URL",
-        "verified_image_url": "Doğrulanmış content.misumi-ec.com veya inCAD/ideanote görsel URL'si (veya arama terimi için bırak)"
+        "model_code": "Global Referans Model / Tip Kodu (Örn: Vevor / Eastwood TN-200 / Mekanikya TN-PRO)",
+        "japanese_name": "Global Satış / Arama Adı (Örn: 0-60 Degree Adjustable Pipe & Tube Notcher)",
+        "series_number": "Pazar Durumu (Örn: Türkiye'de Çok Az - İthalatı Pahalı Niş Makine)",
+        "misumi_page_url": "Referans ürün veya teknik kaynak linki",
+        "verified_image_url": "Doğrulanmış ürün / teknik çizim görsel URL'si"
       }},
 
       "2_dual_price_proof": {{
-        "misumi_jpy_price": "MISUMI Japonya Resmi Liste Fiyatı (Örn: ¥18,500 JPY / Adet - 4'lü Set ¥74,000 JPY)",
-        "misumi_tl_equivalent": "TL Karşılığı + Gümrük/Kargo Maliyeti (Örn: ~4.250 TL / Adet - 4'lü Set ~17.000 TL)",
-        "tr_market_live_price": "Türkiye İnternet Piyasası Canlı Satış Fiyatı (Örn: Trendyol / İthalatçı 4'lü Set: 14.500 TL - 18.900 TL)",
-        "tr_market_source": "Türkiye fiyatının görüldüğü platform/kategori (Örn: Trendyol Endüstriyel Tekerlek & E-Makine)"
+        "misumi_jpy_price": "Global / Yurt Dışı Satış Fiyatı (Örn: $145 - $220 USD / Amazon - Eastwood)",
+        "misumi_tl_equivalent": "İthalat + Gümrük + Kargo TL Karşılığı (Örn: ~7.500 TL - 11.000 TL)",
+        "tr_market_live_price": "Türkiye İnternet Piyasası Canlı Satış Fiyatı (Örn: Trendyol / Sahibinden: 6.500 TL - 9.800 TL veya Yerli Üretici Yok)",
+        "tr_market_source": "Türkiye fiyatının görüldüğü platform (Örn: Trendyol / Sahibinden / E-Makine)"
       }},
 
-      "3_workshop_problem_solved": "Sanayideki ustanın veya fabrikanın bu ürüne neden hemen para vereceği (1-2 vurucu, pratik cümle).",
+      "3_workshop_problem_solved": "Sanayideki ustanın, atölyenin veya kullanıcının bu makineye neden hemen para vereceği (1-2 vurucu, pratik cümle).",
 
       "4_bom_recipe": {{
-        "sheet_metal_specs": "Sac kalınlığı ve malzeme cinsi (Örn: 4mm ve 6mm St37 / S235JR Sıcak Haddelenmiş Lazer Sac + 40x40x3mm Kutu Profil)",
-        "cutting_bending_steps": "Kesim, abkant büküm ve kaynak adımları (Örn: 5 parça lazer kesim, 4 darbeli 90 derece abkant büküm, 15 dk MAG kaynak, elektrostatik toz boya)",
-        "off_the_shelf_parts": "Piyasadan hazır alınacak standart parçalar (Örn: 1 adet 100mm Poliüretan Döner Tekerlek, 2 adet M12x60 İmbus Civata, 1 adet Dikey Mafsallı Klemp Mekanizması / Baskı Yay)"
+        "sheet_metal_specs": "Sac kalınlığı ve malzeme cinsi (Örn: 8mm ve 10mm St37 Lazer Kesim Şasi + 25mm İndüksiyonlu Krom Mil)",
+        "cutting_bending_steps": "Kesim, abkant büküm ve kaynak adımları (Örn: 4 parça lazer kesim, derece skalası lazer markalama, V-yatak abkant bükümü, elektrostatik toz boya)",
+        "off_the_shelf_parts": "Piyasadan hazır alınacak standart parçalar (Örn: 2 adet Lineer Rulman / Bronz Burç, 1 adet Panç Adaptör Mili, M12 Sıkma Kolu)"
       }},
 
       "5_cost_profit_analysis": {{
-        "local_manufacturing_cost_tl": "Tahmini Yerli İmalat Maliyetimiz (Örn: 1.850 TL / 4'lü Set)",
-        "mekanikya_sales_price_tl": "Mekanikya.com.tr Rekabetçi Satış Fiyatımız (Örn: 6.950 TL + KDV / 4'lü Set)",
-        "net_profit_tl": "Net Kâr Tutarı (Örn: 5.100 TL / Sipariş)",
-        "net_profit_margin_percent": 73
+        "local_manufacturing_cost_tl": "Tahmini Yerli İmalat Maliyetimiz (Örn: 1.250 TL / Adet)",
+        "mekanikya_sales_price_tl": "Mekanikya.com.tr Rekabetçi Satış Fiyatımız (Örn: 4.450 TL + KDV / Adet)",
+        "net_profit_tl": "Net Kâr Tutarı (Örn: 3.200 TL / Sipariş)",
+        "net_profit_margin_percent": 72
       }},
 
       "6_mekanikya_product_card": {{
-        "card_title": "Mekanikya.com.tr Ürün Başlığı (Örn: Mekanikya PRO-LIFT 800 Kg Pedallı Tezgah Kaldırma ve Sabitleme Seti - 4'lü)",
-        "badge_text": "🔥 Aynı Gün Kargo | %100 Yerli Çelik Gövde | 800 Kg Kapasite",
-        "short_tech_description": "Ağır çalışma masalarınızı, kaynak tablalarınızı ve CNC/testere tezgahlarınızı tek ayak hareketiyle tekerlek üzerine alıp taşıyın, pedalı bırakınca zemine milimetrik sabitleyin. 6mm St37 lazer kesim bükümlü çelik şasi.",
-        "whatsapp_cta": "📲 WhatsApp Hızlı Sipariş & Özel Ölçü Hattı: 'PRO-LIFT 800 seti için hemen stoktan gönderim talep ediyorum' (Tıkla & Sipariş Ver)"
+        "card_title": "Mekanikya.com.tr Ürün Başlığı (Örn: Mekanikya NOTCH-PRO 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi)",
+        "badge_text": "🔥 Aynı Gün Kargo | 10mm Çelik Gövde | Standart Matkapla Çalışır",
+        "short_tech_description": "Roll-cage, korkuluk, şasi ve boru kaynak işlerinizde boruları 0-60 derece arasında saniyeler içinde sıfır boşlukla birbirine alıştırın. Herhangi bir el matkabı veya sütunlu matkapla çalışır.",
+        "whatsapp_cta": "📲 WhatsApp Hızlı Sipariş Hattı: 'NOTCH-PRO kurt ağzı açma makinesi için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)"
       }},
 
-      "blueprint_search_term": "İngilizce teknik resim/görsel arama terimi (Örn: misumi leveling caster pedal lock bracket drawing)",
-      "cad_search_term": "GrabCAD 3D CAD arama terimi (Örn: pedal lift caster mechanism GrabCAD)",
-      "video_search_term": "YouTube yapım/çalışma videosu arama terimi (Örn: foot master caster lift mechanism DIY workbench)"
+      "blueprint_search_term": "İngilizce teknik resim/görsel arama terimi (Örn: pipe tube notcher machine drawing dimensions DIY)",
+      "cad_search_term": "GrabCAD 3D CAD arama terimi (Örn: tube notcher GrabCAD 3D model)",
+      "video_search_term": "YouTube yapım/çalışma videosu arama terimi (Örn: how to make pipe tube notcher DIY build)"
     }}
   ]
 }}"""
@@ -339,21 +341,20 @@ FİLTRELEME VE SEÇİM KURALLARI:
         return []
 
 # ──────────────────────────────────────────────
-# Görsel, CDN, 3D CAD ve Video Zenginleştirme
+# Görsel, 3D CAD ve Video Zenginleştirme
 # ──────────────────────────────────────────────
-def enrich_opportunity_with_assets(opp: dict, cdn_candidates: list[str]) -> dict:
+def enrich_opportunity_with_assets(opp: dict, img_candidates: list[str]) -> dict:
     ddgs = DDGS()
     eng_name = opp.get("english_name", "")
-    misumi_id = opp.get("1_misumi_identity", {})
+    ref_id = opp.get("1_misumi_identity", {})
 
-    # 1. MISUMI / Teknik Görsel URL Doğrulama
-    bp_term = opp.get("blueprint_search_term") or f"misumi {eng_name} mechanism drawing"
+    # 1. Ürün / Teknik Görsel URL Doğrulama
+    bp_term = opp.get("blueprint_search_term") or f"{eng_name} machine blueprint dimensions"
     img_found = None
     try:
-        # Önce misumi-ec.com veya teknik çizim görsellerini ara
-        img_res = list(ddgs.images(f"misumi {eng_name}", max_results=4))
+        img_res = list(ddgs.images(bp_term, max_results=4))
         if not img_res:
-            img_res = list(ddgs.images(bp_term, max_results=4))
+            img_res = list(ddgs.images(eng_name, max_results=4))
         if img_res:
             for ir in img_res:
                 cand_url = ir.get("image", "")
@@ -364,17 +365,17 @@ def enrich_opportunity_with_assets(opp: dict, cdn_candidates: list[str]) -> dict
     except Exception:
         pass
 
-    if not img_found and cdn_candidates:
-        img_found = cdn_candidates[0]
+    if not img_found and img_candidates:
+        img_found = img_candidates[0]
 
     if img_found:
         opp["blueprint_image_url"] = img_found
-        if isinstance(misumi_id, dict):
-            current_v = misumi_id.get("verified_image_url", "")
+        if isinstance(ref_id, dict):
+            current_v = ref_id.get("verified_image_url", "")
             if not current_v or not current_v.startswith("http"):
-                misumi_id["verified_image_url"] = img_found
+                ref_id["verified_image_url"] = img_found
 
-    # 2. 3D CAD Modeli (GrabCAD / MISUMI inCAD)
+    # 2. 3D CAD Modeli (GrabCAD)
     cad_term = opp.get("cad_search_term") or f"{eng_name} GrabCAD STEP 3D model"
     try:
         cad_res = list(ddgs.text(f"site:grabcad.com {eng_name}", max_results=2))
@@ -387,7 +388,7 @@ def enrich_opportunity_with_assets(opp: dict, cdn_candidates: list[str]) -> dict
         pass
 
     # 3. İmalat / Çalışma Videosu (YouTube)
-    vid_term = opp.get("video_search_term") or f"{eng_name} mechanism fabrication"
+    vid_term = opp.get("video_search_term") or f"how to build {eng_name} DIY fabrication"
     try:
         vid_res = list(ddgs.text(f"site:youtube.com {vid_term}", max_results=2))
         if not vid_res:
@@ -406,12 +407,11 @@ def enrich_opportunity_with_assets(opp: dict, cdn_candidates: list[str]) -> dict
 # ──────────────────────────────────────────────
 def update_regional_report(db: dict):
     opps = db.get("opportunities", [])
-    # Sadece yeni 6 maddeli Mekanikya formatına sahip olanları ve eskileri uyumlu göster
     lines = [
-        "# ⚙️ Mekanikya (mekanikya.com.tr) — MISUMI & Hızlı Nakit Ürün Avcısı Raporu",
-        "> **Ortak Mühendis Stratejisi:** Ağır döküm, PLC veya uzun CNC gerektirmeyen; **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Standart Elemanlarla** 1-3 günde üretilip ilk müşteriden en hızlı nakit kazandıracak B2B/Atölye ürünleri.",
+        "# ⚙️ Mekanikya (mekanikya.com.tr) — Hızlı Nakit & Üret-Sat Makine Avcısı Raporu",
+        "> **Ortak Mühendis Stratejisi:** Ağır döküm, PLC veya uzun CNC gerektirmeyen; **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Standart Elemanlarla** 1-3 günde üretilip internetten satılarak ilk müşteriden en hızlı nakit kazandıracak makineler ve aparatlar.",
         "",
-        f"**Toplam Tespit Edilen Mekanikya Ürünü:** {len(opps)} adet",
+        f"**Toplam Tespit Edilen Mekanikya Makinesi / Ürünü:** {len(opps)} adet",
         f"**Son Güncelleme:** {time.strftime('%Y-%m-%d %H:%M:%S')}",
         "",
         "---",
@@ -421,7 +421,7 @@ def update_regional_report(db: dict):
     for idx, opp in enumerate(reversed(opps), 1):
         pname = opp.get("part_name", "İsimsiz Ürün")
         eng_name = opp.get("english_name", "")
-        cat = opp.get("category", "Mekanik Aparat")
+        cat = opp.get("category", "Mekanik Makine / Aparat")
         score = opp.get("opportunity_score", 95)
         prod_days = opp.get("production_time_days", "1-3 Gün")
         fab_ratio = opp.get("fabrication_ratio", "%85 Sac + %15 Standart Eleman")
@@ -438,17 +438,16 @@ def update_regional_report(db: dict):
         lines.append("")
 
         if m1:
-            lines.append("### 1️⃣ MISUMI Resmi Kimliği")
-            lines.append(f"- **Tam Model Kodu:** `{m1.get('model_code', '-')}`")
-            lines.append(f"- **Japonca Adı:** `{m1.get('japanese_name', '-')}`")
-            lines.append(f"- **Seri Numarası:** `{m1.get('series_number', '-')}`")
-            lines.append(f"- **MISUMI / inCAD Linki:** {m1.get('misumi_page_url', '-')}")
+            lines.append("### 1️⃣ Global Referans & Ürün Kimliği")
+            lines.append(f"- **Referans Model / Tip Kodu:** `{m1.get('model_code', '-')}`")
+            lines.append(f"- **Global Satış / Teknik Adı:** `{m1.get('japanese_name', '-')}`")
+            lines.append(f"- **Türkiye Pazarı Durumu:** `{m1.get('series_number', '-')}`")
             lines.append(f"- **Doğrulanmış Görsel URL:** `{m1.get('verified_image_url', opp.get('blueprint_image_url', '-'))}`")
             lines.append("")
 
         if m2:
-            lines.append("### 2️⃣ Çifte Fiyat Kanıtı (Japonya vs. Türkiye)")
-            lines.append(f"- 🇯🇵 **MISUMI Japonya Liste Fiyatı:** `{m2.get('misumi_jpy_price', '-')}` *(TL Karşılığı: `{m2.get('misumi_tl_equivalent', '-')}`)*")
+            lines.append("### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)")
+            lines.append(f"- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `{m2.get('misumi_jpy_price', '-')}` *(İthalat Karşılığı: `{m2.get('misumi_tl_equivalent', '-')}`)*")
             lines.append(f"- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `{m2.get('tr_market_live_price', '-')}`")
             lines.append(f"- 📍 **Türkiye Fiyat Kaynağı:** {m2.get('tr_market_source', '-')}")
             lines.append("")
@@ -481,7 +480,7 @@ def update_regional_report(db: dict):
 
         bp_img = opp.get("blueprint_image_url")
         if bp_img:
-            lines.append(f"#### 📐 MISUMI / Teknik Görsel:\n![Ürün Görseli]({bp_img})\n")
+            lines.append(f"#### 📐 Ürün / Teknik Görsel:\n![Ürün Görseli]({bp_img})\n")
 
         cad_url = opp.get("cad_model_url")
         if cad_url:
@@ -507,21 +506,20 @@ def run_regional_radar(region_name: str = "Tümü", continuous: bool = False, ma
     REGIONAL_PID_FILE.write_text(str(os.getpid()))
 
     print(f"\n=======================================================")
-    print(f"⚙️ MEKANİKYA.COM.TR — MISUMI & HIZLI NAKİT ÜRÜN AVCISI")
+    print(f"⚙️ MEKANİKYA.COM.TR — HIZLI NAKİT & ÜRET-SAT MAKİNE AVCISI")
     print(f"🎯 Odak: %80+ Lazer Sac + Abkant + Profil (1-3 Günde Üretim)")
     print(f"=======================================================")
 
     round_idx = 1
     try:
         while round_idx <= max_rounds:
-            print(f"\n🔍 [TUR #{round_idx}] MISUMI Japonya (vona2 / CDN / inCAD) ve Türkiye pazarı taranıyor...")
-            web_context, cdn_images, theme = fetch_regional_web_context_wrapper(region_name)
+            print(f"\n🔍 [TUR #{round_idx}] Global pazar ve Türkiye internet fiyatları taranıyor...")
+            web_context, found_images, theme = fetch_global_and_tr_market_context(region_name)
 
             db = load_regional_gaps()
-            # Sadece 6 maddeli yeni formatta olanları koruyalım veya filtreleyelim
             existing_parts = [o.get("part_name", "") for o in db.get("opportunities", [])]
 
-            print(f"🧠 Uygulamacı Makine Mühendisi 6 maddeli ürün reçetesi çıkarıyor ({theme['category']})...")
+            print(f"🧠 Uygulamacı Makine Mühendisi 6 maddeli makine reçetesi çıkarıyor ({theme['category']})...")
             new_opps = discover_mekanikya_products(client, web_context, existing_parts)
 
             added_count = 0
@@ -530,10 +528,10 @@ def run_regional_radar(region_name: str = "Tümü", continuous: bool = False, ma
                 if any(pname.lower() == ep.lower() for ep in existing_parts if ep):
                     continue
 
-                opp["region"] = "Mekanikya.com.tr (MISUMI -> TR)"
-                print(f"   ⚙️ Yeni Mekanikya Ürünü: {pname}")
+                opp["region"] = "Mekanikya.com.tr (Üret & Sat)"
+                print(f"   ⚙️ Yeni Mekanikya Makinesi/Ürünü: {pname}")
 
-                enriched = enrich_opportunity_with_assets(opp, cdn_images)
+                enriched = enrich_opportunity_with_assets(opp, found_images)
                 db["opportunities"].append(enriched)
                 existing_parts.append(pname)
                 added_count += 1
@@ -542,22 +540,19 @@ def run_regional_radar(region_name: str = "Tümü", continuous: bool = False, ma
                 update_regional_report(db)
                 print(f"   ✅ 6 Madde + Fiyat Kanıtı + BOM + Ürün Kartı kaydedildi.")
 
-            print(f"📊 Tur #{round_idx} tamamlandı: +{added_count} yeni Mekanikya ürünü eklendi.")
+            print(f"📊 Tur #{round_idx} tamamlandı: +{added_count} yeni Mekanikya makinesi eklendi.")
 
             if not continuous:
                 break
 
             round_idx += 1
-            print("⏳ Bir sonraki MISUMI & Türkiye fiyat taraması için 10 saniye bekleniyor...")
+            print("⏳ Bir sonraki tarama turu için 10 saniye bekleniyor...")
             time.sleep(10)
     finally:
         REGIONAL_PID_FILE.unlink(missing_ok=True)
 
-def fetch_regional_web_context_wrapper(region_name: str):
-    return fetch_misumi_and_tr_market_context(region_name)
-
 def main():
-    parser = argparse.ArgumentParser(description="Mekanikya Hızlı Nakit & MISUMI Ürün Avcısı")
+    parser = argparse.ArgumentParser(description="Mekanikya Hızlı Nakit & Üret-Sat Makine Avcısı")
     parser.add_argument("--region", type=str, default="Tümü", help="Odak ürün kategorisi")
     parser.add_argument("--continuous", action="store_true", default=False, help="Sürekli keşif modu")
     parser.add_argument("--rounds", type=int, default=5, help="Maksimum tur sayısı")

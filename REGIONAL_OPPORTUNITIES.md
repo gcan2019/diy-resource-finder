@@ -1,117 +1,73 @@
-# ⚙️ Mekanikya (mekanikya.com.tr) — MISUMI & Hızlı Nakit Ürün Avcısı Raporu
-> **Ortak Mühendis Stratejisi:** Ağır döküm, PLC veya uzun CNC gerektirmeyen; **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Standart Elemanlarla** 1-3 günde üretilip ilk müşteriden en hızlı nakit kazandıracak B2B/Atölye ürünleri.
+# ⚙️ Mekanikya (mekanikya.com.tr) — Hızlı Nakit & Üret-Sat Makine Avcısı Raporu
+> **Ortak Mühendis Stratejisi:** Ağır döküm, PLC veya uzun CNC gerektirmeyen; **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Standart Elemanlarla** 1-3 günde üretilip internetten satılarak ilk müşteriden en hızlı nakit kazandıracak makineler ve aparatlar.
 
-**Toplam Tespit Edilen Mekanikya Ürünü:** 5 adet
-**Son Güncelleme:** 2026-10-11 21:48:53
+**Toplam Tespit Edilen Mekanikya Makinesi / Ürünü:** 5 adet
+**Son Güncelleme:** 2026-10-11 21:59:10
 
 ---
 
-## 1. Yükseklik Ayarlı Teleskopik Testere & Pres Malzeme Sürme Rulolu Sehpası (⭐ Hızlı Nakit Skoru: %95)
-- **Teknik Adı:** `Heavy Duty Height-Adjustable Conveyor Roller Support Stand` | **Kategori:** `Konveyör & Rulo Hat Sehpaları / Gergi Aparatları (Roller Stand / Bracket)` | **İmalat Süresi:** `1 Gün (Kutu Profil + Lazer Kulak + Hazır Rulo)` (`%90 Profil & Lazer Sac + %10 Hazır Konveyör Rulosu/Kulp`)
+## 1. Üçgen Valsli Manuel Kutu Profil, Boru ve Lama Bükme Makinesi (Roll Bender) (⭐ Hızlı Nakit Skoru: %97)
+- **Teknik Adı:** `Manual Square & Round Tube Roll Bender Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `2 Gün (Lazer Sac Yan Gövdeler + 3 Adet Torna Merdanesi + Yataklı Rulman)` (`%80 Lazer Sac & Basit Torna + %20 Hazır UCP Rulman/Kriko Vidası`)
 
-### 1️⃣ MISUMI Resmi Kimliği
-- **Tam Model Kodu:** `MISUMI CVST-600-ADJ / Roller Conveyor Stand`
-- **Japonca Adı:** `フリーローラコンベヤ用スタンド / Free Roller Stand`
-- **Seri Numarası:** `VONA2 Series 110302195400`
-- **MISUMI / inCAD Linki:** https://jp.misumi-ec.com/vona2/mech/M1000000000/M1001000000/
-- **Doğrulanmış Görsel URL:** `https://us.misumi-ec.com/msmec/ideanote/000031/img/img_unit.png`
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Vevor / Baileigh TR-40 Manual Roll Bender`
+- **Global Satış / Teknik Adı:** `Heavy Duty Manual Pipe & Square Tube Roller Bender (20x20 - 40x40mm)`
+- **Türkiye Pazarı Durumu:** `🇹🇷 İnternette En Çok Aranan Atölye Makinesi — Yüksek Kâr Marjı`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/71Y9k6q2fEL._AC_SL1500_.jpg`
 
-### 2️⃣ Çifte Fiyat Kanıtı (Japonya vs. Türkiye)
-- 🇯🇵 **MISUMI Japonya Liste Fiyatı:** `¥22,400 JPY` *(TL Karşılığı: `~5.050 TL`)*
-- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `3.400 TL - 6.200 TL (Ağır Hizmet Rulolu Malzeme Destek Sehpası)`
-- 📍 **Türkiye Fiyat Kaynağı:** Trendyol / Hepsiburada / Takım Sanayi
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$210 - $340 USD (Vevor / eBay)` *(İthalat Karşılığı: `~11.000 TL - 16.500 TL`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `9.500 TL - 16.900 TL (Trendyol / Sahibinden Manuel Profil Bükme)`
+- 📍 **Türkiye Fiyat Kaynağı:** Trendyol & Sahibinden Endüstriyel Makineler
 
 ### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
-> Şerit testere, daire testere, abkant ve profil kesim tezgahlarında 6 metrelik ağır boy profilleri tutacak ikinci bir çırağa olan ihtiyacı bitirir; birkaç kesimde kendi parasını amorti eder.
+> Sera kurulumcuları, tente/pergola ustaları, bahçe mobilyacıları ve demir doğramacıların 20x20, 30x30 ve 40x40 kutu profilleri ezmeden yay şeklinde bükmek için hemen satın aldığı temel makinedir.
 
 ### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
-- **Sac Kalınlığı & Malzeme Cinsi:** `50x50x3mm Dış Kutu Profil + 40x40x3mm İç Teleskopik Profil + 5mm St37 Lazer Kesim Rulo Yatağı`
-- **Kesim / Abkant Büküm / Kaynak Adımı:** Profillerin 45°/90° kesimi, rulo kulaklarının abkantta U bükümü, 10 dk MAG kaynak, demonte cıvatalı ayak bağlantısı (düz koli kargo için).
-- **Piyasadan Hazır Alınacak Standart Parçalar:** 1 adet 60x400mm Ağır Hizmet Çelik Konveyör Rulosu (Rulmanlı hazır), 2 adet M12 Yıldız Sıkma Kol (Yükseklik kilidi), 4 adet M12 Seviye Ayarlı Pabuç.
+- **Sac Kalınlığı & Malzeme Cinsi:** `10mm St37 Lazer Kesim 2 Adet Ana Yan Duvar + 8mm Üst Baskı Kızak Sacı + 3 adet Ç1040 Ayarlı Pul Merdane`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Yan gövdelerin lazer kesimi, üst kızak kanallarının alıştırılması, çevirme kolu montajı, elektrostatik toz boya.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 6 adet UCF205 / UCP205 Flanşlı Rulman, 1 adet M24 Trapez Baskı Vidası ve Somunu (veya hazır 5 ton şişe kriko), 1 metre 12B-1 Zincir ve 2 adet Zincir Dişli.
 
 ### 5️⃣ Maliyet ve Kâr Analizi
-- **Tahmini Yerli İmalat Maliyetimiz:** `780 TL / Adet`
-- **Mekanikya.com.tr Satış Fiyatımız:** `2.650 TL + KDV / Adet`
-- **Net Kâr:** `1.870 TL / Adet` (**%71 Kâr Oranı**)
+- **Tahmini Yerli İmalat Maliyetimiz:** `2.450 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `8.900 TL + KDV / Adet`
+- **Net Kâr:** `6.450 TL / Sipariş` (**%72 Kâr Oranı**)
 
 ### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
-- **Ürün Başlığı:** **Mekanikya RULO-STAND 400 Kg Teleskopik Malzeme Sürme ve Destek Sehpası**
-- **Ürün Rozeti:** `💪 400 Kg Taşıma | 65-110 cm Yükseklik Ayarı | Demonte Koli Kargo`
-- **Kısa Teknik Açıklama:** Testere, matkap ve abkant önlerinde uzun profil ve sacları tek başınıza güvenle sürün. İnce sacdan bükülen dayanıksız Çin mallarının aksine 3mm et kalınlığında çelik kutu profilden üretilmiştir.
-- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'RULO-STAND 400 Kg sehpadan 2 adet sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
+- **Ürün Başlığı:** **Mekanikya BÜK-PRO 40 Zincir Tahrikli Kutu Profil, Boru ve Lama Bükme Makinesi**
+- **Ürün Rozeti:** `💪 Çift Merdane Zincir Tahrikli | 10mm Çelik Gövde | Pul Ayarlı Vals`
+- **Kısa Teknik Açıklama:** Sera, kamelya, tente, ferforje ve çelik konstrüksiyon işlerinizde 40x40mm'ye kadar kutu profilleri ve boruları potluk yapmadan pürüzsüz bükün. Ayarlanabilir pul merdane sistemi sayesinde tek makinede tüm profil ölçülerine uyum sağlar.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'BÜK-PRO 40 profil bükme makinesi için stoktan teslimat talep ediyorum' (Tıkla & Sipariş Ver)`
 
-#### 📐 MISUMI / Teknik Görsel:
-![Ürün Görseli](https://us.misumi-ec.com/msmec/ideanote/000031/img/img_unit.png)
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://m.media-amazon.com/images/I/71Y9k6q2fEL._AC_SL1500_.jpg)
 
-- 🖨️ **3D CAD Modeli:** [Adjustable Roller Stand 3D CAD Model | GrabCAD](https://grabcad.com/library/tag/roller+stand)
-- 🎥 **İmalat / Çalışma Videosu:** [Heavy Duty Adjustable Roller Stand Build for Metal Shop - YouTube](https://www.youtube.com/results?search_query=heavy+duty+roller+stand+welding+build)
+- 🖨️ **3D CAD Modeli:** [Square Tube Roller Bender 3D CAD Model | GrabCAD](https://grabcad.com/library/tag/tube+bender)
+- 🎥 **İmalat / Çalışma Videosu:** [How to Make a Square Tube Roll Bender Machine - YouTube](https://www.youtube.com/results?search_query=diy+square+tube+roll+bender+build)
 
 ---
 
-## 2. Rulmanlı Ağır Hizmet Sac Rulo / Kablo Makarası Açma Sehpası (Decoiler / Reel Roller) (⭐ Hızlı Nakit Skoru: %96)
-- **Teknik Adı:** `Heavy Duty Sheet Metal Coil & Cable Drum Roller Unwinder Stand` | **Kategori:** `Kablo, Hortum, Bobin Açıcı & Rulo Taşıyıcılar (Reel Stand / Decoiler)` | **İmalat Süresi:** `1 Gün (Lazer Sac + Abkant + Standart Rulmanlı Rulo)` (`%85 Lazer Sac & Profil + %15 Standart Yataklı Rulman (UCP204)`)
+## 2. Pedallı Krikolu Ağır Yük Makine ve Kaynak Masası Taşıma Ayağı (4'lü Set) (⭐ Hızlı Nakit Skoru: %98)
+- **Teknik Adı:** `Foot Pedal Lift & Lock Workbench Caster Set` | **Kategori:** `Atölye Taşıma, Kaldırma & Tezgah Ekipmanları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + MAG Kaynak)` (`%85 Lazer Sac & Abkant + %15 Hazır Tekerlek/Klemp`)
 
-### 1️⃣ MISUMI Resmi Kimliği
-- **Tam Model Kodu:** `inCAD No.000085 / RLST-HD-600 (Roll Unwinder Stand)`
-- **Japonca Adı:** `ロールフープ・ケーブルドラムスタンド / Coil & Drum Roller Stand`
-- **Seri Numarası:** `VONA2 Series 110300492110 / inCAD-000085`
-- **MISUMI / inCAD Linki:** https://us.misumi-ec.com/msmec/ideanote/000085.html
-- **Doğrulanmış Görsel URL:** `https://us.misumi-ec.com/msmec/ideanote/000085/img/img_unit.png`
-
-### 2️⃣ Çifte Fiyat Kanıtı (Japonya vs. Türkiye)
-- 🇯🇵 **MISUMI Japonya Liste Fiyatı:** `¥34,500 JPY` *(TL Karşılığı: `~7.800 TL + Gümrük/Nakliye`)*
-- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `6.800 TL - 11.500 TL (Kablo Makarası Açma Rulosu / Şerit Sac Açıcı)`
-- 📍 **Türkiye Fiyat Kaynağı:** Trendyol & Hepsiburada Endüstriyel Şantiye Ekipmanları
-
-### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
-> Ağır kablo makaralarını, hortum kangallarını veya şerit sac rulolarını yerde yuvarlanmadan, tek işçinin parmak ucuyla çekerek dolaşmadan açmasını sağlar; şantiye ve pano atölyelerinin 1 numaralı zaman kazandırıcısıdır.
-
-### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
-- **Sac Kalınlığı & Malzeme Cinsi:** `5mm St37 Lazer Kesim Yan Duvarlar ve Rampa Sacı + 2 adet 60x500mm Çelik Boru (Rulo)`
-- **Kesim / Abkant Büküm / Kaynak Adımı:** Yan şasi üzerinde 3 kademeli makara çapı yuvası lazerle açılır, giriş rampası 30° abkantta bükülür, statik boya uygulanır.
-- **Piyasadan Hazır Alınacak Standart Parçalar:** 4 adet UCP204 Yataklı Rulman (Piyasada 120 TL/adet), 2 adet 20mm Mil, 4 adet Kauçuk Kaymaz Taban Lastiği, M12 Civata/Somun.
-
-### 5️⃣ Maliyet ve Kâr Analizi
-- **Tahmini Yerli İmalat Maliyetimiz:** `1.350 TL / Adet`
-- **Mekanikya.com.tr Satış Fiyatımız:** `4.850 TL + KDV / Adet`
-- **Net Kâr:** `3.500 TL / Adet` (**%72 Kâr Oranı**)
-
-### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
-- **Ürün Başlığı:** **Mekanikya ROLL-MAX 500 Kg Rulmanlı Kablo Makarası ve Rulo Açma Rampası**
-- **Ürün Rozeti:** `⚡ 500 Kg Kapasite | 3 Kademeli Çap Ayarı | UCP Rulmanlı Çelik Merdane`
-- **Kısa Teknik Açıklama:** Elektrik pano imalatçıları, şantiyeler ve preshaneler için ağır makaraları rampa üzerinden yuvarlayıp oturtun; rulmanlı çelik merdaneler sayesinde sıfır eforla kablo ve şerit çekin.
-- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'ROLL-MAX 500 makara açıcı için stoktan hemen gönderim istiyorum' (Tıkla & Sipariş Ver)`
-
-#### 📐 MISUMI / Teknik Görsel:
-![Ürün Görseli](https://us.misumi-ec.com/msmec/ideanote/000085/img/img_unit.png)
-
-- 🖨️ **3D CAD Modeli:** [Cable Drum Roller Stand 3D CAD Model | GrabCAD](https://grabcad.com/library/tag/cable+roller)
-- 🎥 **İmalat / Çalışma Videosu:** [Heavy Duty Cable Drum Roller Stand Fabrication - YouTube](https://www.youtube.com/results?search_query=cable+drum+roller+stand+fabrication)
-
----
-
-## 3. Pedallı Krikolu Ağır Yük Makine Taşıma ve Sabitleme Ayağı (4'lü Set) (⭐ Hızlı Nakit Skoru: %98)
-- **Teknik Adı:** `Foot Pedal Lift & Lock Leveling Caster Bracket Set` | **Kategori:** `Seviye Ayarlı Makine Şasileri & Titreşim Önleyici Ayak Braketleri` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + MAG Kaynak)` (`%85 Lazer Sac & Abkant + %15 Hazır Tekerlek/Klemp`)
-
-### 1️⃣ MISUMI Resmi Kimliği
-- **Tam Model Kodu:** `inCAD No.000142 / FJLB-100-S (Foot Jack Leveling Bracket)`
-- **Japonca Adı:** `フットジャッキ付キャスターユニット / Foot Jack Caster Unit`
-- **Seri Numarası:** `VONA2 Series 110302648720 / inCAD-000142`
-- **MISUMI / inCAD Linki:** https://jp.misumi-ec.com/vona2/detail/110302648720/
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Footmaster / Rockler Heavy Duty Workbench Caster Kit`
+- **Global Satış / Teknik Adı:** `Retractable Foot-Operated Workbench Caster Lift Set (1000 kg)`
+- **Türkiye Pazarı Durumu:** `🇹🇷 Türkiye'de Sadece İnce Saclı Mobilya Tipi Var — Ağır Sanayi Tipi Yok!`
 - **Doğrulanmış Görsel URL:** `https://us.misumi-ec.com/msmec/ideanote/000010/img/img_unit.png`
 
-### 2️⃣ Çifte Fiyat Kanıtı (Japonya vs. Türkiye)
-- 🇯🇵 **MISUMI Japonya Liste Fiyatı:** `¥19,800 JPY / Adet (4'lü Set: ¥79,200 JPY)` *(TL Karşılığı: `~4.450 TL / Adet (4'lü Set: ~17.800 TL + Gümrük)`)*
-- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `14.900 TL - 19.500 TL (İthal Footmaster / Ağır Yük Krikolu Teker Seti)`
-- 📍 **Türkiye Fiyat Kaynağı:** Trendyol Endüstriyel Tekerlek & E-Makine Pazaryeri
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$120 - $185 USD / 4'lü Set` *(İthalat Karşılığı: `~6.500 TL - 9.800 TL`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `14.900 TL - 19.500 TL (İthal ağır yük krikolu teker setleri)`
+- 📍 **Türkiye Fiyat Kaynağı:** Trendyol Endüstriyel Tekerlek & E-Makine
 
 ### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
-> Atölyedeki 500-1000 kg'lık kaynak masasını, testereyi veya tezgahı forklift çağırmadan tek ayak pedalıyla tekerlek üstüne kaldırıp yürütür; pedalı bırakınca kauçuk takoz üstüne milimetrik çiviler.
+> Atölyedeki 500-1000 kg'lık kaynak masasını, testereyi veya tezgahı forklift çağırmadan tek ayak pedalıyla tekerlek üstüne kaldırıp yürütür; pedalı bırakınca sabit ayak üstüne milimetrik çiviler.
 
 ### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
 - **Sac Kalınlığı & Malzeme Cinsi:** `6mm St37 (S235JR) Lazer Kesim Sac Gövde + 5mm Bükümlü Pedal Kolu`
 - **Kesim / Abkant Büküm / Kaynak Adımı:** 4 parça lazer kesim, 3 darbeli 90° abkant büküm, 15 dk gazaltı (MAG) kaynak, turuncu/siyah elektrostatik toz boya.
-- **Piyasadan Hazır Alınacak Standart Parçalar:** 4 adet 100mm Ağır Hizmet Poliüretan Döner Tekerlek, 4 adet Dikey Mafsallı İtme Klempi (Push-Pull Toggle Clamp 300kg), 4 adet M16 Kauçuk Titreşim Takozu, M10 İmbus Civata Seti.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 4 adet 100mm Ağır Hizmet Poliüretan Döner Tekerlek, 4 adet Dikey Mafsallı İtme Klempi (300kg), M10 İmbus Civata Seti.
 
 ### 5️⃣ Maliyet ve Kâr Analizi
 - **Tahmini Yerli İmalat Maliyetimiz:** `2.150 TL / 4'lü Set`
@@ -124,7 +80,7 @@
 - **Kısa Teknik Açıklama:** Ağır kaynak masalarınızı, konveyörlerinizi ve atölye tezgahlarınızı tek ayak darbesiyle tekerlek üzerine alıp istediğiniz yere sürün; mandalı bıraktığınızda sıfır titreşimle zemine sabitleyin.
 - **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'PRO-LIFT 1000 4'lü set için hemen sipariş vermek istiyorum' (Tıkla & İletişime Geç)`
 
-#### 📐 MISUMI / Teknik Görsel:
+#### 📐 Ürün / Teknik Görsel:
 ![Ürün Görseli](https://us.misumi-ec.com/msmec/ideanote/000010/img/img_unit.png)
 
 - 🖨️ **3D CAD Modeli:** [Workbench Retractable Caster Lift Mechanism | GrabCAD](https://grabcad.com/library/tag/retractable+caster)
@@ -132,85 +88,125 @@
 
 ---
 
-## 4. Ayarlanabilir Hassas Büküm Dayama ve Sabitleme Aparatı (⭐ Hızlı Nakit Skoru: %91)
-- **Teknik Adı:** `Adjustable Precision Bending Stop & Fixing Jig` | **Kategori:** `Sac İşleme & Büküm Yardımcıları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + Basit Torna Pimi)` (`%85 Lazer Sac & Abkant + %15 Standart Civata/Kulp`)
+## 3. Krikolu / Atölye Presi Uyumlu Masaüstü Abkant Sac Büküm Aparatı (Press Brake Attachment) (⭐ Hızlı Nakit Skoru: %99)
+- **Teknik Adı:** `Shop Press Brake Attachment (12" - 20" Heavy Duty Bending Die)` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `1 Gün (Kalın Lazer Kesim + Kaynak + Yay)` (`%90 Lazer Sac & Mil + %10 Hazır Kalıp Yayı`)
 
-### 1️⃣ MISUMI Resmi Kimliği
-- **Tam Model Kodu:** `inCAD No.000062 / Sheet Metal Bending Fixture`
-- **Japonca Adı:** `板金曲げ治具 / Sheet Metal Bending Jig`
-- **Seri Numarası:** `M0300000000`
-- **MISUMI / inCAD Linki:** https://vn.misumi-ec.com/asia/incadlibrary/detail/000062.html
-- **Doğrulanmış Görsel URL:** `https://vn.misumi-ec.com/msmec/ideanote/000062/img/img_unit.png`
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Swag Off Road / Vevor 12-20" Press Brake Kit`
+- **Global Satış / Teknik Adı:** `20 Ton Hydraulic Shop Press Brake Bending Attachment`
+- **Türkiye Pazarı Durumu:** `🇹🇷 Türkiye'de Yok — Her Tamirhanede Hidrolik Pres Var Ama Bu Aparat Yok!`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/71k7+N5qK8L._AC_SL1500_.jpg`
 
-### 2️⃣ Çifte Fiyat Kanıtı (Japonya vs. Türkiye)
-- 🇯🇵 **MISUMI Japonya Liste Fiyatı:** `¥25,000 - ¥40,000 JPY (Full Kit)` *(TL Karşılığı: `~5.600 TL - 9.000 TL`)*
-- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Manuel büküm aparatları 3.000 TL - 7.000 TL bandında (genellikle döküm veya kaba kaynaklıdır).`
-- 📍 **Türkiye Fiyat Kaynağı:** Sanayi tipi el aletleri / Trendyol Endüstriyel
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$189 - $285 USD (Swag Off Road / Amazon)` *(İthalat Karşılığı: `~9.500 TL - 14.500 TL (Ağır Kargo + Gümrük)`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `7.500 TL - 12.000 TL (Yerli seri üreticisi yok, özel yaptırılıyor)`
+- 📍 **Türkiye Fiyat Kaynağı:** Sahibinden / Trendyol Atölye Ekipmanları
 
 ### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
-> Manuel büküm yapan atölyelerde her parçada cetvel kullanma derdine son verir; tek seferde ayarlanır, 100 adet parça aynı ölçüde bükülür.
+> Türkiye'deki her sanayi dükkanında 20-30 tonluk hidrolik atölye presi zaten var; bu aparatı presin altına koydukları anda 5 saniyede 10mm kalınlığa kadar sac büken bir abkant prese sahip olurlar, dışarıya fason büküm parası ödemekten kurtulurlar.
 
 ### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
-- **Sac Kalınlığı & Malzeme Cinsi:** `8mm ve 10mm St37 Lazer Kesim Sac (Ağır Hizmet Tipi)`
-- **Kesim / Abkant Büküm / Kaynak Adımı:** 3 parça lazer kesim (ana gövde, kayar blok, sabitleme kulakları), 1 adet 90 derece büküm, yüzey taşlama (opsiyonel), gri toz boya.
-- **Piyasadan Hazır Alınacak Standart Parçalar:** 2 adet M12 Yıldız Kulp (Sıkma kolu), 1 adet 20mm Çelik Pim, 4 adet M10 Flanşlı Civata
+- **Sac Kalınlığı & Malzeme Cinsi:** `10mm ve 15mm St52 Lazer Kesim Alt/Üst Tabla + 80° Lazer Kesim Erkek Bıçak + 2 adet 25mm Kılavuz Mil`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Tamamı düz lazer kesim parçalardan (yapboz geçmeli) oluşur! Abkant bile gerekmez; parçalar birbirine geçirilip 20 dakikada MAG kaynağı ile kaynatılır.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 2 adet Ağır Yük Kalıp Yayı (Yeşil/Mavi seri), 2 adet 25mm Kılavuz Mil ve Burç.
 
 ### 5️⃣ Maliyet ve Kâr Analizi
-- **Tahmini Yerli İmalat Maliyetimiz:** `850 TL / Adet`
-- **Mekanikya.com.tr Satış Fiyatımız:** `3.200 TL + KDV / Adet`
-- **Net Kâr:** `2.350 TL / Adet` (**%73 Kâr Oranı**)
+- **Tahmini Yerli İmalat Maliyetimiz:** `1.450 TL / Adet (40 cm Büküm Boyu)`
+- **Mekanikya.com.tr Satış Fiyatımız:** `5.450 TL + KDV / Adet`
+- **Net Kâr:** `4.000 TL / Sipariş` (**%73 Kâr Oranı**)
 
 ### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
-- **Ürün Başlığı:** **Mekanikya BEND-STOP Pro Ayarlanabilir Hassas Büküm Dayama Aparatı**
-- **Ürün Rozeti:** `🎯 Sıfır Hata Büküm | 10mm Ağır Şasi | Hızlı Ölçü Ayarı`
-- **Kısa Teknik Açıklama:** Manuel büküm tezgahları ve abkantlar için geliştirilmiş, milimetrik ayarlanabilir dayama sistemi. Seri üretimde parçaların aynı ölçüde bükülmesini sağlayarak fire oranını sıfıra indirir.
-- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'BEND-STOP Pro aparat için fiyat ve teslimat istiyorum' (Tıkla & Sipariş Ver)`
+- **Ürün Başlığı:** **Mekanikya ABKANT-MATİK 400mm Hidrolik Atölye Presi Sac Büküm Kalıbı Aparatı**
+- **Ürün Rozeti:** `🚀 En Çok Satan | 10mm'ye Kadar Sac Bükümü | Tüm Preslere Uyumlu`
+- **Kısa Teknik Açıklama:** Atölyenizdeki standart hidrolik presi saniyeler içinde güçlü bir abkant büküm makinesine dönüştürün! Çift kılavuz milli ve kalıp yaylı St52 çelik gövdesiyle 400mm genişliğe ve 10mm kalınlığa kadar sacları 90° kusursuz büker.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'ABKANT-MATİK 400mm pres büküm aparatı için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
 
-#### 📐 MISUMI / Teknik Görsel:
-![Ürün Görseli](https://th.misumi-ec.com/en/msmec/ideanote/000088/img/img_unit.png)
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://m.media-amazon.com/images/I/71k7+N5qK8L._AC_SL1500_.jpg)
 
-- 🖨️ **3D CAD Modeli:** [jigs - Recent models | 3D CAD Model Collection - GrabCAD](https://grabcad.com/library/tag/jigs)
+- 🖨️ **3D CAD Modeli:** [DIY Shop Press Brake Attachment 3D CAD | GrabCAD](https://grabcad.com/library/tag/press+brake)
+- 🎥 **İmalat / Çalışma Videosu:** [DIY 20 Ton Shop Press Brake Attachment Build - YouTube](https://www.youtube.com/results?search_query=shop+press+brake+attachment+build)
 
 ---
 
-## 5. Modüler Hızlı Bağlama ve Kaynak Sabitleme Köşe Fikstürü (⭐ Hızlı Nakit Skoru: %94)
-- **Teknik Adı:** `Modular Quick-Clamp Welding & Assembly Corner Fixture` | **Kategori:** `Hızlı Bağlama & Montaj Aparatları` | **İmalat Süresi:** `1 Gün (Lazer Kesim + Abkant + Toz Boya)` (`%90 Lazer Sac & Abkant + %10 Standart Toggle Clamp`)
+## 4. Manuel Kollu Sac Kordon Çekme, Kenar Güçlendirme ve Bükme Makinesi (Bead Roller) (⭐ Hızlı Nakit Skoru: %97)
+- **Teknik Adı:** `Manual Sheet Metal Bead Roller & Rotary Forming Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `2 Gün (10mm Lazer Sac Gövde + Torna Kalıp Makaraları)` (`%85 Lazer Sac & Basit Torna + %15 Hazır Dişli/Yatak`)
 
-### 1️⃣ MISUMI Resmi Kimliği
-- **Tam Model Kodu:** `inCAD No.000006 / Bracket for Toggle Clamp`
-- **Japonca Adı:** `ワーククランプ用ブラケット / Workpiece Clamp Bracket`
-- **Seri Numarası:** `M0303000000`
-- **MISUMI / inCAD Linki:** https://mx.misumi-ec.com/en/us/incadlibrary/detail/000006.html
-- **Doğrulanmış Görsel URL:** `https://us.misumi-ec.com/msmec/ideanote/000006/img/img_unit.png`
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Woodward Fab WFBR6 / Eastwood 18" Bead Roller`
+- **Global Satış / Teknik Adı:** `18 Inch Throat Depth Sheet Metal Bead Roller Machine`
+- **Türkiye Pazarı Durumu:** `🇹🇷 Türkiye'de Hobi/Küçük Atölye Boyu Çok Nadir — Yüksek Talep`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/61k8d-4Y8eL._AC_SL1500_.jpg`
 
-### 2️⃣ Çifte Fiyat Kanıtı (Japonya vs. Türkiye)
-- 🇯🇵 **MISUMI Japonya Liste Fiyatı:** `¥12,000 - ¥18,000 JPY (Bracket + Clamp Set)` *(TL Karşılığı: `~2.700 TL - 4.100 TL (Sadece aparat ve kargo)`)*
-- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Benzer manuel aparatlar (imalathanelerde) 1.500 TL - 3.000 TL arası satılıyor ancak profesyonel setler bulunmuyor.`
-- 📍 **Türkiye Fiyat Kaynağı:** E-Makine / Yerel Sanayi Tedarikçileri
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$195 - $290 USD (Amazon / Woodward Fab)` *(İthalat Karşılığı: `~10.500 TL - 15.000 TL (Gümrük + Ağır Kargo)`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `12.500 TL - 18.000 TL (Sadece büyük sanayi tipi kordon makineleri var)`
+- 📍 **Türkiye Fiyat Kaynağı:** Sahibinden / Trendyol Sac İşleme Makineleri
 
 ### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
-> Ustaların kaynak veya montaj sırasında parçaları işkenceyle sabitlemek için harcadığı süreyi saniyelere indirir; parçanın kaymasını önler, ölçü kaçıklığını bitirir.
+> Oto kaporta restorasyoncuları, havalandırmacılar, soba/davul fırın ve teneke kutu imalatçılarının ince sacların esnemesini önlemek için sac üzerine oluk (kordon) çekmesini ve kenar kıvırmasını sağlar.
 
 ### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
-- **Sac Kalınlığı & Malzeme Cinsi:** `5mm St37 Lazer Kesim Sac (Siyah veya Galvaniz)`
-- **Kesim / Abkant Büküm / Kaynak Adımı:** 2 parça lazer kesim, 2 adet 90 derece abkant büküm, 4 adet M8 havşa başlı delik, siyah elektrostatik toz boya.
-- **Piyasadan Hazır Alınacak Standart Parçalar:** 1 adet Dikey veya Yatay Toggle Clamp (Togglclamp markası veya muadili), 4 adet M8x20 İmbus Civata
+- **Sac Kalınlığı & Malzeme Cinsi:** `12mm St52 Lazer Kesim C-Gövde Plakası (Esnemez Şasi) + 2 adet 25mm Ç1040 Mil`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** C-gövde ve yatak kapaklarının lazer kesimi, mil yataklarının bağlanması, çevirme kolu kaynağı, statik boya.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 2 adet Eşit Çaplı Çelik Pinyon Dişli (Modül 2.5), 4 adet Bronz/Rulman Yatak, 1 adet M16 Baskı Ayar Vidası, 3 çift Standart Kordon Makarası.
 
 ### 5️⃣ Maliyet ve Kâr Analizi
-- **Tahmini Yerli İmalat Maliyetimiz:** `450 TL / Adet`
-- **Mekanikya.com.tr Satış Fiyatımız:** `1.850 TL + KDV / Adet`
-- **Net Kâr:** `1.400 TL / Adet` (**%75 Kâr Oranı**)
+- **Tahmini Yerli İmalat Maliyetimiz:** `1.950 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `7.250 TL + KDV / Adet`
+- **Net Kâr:** `5.300 TL / Sipariş` (**%73 Kâr Oranı**)
 
 ### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
-- **Ürün Başlığı:** **Mekanikya QUICK-FIX 90° Modüler Hızlı Bağlama ve Sabitleme Fikstürü**
-- **Ürün Rozeti:** `⚡ Saniyeler İçinde Sabitleme | %100 Yerli Çelik | Kaynak Dostu`
-- **Kısa Teknik Açıklama:** Küçük parçaların montajı ve kaynağı için tasarlanmış, toggle clamp entegreli yüksek hassasiyetli köşe fikstürü. 5mm ağır hizmet sacı sayesinde esneme yapmaz, parçayı sıfıra sıfır sabitler.
-- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'QUICK-FIX 90 derece set için stok soruyorum' (Tıkla & Sipariş Ver)`
+- **Ürün Başlığı:** **Mekanikya KORDON-450 Ağır Hizmet Sac Kordon Çekme ve Şekillendirme Makinesi**
+- **Ürün Rozeti:** `⚙️ 12mm St52 Esnemez Gövde | 45 cm Boğaz Derinliği | 3 Takım Vals Hediye`
+- **Kısa Teknik Açıklama:** Kaporta restorasyonu, yakıt deposu, pano ve sac kutu imalatında 1.5mm kalınlığa kadar saclara mukavemet kanalı açın, kenar kıvırın ve kesim yapın. Mengeneye veya sehpaya bağlanabilir.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'KORDON-450 sac kordon makinesi için stok ve sipariş bilgisi istiyorum' (Tıkla & Sipariş Ver)`
 
-#### 📐 MISUMI / Teknik Görsel:
-![Ürün Görseli](https://us.misumi-ec.com/msmec/ideanote/000048/img/img_unit.png)
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://m.media-amazon.com/images/I/61k8d-4Y8eL._AC_SL1500_.jpg)
 
-- 🖨️ **3D CAD Modeli:** [fixture - Recent models | 3D CAD Model Collection - GrabCAD](https://grabcad.com/library/tag/fixture)
-- 🎥 **İmalat / Çalışma Videosu:** [how to make toggle clamp | useful tools for welding - YouTube](https://www.youtube.com/watch?v=BkJfjc4vh4M)
+- 🖨️ **3D CAD Modeli:** [Sheet Metal Bead Roller 3D CAD Model | GrabCAD](https://grabcad.com/library/tag/bead+roller)
+- 🎥 **İmalat / Çalışma Videosu:** [Building a Heavy Duty Sheet Metal Bead Roller - YouTube](https://www.youtube.com/results?search_query=diy+sheet+metal+bead+roller+build)
+
+---
+
+## 5. Matkap Tahrikli 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi (Tube Notcher) (⭐ Hızlı Nakit Skoru: %98)
+- **Teknik Adı:** `0-60 Degree Adjustable Pipe & Tube Notcher Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + Basit Torna Mili)` (`%85 Lazer Sac & Profil + %15 Hazır Rulman/Mil`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Eastwood / Vevor TN-200 / Mekanikya NOTCH-PRO`
+- **Global Satış / Teknik Adı:** `Heavy Duty Pipe & Tube Notcher 3/4" to 3" Capacity`
+- **Türkiye Pazarı Durumu:** `🇹🇷 Türkiye'de Çok Az — İthalatı Pahalı & Hemen Satılabilir Makine`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/71wF8R2E1GL._AC_SL1500_.jpg`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$149 - $215 USD (Amazon / Eastwood)` *(İthalat Karşılığı: `~7.800 TL - 11.200 TL (Kargo + Gümrük Dahil)`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `6.900 TL - 9.850 TL (İthal / Sınırlı Stok)`
+- 📍 **Türkiye Fiyat Kaynağı:** Trendyol / Sahibinden / İthal Hırdavatçılar
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Demir doğrama, roll-cage, şasi, korkuluk ve egzoz ustalarının boruları birbirine 90 veya açılı kaynatmadan önce spiral taşlamayla saatlerce uğraşıp boşluklu kesmesi sorununu bitirir; standart el matkabıyla 10 saniyede sıfır öpüşen kurt ağzı açar.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `8mm ve 10mm St37 (S235JR) Lazer Kesim Şasi + 6mm V-Boru Mengene Çenesi + 25mm İndüksiyonlu Krom Mil`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** 4 parça lazer kesim (0-60° açı skalası lazer kazımalı), V-yatak 90° abkant büküm, 15 dk MAG kaynak, elektrostatik toz boya.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 2 adet 25mm Lineer Rulman veya Bronz Burç, 1 adet 1/2"-5/8" Panç (Hole Saw) Adaptör Dişi, 2 adet M12 Yıldız Sıkma Kolu.
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `1.150 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `4.250 TL + KDV / Adet`
+- **Net Kâr:** `3.100 TL / Sipariş` (**%73 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya NOTCH-PRO 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi**
+- **Ürün Rozeti:** `🔥 Aynı Gün Kargo | 10mm Çelik Şasi | Her El Matkabıyla Çalışır`
+- **Kısa Teknik Açıklama:** Boru şasi, korkuluk, tente ve makine imalatında boruları 0-60 derece arasında saniyeler içinde sıfır boşlukla birbirine alıştırın. İnce döküm Çin malları gibi esnemez, 10mm St37 çelik gövdelidir.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş: 'NOTCH-PRO kurt ağzı açma makinesi için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://m.media-amazon.com/images/I/71wF8R2E1GL._AC_SL1500_.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Tube Notcher 3D CAD Model Library | GrabCAD](https://grabcad.com/library/tag/tube+notcher)
+- 🎥 **İmalat / Çalışma Videosu:** [How to Build a Heavy Duty Pipe & Tube Notcher - YouTube](https://www.youtube.com/results?search_query=diy+pipe+tube+notcher+build)
 
 ---
