@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Pillow block bearing / Yataklı bilya`
 **Doğrulanmış Kaynak Sayısı:** 64 adet
-**Son Güncelleme:** 2026-10-10 23:04:48
+**Son Güncelleme:** 2026-10-11 21:11:09
 
 ---
 

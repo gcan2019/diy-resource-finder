@@ -4,15 +4,51 @@
 
 **Hedef Ürün:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
-**Doğrulanmış Kaynak Sayısı:** 16 adet
-**Son Güncelleme:** 2026-10-10 23:04:48
+**Doğrulanmış Kaynak Sayısı:** 24 adet
+**Son Güncelleme:** 2026-10-11 21:11:09
 
 ---
 
-## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (5 adet)
+## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (8 adet)
 _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
-### 1. [Wood Splitter Plans (Build it Yourself)](https://woodsplitterplans.com/)
+### 1. [Rima Log Splitter Cone Splitting Excavator Attachment Hydraulic Screw ...](https://www.alibaba.com/product-detail/Rima-Log-Splitter-Cone-Splitting-Excavator_1601206346788.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 1 is a precise technical blueprint detailing the geometry, thread pitch, and mounting dimensions of a wood splitter cone, which corresponds functionally and structurally to the industrial cone assembly shown in Image 2.
+- **Tarih:** 2026-10-10 23:06:21
+
+![Önizleme](https://sc04.alicdn.com/kf/Hefb8fe9edcd84b22ae9729b4f5740f6bq/221235386/Hefb8fe9edcd84b22ae9729b4f5740f6bq.jpg)
+
+
+---
+
+### 2. [Skid Steer Mounted Cone Log Splitter for Wood Cutting - Log Splitter ...](https://cnhawk.en.made-in-china.com/product/zFgtcerAOTGK/China-Skid-Steer-Mounted-Cone-Log-Splitter-for-Wood-Cutting.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 is the technical specification drawing of a log splitter cone, while Image 2 is the finished, fully assembled commercial hydraulic implementation of the same mechanism.
+- **Tarih:** 2026-10-10 23:05:43
+
+![Önizleme](https://image.made-in-china.com/2f0j00DVmhnykIQOGK/Skid-Steer-Mounted-Cone-Log-Splitter-for-Wood-Cutting.jpg)
+
+
+---
+
+### 3. [Forestry Machinery Attachment Hydraulic Log Cone Splitter - Log ...](https://cnhawk.en.made-in-china.com/product/BOiTGzbAstaD/China-Forestry-Machinery-Attachment-Hydraulic-Log-Cone-Splitter.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 is the engineering technical specification for a conical wood splitter, and Image 2 shows the physical finished product of that same mechanism attached to a hydraulic motor assembly.
+- **Tarih:** 2026-10-10 23:05:26
+
+![Önizleme](https://image.made-in-china.com/2f0j00wWmioBCccFfN/Forestry-Machinery-Attachment-Hydraulic-Log-Cone-Splitter.jpg)
+
+
+---
+
+### 4. [Wood Splitter Plans (Build it Yourself)](https://woodsplitterplans.com/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
@@ -24,7 +60,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 2. [JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...](https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more)
+### 5. [JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...](https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
@@ -36,7 +72,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 3. [32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...](https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html)
+### 6. [32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...](https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -48,7 +84,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 4. [JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...](https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter)
+### 7. [JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...](https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -60,7 +96,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 5. [Screw Wood Splitter Plans](https://woodsplitterplans.com/splitters/screw-wood-splitters.htm)
+### 8. [Screw Wood Splitter Plans](https://woodsplitterplans.com/splitters/screw-wood-splitters.htm)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 100` (exact_match)
@@ -72,10 +108,34 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (4 adet)
+## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (6 adet)
 _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
-### 1. [42 mm wood splitter drill, splitting wood cone wood splitter drill ...](https://bigamart.com/product/42-mm-wood-splitter-drill-splitting-wood-cone-wood-splitter-drill-cone-gap-wood-splitter-screw-cone-firewood-splitter-drill-screw-cone/)
+### 1. [Hydraulic Excavator Cone Screw Splitter for Huge Wood - Log Cone ...](https://rimamach.en.made-in-china.com/product/xKgQwUNbHcRp/China-Hydraulic-Excavator-Cone-Screw-Splitter-for-Huge-Wood.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The images represent the same functional mechanism, where the technical drawing defines the precise dimensions and specifications for the production of the screw cone splitter seen in the finished assembly image.
+- **Tarih:** 2026-10-10 23:06:13
+
+![Önizleme](https://image.made-in-china.com/2f0j00rYibSqpoaRgM/Hydraulic-Excavator-Cone-Screw-Splitter-for-Huge-Wood.jpg)
+
+
+---
+
+### 2. [Forestry Machine Wood Cone Splitter for Excavator/ Tractor/ Skid Steer ...](https://cnhawk.en.made-in-china.com/product/NZoTXPmvADrH/China-Forestry-Machine-Wood-Cone-Splitter-for-Excavator-Tractor-Skid-Steer-Screw-Log-Splitter.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 is a technical drawing of a wood splitting cone, while Image 2 represents the finished physical assembly of the same type of mechanism mounted on a hydraulic drive unit.
+- **Tarih:** 2026-10-10 23:06:05
+
+![Önizleme](https://image.made-in-china.com/2f0j00aKMhrApEgUzJ/Forestry-Machine-Wood-Cone-Splitter-for-Excavator-Tractor-Skid-Steer-Screw-Log-Splitter.jpg)
+
+
+---
+
+### 3. [42 mm wood splitter drill, splitting wood cone wood splitter drill ...](https://bigamart.com/product/42-mm-wood-splitter-drill-splitting-wood-cone-wood-splitter-drill-cone-gap-wood-splitter-screw-cone-firewood-splitter-drill-screw-cone/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -87,7 +147,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 2. [drill bit for splitting wood 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/drill-bit-for-splitting-wood/)
+### 4. [drill bit for splitting wood 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/drill-bit-for-splitting-wood/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (exact_match)
@@ -99,7 +159,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 3. [🚜 Hitachi zx250 screw log splitter・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/various/hitachi-zx250-screw-log-splitter)
+### 5. [🚜 Hitachi zx250 screw log splitter・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/various/hitachi-zx250-screw-log-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -111,7 +171,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 4. [🧞♂️ Log And Stump Screw / Cone splitter for mini-excavator / screw log ...](https://cults3d.com/en/3d-model/tool/log-and-stump-screw-cone-splitter-for-mini-excavator-screw-log-splitter)
+### 6. [🧞♂️ Log And Stump Screw / Cone splitter for mini-excavator / screw log ...](https://cults3d.com/en/3d-model/tool/log-and-stump-screw-cone-splitter-for-mini-excavator-screw-log-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 82` (working_variation)
@@ -128,10 +188,46 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 _Bu kategoride henüz doğrulanmış kaynak bulunamadı._
 
-## 💡 Proje Fikirleri & DIY Varyasyonları (7 adet)
+## 💡 Proje Fikirleri & DIY Varyasyonları (10 adet)
 _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
-### 1. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/splitting-cones-log-splitter-splitting-machine-wwwlogsplitterscrewcom--921267667495643911/)
+### 1. [Hydraulic Wood Splitter Screw Log Splitters Wood Drill Attachment Cone ...](https://www.walmart.com/ip/Hydraulic-Wood-Splitter-Screw-Log-Splitters-Wood-Drill-Attachment-Cone-Firewood-Drill-for-Mini-Excavator/17305221977)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows a finished, functional hydraulic-driven log splitter attachment that utilizes a cone geometry matching the mechanical design intent specified in the technical drawing.
+- **Tarih:** 2026-10-10 23:06:27
+
+![Önizleme](https://i5.walmartimages.com/seo/Hydraulic-Wood-Splitter-Screw-Log-Splitters-Wood-Drill-Attachment-Cone-Firewood-Drill-for-Mini-Excavator_f904ac68-ae20-4ec3-9735-58ce3a6743e6.4709b36a18ce6183de1c304fb90c6ad5.webp)
+
+
+---
+
+### 2. [Excavator conical log splitter - Robustrack](https://robustrack.co.uk/excavator-conical-log-splitter/)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** The image shows a heavy-duty hydraulic wood splitter cone attached to machinery, which is the functional application of the technical blueprint provided.
+- **Tarih:** 2026-10-10 23:05:59
+
+![Önizleme](https://robustrack.co.uk/wp-content/uploads/2022/07/log-splitter-1.jpg)
+
+
+---
+
+### 3. [Customized Hydraulic Log Splitter for Excavators & Loaders](https://www.alibaba.com/product-detail/Factory-Customized-Hydraulic-Screw-Cone-Log_1600574875224.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image shows a hydraulic screw log splitter cone mounted on a skid steer, which is the functional application described by the technical blueprint in the reference image.
+- **Tarih:** 2026-10-10 23:05:53
+
+![Önizleme](https://sc04.alicdn.com/kf/U81c5d552d7b44c2bace6557b8fb72c37j/243729781/U81c5d552d7b44c2bace6557b8fb72c37j.jpg)
+
+
+---
+
+### 4. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/splitting-cones-log-splitter-splitting-machine-wwwlogsplitterscrewcom--921267667495643911/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -143,7 +239,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 2. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/331999803785874352/)
+### 5. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/331999803785874352/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -155,7 +251,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 3. [32mm Firewood Drill Bit HSS Wood Splitting Cone for Wood Breaking ...](https://www.dhgate.com/goods/997154161.html)
+### 6. [32mm Firewood Drill Bit HSS Wood Splitting Cone for Wood Breaking ...](https://www.dhgate.com/goods/997154161.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -167,7 +263,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 4. [Firewood Log Splitter Cone Bits 6-Piece Firewood Log Splitter Drill Bit ...](https://bat-prefab.com/944271/6-Piece-Firewood-Log-Splitter-Drill-Bit-Set-32mm-42mm-Wood)
+### 7. [Firewood Log Splitter Cone Bits 6-Piece Firewood Log Splitter Drill Bit ...](https://bat-prefab.com/944271/6-Piece-Firewood-Log-Splitter-Drill-Bit-Set-32mm-42mm-Wood)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -179,7 +275,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 5. [Twist Log Splitter Cone Miniduino High-Speed Firewood Drill Bit - Wood ...](https://bitfoundry.co.za/Miniduino-High-Speed-Firewood-Drill-Bit-Wood-Splitting-Screw-844133)
+### 8. [Twist Log Splitter Cone Miniduino High-Speed Firewood Drill Bit - Wood ...](https://bitfoundry.co.za/Miniduino-High-Speed-Firewood-Drill-Bit-Wood-Splitting-Screw-844133)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -191,7 +287,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 6. [Sidiros Screw Cone Log Splitter SPL80EL - Σχιστικό ξύλων με κώνο ...](https://www.youtube.com/watch?v=WexxBjvy1O8)
+### 9. [Sidiros Screw Cone Log Splitter SPL80EL - Σχιστικό ξύλων με κώνο ...](https://www.youtube.com/watch?v=WexxBjvy1O8)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -203,7 +299,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 7. [Firewood Log Splitter, 3pcs Drill Bit Removable Cones Kindling Wood ...](https://dropshopping.org/product/firewood-log-splitter-3pcs-drill-bit-removable-cones-kindling-wood-splitting-logs-bits-heavy-duty-electric-drills-screw-cone-driver-hex-square-round-32mm-1-26inch)
+### 10. [Firewood Log Splitter, 3pcs Drill Bit Removable Cones Kindling Wood ...](https://dropshopping.org/product/firewood-log-splitter-3pcs-drill-bit-removable-cones-kindling-wood-splitting-logs-bits-heavy-duty-electric-drills-screw-cone-driver-hex-square-round-32mm-1-26inch)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 98` (exact_match)

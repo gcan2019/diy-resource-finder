@@ -2,2237 +2,964 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Tüm Ürünler Genel Kataloğu`
-**Doğrulanmış Kaynak Sayısı:** 424 adet
-**Son Güncelleme:** 2026-10-11 18:12:09
+**Doğrulanmış Kaynak Sayısı:** 340 adet
+**Son Güncelleme:** 2026-10-11 21:11:09
 
 ---
 
-## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (249 adet)
+## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (133 adet)
 _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
-### 1. [JHDEKBF | Flange-Mounted Linear Bearing Housings | LILY Bearing](https://www.lily-bearing.com/products/jhdekbf/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 1. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881948)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict flanged bearing housing units designed for shaft support, though they represent different mounting configurations (radial ball bearing vs. linear bearing).
-- **Tarih:** 2026-10-11 16:17:44
+- **AI Teknik İncelemesi:** Image 2 shows an exploded technical diagram of a PEM fuel cell internal stack component, whereas Image 1 illustrates the complete GenCore fuel cell system housing and evolution.
+- **Tarih:** 2026-10-11 21:06:54
 
-![Önizleme](https://image.lily-bearing.com/images/linear-bearings/jhdekbf.png)
-
-
----
-
-### 2. [MÄDLER GmbH - Free CAD models - Flange Bearing Units FK, for Fixed Side, Mounting Method B ...](https://www.traceparts.com/en/product/madler-flange-bearing-unit-fk-15-bore-15mm-housing-from-steel-nickelplated?CatalogPath=TRACEPARTS:TP01002002003003&Product=90-23052024-037201&PartNumber=64201515)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit mounting assembly, with the candidate providing the specific technical specifications and mounting methods for the mechanism shown in the reference image.
-- **Tarih:** 2026-10-11 16:17:38
-
-![Önizleme](https://cdn-product-content.traceparts.com/TraceParts/PartFamilies/MADLER/02aebf51-0e6b-0020-0200-800000000000/Documents/sle_fls_fk_z.png)
+![Önizleme](https://as2.ftcdn.net/jpg/19/06/88/19/1000_F_1906881948_HBKhr9wO8mQPJLFgcsz1rxKIavAJZZMJ.jpg)
 
 
 ---
 
-### 3. [Design of bearing arrangements | Schaeffler medias](https://medias.schaeffler.co.th/th/knowledge-center/rolling-bearings/design-of-bearing-arrangements)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 2. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881999)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images are technical cross-section diagrams of industrial bearing housings, though they represent different specific types of roller bearing assemblies.
-- **Tarih:** 2026-10-11 16:17:23
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 illustrating the internal PEM fuel cell stack components.
+- **Tarih:** 2026-10-11 21:06:45
 
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/00018C7A_a.png)
+![Önizleme](https://as2.ftcdn.net/jpg/19/06/88/19/1000_F_1906881999_adEk1xcTvWrw6C8BA5GCjemninmuwgoR.jpg)
 
 
 ---
 
-### 4. [BLCTE207 | Flange Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/blcte207/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 3. [Segmented Polymer Electrolyte Membrane Fuel Cells—A Review – FHPIP](https://club-london.de/segmented-polymer-electrolyte-membrane-fuel-cellsa-review/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a two-bolt flanged bearing unit; the reference image shows the component in a cross-section assembly, while the candidate image provides the formal technical specification for a corresponding two-bolt flange bearing.
-- **Tarih:** 2026-10-11 16:17:14
+- **AI Teknik İncelemesi:** While Image 1 shows a complete GenCore fuel cell system assembly and cabinet design, Image 2 details the internal membrane electrode assembly (MEA) and cell components, making them technologically related parts of the same fuel cell system domain.
+- **Tarih:** 2026-10-11 21:06:21
 
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/blcte207.jpg)
+![Önizleme](https://pub.mdpi-res.com/molecules/molecules-28-00773/article_deploy/html/images/molecules-28-00773-g001.png?1673525066)
 
 
 ---
 
-### 5. [UCFT211 | Two-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucft211/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 4. [Polymer Electrolyte Membrane , Membranes – NIXLI](https://esslinger-fruehling.de/polymer-electrolyte-membrane-membranes/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical concept of a flanged bearing unit used for shaft support, with the candidate providing the specific technical specification for a two-bolt flange unit matching the application intent of the reference image.
-- **Tarih:** 2026-10-11 16:17:07
+- **AI Teknik İncelemesi:** While Image 1 depicts an assembled GenCore fuel cell system unit and table, Image 2 illustrates the fundamental electrochemical working principle and internal membrane structure of a fuel cell.
+- **Tarih:** 2026-10-11 21:06:17
 
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucft211.jpg)
+![Önizleme](https://www.fuelcellstore.com/image/data/blog/fuel-cell-electrolyte-layer-blog-1.JPG)
 
 
 ---
 
-### 6. [UCFT201 | Two-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucft201/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 5. [A Review of Water Management in Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/2/4/1057)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit mounting assembly, with the candidate providing a detailed technical specification of a standard two-bolt flange bearing component.
-- **Tarih:** 2026-10-11 16:17:01
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of the internal single cell components (PEM fuel cell) that make up the overall fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 21:06:13
 
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucft201.jpg)
+![Önizleme](https://pub.mdpi-res.com/energies/energies-02-01057/article_deploy/html/images/energies-02-01057-g001.png?1453445496)
 
 
 ---
 
-### 7. [Bearing Assembly Technical Drawing | PDF | Friction](https://www.scribd.com/document/758810555/900051258-G-Bearing-Assembly)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 6. [Proton Exchange Membrane Fuel Cell Catalyst Layer Degradation ...](https://www.mdpi.com/2073-4344/15/1/97)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a professional engineering assembly drawing for a heavy-duty bearing mechanism that functions as a sophisticated, industrial-scale flanged bearing unit assembly.
-- **Tarih:** 2026-10-11 16:16:51
+- **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system design evolution, while Image 2 illustrates the internal components and operational principle of a proton exchange membrane fuel cell stack used within such systems.
+- **Tarih:** 2026-10-11 21:05:55
 
-![Önizleme](https://imgv2-1-f.scribdassets.com/img/document/758810555/original/dc16689e00/1?v=1)
+![Önizleme](https://pub.mdpi-res.com/catalysts/catalysts-15-00097/article_deploy/html/images/catalysts-15-00097-g001.png?1737365715)
 
 
 ---
 
-### 8. [Choosing Bearing Housings and Bushings: A Comprehensive Guide for Optimal Machinery Performance ...](https://www.nbcbearings.com/choosing-bearing-housings-and-bushings-a-comprehensive-guide/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 7. [Proton Exchange Membrane Fuel Cell Diagram](https://www.pinterest.com/pin/proton-exchange-membrane-fuel-cell--479211216591043914/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing system-level GenCore design evolution and Image 2 illustrating the fundamental internal components of a PEM fuel cell.
+- **Tarih:** 2026-10-11 20:58:57
+
+![Önizleme](https://i.pinimg.com/originals/c7/3e/83/c73e8327e0f7686c1dd5cde41441456a.png)
+
+
+---
+
+### 8. [Proton Exchange Membrane Fuel Cell Diagram Poster | Zazzle](https://www.zazzle.com/proton_exchange_membrane_fuel_cell_diagram_poster-228081772213125610)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical diagram of a proton exchange membrane fuel cell, which is the foundational component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:58:53
+
+![Önizleme](https://rlv.zcache.com/proton_exchange_membrane_fuel_cell_diagram_poster-r2ad42a280c8c4070b57fac2059f35750_2nxf_8byvr_644.webp)
+
+
+---
+
+### 9. [Mea Fuel Cell Design at Clifton Curran blog](https://storage.googleapis.com/dpsaiqugmhhdke/mea-fuel-cell-design.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 is an exploded technical diagram of a fuel cell component (PEM fuel cell stack) which is directly related to the GenCore fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:56:00
+
+![Önizleme](https://www.fuelcellstore.com/image/data/blog/exploded-cross-fuel-cell-layers-low-temp-pemfc.jpg)
+
+
+---
+
+### 10. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6?uuid=uuid:afc6da46-5468-45ff-8043-dd5bbe16b641)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the evolution of a GenCore fuel cell enclosure system and Image 2 displaying technical micro-structural details of fuel cell components (PEM, GDL, etc.).
+- **Tarih:** 2026-10-11 20:53:01
+
+![Önizleme](https://www.cell.com/cms/10.1016/j.joule.2023.12.003/asset/34c084e5-7521-498c-8a2d-23bb09981a6f/main.assets/gr1_lrg.jpg)
+
+
+---
+
+### 11. [PPT - PEM Fuel Cell Stack Sealing PowerPoint Presentation, free ...](https://www.slideserve.com/Mercy/pem-fuel-cell-stack-sealing-powerpoint-ppt-presentation)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete system enclosure evolution and Image 2 illustrating the internal component breakdown of a fuel cell stack.
+- **Tarih:** 2026-10-11 20:51:19
+
+![Önizleme](https://image.slideserve.com/227840/fuel-cell-stack-components-l.jpg)
+
+
+---
+
+### 12. [İki kutuplu plaka geometri. Projesi](https://dizini.net/proje/83688/index.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 shows a technical CAD drawing of a bipolar plate flow field, which is a core internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:49:56
+
+![Önizleme](https://dizini.net/resimler/bipolarplategeometry_81561.gif)
+
+
+---
+
+### 13. [Structure Of The PEM Fuel Cell Stack | Best Photoetching Factory 2024](https://tmnetch.com/whats-the-structure-of-the-pem-fuel-cell-stack/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 illustrates an exploded technical diagram of a fuel cell component (membrane electrode assembly and bipolar plates), which is a related sub-system of the overall fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:49:51
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2024/04/How-PEM-fuel-cells-work.webp)
+
+
+---
+
+### 14. [Labelled Diagram Of Hydrogen Fuel Cell](https://ar.inspiredpencil.com/pictures-2023/labelled-diagram-of-hydrogen-fuel-cell)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and Image 2 illustrates the internal working diagram of a hydrogen fuel cell, both fundamentally represent the same core technology.
+- **Tarih:** 2026-10-11 20:49:43
+
+![Önizleme](https://texashydrogenalliance.org/wp-content/uploads/2023/10/fuel-cell-diagram.jpg)
+
+
+---
+
+### 15. [Scheme showing fuel-cell components, unit cell cross-section of the Nth ...](https://www.researchgate.net/figure/Scheme-showing-fuel-cell-components-unit-cell-cross-section-of-the-Nth-unit-cell-in-a_fig4_307912066)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore design evolution and system integration, while Image 2 illustrates the underlying component-level technical diagram of a PEM fuel cell unit.
+- **Tarih:** 2026-10-11 20:49:37
+
+![Önizleme](https://www.researchgate.net/profile/Ruguang-Ma/publication/307912066/figure/fig4/AS:668459402797063@1536384549435/Scheme-showing-fuel-cell-components-unit-cell-cross-section-of-the-Nth-unit-cell-in-a.jpg)
+
+
+---
+
+### 16. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.com/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed cross-sectional technical diagram of a fuel cell component, perfectly complementing the system-level overview in Image 1.
+- **Tarih:** 2026-10-11 20:48:55
+
+![Önizleme](https://cdn.comsol.com/stories/2023/116191/generic-fuel-cell-schematic.png)
+
+
+---
+
+### 17. [Figure 1 - from PEM fuel cell as a membrane reactor](https://www.academia.edu/figures/33443596/figure-1-schematic-representation-of-the-pem-fuel-cell-cross)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Although Image 1 depicts a complete GenCore fuel cell system enclosure and specifications, and Image 2 shows a microscopic technical diagram of an individual proton-exchange membrane fuel cell stack layer, both fundamentally represent the same overall technology (Yakıt hücresi sistemi).
+- **Tarih:** 2026-10-11 20:46:33
+
+![Önizleme](https://figures.academia-assets.com/115958517/figure_001.jpg)
+
+
+---
+
+### 18. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/int/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 displays a detailed technical schematic of a PEM fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:46:03
+
+![Önizleme](https://static.horiba.com/fileadmin/Horiba/_processed_/b/f/csm_GDS-RA-01-Proton-Exchange-Membrane-Fuel-Cell-Bipolar-Plate-Analyses-by-GD-OES-and-Raman_aaadf586db.jpg)
+
+
+---
+
+### 19. [Innovative Fuel Cells Enabled by Ion Exchange Membranes](https://www.nafion.com/en/support/white-papers/membranes-for-fuel-cells-white-paper)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 displays a schematic diagram of a Proton Exchange Membrane (PEM) fuel cell, which details the core electrochemical components of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:44:35
+
+![Önizleme](https://www.nafion.com/en/-/media/images/nafion/in/pem-fuel-cells-diagram.jpg?rev=712c5df85536416286b33ae0662d57e8)
+
+
+---
+
+### 20. [Advances in Low Pt Loading Membrane Electrode Assembly for Proton ...](https://www.mdpi.com/1420-3049/28/2/773)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of the internal membrane electrode assembly (MEA) of a fuel cell, complementing the system-level design shown in Image 1.
+- **Tarih:** 2026-10-11 20:44:16
+
+![Önizleme](https://pub.mdpi-res.com/molecules/molecules-28-00773/article_deploy/html/images/molecules-28-00773-g001.png?1673525066)
+
+
+---
+
+### 21. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/deu/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 showing a detailed technical breakdown of a proton exchange membrane (PEM) fuel cell stack.
+- **Tarih:** 2026-10-11 20:43:19
+
+![Önizleme](https://static.horiba.com/fileadmin/Horiba/_processed_/b/f/csm_GDS-RA-01-Proton-Exchange-Membrane-Fuel-Cell-Bipolar-Plate-Analyses-by-GD-OES-and-Raman_aaadf586db.jpg)
+
+
+---
+
+### 22. [Fuel Cell Electrolyte Membrane at Leonel Muncy blog](https://storage.googleapis.com/dgthcqveerpwke/fuel-cell-electrolyte-membrane.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed explanatory technical diagram of the internal components of a fuel cell system, matching the functional domain of the reference system.
+- **Tarih:** 2026-10-11 20:43:14
+
+![Önizleme](https://cdn.britannica.com/64/97264-050-A5A06425/proton-exchange-membrane-Proton-fuel-cell-catalyst.jpg)
+
+
+---
+
+### 23. [PPT - Fuel Cell System Design (1) PowerPoint Presentation, free ...](https://www.slideserve.com/zorana/fuel-cell-system-design-1)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 shows an exploded technical diagram of a fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:36:57
+
+![Önizleme](https://image1.slideserve.com/2187849/fuel-cell-stack-l.jpg)
+
+
+---
+
+### 24. [Hydrogen Fuel Cell Stack](https://animalia-life.club/qa/pictures/hydrogen-fuel-cell-stack)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While Image 1 shows a complete GenCore fuel cell system enclosure and evolutionary data, Image 2 provides a detailed technical schematic of the internal fuel cell stack components, making them conceptually and functionally related.
+- **Tarih:** 2026-10-11 20:36:37
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2024/08/Schematic-diagram-and-main-components-of-a-fuel-cell-stack.webp)
+
+
+---
+
+### 25. [China 12v Pemfc Stack Supplier, Manufacturer - Vet](https://www.vet-china.com/hydrogen-fuel-cell-12v-pemfc-stack-60w-hydrogen-fuel-cell.html/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded view of the fuel cell stack internal components, which directly relates to the GenCore fuel cell system shown in the reference image.
+- **Tarih:** 2026-10-11 20:36:29
+
+![Önizleme](https://www.vet-china.com/uploads/150.jpg)
+
+
+---
+
+### 26. [Direct Methanol Fuel Cell Hardware](https://www.fuelcellstore.com/direct-methanol-fuel-cell-hardware-test-cell)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 shows a technical exploded-view diagram of a fuel cell core stack, which represents the internal functional component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:35:22
+
+![Önizleme](https://fuelcellstore.com/image/data/Products/Testing/Fuel-Cell-Hardware-Special-Features.jpg)
+
+
+---
+
+### 27. [How to Build a Fuel Cell](https://www.fuelcellstore.com/blog-section/how-to-build-a-fuel-cell)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell technology, with Image 1 showing the complete GenCore system design evolution and Image 2 providing a detailed technical schematic of internal components like the membrane electrode assembly and flow channels.
+- **Tarih:** 2026-10-11 20:35:17
+
+![Önizleme](https://www.fuelcellstore.com/image/data/blog/how-to-build-a-fuel-cell-blog-article.JPG)
+
+
+---
+
+### 28. [PEM Fuel Cell Hardware](https://www.fuelcellstore.com/pem-fuel-cell-hardware-test-stack)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded view of the internal fuel cell stack components, directly supporting the system-level design shown in the reference image.
+- **Tarih:** 2026-10-11 20:35:09
+
+![Önizleme](https://www.fuelcellstore.com/image/cache/data/Products/Testing/fuel-cell-hardware-schematic-350x350.JPG)
+
+
+---
+
+### 29. [Bipolar Plate Geometry DWG Block for AutoCAD | Designs CAD](https://designscad.com/downloads/bipolar-plate-geometry-dwg-block-for-autocad/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 displays a technical CAD drawing of a serpentine flow field bipolar plate, which is a core internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:32:22
+
+![Önizleme](https://designscad.com/wp-content/uploads/2017/09/bipolar_plate_geometry_dwg_block_for_autocad_094-1022x1024.jpg)
+
+
+---
+
+### 30. [3-In-1 Pem Fuel Cell/Redox Flow Cell Hardware – BLGQMG](https://cecpu.org/3in1-pem-fuel-cellredox-flow-cell-hardware/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed schematic and operational principle of a PEM fuel cell, perfectly complementing the system-level design shown in the reference image.
+- **Tarih:** 2026-10-11 20:32:02
+
+![Önizleme](https://www.fuelcellstore.com/image/data/blog/pem-fuel-cell.png)
+
+
+---
+
+### 31. [Toyota Fuel Cell Stack Design at Samantha Tennant blog](https://storage.googleapis.com/dqpgyfraoselee/toyota-fuel-cell-stack-design.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 illustrates an exploded technical diagram of a fuel cell stack, which is the core internal component belonging to the broader fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:31:52
+
+![Önizleme](https://image1.slideserve.com/2187849/fuel-cell-stack-l.jpg)
+
+
+---
+
+### 32. [Proton Exchange Membrane Stack Price | OEM & Wholesale Guide](https://heletitaniumhydrogen.com/compare-proton-exchange-membrane-stack-price/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 providing a detailed technical diagram of a Membrane Electrode Assembly (MEA) fuel cell stack.
+- **Tarih:** 2026-10-11 20:30:03
+
+![Önizleme](https://heletitaniumhydrogen.com/wp-content/uploads/2025/09/pem-stack-structure-diagram-b2b-suppliers.png)
+
+
+---
+
+### 33. [Hydrogen fuel cell and Bipolar plates](https://www.vet-china.com/news/hydrogen-fuel-cell-and-bipolar-plates/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and cabinet evolution, Image 2 details the internal exploded view of the core fuel cell stack, making it a legitimate related technical diagram of the same overall technology.
+- **Tarih:** 2026-10-11 20:29:06
+
+![Önizleme](https://www.vet-china.com/uploads/47.png)
+
+
+---
+
+### 34. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/zh/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the internal PEMFC core components, complementing the system-level design shown in the reference image.
+- **Tarih:** 2026-10-11 20:28:23
+
+![Önizleme](https://idtxs3.imgix.net/si/50000/0C/03.png?w=5000)
+
+
+---
+
+### 35. [Hydrogen Fuel Cell Schematic Diagram](https://www.circuitdiagram.co/hydrogen-fuel-cell-schematic-diagram/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a complete GenCore enclosure design evolution and Image 2 illustrating the internal component-level technical diagram of a hydrogen fuel cell.
+- **Tarih:** 2026-10-11 20:28:18
+
+![Önizleme](https://images.squarespace-cdn.com/content/v1/53ab1feee4b0bef0179a1563/1570628743313-5A94M7PXMVI6HPVCTS10/ke17ZwdGBToddI8pDm48kFIWa8zCaI0mpI7gA2G64t8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcPhUVp-hmRFGjv_HASeDM_zOVK6bdTM_ovnyfLN8gYA1Ro_9AR7uhE3pSQO7VvFM4/Cummins+-+Hydrogen+FUEL+CELL+infographic_.jpg)
+
+
+---
+
+### 36. [220w Fuel Cell Stack 24v Pemfc Stack Hydrogen Fuel Cell Stack](https://www.vet-china.com/220w-fuel-cell-stack-24v-pemfc-stack-hydrogen-fuel-cell-stack.html/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the specific fuel cell stack component used within the broader GenCore fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:28:13
+
+![Önizleme](https://www.vet-china.com/uploads/148.jpg)
+
+
+---
+
+### 37. [Proton Exchange Membrane Fuel Cells (PEMFCs): Advances and Challenges](https://www.mdpi.com/2073-4360/13/18/3064/xml)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of a fuel cell internal stack, accurately illustrating the core components corresponding to the fuel cell system shown in the reference image.
+- **Tarih:** 2026-10-11 20:27:39
+
+![Önizleme](https://pub.mdpi-res.com/polymers/polymers-13-03064/article_deploy/html/images/polymers-13-03064-g002.png?1632377540)
+
+
+---
+
+### 38. [proton exchange membrane fuel cell ~ Electrical Engineering Pics](http://electrical-engineering-pics.blogspot.com/2014/09/proton-exchange-membrane-fuel-cell.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While Image 1 depicts an entire GenCore fuel cell system assembly and cabinet evolution, Image 2 shows a detailed technical diagram of the internal PEM fuel cell stack mechanism, making them conceptually related but visually distinct.
+- **Tarih:** 2026-10-11 20:27:28
+
+![Önizleme](http://3.bp.blogspot.com/-_vNbrYgOYjU/VCctF_XKWOI/AAAAAAAABIw/1lbhtwASYuY/s1600/proton+exchange+membrane+fuel+cell.png)
+
+
+---
+
+### 39. [Bipolar Plates of Carbon: A Game-Changer in PEM Fuel Cells](https://www.engineering-group.com/pem-fuel-cells-with-carbon-composite-bipolar-plates/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system cabinet and specifications, Image 2 illustrates the internal exploded view of the fuel cell stack components (MEA, bipolar plates), representing a closely related technical subsystem within the same technology domain.
+- **Tarih:** 2026-10-11 20:27:12
+
+![Önizleme](https://www.engineering-group.com/wp-content/uploads/2021/06/composite_bipolar_plate_for_PEM_fuel_cell-1024x546.jpeg)
+
+
+---
+
+### 40. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.compositesworld.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed schematic and exploded technical diagram of a proton exchange membrane fuel cell, which is the foundational core technology of the fuel cell system shown in the reference image.
+- **Tarih:** 2026-10-11 20:26:53
+
+![Önizleme](https://d2n4wb9orp1vta.cloudfront.net/cms/brand/cw/2025-cw/2025-cw-fod-hycco-pem-fuel-cell-diagram.png)
+
+
+---
+
+### 41. [Solidworks Assembly Drawing Exploded View at PaintingValley.com ...](https://paintingvalley.com/solidworks-assembly-drawing-exploded-view)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 is a detailed exploded technical drawing of a compressor/expander sub-assembly used within the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:24:15
+
+![Önizleme](https://paintingvalley.com/drawings/solidworks-assembly-drawing-exploded-view-13.jpg)
+
+
+---
+
+### 42. [Figure 2-1 from Flow visualization in 3D printed PEM fuel cell bipolar ...](https://www.semanticscholar.org/paper/Flow-visualization-in-3D-printed-PEM-fuel-cell-Piri/97bfe973d8cc088ebf6bc7c3442bcf751cf6e855/figure/3)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While the reference image shows an entire GenCore fuel cell system assembly and cabinet, the candidate image provides a detailed exploded CAD drawing of an individual fuel cell stack component, representing the core technology inside the system.
+- **Tarih:** 2026-10-11 20:23:27
+
+![Önizleme](https://d3i71xaburhd42.cloudfront.net/97bfe973d8cc088ebf6bc7c3442bcf751cf6e855/22-Figure1-1-1.png)
+
+
+---
+
+### 43. [Pem Fuel Cell Stack Components at Kathryn Serna blog](https://storage.googleapis.com/dktsdgbnevzzme/pem-fuel-cell-stack-components.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the internal fuel cell stack component used within the broader GenCore fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:20:29
+
+![Önizleme](https://pub.mdpi-res.com/energies/energies-15-05081/article_deploy/html/images/energies-15-05081-g001.png?1657700189)
+
+
+---
+
+### 44. [How Fuel Cell Engines Work _ Hydrogen fuel cells, explained – AZZU](https://moment.ebus-wiki.org/how-fuel-cell-engines-work-hydrogen-fuel-cells-explained/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed scientific diagram of the internal components of a fuel cell system, matching the overarching technology domain of Image 1.
+- **Tarih:** 2026-10-11 20:20:19
+
+![Önizleme](https://cdn.britannica.com/64/97264-050-A5A06425/proton-exchange-membrane-Proton-fuel-cell-catalyst.jpg)
+
+
+---
+
+### 45. [Electrochemistry Encyclopedia – PEM fuel cells](https://knowledge.electrochem.org/encycl/art-f04-fuel-cells-pem.htm)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded diagram of a fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:20:10
+
+![Önizleme](https://knowledge.electrochem.org/encycl/fig/f04/f04-f06.png)
+
+
+---
+
+### 46. [Examining Fuel Cells for Transportation - Technical Articles](https://eepower.com/technical-articles/examining-fuel-cells-for-transportation/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 shows an exploded schematic diagram of a fuel cell stack components, which directly relates to the underlying technology of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:18:17
+
+![Önizleme](https://eepower.com/uploads/articles/kilowatt-dc-dc-converters-for-fuel-cell-solutions-fig2b.jpg)
+
+
+---
+
+### 47. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.gardnerweb.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict the functional application of a flanged bearing unit in a mechanical assembly, with the candidate image showing the physical implementation of the housing type described in the reference schematic.
-- **Tarih:** 2026-10-11 16:16:35
+- **AI Teknik İncelemesi:** The reference image describes a GenCore fuel cell system design evolution, while the candidate image depicts an actual physical PEM fuel cell stack plate assembly that serves as the core functional component within such systems.
+- **Tarih:** 2026-10-11 20:15:57
 
-![Önizleme](https://www.nbcbearings.com/wp-content/uploads/2024/06/Types-of-Bearing-Housings-and-Bushings-scaled.webp)
-
-
----
-
-### 9. [FK Bearing Triangle Flanged Housing | PDF](https://www.scribd.com/document/772035366/FK-Bearing-Triangle-Flanged-Housing)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The images represent the same category of flanged bearing units, with the candidate providing the technical specifications and cross-sectional diagrams for the FK series plummer block housings.
-- **Tarih:** 2026-10-11 16:16:29
-
-![Önizleme](https://imgv2-1-f.scribdassets.com/img/document/772035366/original/c48112e8c8/1?v=1)
+![Önizleme](https://d2n4wb9orp1vta.cloudfront.net/cms/brand/CW/2025-CW/2025-cw-fod-hycco-bipolar-plate-h2-fuel-cell-min.jpg;maxWidth=1200)
 
 
 ---
 
-### 10. [What Are Pillow Block Bearings? | LILY Bearing](https://www.lily-bearing.com/resources/blog/what-are-pillow-block-bearings/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component (a flanged/pillow block bearing unit) with identical internal architecture, including grease nipples, inner/outer rings, and housing integration.
-- **Tarih:** 2026-10-11 16:16:15
-
-![Önizleme](https://image.lily-bearing.com/blog/202506231440232890.jpg)
-
-
----
-
-### 11. [Session 05 – Case study on Bearing housing (Two-Bolt Flange Mount)](https://designkatha.blogspot.com/2025/12/session-05-case-study-on-bearing.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 48. [Geometries of bipolar plates. in AutoCAD | CAD (18.99 KB) | Bibliocad](https://www.bibliocad.com/en/library/geometries-of-bipolar-plates_81561/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides a precise technical drawing of the flanged housing component essential to the flanged bearing assembly shown in the reference image.
-- **Tarih:** 2026-10-11 16:16:13
+- **AI Teknik İncelemesi:** Image 2 displays a technical blueprint of a bipolar plate flow field, which is a critical internal component of the fuel cell stack referenced in the GenCore system documentation.
+- **Tarih:** 2026-10-11 20:15:33
 
-![Önizleme](https://blogger.googleusercontent.com/img/a/AVvXsEg0W-wNV2OeJLRgpq5KTBVJrXQ16S3FA82ukEzp6soNTQ5PtcY_RLLNxAWabVOwrE89aHWO1zKEywh81gyOYlGxl9JRH8QG4s0XiZpg62hJN_7hW4gbWllPkJlaHYbXJsbGw64fn5jnwVAGpNuxqVAIfEOvHEKuwzFfI9C0HjgWFsf-4S8Rs0jF7RUyy4Xc=w585-h411)
+![Önizleme](https://thumb.bibliocad.com/images/content/00080000/1000/81561.jpg?v=1708455340058)
 
 
 ---
 
-### 12. [MÄDLER GmbH - Free CAD models - Ball Flange Bearings UCFC (Grey Cast Iron) - TraceParts](https://www.traceparts.com/en/product/madler-ball-flange-bearings-ucfc-grey-cast-iron?CatalogPath=TRACEPARTS:TP01002002003001&Product=90-11032024-030275)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 49. [CNC Machining in Metal Bipolar Plates for Fuel Cells - Runsom Precision](https://www.runsom.com/es/blog/cnc-machining-in-metal-bipolar-plates-for-fuel-cells/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While the reference image depicts a complete GenCore fuel cell system unit and the second image depicts the internal component-level exploded view of a PEM fuel cell stack, both represent the same fundamental fuel cell technology and system architecture.
+- **Tarih:** 2026-10-11 20:13:35
+
+![Önizleme](https://www.runsom.com/wp-content/uploads/2024/08/How-fuel-cells-work.png)
+
+
+---
+
+### 50. [How To Build A DIY Hydrogen Fuel Cell - Climatebiz](https://climatebiz.com/diy-hydrogen-fuel-cell/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** While image 1 shows a full GenCore fuel cell cabinet system and image 2 shows a generic schematic diagram of a PEM fuel cell stack, both are technically related to fuel cell system architecture.
+- **Tarih:** 2026-10-11 20:12:56
+
+![Önizleme](https://climatebiz.com/wp-content/uploads/2022/08/image-11-1536x803.png)
+
+
+---
+
+### 51. [Fuel Cell Stack Components | Metal Bipolar Plates | Precision Resource](https://www.precisionresource.com/precision-metal-components/fuel-cell-stack-components/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images illustrate different hierarchical levels of the same GenCore fuel cell system technology, with Image 1 showing the cabinet integration and Image 2 providing an exploded technical view of the core stack assembly.
+- **Tarih:** 2026-10-11 20:12:08
+
+![Önizleme](https://www.precisionresource.com/wp-content/uploads/2025/04/Exploded_View_FullSizeStack_Keyshot.34_4-21.png)
+
+
+---
+
+### 52. [Principles of Fuel Cell Stack Design and Development | TMNetch](https://tmnetch.com/principles-of-fuel-cell-stack-design-and-development/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images illustrate different components of the same GenCore fuel cell system, with image 1 showing the physical enclosure evolution and image 2 providing the technical schematic of the internal stack architecture.
+- **Tarih:** 2026-10-11 20:09:28
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2024/08/Schematic-diagram-and-main-components-of-a-fuel-cell-stack.webp)
+
+
+---
+
+### 53. [Automatic Pipe Cutting Machine for Conveyor Idler Rollers Manufacturer ...](https://www.tlpathakgroup.com/product/automatic-pipe-cutting-machine-for-conveyor-idler-rollers)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of an industrial pipe cutting mechanism, which matches the functional description of the reference target.
+- **Tarih:** 2026-10-10 23:31:29
+
+![Önizleme](https://tlpathakgroup.com/storage/app/public/media_library/J3XXPD5HUbWRVrDDRNwvKKkFI2s3vmEtMbq54sbJ.jpeg)
+
+
+---
+
+### 54. [3d Illustration of Pipe Cutter Stock Illustration - Illustration of ...](https://www.dreamstime.com/stock-illustration-d-illustration-pipe-cutter-above-engineering-drawing-image93482610)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image depicts a detailed technical drawing of a manual tube cutter, which falls under the functional classification of pipe and profile cutting mechanisms.
+- **Tarih:** 2026-10-10 23:31:23
+
+![Önizleme](https://thumbs.dreamstime.com/b/d-illustration-pipe-cutter-above-engineering-drawing-93482610.jpg)
+
+
+---
+
+### 55. [CNC Pipe Profile Cutting Machine - Plasma Cutting and Pipe Cutting](https://sunrisecnc.en.made-in-china.com/product/sjzJywBdQghU/China-CNC-Pipe-Profile-Cutting-Machine.html)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 90` (exact_match)
+- **AI Teknik İncelemesi:** The reference text describes a pipe and profile cutting machine, and the candidate image is a professional industrial CNC pipe and profile cutting machine matching that description.
+- **Tarih:** 2026-10-10 23:31:17
+
+![Önizleme](https://image.made-in-china.com/2f0j00kvWhldRDfCuZ/CNC-Pipe-Profile-Cutting-Machine.jpg)
+
+
+---
+
+### 56. [CNC Pipe Profile Cutting Machine - Technocrats Plasma | PDF](https://www.slideshare.net/slideshow/cnc-pipe-profile-cutting-machine-technocrats-plasma/263259677)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard engineering cross-section and plan view of a four-bolt flanged bearing unit, which matches the mechanical purpose and construction of the assembly shown in Image 1.
-- **Tarih:** 2026-10-11 16:15:53
+- **AI Teknik İncelemesi:** The candidate image is a technical specification brochure for a pipe and profile cutting machine, which matches the target subject matter perfectly.
+- **Tarih:** 2026-10-10 23:31:00
 
-![Önizleme](https://cdn-product-content.traceparts.com/TraceParts/PartFamilies/MADLER/62da1c43-037c-0020-0700-800000000000/Documents/k-fll_ucfc_z.png)
-
-
----
-
-### 13. [Ball Bearing Square Flanged units-F4B 207-TF | PDF | Screw | Machining](https://www.scribd.com/document/750812150/Ball-bearing-square-flanged-units-F4B-207-TF)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a four-bolt flanged ball bearing unit (F4B type), with the reference image showing an assembly cross-section and the candidate providing the formal technical datasheet for the same component class.
-- **Tarih:** 2026-10-11 16:15:50
-
-![Önizleme](https://imgv2-1-f.scribdassets.com/img/document/750812150/original/6d48e33ccd/1725349945?v=1)
+![Önizleme](https://image.slidesharecdn.com/puma-231110061132-ba6df87a/75/CNC-Pipe-Profile-Cutting-Machine-Technocrats-Plasma-1-2048.jpg)
 
 
 ---
 
-### 14. [Standard Flanged Ball Bearings SF6804 - TFL](https://www.sdtflbearing.com/products/standard-flanged-ball-bearings-sf6804/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 1 shows a full flanged bearing housing assembly, whereas Image 2 provides the technical specification and dimensional drawing of the flanged ball bearing component itself.
-- **Tarih:** 2026-10-11 16:15:39
+### 57. [Pipe Profile Cutting Machine at Beth Meeks blog](https://storage.googleapis.com/dgxsubmuvfonxe/pipe-profile-cutting-machine.html)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 100` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image shows the professional industrial pipe and profile cutting machine matching the description provided in the reference text.
+- **Tarih:** 2026-10-10 23:30:18
 
-![Önizleme](https://wp-product.oss-ap-southeast-1.aliyuncs.com/Ball+Bearings/Standard-Flanged-Ball-Bearings-SF6804-Drawing.webp)
-
-
----
-
-### 15. [Two Bolt Flange Bearing with a 1 Inch Bore ID | FG4016P](https://www.triangleoshkosh.com/2-bolt-flange-bearing-fg4016p)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing assembly, with the candidate providing the specific technical specifications and geometry for the type of unit shown in the reference cross-section.
-- **Tarih:** 2026-10-11 16:15:00
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FG4016P.jpg)
+![Önizleme](http://www.ace-cnc.com/en/data/watermark/20190628/5d15c8bf8b494.jpg)
 
 
 ---
 
-### 16. [Bearing housing and its types. Do-it-yourself bearing housing - Industry](https://techconfronts.com/17217143-bearing-housing-and-its-types-do-it-yourself-bearing-housing)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal technical blueprint of a flanged bearing housing which matches the functional configuration of the reference image.
-- **Tarih:** 2026-10-11 16:14:55
-
-![Önizleme](https://i.techconfronts.com/images/019/image-55677-6-j.webp)
-
-
----
-
-### 17. [SD Bearing Housing - HAWC Bearings](https://hawcbearings.co.uk/sd-bearing-housing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing assemblies, with the candidate providing a standard technical engineering drawing of a similar plummer block or flanged housing unit.
-- **Tarih:** 2026-10-11 16:14:51
-
-![Önizleme](https://hawcbearings.co.uk/wp-content/uploads/2025/02/SD-Type-986x667.webp)
-
-
----
-
-### 18. [SHAFT SUPPORT ASSEMBLY by Jaswinder Cheema at Coroflot.com](https://www.coroflot.com/jc07894/SHAFT-SUPPORT-ASSEMBLY)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal technical drawing of a two-bolt flanged bearing housing that matches the structural purpose and geometry of the reference flanged bearing unit.
-- **Tarih:** 2026-10-11 16:14:30
-
-![Önizleme](https://s3images.coroflot.com/user_files/individual_files/original_663495_nuhg5cmeqpfo_yp85qc8wvyfu.jpg)
-
-
----
-
-### 19. [Solved Draw the assembly drawing of a shaft support on | Chegg.com](https://www.chegg.com/homework-help/questions-and-answers/draw-assembly-drawing-shaft-support-machine-housing-also-make-parts-list-use-title-block-d-q13173065)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides a technical exploded-view breakdown of the same mechanical shaft support assembly shown in the reference image, confirming the components and their intended integration.
-- **Tarih:** 2026-10-11 16:14:14
-
-![Önizleme](https://d2vlcm61l7u1fs.cloudfront.net/media/841/84142219-eb30-44ad-9776-f8227b0c332e/php07enxy.png)
-
-
----
-
-### 20. [Pillow Block Housing Dimensions at Jaxon Woods blog](https://storage.googleapis.com/dlwwvmpyilbiie/pillow-block-housing-dimensions.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional mechanical assembly and housing design of a standard flanged bearing unit/plummer block, providing detailed geometric representation of the housing, seals, and shaft alignment.
-- **Tarih:** 2026-10-11 16:14:09
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/SNC23_1.JPG)
-
-
----
-
-### 21. [Pillows Cad Dwg Cad Blocks](https://narodnatribuna.info/lists/p/pillows-cad-dwg-cad-blocks/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard technical engineering drawing of a pillow block bearing unit, which serves the same functional purpose and shares the fundamental mounting architecture as the reference flanged bearing unit mechanism.
-- **Tarih:** 2026-10-11 16:14:04
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Split-Pillow-Blocks-Cast-Iron-Housing-SAF-Type_S.png)
-
-
----
-
-### 22. [Compact Diamond-Shaped Flange Pillow Blocks Bearing Units - Cast Iron, SBLF Series_FORRUN](https://www.forrun.net/fa/5008/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the candidate provides the standardized technical specification and geometry for the type of assembly shown in the reference image.
-- **Tarih:** 2026-10-11 16:13:59
-
-![Önizleme](https://www.forrun.net/Public/upload/fa/content/CB008.png)
-
-
----
-
-### 23. [Bearing Housings on Shafts Have Different Locking Methods | TFL](https://www.sdtflbearing.com/blog/why-do-bearing-housings-on-shafts-have-different-locking-methods/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional mechanical integration of a ball bearing unit with a shaft, confirming they describe the same category of flanged bearing mechanism.
-- **Tarih:** 2026-10-11 16:13:28
-
-![Önizleme](https://www.sdtflbearing.com/wp-content/uploads/2025/10/bearing-Set-Screw-Locking.webp)
-
-
----
-
-### 24. [UCFL309 | Two-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucfl309/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit (pillow block type); the reference shows an installed sectional view while the candidate provides the specific technical blueprint and dimensions for a UCFL309 series flange bearing.
-- **Tarih:** 2026-10-11 16:13:19
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucfl309.jpg)
-
-
----
-
-### 25. [UCFC206 ตลับลูกปืนตุ๊กตา BEARING UNITS UCFC 206 ( สำหรับรูเพลาขนาด 30 มิล ) UC206 + FC206 โดย ...](https://shopee.co.th/UCFC206-ตลับลูกปืนตุ๊กตา-BEARING-UNITS-UCFC-206-(-สำหรับรูเพลาขนาด-30-มิล-)-UC206-FC206-โดย-TSS-i.178279995.7378269258)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides a detailed technical specification sheet and cross-sectional assembly drawing of a flanged bearing unit that corresponds to the mechanical assembly shown in Image 1.
-- **Tarih:** 2026-10-11 16:13:14
-
-![Önizleme](https://down-th.img.susercontent.com/file/380ff000c169b354ca29f01f80fe261b)
-
-
----
-
-### 26. [Autocad Assembly Tutorial at Lisa Rubino blog](https://storage.googleapis.com/dsppxpmvghewje/autocad-assembly-tutorial.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images display flanged bearing unit assemblies, with the candidate providing the broader technical context and drafting documentation for such a mechanism.
-- **Tarih:** 2026-10-11 16:12:52
-
-![Önizleme](https://i.ytimg.com/vi/GTre6hCZHY4/maxresdefault.jpg)
-
-
----
-
-### 27. [Maintenance Free Pillow Block Bearing Housing Ucfc206 For Agriculture Block...](https://www.wxingbearing.com/maintenance-free-pillow-block-bearing-housing-ucfc206-for-agriculture-block-flange-chinese-factory)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the structural cross-section and mounting application of a flanged ball bearing unit (UCFC series), depicting the same fundamental mechanical assembly.
-- **Tarih:** 2026-10-11 16:12:49
-
-![Önizleme](https://img80002772.weyesimg.com/uploads/wxingbearing.com/images/16702937901309.png)
-
-
----
-
-### 28. [UCFC20630MM Metric Series Four Bolt Flange | AST Bearings](https://www.astbearings.com/catalog/flange_4_bolt_metric/UCFC206-30MM)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the reference image shows an assembly cross-section in an application, while the candidate image provides the standardized technical blueprint for the same component type.
-- **Tarih:** 2026-10-11 16:12:42
-
-![Önizleme](https://dpk3n3gg92jwt.cloudfront.net/domains/ast_units/flange_4_bolt_piloted_inch_d.jpg)
-
-
----
-
-### 29. [AMI UCFC206 Piloted Flange Cartridge Bearing 30mm Bore Set-Screw Lock Cast Iron 200 Series ...](https://www.mrosupply.com/bearings/16311_ucfc206_ami-bearings/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard engineering technical drawing of the same flanged bearing unit assembly depicted in the reference cross-section.
-- **Tarih:** 2026-10-11 16:12:37
-
-![Önizleme](https://documents.mrosupply.com/product_documents/UC/UCFC201/UCFC200dwg_oBfHsJR.jpg)
-
-
----
-
-### 30. [UCFC206 플랜지 하우징 유닛 공급자, 유통 업체, 에이전트-UCFC206 플랜지 하우징 유닛 판매-Sun Rises](https://ko.suvbearing.com/bearing-housings/flanged-units/ucfc206-flanged-housing-units.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard engineering technical drawing of a four-bolt flanged bearing unit that corresponds to the mechanical configuration shown in the reference image.
-- **Tarih:** 2026-10-11 16:12:31
-
-![Önizleme](https://ko.suvbearing.com/Content/uploads/2021538194/20210107100251fac9d7b6838348cbbc307a52f82d32c1.jpg)
-
-
----
-
-### 31. [UCFC206 Flanged housing unit: inform yourself & order online on Schaeffler medias](https://medias.schaeffler.us/en/product/housings/housings/radial-insert-ball-bearing-housing-units/flanged-housings/ucfc206-j7/p/403476)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a formal technical blueprint showing the top-down dimensional layout of the 4-bolt circular flanged bearing unit illustrated in cross-section in Image 1.
-- **Tarih:** 2026-10-11 16:12:10
-
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/00018CE5_a.png)
-
-
----
-
-### 32. [Part Number UCFC206, UCFC 200 Piloted Round Flanged Mounted Bearings - Set Screw Locking On The ...](https://cad.timken.com/item/u-series---piloted-round-flanged-mounted-bearings/ucfc-round-flange-cartridge-units/ucfc206)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard engineering technical drawing of a four-bolt flanged bearing unit, which matches the mechanical purpose and configuration shown in the reference image.
-- **Tarih:** 2026-10-11 16:11:52
-
-![Önizleme](https://cad.timken.com/Asset/Housed-Unit-U-Series-UCFC-Line-Drawing.jpg)
-
-
----
-
-### 33. [UCFC 206 | Bearing Revolution](https://www.bearingrevolution.co.uk/ucfc-206-36713)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate is a standard mechanical engineering drawing of a four-bolt flanged bearing unit that corresponds to the mechanical assembly shown in the reference image.
-- **Tarih:** 2026-10-11 16:11:47
-
-![Önizleme](https://www.bearingrevolution.co.uk/images/products/ucfc-206_schematic_36713_6_1515411410_large.jpg)
-
-
----
-
-### 34. [UCFC206CE | Mounted Bearing Units Piloted Flange Cartridge Bearing Units - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucfc206ce/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit; the reference image shows an application cross-section, while the candidate provides the specific engineering technical specifications for a similar UCFC-type flanged bearing unit.
-- **Tarih:** 2026-10-11 16:11:41
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/mounted-bearing-units/mounted-bearing-units-with-covers/mounted-bearing-units-piloted-flange-cartridge-bearing-units/ucfc206ce.png)
-
-
----
-
-### 35. [UCFL204 Flanged housing unit: inform yourself & order online on Schaeffler medias](https://medias.schaeffler.us/en/product/housings/housings/radial-insert-ball-bearing-housing-units/flanged-housings/ucfl204-j7/p/403600)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit; the reference image provides a cross-sectional assembly view while the candidate provides a standard 2D dimensional engineering drawing.
-- **Tarih:** 2026-10-11 16:11:34
-
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/000181A3_a.png)
-
-
----
-
-### 36. [UCFL204 Oval 2 Bolt Flange Unit](https://arrowengineering.com/product/ucfl204-oval-2-bolt-flange-unit/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 58. [ProfileCut / Pipe & profile cutting machines / Machines - MicroStep](https://www.microstep.eu/machines/pipe-profile-cutting-machines/profilecut/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
-- **AI Teknik İncelemesi:** Image 1 is a cross-sectional technical drawing showing the internal installation of the flanged bearing unit depicted in Image 2.
-- **Tarih:** 2026-10-11 16:11:28
+- **AI Teknik İncelemesi:** The candidate image shows an industrial profile cutting machine, which directly matches the descriptive intent of the reference text provided.
+- **Tarih:** 2026-10-10 23:28:47
 
-![Önizleme](https://arrowengineering.com/wp-content/uploads/products/UCFL204-Oval-2-Bolt-Flange-Unit-to-UCFL216-Oval-2-Bolt-Flange-Unit.jpg)
+![Önizleme](https://www.microstep.eu/rst_images/0005/swd7xR-f102-28221.jpg)
 
 
 ---
 
-### 37. [bearing ucfl 204 ID20mm UCFL204 two bolt flange bearing unit](https://www.nskbearingcatalogue.com/product/bearing-ucfl-204/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 92` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a manufacturer catalog dimensional blueprint of an oval flanged bearing unit featuring an end cover and lubrication fitting, directly matching the assembly shown in Image 1.
-- **Tarih:** 2026-10-11 16:11:22
-
-![Önizleme](https://www.nskbearingcatalogue.com/wp-content/uploads/2019/04/ucfl-204.jpg)
-
-
----
-
-### 38. [Pillow Block Bearing Units Ucp200 Series, High Quality Pillow Block Bearing Units Ucp200 Series ...](https://www.bossgoo.com/product-detail/pillow-block-bearing-units-ucp200-series-53808515.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional mechanical assembly and geometry of a standard pillow block or flanged bearing unit assembly.
-- **Tarih:** 2026-10-11 14:19:17
-
-![Önizleme](https://bsg-i.nbxc.com/product/f2/46/9a/3218fe4357350e8dfba00ca3e0.jpg)
-
-
----
-
-### 39. [UCP UCF UCFL UCT UCFC Pillow block bearings](https://mountedbearing.com/1-pillow-block-bearings-ucp200.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal technical schematic of a UCP pillow block bearing unit, which matches the functional configuration of the flanged bearing assembly shown in the reference.
-- **Tarih:** 2026-10-11 14:19:13
-
-![Önizleme](https://mountedbearing.com/img/1-1-1.jpg)
-
-
----
-
-### 40. [Part Number UCP216, UCP 200 Pillow Block Mounted Bearings - Set Screw Locking On The Timken Company](https://cad.timken.com/item/u-series---pillow-block-mounted-bearings--ucp-200-/ucp-pillow-block-units/ucp216)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same fundamental mechanical component, with Image 1 showing a cross-sectional application assembly and Image 2 providing the standard technical blueprint of a pillow block flanged bearing unit.
-- **Tarih:** 2026-10-11 14:19:10
-
-![Önizleme](https://cad.timken.com/Asset/Housed-Unit-U-Series-UCP-Line-Drawing.jpg)
-
-
----
-
-### 41. [Stainless Steel Pillow Block Bearing 12x30.2x127mm](https://www.ball-rollerbearing.com/quality-7536498-stainless-steel-pillow-block-bearing-12x30-2x127mm)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the technical cross-section and mounting application of a standard flanged ball bearing unit, confirming they represent the same mechanical component type.
-- **Tarih:** 2026-10-11 14:19:06
-
-![Önizleme](https://www.ball-rollerbearing.com/photo/ball-rollerbearing/editor/20151228111306_39764.jpg)
-
-
----
-
-### 42. [SKF - Free CAD models - Oval flanged ball bearing units, for high temperature applications ...](https://www.traceparts.com/en/product/skf-oval-flanged-ball-bearing-units-for-high-temperature-applications?CatalogPath=SKF:N_SKF_0001_0003_0001_0005&Product=33-08072020-067868)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical concept of a flanged bearing housing unit, with the candidate providing a standard technical cross-section diagram of the bearing interface.
-- **Tarih:** 2026-10-11 14:19:03
-
-![Önizleme](https://cdn-product-content.traceparts.com/TraceParts/PartFamilies/SKF/89a5c61c-c0ac-000b-0880-800000000000/Documents/AYF502602FRONT.PNG)
-
-
----
-
-### 43. [Bearing Unit - Adapter Sleeve UKF216 - H2316, UKF 200 Four-Bolt Flanged Mounted Bearings ...](https://cad.timken.com/item/u-series---four-bolt-flanged-mounted-bearings--ucf/ukf---four-bolt-flanged-units/ukf216-h2316)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a professional technical blueprint of a four-bolt flanged bearing unit that corresponds directly to the functional mechanical design shown in the reference image.
-- **Tarih:** 2026-10-11 14:19:00
-
-![Önizleme](https://cad.timken.com/Asset/Housed-Unit-U-Series-UKF-Line-Drawing.jpg)
-
-
----
-
-### 44. [UCF211CE | Mounted Bearing Units Four-Bolt Flange Bearing Units - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucf211ce/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit mechanism; the reference image provides a cross-sectional assembly context, while the candidate image provides the standardized technical specification and dimensional blueprint for the same component type.
-- **Tarih:** 2026-10-11 14:18:56
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/mounted-bearing-units/mounted-bearing-units-with-covers/mounted-bearing-units-four-bolt-flange-bearing-units/ucf211ce.png)
-
-
----
-
-### 45. [ベアリング cad図面 – 6001zz ベアリング cadデータ – GJTU](https://sportsandcooking.com/ベアリング-cad図面-6001zz-ベアリング-cadデータ/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing units, with the candidate providing a standardized technical blueprint for a pillow block version that shares the same functional engineering principles as the reference.
-- **Tarih:** 2026-10-11 14:18:52
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/c0a3c7e29f45ed1f53bdfc9ef9088663/large.png)
-
-
----
-
-### 46. [UCPH208 | Pillow Block Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucph208/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing units, with the reference image showing an application cross-section and the candidate showing a standard technical specification drawing for a similar pillow block bearing unit.
-- **Tarih:** 2026-10-11 14:18:08
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucph208.jpg)
-
-
----
-
-### 47. [Steel 2 Bolt Pillow Block Bearing, 16g - 15/16" Part bce15g](https://www.triangleoshkosh.com/pillow-block-bearing-with-bushing-bce15g)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged pillow block bearing assembly, with the candidate providing a precise technical blueprint of the functional mechanism shown in the reference image.
-- **Tarih:** 2026-10-11 14:18:02
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/BJE15P.jpg)
-
-
----
-
-### 48. [Ball Bearing Pillow Block 1-3/8 Bore Eccentric Lock Pillow Block Bearing - 1-3/8" Bore ...](https://hentai-jp.com/3-8-quot-Bore-Eccentric-Lock-Collar-Cast-Iron-Housing-2-Bolt-526694)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the same category of industrial mounting component, specifically a flanged/pillow block bearing assembly intended to support a rotating shaft.
-- **Tarih:** 2026-10-11 14:17:57
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/BKF22G.jpg)
-
-
----
-
-### 49. [Explore the future development trends of pillow bearings-FHD](https://fhdbearings.com/blog/pillow-block-bearings-4/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the internal assembly and structural composition of a flanged bearing unit, confirming they represent the same mechanical category.
-- **Tarih:** 2026-10-11 14:17:31
-
-![Önizleme](https://fhdbearings.com/wp-content/uploads/2023/10/Pillow-Block-Bearings-Installation.jpg)
-
-
----
-
-### 50. [Pillow blocks – Tyler Engineering](https://tylerengineering.co.nz/2024/07/18/pillow-blocks/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same type of flanged bearing unit assembly, showing the bearing housing, lubrication fitting, and shaft mounting interface in a cross-sectional technical format.
-- **Tarih:** 2026-10-11 14:17:28
-
-![Önizleme](https://tylerengineering.co.nz/wp-content/uploads/2024/07/misalginment.png)
-
-
----
-
-### 51. [Pillow Block Dimensions at Vonda Tong blog](https://storage.googleapis.com/dusofndbvibihe/pillow-block-dimensions.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical concept of a flanged or pillow block bearing housing assembly, with the second image providing the standardized technical engineering blueprint for such a unit.
-- **Tarih:** 2026-10-11 14:17:24
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/SNC23_1.JPG)
-
-
----
-
-### 52. [Mounting a shaft seal in open housings - YouTube](https://www.youtube.com/watch?v=sxZi9_-XnZU)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 80` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing assembly configurations, though they depict different mounting styles and specific housing geometries.
-- **Tarih:** 2026-10-11 14:17:16
-
-![Önizleme](https://i.ytimg.com/vi/sxZi9_-XnZU/hqdefault.jpg)
-
-
----
-
-### 53. [V-Rings-Dichtungen nach Kundenwunsch-CV Technik — CV Technik | Oil Seals ...](https://www.cvtechnik.com/v-ring)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate industrial bearing assembly configurations, with the second image providing technical documentation on sealing solutions for the type of housing shown in the first image.
-- **Tarih:** 2026-10-11 14:17:13
-
-![Önizleme](https://images.squarespace-cdn.com/content/v1/6516935b24c37643ad181beb/d1c84bad-616d-487d-bce0-4491487d7d43/Working+Principle-2.png)
-
-
----
-
-### 54. [Blind Flange | Carlson Company](https://carlson-company.com/products/blind-flange/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict mechanical bearing housing assemblies, with the candidate providing a top-down technical perspective of a multi-bolt flange bearing unit complementary to the cross-sectional view in the reference.
-- **Tarih:** 2026-10-11 14:16:52
-
-![Önizleme](https://carlson-company.com/wp-content/uploads/2024/03/Blueprint_drawing_of_a_blind_flange.jpg)
-
-
----
-
-### 55. [2 Bolt Flange Bearing with a 3/4" Bore, Medium Duty | FAH12G](https://www.triangleoshkosh.com/2-bolt-flange-bearing-with-bushing-fah12g)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the same category of mechanical component, a flanged bearing unit; the candidate provides the specific engineering specification for the generic assembly illustrated in the reference.
-- **Tarih:** 2026-10-11 14:16:08
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FAH12G.jpg)
-
-
----
-
-### 56. [LDK UEFB2 Flange Mounted Bearings 3 Bolt Bearing Housing](https://www.ldk-bearings.com/products/uefb2-flange-mounted-bearings-3-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component, a flanged bearing unit; Image 1 shows a cross-sectional assembly application, while Image 2 provides the corresponding formal technical drawing/blueprint.
-- **Tarih:** 2026-10-11 14:16:05
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231121/17/3-bolt-flange-mounted-bearings.webp)
-
-
----
-
-### 57. [KFL000CE | Mounted Bearing Units Two-Bolt Flange Bearing Units - AMI | LILY Bearing](https://www.lily-bearing.com/products/kfl000ce/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component type, which is a two-bolt flanged bearing unit designed for housing a rotating shaft.
-- **Tarih:** 2026-10-11 14:15:56
-
-![Önizleme](https://img3.lily-bearing.com/images/mounted-bearings/mounted-bearing-units/mounted-bearing-units-with-covers/mounted-bearing-units-two-bolt-flange-bearing-units/kfl000ce.png)
-
-
----
-
-### 58. [Find F210 Cast Iron 4-Bolt Flange Housings used in Light Duty Mounted Bearing Units at MAXTRAN](https://maxtran.com/f210-cast-iron-4-bolt-flange-housings-used-in-light-duty-mounted-bearing-units/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a four-bolt flanged bearing unit assembly, where the first image shows an installed cross-section and the second provides a standard technical drawing of the component's geometry.
-- **Tarih:** 2026-10-11 14:15:41
-
-![Önizleme](https://cdn11.bigcommerce.com/s-kizlxfjnzw/images/stencil/1280x1280/products/585672/2385351/4-BOLT-EXPAND__04075.1727332274.jpg?c=2)
-
-
----
-
-### 59. [7/8" Two Bolt Flange Mounted with a Plain Bearing | FLB14](https://www.triangleoshkosh.com/2-bolt-flange-bearing-flb14)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing assembly, with the reference image showing a functional cross-section and the candidate providing the formal engineering specification for a compatible flange pillow block component.
-- **Tarih:** 2026-10-11 14:15:29
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FLB14.jpg)
-
-
----
-
-### 60. [Flange Bearing with Two Bolt Holes & Grease Zerk | FBK22G](https://www.triangleoshkosh.com/2-bolt-flange-bearing-fbk22g)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal technical drawing of a two-hole flanged bearing unit that corresponds directly to the functional mechanical design shown in the reference image.
-- **Tarih:** 2026-10-11 14:15:26
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FBK22G.jpg)
-
-
----
-
-### 61. [KFL000 | Two-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/kfl000/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the application and technical specifications of a two-bolt flanged bearing unit, confirming they belong to the same mechanical component class.
-- **Tarih:** 2026-10-11 14:15:22
-
-![Önizleme](https://img2.lily-bearing.com/images/mounted-bearings/kfl000.jpg?x-oss-process=image/resize,m_lfit,w_1600/quality,q_85/format,webp)
-
-
----
-
-### 62. [Two Bolt Flange with a 7/8" Bore ID, Light Duty | FLW14](https://www.triangleoshkosh.com/2-bolt-flange-bearing-flw14)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly; Image 1 depicts a cross-sectional application view, while Image 2 provides the corresponding engineering blueprint for a component within the same family.
-- **Tarih:** 2026-10-11 14:15:17
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FLW14.jpg)
-
-
----
-
-### 63. [Machine Drawing - Bearing Assembly Part 3 - YouTube](https://www.youtube.com/watch?v=NVBnbygW2CM)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a bearing assembly housing; the first is a functional schematic, while the second is an engineering blueprint of a similar shaft-supporting bearing block.
-- **Tarih:** 2026-10-11 14:15:03
-
-![Önizleme](https://i.ytimg.com/vi/NVBnbygW2CM/maxresdefault.jpg)
-
-
----
-
-### 64. [Flanged hub design in solidworks solidworks tutorial – Artofit](https://www.artofit.org/image-gallery/26317979068003560/flanged-hub-design-in-solidworks-solidworks-tutorial/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged mechanical assembly, specifically focusing on the integration of a flanged bearing or hub unit within a mounting structure.
-- **Tarih:** 2026-10-11 14:14:54
-
-![Önizleme](https://i.pinimg.com/originals/d7/2d/20/d72d20f0f6f679415e2c606bc0ba7187.jpg)
-
-
----
-
-### 65. [2 Bolt Flange Bearing with a 3/4" Bore, Light Duty | FM1512P](https://www.triangleoshkosh.com/2-bolt-flange-bearing-fm1512p)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing assemblies, with the candidate providing the precise engineering blueprint and specifications for the type of housing shown in the reference cross-section.
-- **Tarih:** 2026-10-11 14:14:00
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FJW12.jpg)
-
-
----
-
-### 66. [UCFL206 | Flange Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucfl206/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit; the reference image shows an assembly cross-section, while the candidate image provides the technical dimensioning drawing for the UCFL206 series unit.
-- **Tarih:** 2026-10-11 14:13:54
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucfl206.jpg)
-
-
----
-
-### 67. [LDK SBPFTD2 SAPFTD2 Flange Bearing Units 2 Bolt Bearing Housing](https://www.ldk-bearings.com/products/sbpftd2-sapftd2-flange-bearing-units-2-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly; Image 1 provides a functional cross-section application, while Image 2 provides the standard engineering specifications and dimensions for that component type.
-- **Tarih:** 2026-10-11 14:13:49
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231122/15/2-bolt-flange.webp)
-
-
----
-
-### 68. [LDK NAFL2 Flange Bearing Units 2-Bolt Bearing Housing](https://www.ldk-bearings.com/products/nafl2-flange-bearing-units-2-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the standard engineering configuration and internal assembly profile of a flanged mounted bearing unit.
-- **Tarih:** 2026-10-11 14:13:43
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231122/14/2-hole-bearing-flange.webp)
-
-
----
-
-### 69. [UCFL Bearing Specifications and Dimensions | PDF | Mechanical Engineering | Machines](https://www.scribd.com/document/344070030/Bearing-UCFL-2-Bolt-Flange)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides an official technical catalog entry and cross-sectional drawing for the exact type of flanged bearing unit depicted in the reference image.
-- **Tarih:** 2026-10-11 14:13:38
-
-![Önizleme](https://imgv2-2-f.scribdassets.com/img/document/344070030/original/05aae10b09/1?v=1)
-
-
----
-
-### 70. [Pillow Block Bearing Cast Iron Ucfl 209 Ucfl209 Ucfl209-26 Ucfl209-27 Bolts Flange Excavating ...](https://www.alibaba.com/product-detail/Pillow-Block-Bearing-Cast-Iron-UCFL_1601013043472.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly, with the candidate providing the formal technical documentation and dimensional specifications for the type of mechanism shown in the reference image.
-- **Tarih:** 2026-10-11 14:13:17
-
-![Önizleme](https://sc04.alicdn.com/kf/Hc1adc9f218e1420580fd5820e159f797L/222542627/Hc1adc9f218e1420580fd5820e159f797L.png)
-
-
----
-
-### 71. [Bearing Housing | Sheng Fung Engineering Sdn. Bhd. | Machining Steel Parts, Couplings, Flanges ...](http://www.shengfung.com/?page_id=51)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict heavy-duty industrial bearing housings; Image 1 is a cross-sectional schematic, while Image 2 shows the physical, manufactured lower half of a split pillow block bearing housing.
-- **Tarih:** 2026-10-11 14:12:53
-
-![Önizleme](http://www.shengfung.com/wp-content/uploads/2014/09/bearing-housing-2.png)
-
-
----
-
-### 72. [PFL205 Economy 2 Bolt Oval Flanged Bearing Housing per pair - NBR](https://www.refast.com.au/pfl205-economy-2-bolt-oval-flanged-bearing-housing)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 represents a physical 2-bolt pressed steel flange housing, which serves the same mounting and bearing support function as shown in the cross-sectional assembly of Image 1.
-- **Tarih:** 2026-10-11 14:12:08
-
-![Önizleme](https://www.refast.com.au/assets/full/PFL205-ECO.png?20240204174609)
-
-
----
-
-### 73. [SKF UCF 205/H ball bearing unit with square flange and locking with set screw, cast iron bearing ...](https://www.klium.com/en/skf-ucf-205-h-ball-bearing-unit-with-square-flange-and-locking-with-set-screw-cast-iron-bearing-housing-jis-168392)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a professional technical diagram of the exact flanged bearing unit mechanism shown in the reference, including cross-sectional views and dimensional callouts.
-- **Tarih:** 2026-10-11 12:26:55
-
-![Önizleme](https://cdn.klium.com/images/0b46c9b1-a61f-4840-8f1c-961a7983ae45/skf_ucf205h_2/skf_ucf205h_2_1064x1064.jpg)
-
-
----
-
-### 74. [UCF205 Flange Bearing Unit | 25mm Mounted Bearing by BYWB](https://bywbbearing.com/ucf205-square-flanged-bearing-unit/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides standard technical specifications and blueprint drawings for a UCF-type four-bolt flanged bearing unit, which represents the commercial equivalent of the flanged bearing assembly shown in Image 1.
-- **Tarih:** 2026-10-11 12:26:50
-
-![Önizleme](https://bywbbearing.com/wp-content/uploads/2025/05/ucf205-bearing-dimensions.jpg)
-
-
----
-
-### 75. [3/4" Flange Bearing Made From Steel with 2 Bolt Holes| FJB12](https://www.triangleoshkosh.com/2-bolt-flange-bearing-fjb12)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing assembly intended for shaft support, though the reference image depicts a heavy-duty ball bearing unit while the candidate represents a lighter-duty sheet metal flange bearing assembly.
-- **Tarih:** 2026-10-11 12:26:36
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FJB12.jpg)
-
-
----
-
-### 76. [7/8" Flange Bearing Made From Steel with 2 Bolt Holes| FJB14](https://www.triangleoshkosh.com/2-bolt-flange-bearing-fjb14)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the candidate provides the specific manufacturing blueprint for a two-bolt flanged component that aligns with the mounting configuration shown in the reference.
-- **Tarih:** 2026-10-11 12:26:30
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FJB14.jpg)
-
-
----
-
-### 77. [3/4" Bore Flange Bearing 2 Bolt SBLF204-12, Cast Iron Pillow Block Bearing for Agricultural ...](https://www.alibaba.com/product-detail/3-4-Bore-Flange-Bearing-2_1601017287321.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides the official engineering blueprint and dimensional specification table for the flanged bearing unit shown assembled in Image 1.
-- **Tarih:** 2026-10-11 12:26:24
-
-![Önizleme](https://sc04.alicdn.com/kf/H2f4b3d34877f49cdb69feec97ae8ad8dL/230540769/H2f4b3d34877f49cdb69feec97ae8ad8dL.jpg)
-
-
----
-
-### 78. [Pillow Block Bearing Assembly | PDF | Hierro | Rieles](https://es.scribd.com/document/462664743/PILLOW-BLOCK-BEARING-ASSEMBLY)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a mechanical bearing support system; while the candidate specifically shows a split-housing pillow block bearing assembly, it shares the fundamental functional category and engineering context as the flanged bearing unit in the reference.
-- **Tarih:** 2026-10-11 12:25:33
-
-![Önizleme](https://imgv2-1-f.scribdassets.com/img/document/462664743/original/44f8a65ae2/1694822693?v=1)
-
-
----
-
-### 79. [ST30 RHP Take Up Housed Bearing Unit - 30mm Shaft - WychBearings.co.uk](https://www.wychbearings.co.uk/st30_housed_bearing_rhp.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides the technical dimensioning and cross-sectional profile for a standard flanged bearing unit that corresponds to the mounting configuration shown in the reference image.
-- **Tarih:** 2026-10-11 12:24:58
-
-![Önizleme](https://www.wychbearings.co.uk/user/ST_Dims.jpg)
-
-
----
-
-### 80. [SFT25 RHP 2 Bolt Flange Housed Bearing Unit - 25mm Shaft - WychBearings.co.uk](https://www.wychbearings.co.uk/sft25_housed_bearing_rhp.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical principle of a flanged bearing housing unit; the reference shows an installed cross-section, while the candidate provides the standardized engineering blueprint for an SFT series two-bolt flange bearing.
-- **Tarih:** 2026-10-11 12:24:48
-
-![Önizleme](https://www.wychbearings.co.uk/user/SFT_Dims.jpg)
-
-
----
-
-### 81. [FC50 RHP Flange Cartridge Housed Bearing Unit - 50mm Shaft - WychBearings.co.uk](https://www.wychbearings.co.uk/fc50_housed_bearing_rhp.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same type of mechanical flanged bearing unit, with the second image providing the standard engineering blueprint dimensions for the device shown in the first image.
-- **Tarih:** 2026-10-11 12:24:37
-
-![Önizleme](https://www.wychbearings.co.uk/user/FC_Dims.jpg)
-
-
----
-
-### 82. [SF7/8 RHP 4 Bolt Flange Housed Bearing Unit - 7/8" Shaft - WychBearings.co.uk](https://www.wychbearings.co.uk/sf7-8_housed_bearing_rhp.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard engineering technical drawing for the same type of four-bolt flanged bearing unit depicted in the cross-sectional reference image.
-- **Tarih:** 2026-10-11 12:24:28
-
-![Önizleme](https://www.wychbearings.co.uk/user/SF_Dims.jpg)
-
-
----
-
-### 83. [SF40 RHP 4 Bolt Cast Iron Flange Bearing Unit 40mm Bore](https://bearing-king.co.uk/products/sf40-rhp-4-bolt-cast-iron-flange-bearing-unit-40mm-bore)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard engineering technical drawing of a four-bolt flanged bearing unit, which matches the mechanical assembly shown in the reference image.
-- **Tarih:** 2026-10-11 12:24:21
-
-![Önizleme](https://bearing-king.co.uk/cdn/shop/files/SFImage2_b7b3ef9d-1246-417c-bf43-922db2d8f3e5.jpg?v=1761843763&width=1946)
-
-
----
-
-### 84. [Find FCSX06 Cast Iron 4-Bolt Circle Flange Housings used in Medium Duty Mounted Bearing Units at ...](https://maxtran.com/fcsx06-cast-iron-4-bolt-circle-flange-housings-used-in-medium-duty-mounted-bearing-units/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged ball bearing unit; the candidate provides a standard technical cross-section and plan view that correctly defines the mounting and shaft assembly shown in the reference.
-- **Tarih:** 2026-10-11 12:24:10
-
-![Önizleme](https://cdn11.bigcommerce.com/s-kizlxfjnzw/images/stencil/1280x1280/products/585717/2385438/PILOTDIAGRAM__87289.1727332287.jpg?c=2)
-
-
----
-
-### 85. [4-Bolt Flange Bearing with Set Screws](https://agri-can.com/en/pillow-block-type-f/952-4-bolt-flange-bearing-with-set-screws.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional assembly and mounting geometry of a standard four-bolt flanged bearing unit.
-- **Tarih:** 2026-10-11 12:23:58
-
-![Önizleme](https://agri-can.com/2584-large_default/4-bolt-flange-bearing-with-set-screws.jpg)
-
-
----
-
-### 86. [4 Bolt Flange Bearing Units Ukf300+h Series, High Quality 4 Bolt Flange Bearing Units Ukf300+h ...](https://www.bossgoo.com/product-detail/4-bolt-flange-bearing-units-ukf300-53811087.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard engineering technical drawing of a four-bolt flanged bearing unit that corresponds exactly to the mechanical assembly shown in the reference image.
-- **Tarih:** 2026-10-11 12:23:51
-
-![Önizleme](https://bsg-i.nbxc.com/product/8a/d7/32/2d70c56ab920bd8d85b670ea45.png)
-
-
----
-
-### 87. [Loads for flanged ball bearing units | SKF](https://www.skf.com/group/products/mounted-bearings/ball-bearing-units/flanged-ball-bearing-units/loads)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical principle of a flanged bearing housing unit mounted to a surface, with the second image providing a professional cross-sectional technical specification of the mounting interface.
-- **Tarih:** 2026-10-11 12:23:44
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d19680442122/png_highpreview_800/0901d19680442122_png_highpreview_800.png)
-
-
----
-
-### 88. [NSK - Free CAD models - Self-Lube cast iron square flange bearing unit with excentric collar and ...](https://www.traceparts.com/en/product/nsk-selflube-cast-iron-square-flange-bearing-unit-with-excentric-collar-and-long-inner-ring-sfdec-serie?CatalogPath=NSK:NSK.030.020.050&Product=10-07062013-087851)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit with internal ball bearings and mounting flanges, confirming they represent the same mechanical component type.
-- **Tarih:** 2026-10-11 12:23:19
-
-![Önizleme](https://cdn-product-content.traceparts.com/TraceParts/PartFamilies/NSK/e58e906b-93ea-0003-0580-810000000000/Documents/dessin_cote_serie_SF-DEC.gif)
-
-
----
-
-### 89. [MSF80 RHP 4 Bolt Cast Iron Flange Bearing Unit 80mm Bore](https://bearing-king.co.uk/products/msf80-rhp-4-bolt-cast-iron-flange-bearing-unit-80mm-bore)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the standard configuration and mounting geometry of a four-bolt flanged bearing unit, with the second image providing the formal technical specifications for the mechanism shown in the first.
-- **Tarih:** 2026-10-11 12:23:14
-
-![Önizleme](https://bearing-king.co.uk/cdn/shop/files/25741.jpg?v=1713267468&width=4096)
-
-
----
-
-### 90. [MSF30 RHP 4 Bolt Square Cast Iron Flange Bearing Unit With ...](https://www.northwestbearings.co.uk/msf30-rhp-4-bolt-square-cast-iron-flange-bearing-unit-with-a-30mm-shaft-dia)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 88` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standardized engineering blueprint of a four-bolt flanged bearing unit (MSF series) matching the core flanged bearing mechanism depicted in the cross-section of Image 1.
-- **Tarih:** 2026-10-11 12:23:02
-
-![Önizleme](https://www.northwestbearings.co.uk/image/cache/catalog/Schematics/Housings-and-Inserts/RHP/4-Bolt-Square-RHP-SCH-1000x1000w.jpg)
-
-
----
-
-### 91. [MSFT40 RHP Heavy Duty 2 Bolt Oval Cast Iron Flanged Bearing ...](https://www.northwestbearings.co.uk/msft40-rhp-heavy-duty-2-bolt-oval-cast-iron-flanged-bearing-unit-with-a-40mm-shaft-dia)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit assembly, with the candidate providing the standard engineering specification drawing for the type of housing shown in the reference image.
-- **Tarih:** 2026-10-11 12:22:51
-
-![Önizleme](https://www.northwestbearings.co.uk/image/cache/catalog/Schematics/Housings-and-Inserts/RHP/Heavy-Duty-2-Bolt-Oval-RHP-SCH-1100x1100w.jpg)
-
-
----
-
-### 92. [LDK UCF3 Flange Bearing Units 4 Bolt Bearing Housing](https://www.ldk-bearings.com/products/ucf3-flange-bearing-units-4-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a technical drawing representing the standard engineering blueprint and dimensional details of the flanged bearing unit shown assembled in Image 1.
-- **Tarih:** 2026-10-11 12:21:19
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231121/15/4-bolt-flange-bearing-1-1-4.webp)
-
-
----
-
-### 93. [Fixed bearing units flange version | norelem](https://www.norelem-china.com/cn/en/Products/Product-overview/Systems-and-components-for-machine-and-plant-construction/24000-Trapezoidal-thread-spindles-Ball-screw-linear-actuators-Pillow-block-bearings/Ball-screws-and-bearing-units/24080-Fixed-bearing-units-flange-version.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict flanged ball bearing units utilized for shaft support, with the candidate providing precise engineering blueprints for the mechanical assembly shown in the reference.
-- **Tarih:** 2026-10-11 12:20:38
-
-![Önizleme](https://www.norelem-china.com/xs_db/BILD_DB/Z/Z2/layers/www/750/Z24080-Festlagereinheiten-Fixed-bearing-units-nn--en_www.jpg)
-
-
----
-
-### 94. [4-Bolt Flange Bearing, #UCF 210 31 - Mounted Bearings | MDS](https://www.mdsofmi.com/product/4-bolt-flange-bearing-ucf210-32/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides the standard engineering specification sheet for the flanged bearing unit depicted in the assembly diagram of Image 1.
-- **Tarih:** 2026-10-11 12:20:29
-
-![Önizleme](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_754,h_566/https://www.mdsofmi.com/wp-content/uploads/2016/03/All-4-Bolt-Flange-Part-Numbers-Dimensions-2.jpg)
-
-
----
-
-### 95. [Pillow Block Bearing Nomenclature at Irene Rayburn blog](https://storage.googleapis.com/dcvwmrszydrele/pillow-block-bearing-nomenclature.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged/pillow block bearing unit assemblies, with the candidate providing the standard engineering specification drawing for the type of housing seen in the reference cross-section.
-- **Tarih:** 2026-10-11 12:19:11
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Split-Pillow-Blocks-Cast-Iron-Housing-SAF-Type_S.png)
-
-
----
-
-### 96. [SN 513, Split Pillow Block Housing - Budget Range | Bearing Revolution](https://www.bearingrevolution.co.uk/sn-513_-split-pillow-block-housing-_-budget-range-6631)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides a detailed engineering technical drawing and dimensioned blueprint of a similar pillow block/flanged bearing housing assembly shown in the reference.
-- **Tarih:** 2026-10-11 12:19:07
-
-![Önizleme](https://www.bearingrevolution.co.uk/images/products/sn-513-split-pillow-block-housing-budget-range_schematic_6631_6_1493301672_large.jpg)
-
-
----
-
-### 97. [Split pillow block housings for cylindrical/tapered roller bearings for metric shafts - CISO ...](http://www.cisotrade.com/product/3851.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional design and mounting geometry of pillow block or flanged bearing units used for supporting rotating shafts.
-- **Tarih:** 2026-10-11 12:18:40
-
-![Önizleme](http://www.cisotrade.com/api/assets/product_size/3851/f23b06eb-89b8-43ec-8de8-1102279e3e45.jpg)
-
-
----
-
-### 98. [Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN Bearing Corp. of America](https://bearingfinder.ntnamericas.com/en-us/viewitems/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides a professional engineering technical specification sheet for the same class of pillow block/flanged bearing housing assembly shown in the reference.
-- **Tarih:** 2026-10-11 12:18:34
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/SNC23_1.JPG)
-
-
----
-
-### 99. [Bearing Housing Drawing PDF | PDF](https://www.scribd.com/document/383716550/Bearing-Housing-Drawing-pdf)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images represent technical designs for mechanical bearing housings; while the first is an assembly cross-section and the second is a detailed engineering blueprint for a dual-bearing housing, they both document the same class of mechanical support component.
-- **Tarih:** 2026-10-11 12:18:10
-
-![Önizleme](https://imgv2-2-f.scribdassets.com/img/document/383716550/original/4a0ccb5b93/1719447161?v=1)
-
-
----
-
-### 100. [KEGAN Bearing Housings | Teknik mesin, Desain industri, Industri](https://www.pinterest.com/pin/661255157768467807/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict industrial mounted bearing units; while the reference shows a cross-section of a flanged unit and the candidate shows an exploded view of a pillow block, both are standardized mechanical power transmission components sharing identical functional principles.
-- **Tarih:** 2026-10-11 12:17:35
-
-![Önizleme](https://i.pinimg.com/originals/73/a3/e4/73a3e4ff2e6734a207849189d172fb8c.png)
-
-
----
-
-### 101. [Enhancing Maintenance and Performance: Exploring the Benefits of Split Pillow Block Bearings ...](https://axisbearing.com/benefits-of-split-pillow-block-bearings/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate split pillow block bearing housings, which are the fundamental engineering component represented in the reference image.
-- **Tarih:** 2026-10-11 12:17:27
-
-![Önizleme](https://axisbearing.com/wp-content/uploads/2023/07/Axis_SAF_Exploded-View.jpg)
-
-
----
-
-### 102. [Pillow Block Guide at Randi Mallon blog](https://storage.googleapis.com/dtxzqcohnafdje/pillow-block-guide.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 78` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate mechanical bearing assemblies intended to support a rotating shaft, with the reference showing a flanged bearing unit and the candidate showing an exploded view of a pillow block assembly.
-- **Tarih:** 2026-10-11 12:17:19
-
-![Önizleme](https://view.publitas.com/15115/136287/pages/6dd255e5cb9aabdf2d3596481c6a75982625d13a-at1600.jpg)
-
-
----
-
-### 103. [BEARING ASSEMBLY, MACHINE DRAWING, #ASSEMBLY DRAWING - YouTube](https://www.youtube.com/watch?v=y_gsB0fnLpE)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a detailed engineering blueprint that corresponds exactly to the assembly components and mechanical configuration shown in the reference image, specifically detailing the hanger bracket, bearing cap, and stud arrangement.
-- **Tarih:** 2026-10-11 12:14:21
-
-![Önizleme](https://i.ytimg.com/vi/y_gsB0fnLpE/maxresdefault.jpg)
-
-
----
-
-### 104. [Cast Iron Pillow Block Bearing — Railriders.net](https://www.railriders.net/shop/p/pillow-block-bearings)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
+### 59. [CNC Pipe Profile Plasma / Gas Cutting Machines - Technocrats Plasma ...](https://www.technocratplasma.com/cnc-plasma-gas-profile-cutting-machines/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Both images illustrate the internal mechanical construction and components of a standard pillow block bearing unit, with the second image providing a detailed annotated section view of the identical bearing assembly type.
-- **Tarih:** 2026-10-11 12:14:15
+- **AI Teknik İncelemesi:** The candidate image depicts an industrial pipe and profile cutting machine that matches the requested mechanical category.
+- **Tarih:** 2026-10-10 23:28:41
 
-![Önizleme](https://images.squarespace-cdn.com/content/v1/61de495fc35ca726458674fc/1643592429856-BF76O8HEBCRZZF0Y8KWB/pillowblock.jpg)
-
-
----
-
-### 105. [CNC Machining - J. A. Emilius' Sons, Inc.](https://www.emilius.com/cnc-machining/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows machined bearing housings and internal bearing components that serve as the physical implementation of the assembly illustrated in the reference technical drawing.
-- **Tarih:** 2026-10-11 12:14:01
-
-![Önizleme](https://www.emilius.com/wp-content/uploads/2025/02/Bearing-Housings.jpg)
+![Önizleme](https://www.technocratplasma.com/wp-content/uploads/2026/05/cnc-pipe-profile-plasma-gas-cutting-machine-2.webp)
 
 
 ---
 
-### 106. [LDK UKFL2+H Flange Bearing Units 2 Bolt Bearing Housing](https://www.ldk-bearings.com/products/ukfl2-h-flange-bearing-units-2-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical concept of a flanged ball bearing unit, with the candidate image providing the standard engineering specification drawing for the assembly shown in the reference image.
-- **Tarih:** 2026-10-11 12:13:36
+### 60. [Tube Cutting Cnc Machine at Agnes Hendricks blog](https://storage.googleapis.com/dingfrsnrafmje/tube-cutting-cnc-machine.html)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image shows a professional-grade pipe and profile cutting machine with plasma torch assembly and adjustable pipe support cradles, matching the intended industrial classification.
+- **Tarih:** 2026-10-10 23:28:30
 
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231122/14/2-bolt-flange-bearing-1-1-4.webp)
-
-
----
-
-### 107. [LDK UCFL2 Flange Bearing Units 2 Bolt Bearing Housing](https://www.ldk-bearings.com/products/ucfl2-flange-bearing-units-2-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standardized engineering technical drawing for the exact type of flanged bearing unit depicted in the assembly cutaway of Image 1.
-- **Tarih:** 2026-10-11 12:13:33
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231122/11/2-bolt-bearing.webp)
+![Önizleme](https://image.made-in-china.com/2f0j00NMzWIsOhkRbZ/Snr-Xg2-Tube-CNC-Cutting-Machine-Pipe-Cutter.jpg)
 
 
 ---
 
-### 108. [Mounted Bearings - 2 - Bolt Flange Blocks - UCFL Series - Page 1 - Quality Bearings Belts and Chain](https://www.qualitybearingsbeltsandchain.com/ucfl-series/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical concept of a flanged bearing housing mounting assembly, with the reference image showing an application cross-section and the candidate providing the standard technical datasheet for an equivalent oval flanged unit.
-- **Tarih:** 2026-10-11 12:13:26
-
-![Önizleme](https://cdn11.bigcommerce.com/s-sgih43e/images/stencil/500x659/products/1220/1606/210_11__86591.1421956754.jpg?c=2)
-
-
----
-
-### 109. [UCFL203CE | Mounted Bearing Units Two-Bolt Flange Bearing Units - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucfl203ce/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the first shows a functional assembly in section, while the second provides a detailed technical specification of the component itself.
-- **Tarih:** 2026-10-11 12:13:19
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/mounted-bearing-units/mounted-bearing-units-with-covers/mounted-bearing-units-two-bolt-flange-bearing-units/ucfl203ce.png)
-
-
----
-
-### 110. [WWL Clamping Head Bearing Units — Flange & Pillow Block | IBD WT](https://www.ibd-wt.de/en/clamping-chucks/chuck-bearing-units/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical principle of a flanged bearing housing unit supporting a rotating shaft, with the second image providing a formal engineering dimensioning perspective of the first.
-- **Tarih:** 2026-10-11 10:22:00
-
-![Önizleme](https://www.ibd-wt.de/wp-content/uploads/2025/06/zeichnung-flanschlager.png)
-
-
----
-
-### 111. [Bearing Unit Square Flanged Mount Unit | KMT BEARING | MISUMI Thailand](https://th.misumi-ec.com/en/vona2/detail/221304235439/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional design and mounting geometry of a standard four-bolt flanged bearing unit.
-- **Tarih:** 2026-10-11 10:21:50
-
-![Önizleme](https://content.misumi-ec.com/image/upload/t_msmwm_wyg/v1/p/jp/product/wysiwyg/221301228179/221301228179_001_20230801115856.gif)
-
-
----
-
-### 112. [Flange Mounted Bearings at Dorthy Reed blog](https://storage.googleapis.com/dbbytybneafgee/flange-mounted-bearings.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housings for rotating shafts, although the candidate represents a linear motion ball bushing variant whereas the reference shows a standard rotating bearing unit.
-- **Tarih:** 2026-10-11 10:21:48
-
-![Önizleme](https://www.damencnc.com/userdata/artikelen/lmt20uu-20mm-linear-motion-bearing-flanged-161027-en-G.jpg)
-
-
----
-
-### 113. [Pillow Block Bearing with a Cushion, 3/4" Bore | NAH12P](https://www.triangleoshkosh.com/rubber-mounted-pillow-block-bearing-with-bushing-nah12p)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged/pillow block bearing assemblies designed for shaft support, with the candidate providing the specific engineering documentation for a component of this mechanical family.
-- **Tarih:** 2026-10-11 10:21:28
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/BFE12G.jpg)
-
-
----
-
-### 114. [Sealing of the bearing positions | Schaeffler medias](https://medias.schaeffler.co.th/th/knowledge-center/rolling-bearings/sealing-of-the-bearing-positions)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate mechanical cross-sections of bearing installations, specifically focusing on shaft-to-housing sealing and support geometries.
-- **Tarih:** 2026-10-11 10:20:58
-
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/0001731F_a.png)
-
-
----
-
-### 115. [Sealing Arrangement Design Guide | PDF | Bearing (Mechanical) | Lubricant](https://www.scribd.com/document/235723174/Sealing-Arrangement-Design-Guide)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate industrial bearing assembly and sealing configurations, representing standard engineering documentation from a reputable manufacturer (SKF) for housing and shaft sealing systems.
-- **Tarih:** 2026-10-11 10:20:53
-
-![Önizleme](https://imgv2-2-f.scribdassets.com/img/document/235723174/original/53c2a67bc6/1706309353?v=1)
-
-
----
-
-### 116. [FYH Ball Bearing Units - Pillow Blocks, Flanged Bearing Units, Bearing ...](https://www.qualitybearingsonline.com/fyh)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the same standard mechanical flanged bearing unit (ball bearing housed in a flanged housing with a grease nipple), where the first is an assembly section view and the second is a standardized engineering dimension sheet.
-- **Tarih:** 2026-10-11 10:20:49
-
-![Önizleme](https://cdn11.bigcommerce.com/s-03842/images/stencil/1920w/products/106146/440946/PR444916BI59752_ucfc207_23_fyh_UCFC207_23_FYH_Round_Flanged_Unit_1_7_16_Inch_Insid_SZ4__42692.1731026083.jpg?c=2)
-
-
----
-
-### 117. [UKF212 - FYH Square Flanged Bearing Unit - Quality Bearing Online Ltd.](https://www.qualitybearingsonline.com/ukf212-fyh-square-flanged-bearing-unit/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing units, with the second image providing a standard engineering blueprint of the component featured in the cross-sectional view of the first.
-- **Tarih:** 2026-10-11 10:20:46
-
-![Önizleme](https://cdn11.bigcommerce.com/s-03842/images/stencil/1280w/products/105903/440460/PR444673BI59759_ukfx16_fyh_UKFX16_FYH_Square_Flanged_Bearing_Unit_SZ4__52768.1731024627.jpg?c=2)
-
-
----
-
-### 118. [Pillow Block Bearings](https://app-help.vectorworks.net/2017/eng/VW2017_Guide/Details3/Pillow_Block_Bearings.htm)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same fundamental mechanical component, a flanged bearing housing, with the reference image showing an assembly cross-section and the candidate showing the standardized dimensional technical specifications.
-- **Tarih:** 2026-10-11 10:20:25
-
-![Önizleme](https://app-help.vectorworks.net/2017/eng/VW2017_Guide/Details3/Details300087.png)
-
-
----
-
-### 119. [Heavy Duty Pillow Block Bearings with Bushings – Triangle MFG](https://www.triangleoshkosh.com/split-pillow-block-bearings/pillow-block-bearings-with-bushings)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a pillow block bearing assembly, where Image 1 is an application cross-section and Image 2 is the precise engineering blueprint for a specific model (BCE20G) of that same component type.
-- **Tarih:** 2026-10-11 10:20:23
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/BCE20G_drawing.pdjpg.jpg)
-
-
----
-
-### 120. [Four Bolt Flange Bearing Made of Steel, 1 1/2" Bore | FFF24G](https://www.triangleoshkosh.com/4-bolt-flange-bearing-with-bushing-fff24g)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal engineering blueprint detailing the same type of 2-bolt flanged bearing unit depicted in the reference section view.
-- **Tarih:** 2026-10-11 10:20:19
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FCF24A.jpg)
-
-
----
-
-### 121. [Flange Bearing with a 1 1/4" Bore, American Made | FBE20A](https://www.triangleoshkosh.com/2-bolt-flange-bearing-with-bushing-fbe20a)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is an authentic technical blueprint for a two-bolt flange bearing assembly, which structurally matches the cross-sectional view of the reference product.
-- **Tarih:** 2026-10-11 10:20:02
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FBE20A.jpg)
-
-
----
-
-### 122. [UCF201-UCF210 Square Pillow Housed Bearing - IT-TECH](https://www.it-tech-uk.com/product/ucf201-ucf210-square-pillow-housed-bearing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component, which is a flanged bearing housing unit, shown in cross-section for mounting and technical specification.
-- **Tarih:** 2026-10-11 10:19:54
-
-![Önizleme](https://www.it-tech-uk.com/wp-content/uploads/2023/02/UCF_drawing.jpg)
-
-
----
-
-### 123. [UCF210 - FYH Square Flanged Bearing Unit - Quality Bearing Online Ltd.](https://qualitybearingsonline.co.uk/products/ucf210-fyh-square-flanged-bearing-unit-50-inside-diameter)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the same category of mechanical component (a four-bolt flanged ball bearing unit), with the reference showing a cross-sectional application and the candidate showing the formal standardized dimensioned blueprint for that specific type of component.
-- **Tarih:** 2026-10-11 10:19:51
-
-![Önizleme](http://qualitybearingsonline.co.uk/cdn/shop/files/PR444491BI59756_ucf210_fyh_UCF210_FYH_Square_Flanged_Bearing_Unit_50mm_Inside_Diam_SZ4__69558.1731023774.860.860.jpg?v=1751975658)
-
-
----
-
-### 124. [PPT - Installation Methods Of Flange Mount Bearing PowerPoint ...](https://www.slideserve.com/riccotekbearings/installation-methods-of-flange-mount-bearing)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides illustrative examples of flange mount bearings that match the functional category and mechanical application shown in the reference cross-section diagram.
-- **Tarih:** 2026-10-11 10:19:36
-
-![Önizleme](https://cdn4.slideserve.com/7459020/installation-methods-of-flange-mount-bearing-n.jpg)
-
-
----
-
-### 125. [PPT - How to Install Flange Mount Bearing? PowerPoint Presentation ...](https://www.slideserve.com/riccotekbearings/how-to-install-flange-mount-bearing)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 61. [5-axis beveling round pipe plasma cutting machine](https://www.fwincnc.com/5-axis-beveling-round-pipe-plasma-cutting-machine/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Both images illustrate the same type of flanged bearing unit; the first provides a cross-sectional technical representation, while the second shows the physical product associated with the same installation context.
-- **Tarih:** 2026-10-11 10:19:34
+- **AI Teknik İncelemesi:** The reference image contains text identifying a portable industrial pipe and profile cutting machine, and the candidate image is a high-fidelity visual of exactly such an industrial pipe processing machine.
+- **Tarih:** 2026-10-10 23:28:06
 
-![Önizleme](https://image4.slideserve.com/7632707/there-are-2-basic-procedures-that-can-be-followed-l.jpg)
-
-
----
-
-### 126. [Find FCSX05 Cast Iron 4-Bolt Circle Flange Housings used in Medium Duty ...](https://maxtran.com/fcsx05-cast-iron-4-bolt-circle-flange-housings-used-in-medium-duty-mounted-bearing-units/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the candidate provides standard engineering dimensions for the same mechanical component type shown in the reference.
-- **Tarih:** 2026-10-11 10:19:31
-
-![Önizleme](https://cdn11.bigcommerce.com/s-kizlxfjnzw/images/stencil/1280x1280/products/585651/2385309/PILOTDIAGRAM__22127.1727332269.jpg?c=2)
+![Önizleme](https://www.fwincnc.com/wp-content/uploads/2024/09/cnc-5-axis-plasma-pipe-cutting-machines-1024x768.jpg)
 
 
 ---
 
-### 127. [UCF210 50 mm Bore Square flanged ball bearing unit](https://www.nskbearingcatalogue.com/ucf210)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the second image provides the official engineering specifications and cross-sectional views for the mechanism shown in the first.
-- **Tarih:** 2026-10-11 10:19:28
-
-![Önizleme](https://www.nskbearingcatalogue.com/wp-content/uploads/2023/11/UCF210-drawing.png)
-
-
----
-
-### 128. [Part Number UCFC210, UCFC 200 Piloted Round Flanged Mounted Bearings ...](https://cad.timken.com/item/u-series---piloted-round-flanged-mounted-bearings/ucfc-round-flange-cartridge-units/ucfc210)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing unit, with the second image providing the standard engineering blueprint dimensions for the mechanism shown in the first.
-- **Tarih:** 2026-10-11 10:19:26
-
-![Önizleme](https://cad.timken.com/Asset/Housed-Unit-U-Series-UCFC-Line-Drawing.jpg)
-
-
----
-
-### 129. [UCFC 210 flanged ball bearing units](https://www.bearing-manufacturers.com/product/ucfc-210/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate is a detailed engineering specification sheet for a four-bolt flanged bearing unit that confirms the mechanical assembly illustrated in the reference image.
-- **Tarih:** 2026-10-11 10:19:24
-
-![Önizleme](https://www.bearing-manufacturers.com/wp-content/uploads/2022/03/UCFC-210-1.png)
-
-
----
-
-### 130. [Item # UCFC215D1, Four Bolt Round Flange Unit, Cast Housing, Set Screw ...](https://bearingfinder.ntnamericas.com/item/four-bolt-flange-unit-round-style/round-flange-unit-cast-housing-set-screw-ucfc-type/ucfc215d1)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the standard assembly and technical geometry of a four-bolt flanged bearing unit with a grease lubrication port.
-- **Tarih:** 2026-10-11 10:19:21
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Four-Bolt-Round-Flange-Unit--Cast-Housing--Set-Screw--UCFC-Type_S.png)
-
-
----
-
-### 131. [Four-Bolt Flange Units Manufacturers & Suppliers | China Four-Bolt ...](https://www.cwlbearing.com/four-bolt-flange-units/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a four-bolt flanged bearing unit (UCF type) assembly, with Image 1 showing the application context and Image 2 providing the standard engineering dimensional drawing.
-- **Tarih:** 2026-10-11 10:18:58
-
-![Önizleme](https://www.cwlbearing.com/uploads/7772.jpg)
-
-
----
-
-### 132. [Flanged Ball Bearings | High-Quality Precision Bearings](https://www.sdtflbearing.com/product/ball-bearings/flanged-ball-bearings/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The images both depict flanged bearing units, with Image 1 showing a cross-sectional application and Image 2 showing standard product variations of the same component type.
-- **Tarih:** 2026-10-11 10:18:56
-
-![Önizleme](https://www.sdtflbearing.com/wp-content/uploads/2025/05/difference-between-2-bolt-and-4-bolt-flange-bearings.png)
-
-
----
-
-### 133. [LDK UCFC2 Flange Cartridge Bearing Units 4 Bolt Bearing Housing](https://www.ldk-bearings.com/products/ucfc2-flange-cartridge-bearing-units-4-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit assembly; Image 1 shows a cross-sectional application, while Image 2 provides the detailed engineering specification drawing of the same mechanism type.
-- **Tarih:** 2026-10-11 10:18:53
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231121/15/ball-bearing-flange-mount.webp)
-
-
----
-
-### 134. [Mounting and dismounting for flanged ball bearing units | SKF](https://www.skf.com/au/products/mounted-bearings/ball-bearing-units/flanged-ball-bearing-units/mounting-and-dismounting)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same type of flanged bearing unit assembly, with the second image providing a technical cross-section detail focusing on the bearing interface and lubrication port.
-- **Tarih:** 2026-10-11 10:18:21
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d19680466a6d/png_highpreview_800/0901d19680466a6d_png_highpreview_800.png)
-
-
----
-
-### 135. [Mounting and dismounting for flanged ball bearing units | SKF](https://www.skf.com/group/products/mounted-bearings/ball-bearing-units/flanged-ball-bearing-units/mounting-and-dismounting)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical concept of a mounted ball bearing unit (pillow block or flanged bearing) securing a rotating shaft.
-- **Tarih:** 2026-10-11 10:18:17
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d196809d1578/png_highpreview_800/0901d196809d1578_png_highpreview_800.png)
-
-
----
-
-### 136. [Mounting and dismounting for flanged ball bearing units | SKF](https://www.skf.com/us/products/mounted-bearings/ball-bearing-units/flanged-ball-bearing-units/mounting-and-dismounting)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 62. [5 axis CNC Plasma Pipe Tube Cutting Beveling Machine from China ...](https://www.eastrisecnc.com/5-axis-CNC-Plasma-Pipe-Tube-Cutting-Beveling-Machine-pd20918067.html)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (exact_match)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing unit assembly, with the reference providing the internal technical cross-section and the candidate showing the physical installation and maintenance of the same housing type.
-- **Tarih:** 2026-10-11 10:18:15
+- **AI Teknik İncelemesi:** The reference input provided text describing an industrial pipe and profile cutting machine, and the candidate image displays an industrial-grade CNC plasma pipe cutting machine that matches that description perfectly.
+- **Tarih:** 2026-10-10 23:27:42
 
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d196809d1576/png_highpreview_800/0901d196809d1576_png_highpreview_800.png)
+![Önizleme](https://5qrorwxhlqjkjij.leadongcdn.com/cloud/onBqlKilRinSnlokrlko/5-axis-bevel-tube-pipe-plasma-cutting-machine.jpg)
 
 
 ---
 
-### 137. [Type E Flange: 4-Bolt Bearing On The Timken Company](https://cad.timken.com/viewitems/type-e-mounted-tapered-roller-bearings/flange-4-bolt-bearing)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 63. [6 axis Plasma pipe cutting machine](https://pclgroupcncmachine.com/round-pipe-cutting-and-bevel-machine/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing units, with Image 1 showing an application assembly and Image 2 providing the standard engineering blueprint for a similar flanged housing type.
-- **Tarih:** 2026-10-11 10:18:12
+- **AI Teknik İncelemesi:** The candidate image provides a detailed CAD-style technical blueprint of a multi-axis pipe and profile machining system, which aligns with the functional description of the reference product.
+- **Tarih:** 2026-10-10 23:27:29
 
-![Önizleme](https://cad.timken.com/Asset/Flange-4-Bolt-Bearing-2.jpg)
-
-
----
-
-### 138. [Part Number SUCSF212/F, Corrosion-Resistant Four-Bolt Flanged Mounted ...](https://cad.timken.com/item/corrosion-resistant-mounted-ball-bearings/corrosion-resistant-four-bolt-set-screw-locking/sucsf212-f)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard engineering technical drawing of a four-bolt flanged bearing housing, which matches the mechanical application shown in the reference cross-section.
-- **Tarih:** 2026-10-11 10:18:10
-
-![Önizleme](https://cad.timken.com/Asset/Stainless-Steel-4-bolt-flange-a.JPG)
+![Önizleme](https://pclgroupcncmachine.com/wp-content/uploads/2020/11/6-axis-plasma-cutting-machine.webp)
 
 
 ---
 
-### 139. [LDK UEF2 Flange Bearing Units 4 Bolt Bearing Housing](https://www.ldk-bearings.com/products/uef2-bearing-units-4-bolt-bearing-with-flange-housing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the candidate provides the standardized engineering cross-section and plan view for the same type of mechanical assembly shown in the reference.
-- **Tarih:** 2026-10-11 10:18:08
+### 64. [VEVOR Chicken Poultry Plucker 2200W 240R/min Turkey Chicken Poultry ...](https://www.vevor.com/chicken-plucker-c_10943/60cm-chicken-plucker-plucking-machine-silica-gel-poultry-plucker-stainless-steel-p_010575038224)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is a physical product photograph that perfectly corresponds to the technical layout and functional components specified in the Image 1 blueprint.
+- **Tarih:** 2026-10-10 23:24:14
 
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231121/16/four-bolt-flange.webp)
-
-
----
-
-### 140. [2x UCF211 55mm bore 4-Bolt Flange Pillow Block Bearing Self Aligning | eBay](https://www.ebay.com.au/itm/116110451847)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit (UCF series) where Image 1 shows a practical mounting application and Image 2 provides the corresponding engineering specifications and standard dimensional drawing.
-- **Tarih:** 2026-10-11 10:18:06
-
-![Önizleme](https://i.ebayimg.com/images/g/ltIAAOSwKvxl95Ar/s-l1600.png)
+![Önizleme](https://d2qc09rl1gfuof.cloudfront.net/product/60XJQTMJ000000001/chicken-plucker-m100-1.2.jpg)
 
 
 ---
 
-### 141. [UCF211 ตลับลูกปืนตุ๊กตา สำหรับงานอุตสาหกรรม รอบสูง Bearing Units UCF ...](https://www.aquipthai.com/product/219541-224157/ucf211-ตลับลูกปืนตุ๊กตา-สำหรับงานอุตสาหกรรม-รอบสูง-bearing-units-ucf-211-เพลา-55-มม-uc211-f211)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the standard cross-sectional assembly and mounting logic of a flanged bearing unit (UCF series), with the reference showing a practical machine integration and the candidate providing the specific engineering specifications.
-- **Tarih:** 2026-10-11 10:17:50
+### 65. [Automatic Poultry Plucker Machine 60cm Stainless Steel 3HP: Yavolo](https://yavolo.co.uk/product/poultry-plucker-machine-60cm-drum-automatic-chicken-turkey-duck-birds-rotating-water-pipe-drain-chute-defeather-plucking-stainless-steel-132-rubber-fingers-3hp-220v-8-bird-capacity-farming-abattoir)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is a photographic representation of the exact mechanical assembly described in the reference technical diagram.
+- **Tarih:** 2026-10-10 23:23:25
 
-![Önizleme](https://image.makewebcdn.com/makeweb/m_1920x0/Q6eKNeFso/ECONOMY4/UCF211_Dooring.jpg?v=202405291424)
-
-
----
-
-### 142. [Ucf211 Bearing Uc211 Insert Ball Bearing With Housing F211 Bearing ...](https://www.alibaba.com/product-detail/UCF211-Bearing-UC211-Insert-Ball-Bearing_1601023564165.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides the standard engineering specification and technical drawing for the flanged bearing unit shown in the assembly schematic of Image 1.
-- **Tarih:** 2026-10-11 10:17:48
-
-![Önizleme](https://sc04.alicdn.com/kf/H4fdf59d7ff204dd9bd2b9dd3f3aaf460g/230540769/H4fdf59d7ff204dd9bd2b9dd3f3aaf460g.jpg)
+![Önizleme](https://yavolo.co.uk/products/images/1/800X800/56477a34884c9de8e116b724326efca2.jpg)
 
 
 ---
 
-### 143. [Flange Bearing Unit UCF211-32 2" Bore 4-Bolt Flange Bearing - Self ...](https://plugandplayband.com/564880/4-Bolt-Flange-Bearing-Self-Aligning-Cast-Iron-With-Set-Screw)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides an official catalog specification sheet for the exact type of flanged bearing unit depicted in the reference image.
-- **Tarih:** 2026-10-11 10:17:45
-
-![Önizleme](https://m.media-amazon.com/images/I/81njSsRKUhL.jpg)
-
-
----
-
-### 144. [Four Bolt Flange Bearing Made of Steel, 1 3/16" Bore| FEE19A](https://www.triangleoshkosh.com/4-bolt-flange-bearing-with-bushing-fee19a)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is an authentic technical drawing of a bolt-side flanged bearing assembly that corresponds functionally and structurally to the type depicted in the reference image.
-- **Tarih:** 2026-10-11 10:17:22
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FEE19A.jpg)
-
-
----
-
-### 145. [Four Bolt Flange Bearing Made of Steel, 1 1/4" Bore | FEE20A](https://www.triangleoshkosh.com/4-bolt-flange-bearing-with-bushing-fee20a)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 66. [Rubber Finger For Chicken Plucker Chicken Plucking Machine Fingers For ...](https://www.alibaba.com/product-detail/Rubber-Finger-For-Chicken-Plucker-Chicken_60613295301.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly; the first is a cross-sectional conceptual view, while the second is a formal technical manufacturing blueprint for a similar flange mounting component.
-- **Tarih:** 2026-10-11 10:17:19
+- **AI Teknik İncelemesi:** Image 2 contains the same machine model shown in the schematic of Image 1, serving as a parts reference catalog for the same poultry plucker system.
+- **Tarih:** 2026-10-10 23:23:01
 
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FEE20A.jpg)
-
-
----
-
-### 146. [4 Bolt Flange Bearing, 16 Gauge - 1 1/4" - Part 3668](https://www.triangleoshkosh.com/4-bolt-flange-bearing-with-bushing-3668)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the functional assembly and mounting geometry of a flanged ball bearing unit, with the second image providing the specific engineering documentation for such a component.
-- **Tarih:** 2026-10-11 10:17:16
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/3668.jpg)
+![Önizleme](https://sc04.alicdn.com/kf/Ha1a19d79e7ee4fb9ada04b87dbed907ae/225368811/Ha1a19d79e7ee4fb9ada04b87dbed907ae.jpg)
 
 
 ---
 
-### 147. [UCF211D1 Mounted Units and Inserts Flange Mount Units 4 Bolt Flange ...](https://www.nationalprecision.com/products/p/mounted-units-and-inserts/flange-mount-units/4-bolt-flange-units-std-duty/ucf211d1/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the same category of mechanical component, a four-bolt flanged bearing unit, with the second image providing a standard engineering blueprint for the specific housing type shown in the first image.
-- **Tarih:** 2026-10-11 10:17:14
-
-![Önizleme](https://www.nationalprecision.com/media/wyplzdqh/4bolt-flange.jpg?height=258?anchor=center&mode=crop&width=1200&height=630&rnd=132259105137600000)
-
-
----
-
-### 148. [Corrosion-Resistant Four-Bolt Flanged Mounted Bearings - Set Screw ...](https://cad.timken.com/viewitems/corrosion-resistant-mounted-ball-bearings/corrosion-resistant-four-bolt-set-screw-locking)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the reference image shows an application assembly, while the candidate provides the standard technical blueprint of the component itself.
-- **Tarih:** 2026-10-11 10:17:12
-
-![Önizleme](https://cad.timken.com/Asset/Stainless-Steel-4-bolt-flange-a.JPG)
-
-
----
-
-### 149. [Sleeve Bearing With Flange at Bob Campbell blog](https://storage.googleapis.com/dcstncqcidgbre/sleeve-bearing-with-flange.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard engineering technical drawing of a four-bolt flanged bearing unit, which directly corresponds to the component type illustrated in the reference section view.
-- **Tarih:** 2026-10-11 10:16:28
-
-![Önizleme](https://htbstoragep.blob.core.windows.net/htbprodp/0070504_4-bolt-flange-750-f-split-mounted-carbon-sleeve-bearing.png)
-
-
----
-
-### 150. [UCF214 Corps de roulement a bride: informez-vous & achetez en ligne via ...](https://medias.schaeffler.be/fr/produit/corps-de-paliers/corps-de-paliers/roulements-et-paliers-auto-aligneurs/paliers-appliques/ucf214-j7/p/403408)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 88` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard engineering blueprint front view of a 4-bolt square flanged bearing unit matching the type shown in the reference assembly section.
-- **Tarih:** 2026-10-11 10:16:07
-
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/000181A0_a.png)
-
-
----
-
-### 151. [Center Flange Bearing Mount Made From Galvanized Steel| 1769](https://www.triangleoshkosh.com/flange-bearing-mount-1769)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides the technical blueprint and specifications for the flanged bearing housing (Triangle Manufacturing CBH10K) shown in the reference cross-section diagram.
-- **Tarih:** 2026-10-11 08:26:10
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/CBH10K.jpg)
-
-
----
-
-### 152. [How to Protect Bearings from the Elements](http://www.tdbearing.com/page9?article_id=121)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 67. [Stainless-Steel-Chicken-Plucker-Drill-Attachment-Chicken-Feather ...](https://www.aliexpress.com/item/1005007614104031.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate cross-sectional technical diagrams of mechanical bearing assemblies, focusing on sealing and housing integration, even though they represent different specific sealing configurations.
-- **Tarih:** 2026-10-11 08:25:40
+- **AI Teknik İncelemesi:** The candidate image shows the core rotating component (feather plate and fingers) that is a central, essential subsystem of the poultry plucker mechanism depicted in the reference diagram.
+- **Tarih:** 2026-10-10 23:22:33
 
-![Önizleme](http://media.noria.com/sites/archive_images/_Backup_200601_shaft-bearing-fig1.jpg)
-
-
----
-
-### 153. [Labyrinth Seal Guide | GMN Bearing USA](https://www.gmnbt.com/resources/guides/labyrinth-seal-guide/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing assemblies in cross-section, demonstrating standard industrial mechanical mounting principles.
-- **Tarih:** 2026-10-11 08:25:38
-
-![Önizleme](https://www.gmnbt.com/assets/images/assembly-1.png)
+![Önizleme](https://ae01.alicdn.com/kf/S2e4f87c57d144f0b9bf9f1a83ae2e6f4F/Stainless-Steel-Chicken-Plucker-Drill-Attachment-Chicken-Feather-Removal-Plucker-Machine-Goose-Duck-Feather-Poultry-Debeater.jpg)
 
 
 ---
 
-### 154. [Flange Bearing Eccentric Locking Collar at Mary Loomis blog](https://storage.googleapis.com/dwhmzfmomaegfe/flange-bearing-eccentric-locking-collar.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a standard engineering blueprint for a flanged bearing housing, which represents the exact mechanical component illustrated in the reference image.
-- **Tarih:** 2026-10-11 08:25:36
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Two-Bolt-Rhombus-Flanged-Unit--Cast-Housing--Eccentric-Locking-Collar--AELFL_S.png)
-
-
----
-
-### 155. [UFL001 | Two-Bolt Flange Bearing Eccentric Collar Locking - AMI | LILY ...](https://www.lily-bearing.com/products/ufl001/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing assembly, with the reference image showing a cross-sectional application and the candidate providing a detailed technical specification of a two-bolt flanged bearing unit.
-- **Tarih:** 2026-10-11 08:25:33
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ufl001.jpg)
-
-
----
-
-### 156. [KHFT207-20 | Two-Bolt Flange Bearing Eccentric Collar Locking - AMI ...](https://www.lily-bearing.com/products/khft207-20/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing, with the second image providing a formal technical drawing of the component mechanism shown in the first image's assembly context.
-- **Tarih:** 2026-10-11 08:25:30
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/khft207-20.jpg)
-
-
----
-
-### 157. [Mounted Bearing 4 - Bolt Flange Unit With Eccentric Locking Collar, 2 ...](https://1stsourcebearings.com/Mounted-Bearing-4--Bolt-Flange-Unit-With-Eccentric-Locking-Collar-2-in-Shaft-Diameter-NANF210-32_p_305.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component, specifically a four-bolt flanged ball bearing unit (UCF series), with the reference showing a cross-sectional application assembly and the candidate showing a standard technical engineering drawing.
-- **Tarih:** 2026-10-11 08:25:27
-
-![Önizleme](https://1stsourcebearings.com/assets/images/nanf-drawing.png)
-
-
----
-
-### 158. [Four Bolt Round Flange Unit, Cast Housing, Eccentric Locking Collar ...](https://bearingfinder.ntnamericas.com/viewitems/four-bolt-flange-unit-round-style/t-cast-housing-eccentric-locking-collar-uelfc-type)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard engineering blueprint of a four-bolt flanged ball bearing unit, which matches the mechanical assembly shown in the section view of Image 1.
-- **Tarih:** 2026-10-11 08:25:23
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Four-Bolt-Round-Flange-Unit--Cast-Housing--Eccentric-Locking-Collar--UELFC-Type_S.png)
-
-
----
-
-### 159. [UCFL Bearing UCFL217 Oval Flange Pillow Block Bearing - Cast Iron, Low ...](https://www.alibaba.com/product-detail/UCFL-Bearing-UCFL217-Oval-Flange-Bearing_60599329413.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard technical datasheet for a UCFL-series flanged bearing housing, which matches the mechanical component displayed in the cross-sectional application view of Image 1.
-- **Tarih:** 2026-10-11 08:24:57
-
-![Önizleme](https://sc01.alicdn.com/kf/HTB1zU6TPXXXXXapapXXq6xXFXXXi/220976882/HTB1zU6TPXXXXXapapXXq6xXFXXXi.jpg)
-
-
----
-
-### 160. [LDK UEFL2 Flange Bearing Units 2 Bolt Bearing Housing](https://www.ldk-bearings.com/products/uefl2-flange-bearing-units-2-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component, a flanged bearing housing, with the second image providing a standardized engineering technical blueprint of the exact assembly shown in the first image.
-- **Tarih:** 2026-10-11 08:24:52
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231122/14/two-bolt-flange-bearing.webp)
-
-
----
-
-### 161. [Bearing Housing Machining Process | Proses Pemesinan Rumah Bearing ...](https://www.youtube.com/watch?v=yAn7tE51Gi0)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 68. [High Quality Poultry Scalder and Plucker Machine - Mini Plucker and ...](https://njxby-slaughter.en.made-in-china.com/product/kjenxWzugMcp/China-High-Quality-Poultry-Scalder-and-Plucker-Machine.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Image 1 shows a technical cross-section of a flanged bearing housing assembly, while Image 2 shows the physical, semi-finished machined components that would comprise such a housing unit.
-- **Tarih:** 2026-10-11 08:24:36
+- **AI Teknik İncelemesi:** The candidate image represents a more complex, integrated commercial unit that performs the same poultry plucking function as the reference diagram, including the core drum and finger mechanism.
+- **Tarih:** 2026-10-10 23:21:11
 
-![Önizleme](https://i.ytimg.com/vi/yAn7tE51Gi0/maxresdefault.jpg)
-
-
----
-
-### 162. [Acetal Two-Bolt Flange Bearing Housings | Plastic Machining Company](https://plasticmachiningcompany.com/product/acetal-bearing-housings-four-bolt-flange/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing assemblies, with the candidate providing a standard technical orthographic representation of the component shown in the reference cross-section.
-- **Tarih:** 2026-10-11 08:24:20
-
-![Önizleme](https://plasticmachiningcompany.com/wp-content/uploads/2017/11/4-bolt-bearing-housing.jpg)
+![Önizleme](https://image.made-in-china.com/2f0j00LuARajwFLhbk/High-Quality-Poultry-Scalder-and-Plucker-Machine.jpg)
 
 
 ---
 
-### 163. [UCFL204 2 Bolts Flange Housed Bearing Unit 20mm SUNBEARING | Food ...](https://www.sunbearing.net/pid18150963/UCFL204-2-Bolts-Flange-Housed-Bearing-Unit-20mm-SUNBEARING.htm)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 69. [VEVOR Chicken Plucker Machine, Feather Plucker with 20-inch Stainless ...](https://www.vevor.com/chicken-plucker-c_10943/vevor-chicken-plucker-machine-20-diameter-stainless-steel-drum-defeathering-equipment-with-108-soft-fingers-and-2-large-wheels-simple-debris-collection-500w-motor-for-efficient-poultry-plucking-p_010241503412)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image shows the physical, operational version of the mechanical components detailed in the reference technical diagram, confirming it is the same class of industrial poultry plucking equipment.
+- **Tarih:** 2026-10-10 23:20:41
+
+![Önizleme](https://img.vevorstatic.com/us/JQTMJH1100W20B7SXV1/goods_img_big-v2/chicken-plucker-f5.jpg?timestamp=1681698942000&format=webp)
+
+
+---
+
+### 70. [Chicken Plucker Machine by Vertical Retraction System](https://design-of-machine.blogspot.com/2015/11/chicken-plucker-machine.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a precise technical blueprint representing the exact 2-bolt flanged bearing housing unit shown in the assembly cross-section of Image 1.
-- **Tarih:** 2026-10-11 08:24:06
+- **AI Teknik İncelemesi:** Both images are identical technical schematics of a poultry plucker, depicting the same drum-and-finger mechanism with only minor variations in labeling nomenclature.
+- **Tarih:** 2026-10-10 23:20:33
 
-![Önizleme](https://icdn.tradew.com/file/201804/1572758/jpg/7434007.jpg?x-oss-process=image/quality,Q_90)
+![Önizleme](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsUogwUMW1yNJ8HP0QRUZu3CXjZD63wxV7YVE4OTFYVaOkmAXvVQVvUdtJg0nBu_YRVmRnvxFCZgsecJpf7T4Ft0dGaGS33KNcW95GzpLttZfcgi0W4TrcwIzty5UhZHOHj1J4lIx5kBw/s1600/Construction+of+Chicken+Plucker+Machine.jpg)
 
 
 ---
 
-### 164. [Flange Bearing Ucfl 204 at Shani Tillman blog](https://storage.googleapis.com/doqdfljhslffqe/flange-bearing-ucfl-204.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 71. [Chicken Plucking Machine - Efficient and Reliable Defeathering](https://www.alibaba.com/product-detail/best-price-chicken-plucking-machine-defeathering_60627342277.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 100` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is an exact duplicate of the reference technical diagram, showing identical labeling and mechanical structure for a poultry plucker.
+- **Tarih:** 2026-10-10 23:20:18
+
+![Önizleme](http://sc01.alicdn.com/kf/HTB17rzmQXXXXXbmXVXX760XFXXXu/228025041/HTB17rzmQXXXXXbmXVXX760XFXXXu.png)
+
+
+---
+
+### 72. [Vektorová grafika „Assembly drawing of speed drive shaft. Vector cad ...](https://stock.adobe.com/cz/images/assembly-drawing-of-speed-drive-shaft-vector-cad-scheme-of-part-of-steel-mechanical-device-with-dimension-lines-engineering-background-technical-template-cross-section/894881188)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 provides a detailed engineering blueprint of a drive shaft assembly that corresponds to the core mechanical transmission component (part 12) shown in the reference poultry plucker schematic.
+- **Tarih:** 2026-10-10 23:19:07
+
+![Önizleme](https://as2.ftcdn.net/v2/jpg/08/94/88/11/1000_F_894881188_KLAoxWG3sxO4QGQe5B19KuzVExbHmIdW.jpg)
+
+
+---
+
+### 73. [TMG INDUSTRIAL STAINLESS STEEL CHICKEN/TURKEY PLUCKER - 23" DRUM](https://www.liveauctionworld.com/TMG-INDUSTRIAL-STAINLESS-STEEL-CHICKEN-TURKEY-PLUCKER-23-DRUM_i32770041)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is the physical manifestation of the technical component assembly diagram provided in Image 1, showing the same stainless steel tub design and rubber plucking finger layout.
+- **Tarih:** 2026-10-10 23:18:06
+
+![Önizleme](https://dygtyjqp7pi0m.cloudfront.net/i/36154/32770041_1.jpg?v=8D6A4C1823EC8E0)
+
+
+---
+
+### 74. [Stainless Steel Commercial Poultry Plucker /Chicken Drum Plucking ...](https://www.sonypack.com/Stainless-Steel-Commercial-Poultry-Plucker-Chicken-Drum-Plucking-Machine-pd43904325.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is a physical assembly that perfectly corresponds to the components and structural layout detailed in the technical diagram of the poultry plucker.
+- **Tarih:** 2026-10-10 23:17:58
+
+![Önizleme](https://5ororwxhiqqjrij.leadongcdn.com/cloud/krBpjKlqRiiSrlmlrmlnj/QQtupian20140607133500.jpg)
+
+
+---
+
+### 75. [Chicken Plucker Uk](https://ar.inspiredpencil.com/pictures-2023/chicken-plucker-uk)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows modern commercial variants of the poultry plucker mechanism described in the Image 1 technical diagram, utilizing the same core components like the stainless steel tub, rubber fingers, and rotating base.
+- **Tarih:** 2026-10-10 23:16:44
+
+![Önizleme](https://i.ebayimg.com/images/g/BwUAAOSwUV1kPnQe/s-l1200.jpg)
+
+
+---
+
+### 76. [Oh-trm Feather Plucker: Efficient Poultry Processing Solution - Buy ...](https://www.alibaba.com/product-detail/OH-TRM-Feather-Plucker-Efficient-Poultry_1601017830469.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing unit; the candidate provides the standard technical engineering drawing of the same mechanical component shown in the reference cross-section.
-- **Tarih:** 2026-10-11 08:23:27
+- **AI Teknik İncelemesi:** Image 1 provides a schematic breakdown of the internal components (tub, plucking fingers, motor, shaft) that form the operational basis of the commercial poultry plucker shown in Image 2.
+- **Tarih:** 2026-10-10 23:16:38
 
-![Önizleme](https://icdn.tradew.com/file/201804/1572758/jpg/7434007.jpg?x-oss-process=image/quality,Q_90)
-
-
----
-
-### 165. [UCFL205 Flanged housing unit: inform yourself & order online on ...](https://medias.schaeffler.us/en/product/housings/housings/radial-insert-ball-bearing-housing-units/flanged-housings/ucfl205-j7/p/403604)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 92` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard technical blueprint of a two-bolt oval flanged bearing housing, which is the exact mechanical component depicted in the assembly cross-section of Image 1.
-- **Tarih:** 2026-10-11 08:23:19
-
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/000181A3_a.png)
+![Önizleme](https://sc04.alicdn.com/kf/A6330838349ab403cac71c7217730e0dcz/257796585/A6330838349ab403cac71c7217730e0dcz.jpg)
 
 
 ---
 
-### 166. [UCFL205 - FYH Oval Flanged Bearing Unit - Quality Bearing Online Ltd.](https://www.qualitybearingsonline.com/ucfl205-fyh-oval-flanged-bearing-unit-25-inside-diameter/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a formal technical blueprint showing the dimensional and cross-sectional views of the same 2-bolt oval flanged bearing housing unit illustrated in the reference.
-- **Tarih:** 2026-10-11 08:23:14
+### 77. [Stainless Steel Poultry Feather Plucking Plucker Machine for Chicken ...](https://qdempire.en.made-in-china.com/product/eONACyVdKZpD/China-Stainless-Steel-Poultry-Feather-Plucking-Plucker-Machine-for-Chicken-Duck-Goose-Slaughterhouse-Use.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The images represent the same mechanical assembly, where the first is a schematic technical diagram detailing components and the second is the completed, functional hardware version of that exact design.
+- **Tarih:** 2026-10-10 23:16:28
 
-![Önizleme](https://cdn11.bigcommerce.com/s-03842/images/stencil/960w/products/105927/440508/PR444697BI59744_ucfl205_fyh_UCFL205_FYH_Oval_Flanged_Bearing_Unit_25mm_Inside_Diam_SZ4__88259.1761357020.jpg?c=2)
-
-
----
-
-### 167. [Flange Bearing Ucfl 205 at Maggie Pritchard blog](https://storage.googleapis.com/dbkryzdyfrrihe/flange-bearing-ucfl-205.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is the formal technical specification and dimension sheet for the UCFL series two-bolt flanged bearing unit shown in the reference schematic.
-- **Tarih:** 2026-10-11 08:23:10
-
-![Önizleme](https://www.bearings-online.co.uk/uploads/tinymce/ucfl207.png)
+![Önizleme](https://image.made-in-china.com/2f0j00WTDqkrbhHZzM/Stainless-Steel-Poultry-Feather-Plucking-Plucker-Machine-for-Chicken-Duck-Goose-Slaughterhouse-Use.jpg)
 
 
 ---
 
-### 168. [UCF208 Flanged housing unit: inform yourself & order online on ...](https://medias.schaeffler.my/en/product/housings/housings/radial-insert-ball-bearing-housing-units/flanged-housings/ucf208-j7/p/403358)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a precise technical cross-section drawing of the exact type of flanged bearing housing unit shown in the 3D cutaway assembly of Image 1.
-- **Tarih:** 2026-10-11 08:23:05
+### 78. [Rotary Plucker](https://www.poultryprocessingequipment.com/plucking_equipment/rotary_plucker.asp)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict industrial-scale poultry plucking mechanisms utilizing rotary rubber fingers, though the first is a single-drum vertical schematic while the second is a dual-drum horizontal industrial assembly.
+- **Tarih:** 2026-10-10 23:16:22
 
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/00088073_a.png)
-
-
----
-
-### 169. [Ball bearing square flanged units - Y/UCF 208](https://www.skf.com/group/products/bearings-units-housings/bearing-units/ball-bearing-units/y-bearing-flanged-units/y-brg-square-flanged-units/index.html?designation=Y/UCF+208)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 92` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a technical blueprint of a flanged ball bearing housing unit with dimensioning, illustrating both open and capped shaft configurations directly matching the assembly in Image 1.
-- **Tarih:** 2026-10-11 08:23:01
-
-![Önizleme](https://www.skf.com/webpim/0901d1968086d00d/png/1806-0001---10000-wp.png)
+![Önizleme](https://www.poultryprocessingequipment.com/plucking_equipment/images/rotary_plucker.jpg)
 
 
 ---
 
-### 170. [UCF208 bearing UCF208-40MM 4-Bolt Flange Bearing](https://www.nskbearingcatalogue.com/product/ucf208-bearing/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a formal technical datasheet providing precise dimensions for the same four-bolt square flanged bearing housing assembly shown in the reference cross-section.
-- **Tarih:** 2026-10-11 08:22:44
-
-![Önizleme](https://www.nskbearingcatalogue.com/wp-content/uploads/2019/03/UCF208.jpg)
-
-
----
-
-### 171. [SS UCFL 206 Paslanmaz Yataklı Rulman – STS Rulman](https://stsrulman.com/urun/ss-ucfl-206-paslanmaz-yatakli-rulman/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is an engineering technical drawing of a standard 2-bolt oval flanged bearing unit showing the internal ball bearing, grease nipple, and mounting flange identical in function to Image 1.
-- **Tarih:** 2026-10-11 08:19:56
-
-![Önizleme](https://stsrulman.com/wp-content/uploads/2018/09/SUCFL-PASLANMAZ-DOKUM-YATAKLAR-TEKNIK-RESIM.webp)
-
-
----
-
-### 172. [Mounted Flange Bearings at Stephanie Fleming blog](https://storage.googleapis.com/djgfmvgbvevqge/mounted-flange-bearings.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 75` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is an engineering drawing of a 2-bolt flanged bearing unit, representing a light-duty stamped sheet metal variation of the flanged bearing assembly shown in the reference.
-- **Tarih:** 2026-10-11 08:17:41
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FJB8.jpg)
-
-
----
-
-### 173. [Flanged ball bearing units to North American standards | SKF](https://www.skf.com/group/products/mounted-bearings/ball-bearing-units/flanged-ball-bearing-units/flanged-units-to-North-American-standards)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 represents a standard engineering cross-section of a flanged bearing housing unit supporting a shaft, directly corresponding to the mechanism shown in Image 1.
-- **Tarih:** 2026-10-11 08:17:34
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d19680442124/png_highpreview_800/0901d19680442124_png_highpreview_800.png)
-
-
----
-
-### 174. [Skf Bearing Shaft Tolerance Calculator at Manuel Dupree blog](https://exoabfmik.blob.core.windows.net/fiz1pgesur/skf-bearing-shaft-tolerance-calculator.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 82` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images present technical cross-sectional illustrations of flanged bearing housing units (flanşlı rulman yatağı) featuring deep groove ball bearings, seals, and housing flanges.
-- **Tarih:** 2026-10-11 08:17:28
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d196805ecdd3/png_highpreview_800/0901d196805ecdd3_png_highpreview_800.png)
-
-
----
-
-### 175. [LDK UCFX Flange Bearing Units 4 Bolt Bearing Housing](https://www.ldk-bearings.com/products/ucfx-flange-bearing-units-4-bolt-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a standard technical dimension blueprint of a 4-bolt square flanged bearing housing unit, directly representing the same mechanism design as shown in Image 1.
-- **Tarih:** 2026-10-11 08:13:23
-
-![Önizleme](https://www.ldk-bearings.com/uploads/image/20231121/15/4-bolt-square-flange.webp)
-
-
----
-
-### 176. [UCF204-12 Four-Bolt Square Flange Pillow Block Bearing, UCF204-12 ...](https://www.tradebearings.com/ucf204-12-four-bolt-square-flange-pillow-block-bearing-product-361424.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides the standard 4-bolt square flanged bearing unit (UCF205) alongside its dimensional technical drawings, directly representing the same type of flanged bearing housing assembly shown in Image 1.
-- **Tarih:** 2026-10-11 08:10:50
-
-![Önizleme](https://www.tradebearings.com/product-photo/202203/29/JKl0sRbJOY2XcQge7jk/ucf204-12-four-bolt-square-flange-pillow-block-bearing.jpg)
-
-
----
-
-### 177. [Tolerance Shaft Bearing | PDF | Engineering Tolerance | Bearing ...](https://www.scribd.com/document/931700678/Tolerance-Shaft-Bearing)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** While image 2 is a technical reference table for bearing tolerances and not a schematic, it serves as the official engineering documentation for the installation of the mechanical component shown in image 1.
-- **Tarih:** 2026-10-11 04:13:41
-
-![Önizleme](https://imgv2-2-f.scribdassets.com/img/document/931700678/original/ec914c8757/1?v=1)
-
-
----
-
-### 178. [bearing seat tolerance-bearing seat mnufacturer](https://www.bearing-manufacturers.com/bearing-seat-tolerance/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 provides technical fit tolerances and shaft diameter deviation data directly related to the flanged bearing assembly shown in Image 1.
-- **Tarih:** 2026-10-11 04:13:21
-
-![Önizleme](https://www.bearing-manufacturers.com/wp-content/uploads/2020/03/bearing-seat-tolerance-1.png)
-
-
----
-
-### 179. [Open flange bearing unit for food industry Open :cover Fixing numbers:4 ...](https://shop.hpceurope.com/an/produit.asp?prid=4801)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the candidate provides a precise technical blueprint of a high-performance variant, while the reference shows the unit integrated into an assembly.
-- **Tarih:** 2026-10-11 04:13:11
-
-![Önizleme](https://shop.hpceurope.com/images/pdts/schema/fr/SBFop.gif)
-
-
----
-
-### 180. [Sealed flange bearing unit for Food Industry Open :cover Fixing numbers ...](https://shop.hpceurope.com/an/produit.asp?prid=4805)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate the cross-sectional anatomy and assembly mounting of a flanged bearing housing unit.
-- **Tarih:** 2026-10-11 04:12:54
-
-![Önizleme](https://shop.hpceurope.com/images/pdts/schema/fr/SBFBop.gif)
-
-
----
-
-### 181. [Center Flange Mounted with a 1 1/8" Plain Bearing | EEE18K](https://www.triangleoshkosh.com/3-bolt-flange-bearing-with-bushing-eee18k)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal engineering blueprint for a flanged ball bearing assembly, which provides the technical specifications for the mechanism depicted in the reference image.
-- **Tarih:** 2026-10-11 04:12:49
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/EEE18K.jpg)
-
-
----
-
-### 182. [Fixed Flanged Bearing Units Overview | PDF](https://www.scribd.com/document/807308215/24080-Datasheet-5056-Fixed-Bearing-Units-Flange-Version-En)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly designed for shaft support, featuring comparable mounting configurations and internal ball bearing arrangements.
-- **Tarih:** 2026-10-11 04:12:39
-
-![Önizleme](https://imgv2-2-f.scribdassets.com/img/document/807308215/original/424446e3a4/1?v=1)
-
-
----
-
-### 183. [UCFL204 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucfl204-fsb-self-lube-flanged-bearing-unit/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit; the candidate provides the engineering specification drawing for the type of bearing assembly cross-sectionally depicted in the reference.
-- **Tarih:** 2026-10-11 04:12:33
-
-![Önizleme](https://www.airebearings.co.uk/wp-content/uploads/2021/12/UCFL-Bearing-Unit-Drawing.jpg)
-
-
----
-
-### 184. [Shaft Seal Installation](https://fity.club/lists/suggestions/shaft-seal-installation/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing assemblies with rotating shafts, representing the same class of mechanical engineering components for industrial support and sealing.
-- **Tarih:** 2026-10-11 00:24:39
-
-![Önizleme](https://i.ytimg.com/vi/gIcP6MHr8Os/sddefault.jpg)
-
-
----
-
-### 185. [Design of bearing arrangements | Schaeffler medias](https://medias.schaeffler.cn/zh/knowledge-center/rolling-bearings/design-of-bearing-arrangements)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images are professional cross-sectional technical drawings of flanged bearing housing assemblies, though they depict different bearing types and mounting configurations.
-- **Tarih:** 2026-10-11 00:24:16
-
-![Önizleme](https://cdn.schaeffler-ecommerce.com/cdn/00018C7A_a.png)
-
-
----
-
-### 186. [Bearing House](https://www.oreneng.com/post/bearing-house)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a mechanical shaft supported by a bearing housing system, with the candidate providing a more detailed engineering breakdown of a similar bearing assembly configuration.
-- **Tarih:** 2026-10-11 00:24:12
-
-![Önizleme](https://static.wixstatic.com/media/1d2679_11174e738ce74260a482f682c512c444~mv2.png/v1/fill/w_980,h_570,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1d2679_11174e738ce74260a482f682c512c444~mv2.png)
-
-
----
-
-### 187. [Automotive Bearing-Housing | PDF | Cutting | Machining](https://www.scribd.com/document/709147256/automotive-bearing-housing)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a bearing housing; while the first shows a cross-sectional assembly, the second provides a detailed technical machining blueprint for the same generic class of mechanical component.
-- **Tarih:** 2026-10-11 00:23:56
-
-![Önizleme](https://imgv2-1-f.scribdassets.com/img/document/709147256/original/9310542053/1?v=1)
-
-
----
-
-### 188. [CAD Assembly of Bearing Unit | Freelancer](https://www.freelancer.com/u/rademe/portfolio/cad-assembly-of-bearing-unit-12497012)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides a valid, detailed technical engineering drawing of a flanged bearing housing which corresponds to the functional mechanical application depicted in the reference cross-section.
-- **Tarih:** 2026-10-11 00:23:53
-
-![Önizleme](https://cdn3.f-cdn.com/files/download/246872112/screenshot_9.jpg?width=780&height=550&fit=crop)
-
-
----
-
-### 189. [Round Long Sleeve Mounting Type Shaft supports linear motion automation ...](https://www.machineryoffers.com/offer/59951-Round-Long-Sleeve-Mounting-Type-Shaft-supports-linear-motion-automation-components-in-warehouse.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged shaft-support mechanisms; while the reference shows a ball-bearing housing assembly and the candidate shows a set-screw style shaft collar/flange, they both represent standard industrial components for rotary shaft support.
-- **Tarih:** 2026-10-11 00:21:32
-
-![Önizleme](https://s.alicdn.com/@sc04/kf/Hc0f490d3301a4699ab9510f2da87bfa9G/226344583/Hc0f490d3301a4699ab9510f2da87bfa9G.png)
-
-
----
-
-### 190. [Model Flange Bearing Housing in FreeCAD (Gallery Serial No. 239 ...](https://www.mechnexus.com/model-flange-bearing-housing-in-freecad-gallery-serial-no-252/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a precise mechanical blueprint of a flanged bearing housing that matches the structural purpose and geometry of the mechanism shown in the reference image.
-- **Tarih:** 2026-10-11 00:20:48
-
-![Önizleme](https://mechnexus.com/wp-content/uploads/2025/04/3D-CAD-EXERCISES-WWW.STUDYCADCAM.COM-284-1536x1086.png)
-
-
----
-
-### 191. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/shaft-seal-assembly)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing assembly containing a shaft, radial bearings, and sealing components, confirming they represent the same category of mechanical equipment.
-- **Tarih:** 2026-10-11 00:20:45
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a011d378688e8b9073dd8bddfe4cf281/large.jpg)
-
-
----
-
-### 192. [Flange Bearing Housing Dimensions at Chin Reddick blog](https://storage.googleapis.com/djzkfqwltpyaie/flange-bearing-housing-dimensions.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a technical blueprint of a round flanged bearing housing unit featuring dimensional specifications for the same mechanical component type shown in Image 1.
-- **Tarih:** 2026-10-11 00:20:15
-
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Four-Bolt-Round-Flange-Unit--Cast-Housing--Eccentric-Locking-Collar--UELFC-Type_S.png)
-
-
----
-
-### 193. [Bearing Housing Uses at Matthew Mendelsohn blog](https://storage.googleapis.com/dibehuzkyguiie/bearing-housing-uses.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is an engineering cross-section depicting flanged bearing housing arrangements on a shaft, directly matching the functional type and components of the reference.
-- **Tarih:** 2026-10-11 00:20:01
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d196805ecdd3/png_highpreview_800/0901d196805ecdd3_png_highpreview_800.png)
-
-
----
-
-### 194. [KFL005 | Two-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/kfl005/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing assembly, with the reference image showing an installed cross-section and the candidate image providing the corresponding manufacturing technical drawing for a two-bolt flange bearing.
-- **Tarih:** 2026-10-11 00:19:27
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/kfl005.jpg)
-
-
----
-
-### 195. [Industrial 2 Bolt Flange Bearings without bushings - Triangle](https://www.triangleoshkosh.com/flange-bearings/2-bolt-flange-bearings-without-bushings)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a formal engineering technical drawing for a flange pillow block assembly, which directly defines the mounting and functional geometry of the flanged bearing housing shown in the reference image.
-- **Tarih:** 2026-10-11 00:19:25
-
-![Önizleme](https://www.triangleoshkosh.com/media/catalog/product/technical-images/FLB12.jpg)
-
-
----
-
-### 196. [UCFA210 | Flange Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucfa210/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing mechanism used for shaft support, with the reference showing a cross-sectional assembly and the candidate providing a detailed engineering blueprint for a specific model (UCFA210).
-- **Tarih:** 2026-10-11 00:19:22
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucfa210.jpg)
-
-
----
-
-### 197. [Bearing Housing & Flange | PDF](https://www.scribd.com/document/699773834/Bearing-Housing-Flange)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing assemblies, with the candidate providing the specific technical specifications and geometry for the type of housing depicted in the reference cross-section.
-- **Tarih:** 2026-10-11 00:19:17
-
-![Önizleme](https://imgv2-1-f.scribdassets.com/img/document/699773834/original/6139fd4f02/1?v=1)
-
-
----
-
-### 198. [Thrust Block | Bearing Housing | Bearing Cap | Hankook CNC LATHE - YouTube](https://www.youtube.com/watch?v=5CS9iL0ACTg)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing assembly, though the candidate features a heavy-duty tapered roller bearing design compared to the simpler ball bearing configuration in the reference.
-- **Tarih:** 2026-10-11 00:19:11
-
-![Önizleme](https://i.ytimg.com/vi/5CS9iL0ACTg/maxresdefault.jpg)
-
-
----
-
-### 199. [UCFL 2-Bolt Flange Units USA Bearings & Belts - USA Bearings & Belts](https://usbearingsandbelts.com/collections/2-bolt-flange-units)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 79. [Mini Chicken Scalding Plucker Machine Poultry Slaughter Abattoir ...](https://qdempire.en.made-in-china.com/product/vmRUdNqKfArw/China-Mini-Chicken-Scalding-Plucker-Machine-Poultry-Slaughter-Abattoir-Equipment-Price-for-Livestock-Abattoir-for-Slaughterhouse-Poultry-Abattoir-Processing.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 shows a standard two-bolt flanged bearing unit that corresponds directly to the mechanical assembly cross-section illustrated in Image 1.
-- **Tarih:** 2026-10-11 00:18:50
+- **AI Teknik İncelemesi:** The candidate image shows the physical assembly corresponding to the technical schematic provided in the reference image, including the internal rubber plucking fingers and the stainless steel housing.
+- **Tarih:** 2026-10-10 23:15:38
 
-![Önizleme](https://cdn.shopify.com/s/files/1/1463/2332/collections/UCFL_mounted_unit_66fb1764-d2e8-4bd9-b0a2-8687164b339b.jpg?v=1489061965)
+![Önizleme](https://image.made-in-china.com/2f0j00mRdoGPNBEqgU/Mini-Chicken-Scalding-Plucker-Machine-Poultry-Slaughter-Abattoir-Equipment-Price-for-Livestock-Abattoir-for-Slaughterhouse-Poultry-Abattoir-Processing.jpg)
 
 
 ---
 
-### 200. [UCFL321 | Two-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucfl321/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 80. [Oh-dit Poultry Plucker With Innovative Stand Design - Buy Drum Plucker ...](https://www.alibaba.com/product-detail/OH-DIT-Poultry-Plucker-with-Innovative_1601018969950.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing assembly, with the candidate providing a professional technical specification drawing for the exact functional component shown in the reference cross-section.
-- **Tarih:** 2026-10-11 00:18:47
+- **AI Teknik İncelemesi:** Image 1 is a schematic representation of the mechanical components while Image 2 is the actual product that perfectly matches the functional layout of the reference diagram.
+- **Tarih:** 2026-10-10 23:15:30
 
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucfl321.jpg)
-
-
----
-
-### 201. [UCFL204CE | Mounted Bearing Units Two-Bolt Flange Bearing Units - AMI ...](https://www.lily-bearing.com/products/ucfl204ce/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a precise technical blueprint of a two-bolt flanged bearing unit (UCFL204), which performs the same mechanical function as the assembly shown in Image 1.
-- **Tarih:** 2026-10-11 00:18:21
-
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/mounted-bearing-units/mounted-bearing-units-with-covers/mounted-bearing-units-two-bolt-flange-bearing-units/ucfl204ce.png)
+![Önizleme](https://sc04.alicdn.com/kf/Ad5735ddb53d84fc681697dd7ab29b1d4D/257796585/Ad5735ddb53d84fc681697dd7ab29b1d4D.jpg)
 
 
 ---
 
-### 202. [UCF210-32 | Four-Bolt Flange Bearing Set Screw Locking - AMI | LILY Bearing](https://www.lily-bearing.com/products/ucf210-32/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing unit; the reference shows the unit in a functional assembly, while the candidate provides the specific engineering specification for a compatible UCF-series four-bolt flange bearing.
-- **Tarih:** 2026-10-11 00:16:11
+### 81. [Automatic inline piston filler machine, high viscosity liquid products ...](https://acasi.com/products/piston-bottle-filler-pi-3100-drawings)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images are professional technical drawings from the same manufacturer (Acasi) depicting the same style of piston filling machine, though they represent different specific model configurations (TruPiston-2-SH vs PI3100).
+- **Tarih:** 2026-10-10 23:14:10
 
-![Önizleme](https://image.lily-bearing.com/images/mounted-bearings/ucf210-32.jpg)
+![Önizleme](http://acasi.com/cdn/shop/products/Automatic_inline_piston_filler_machine_high_viscosity_liquid_products_Model_PI3100_dimensions_by_Acasi_Machinery_Inc..jpg?v=1430418124)
 
 
 ---
 
-### 203. [Wood Splitter Plans (Build it Yourself)](https://woodsplitterplans.com/)
+### 82. [Automatic inline 2 pistons filler machine pneumatic driven with ...](https://acasi.com/products/piston-filler-model-trupiston-2-sh-v21-drawings)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
+- **Doğrulama Skoru:** `% 95` (working_variation)
+- **AI Teknik İncelemesi:** Both images are official technical blueprints from the same manufacturer (Acasi) representing the same piston filler series, with minor design variations indicated by the model number (TRUPISTON-2-SH vs TRUPISTON-2-SH-V21).
+- **Tarih:** 2026-10-10 23:14:02
+
+![Önizleme](https://acasi.com/cdn/shop/products/694-000Trupiston-2-SH-V21.DRAWING.png?v=1673902646)
+
+
+---
+
+### 83. [Piston Drawing With Dimensions](https://ar.inspiredpencil.com/pictures-2023/piston-drawing-with-dimensions)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
+- **Doğrulama Skoru:** `% 100` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is an identical duplicate of the reference technical drawing for the Acasi TruPiston-2-SH filling machine.
+- **Tarih:** 2026-10-10 23:13:49
+
+![Önizleme](https://acasi.com/cdn/shop/products/Automatic_inline_2_pistons_filler_machine_pneumatic_driven_with_independent_adjustment_for_each_piston_high_viscocity_liquid_products_model_Trupiston_dimensions_by_Acasi_Machinery_Inc..jpg?v=1430423086)
+
+
+---
+
+### 84. [Rima Log Splitter Cone Splitting Excavator Attachment Hydraulic Screw ...](https://www.alibaba.com/product-detail/Rima-Log-Splitter-Cone-Splitting-Excavator_1601206346788.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 1 is a precise technical blueprint detailing the geometry, thread pitch, and mounting dimensions of a wood splitter cone, which corresponds functionally and structurally to the industrial cone assembly shown in Image 2.
+- **Tarih:** 2026-10-10 23:06:21
+
+![Önizleme](https://sc04.alicdn.com/kf/Hefb8fe9edcd84b22ae9729b4f5740f6bq/221235386/Hefb8fe9edcd84b22ae9729b4f5740f6bq.jpg)
+
+
+---
+
+### 85. [Skid Steer Mounted Cone Log Splitter for Wood Cutting - Log Splitter ...](https://cnhawk.en.made-in-china.com/product/zFgtcerAOTGK/China-Skid-Steer-Mounted-Cone-Log-Splitter-for-Wood-Cutting.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 is the technical specification drawing of a log splitter cone, while Image 2 is the finished, fully assembled commercial hydraulic implementation of the same mechanism.
+- **Tarih:** 2026-10-10 23:05:43
+
+![Önizleme](https://image.made-in-china.com/2f0j00DVmhnykIQOGK/Skid-Steer-Mounted-Cone-Log-Splitter-for-Wood-Cutting.jpg)
+
+
+---
+
+### 86. [Forestry Machinery Attachment Hydraulic Log Cone Splitter - Log ...](https://cnhawk.en.made-in-china.com/product/BOiTGzbAstaD/China-Forestry-Machinery-Attachment-Hydraulic-Log-Cone-Splitter.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 is the engineering technical specification for a conical wood splitter, and Image 2 shows the physical finished product of that same mechanism attached to a hydraulic motor assembly.
+- **Tarih:** 2026-10-10 23:05:26
+
+![Önizleme](https://image.made-in-china.com/2f0j00wWmioBCccFfN/Forestry-Machinery-Attachment-Hydraulic-Log-Cone-Splitter.jpg)
+
+
+---
+
+### 87. [Wood Splitter Plans (Build it Yourself)](https://woodsplitterplans.com/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
@@ -2244,7 +971,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 204. [JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...](https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more)
+### 88. [JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...](https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
@@ -2256,7 +983,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 205. [32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...](https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html)
+### 89. [32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...](https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -2268,7 +995,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 206. [JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...](https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter)
+### 90. [JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...](https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -2280,7 +1007,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 207. [Screw Wood Splitter Plans](https://woodsplitterplans.com/splitters/screw-wood-splitters.htm)
+### 91. [Screw Wood Splitter Plans](https://woodsplitterplans.com/splitters/screw-wood-splitters.htm)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 100` (exact_match)
@@ -2292,7 +1019,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 208. [Hospital Steel Hand Truck Gas Bottle Cart medical oxygen cylinder ...](https://www.lazada.com.ph/products/hospital-steel-hand-truck-gas-bottle-cart-medical-oxygen-cylinder-trolley-single-double-cylinder-trolley-gas-bottle-cart-lab-hand-truck-dual-pressure-liquid-oxygen-bottle-carrier-i2401396455.html)
+### 92. [Hospital Steel Hand Truck Gas Bottle Cart medical oxygen cylinder ...](https://www.lazada.com.ph/products/hospital-steel-hand-truck-gas-bottle-cart-medical-oxygen-cylinder-trolley-single-double-cylinder-trolley-gas-bottle-cart-lab-hand-truck-dual-pressure-liquid-oxygen-bottle-carrier-i2401396455.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a double-cylinder variant of the single gas cylinder truck shown in Image 1, sharing the same fundamental wheeled cart and chain-restraint mechanism design.
@@ -2303,7 +1030,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 209. [Oxy / acetylene gas bottle trolley - the lifting company](https://theliftingcompany.com.au/products/oxy-acetylene-gas-bottle-trolley)
+### 93. [Oxy / acetylene gas bottle trolley - the lifting company](https://theliftingcompany.com.au/products/oxy-acetylene-gas-bottle-trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a technical drawing of a heavy-duty gas bottle trolley, which is a related variant of the gas cylinder truck shown in Image 1.
@@ -2314,7 +1041,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 210. [E Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/product-3/)
+### 94. [E Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/product-3/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed technical drawing and bill of materials for an oxy-acetylene gas bottle trolley, representing a dual-cylinder variant of the single-cylinder gas truck shown in Image 1.
@@ -2325,7 +1052,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 211. [G Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/go-size-oxy-acet-trolley/)
+### 95. [G Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/go-size-oxy-acet-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and parts list for a gas bottle trolley, representing the same general mechanism category as the reference truck.
@@ -2336,7 +1063,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 212. [Oxy Acetylene Gas Bottle Trolley w/ Ramp » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/oxy-acetylene-gas-bottle-trolley-ramp/)
+### 96. [Oxy Acetylene Gas Bottle Trolley w/ Ramp » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/oxy-acetylene-gas-bottle-trolley-ramp/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering drawing of a heavy-duty gas cylinder trolley with a ramp, sharing the same fundamental application as the reference gas cylinder truck.
@@ -2347,7 +1074,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 213. [Build Plans Welding Trolley, English in Millimeter - Etsy](https://www.etsy.com/listing/1590782514/build-plans-welding-trolley-english-in)
+### 97. [Build Plans Welding Trolley, English in Millimeter - Etsy](https://www.etsy.com/listing/1590782514/build-plans-welding-trolley-english-in)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a construction plan for a welding trolley designed to hold gas cylinders, sharing the same functional purpose and category as the reference gas cylinder truck despite structural differences.
@@ -2358,7 +1085,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 214. [G Size Oxy-Acet Inline Gas bottle Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/g-size-oxy-acet-inline-gas-bottle-trolley/)
+### 98. [G Size Oxy-Acet Inline Gas bottle Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/g-size-oxy-acet-inline-gas-bottle-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and bill of materials representing the same gas cylinder truck/trolley mechanism shown in Image 1.
@@ -2369,7 +1096,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 215. [Single S Size Propane Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/single-s-size-propane-trolley/)
+### 99. [Single S Size Propane Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/single-s-size-propane-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and bill of materials representing the exact same type of gas cylinder truck mechanism shown in the reference image.
@@ -2380,7 +1107,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 216. [Gas Cylinder Hand Truck | National Cart](https://nationalcart.com/products/gas-cylinder-hand-truck/)
+### 100. [Gas Cylinder Hand Truck | National Cart](https://nationalcart.com/products/gas-cylinder-hand-truck/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict gas cylinder hand trucks, although Image 2 is a standard two-wheel upright blueprint whereas Image 1 is a multi-wheel convertible design.
@@ -2391,7 +1118,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 217. [Plummer Block Assembly With Shaft at Alexis Hoff blog](https://storage.googleapis.com/djxswlwzjgdnke/plummer-block-assembly-with-shaft.html)
+### 101. [Plummer Block Assembly With Shaft at Alexis Hoff blog](https://storage.googleapis.com/djxswlwzjgdnke/plummer-block-assembly-with-shaft.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 presents detailed technical blueprints and CAD models of a plummer block (pillow block bearing), matching the reference mechanism.
@@ -2402,7 +1129,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 218. [Machine Drawing: PLUMMER BLOCK (PEDESTAL BEARING)](https://machine-drawing.blogspot.com/2015/08/plummer-block-pedestal-bearing.html)
+### 102. [Machine Drawing: PLUMMER BLOCK (PEDESTAL BEARING)](https://machine-drawing.blogspot.com/2015/08/plummer-block-pedestal-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering drawing and assembly blueprint for a plummer block (pillow block bearing assembly) matching the mechanical configuration shown in Image 1.
@@ -2413,7 +1140,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 219. [UCP20620 Inch Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_inch/UCP206-20)
+### 103. [UCP20620 Inch Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_inch/UCP206-20)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a standard dimensional technical blueprint and engineering drawing of the pillow block bearing mechanism shown in the reference image.
@@ -2424,7 +1151,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 220. [Item # SNC 207, Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN ...](https://bearingfinder.ntnamericas.com/sl/item/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type/snc-207)
+### 104. [Item # SNC 207, Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN ...](https://bearingfinder.ntnamericas.com/sl/item/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type/snc-207)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides standard engineering technical drawings and dimensional specifications for the pillow block bearing assembly depicted in Image 1.
@@ -2435,7 +1162,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 221. [KP08 Pillow Block Bearing, Bore Dia. 8mm | Flux Electronix](https://fluxelectronix.com/shop/kp08-pillow-block-bearing-bore-dia-8mm/)
+### 105. [KP08 Pillow Block Bearing, Bore Dia. 8mm | Flux Electronix](https://fluxelectronix.com/shop/kp08-pillow-block-bearing-bore-dia-8mm/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides standard technical drawings, dimensional tables, and product photos of pillow block bearings matching the category shown in the reference image.
@@ -2446,7 +1173,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 222. [The Role of Plummer Blocks and Pillow Blocks in Industrial Settings](https://nisukaindustries.com/the-role-of-plummer-blocks-and-pillow-blocks/)
+### 106. [The Role of Plummer Blocks and Pillow Blocks in Industrial Settings](https://nisukaindustries.com/the-role-of-plummer-blocks-and-pillow-blocks/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a labeled technical cutaway view of a pillow block / plummer block bearing, matching the mechanism shown in the reference image.
@@ -2457,7 +1184,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 223. [Pillow block bearings - SUNBEARING Rolling Bearing Manufacturer](https://www.sunbearing.net/n1836001/Pillow-block-bearings.htm)
+### 107. [Pillow block bearings - SUNBEARING Rolling Bearing Manufacturer](https://www.sunbearing.net/n1836001/Pillow-block-bearings.htm)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts a labeled cross-section and cutout of the exact same pillow block bearing (yataklı bilya) mechanism shown in Image 1.
@@ -2468,7 +1195,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 224. [Pillow Block Bearing Assembly at Constance Woodford blog](https://storage.googleapis.com/dmzlwtnnaaokre/pillow-block-bearing-assembly.html)
+### 108. [Pillow Block Bearing Assembly at Constance Woodford blog](https://storage.googleapis.com/dmzlwtnnaaokre/pillow-block-bearing-assembly.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts the exploded view and installation components of the same pillow block bearing mechanism shown assembled in Image 1.
@@ -2479,7 +1206,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 225. [Steel Bearing Housing & Adapter, Sleeves at ₹ 15000/number in Bengaluru ...](https://www.indiamart.com/proddetail/bearing-housing-adapter-sleeves-12366756397.html)
+### 109. [Steel Bearing Housing & Adapter, Sleeves at ₹ 15000/number in Bengaluru ...](https://www.indiamart.com/proddetail/bearing-housing-adapter-sleeves-12366756397.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed exploded technical view of the exact same pillow block bearing mechanism seen assembled in Image 1.
@@ -2490,7 +1217,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 226. [Pillar Block Bearing Sizes – Pillow Block Bearing Dimensions – FIRCZG](https://stay.growingvinestreet.org/pillar-block-bearing-sizes-pillow-block-bearing-dimensions/)
+### 110. [Pillar Block Bearing Sizes – Pillow Block Bearing Dimensions – FIRCZG](https://stay.growingvinestreet.org/pillar-block-bearing-sizes-pillow-block-bearing-dimensions/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the technical blueprint and dimension specifications for the pillow block bearing mechanism shown in Image 1.
@@ -2501,7 +1228,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 227. [Bearing Housing Casting | Bearing Housing Manufacturing Process](https://mahavirconcast.com/products/casting/product-offerings/bearing-housing/)
+### 111. [Bearing Housing Casting | Bearing Housing Manufacturing Process](https://mahavirconcast.com/products/casting/product-offerings/bearing-housing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows physical pillow block bearing housings (flanged/split plummer blocks) corresponding to the assembly shown in the schematic reference diagram.
@@ -2512,7 +1239,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 228. [Split Pillow Block Housing Factory - Custom Bearing Chock and Heavy ...](https://yogieindustry.en.made-in-china.com/product/iFTtpYRARHGW/China-Split-Pillow-Block-Housing-Factory.html)
+### 112. [Split Pillow Block Housing Factory - Custom Bearing Chock and Heavy ...](https://yogieindustry.en.made-in-china.com/product/iFTtpYRARHGW/China-Split-Pillow-Block-Housing-Factory.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a large heavy-duty split housing pillow block bearing housing that matches the structural assembly concept of the reference mechanical drawing in Image 1.
@@ -2523,7 +1250,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 229. [Bearing Housing Cad at Clifford Zak blog](https://storage.googleapis.com/drywqqswvrudue/bearing-housing-cad.html)
+### 113. [Bearing Housing Cad at Clifford Zak blog](https://storage.googleapis.com/drywqqswvrudue/bearing-housing-cad.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed dimensional technical drawing and CAD model of the pillow block bearing mechanism shown assembled in Image 1.
@@ -2534,7 +1261,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 230. [UCP207 Metric Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_metric/UCP207)
+### 114. [UCP207 Metric Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_metric/UCP207)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a technical drawing schematic of the pillow block bearing assembly shown in the reference image.
@@ -2545,7 +1272,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 231. [KP004 | Pillow Block Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/kp004/)
+### 115. [KP004 | Pillow Block Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/kp004/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical blueprint with dimensional specifications of the pillow block bearing mechanism shown in Image 1.
@@ -2556,7 +1283,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 232. [adjustable pillow block bearing, UCP pillow block bearings](https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/)
+### 116. [adjustable pillow block bearing, UCP pillow block bearings](https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical data sheet and dimensioned blueprint of the pillow block bearing mechanism shown in the reference image.
@@ -2567,7 +1294,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 233. [Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco)
+### 117. [Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering drawing and technical specification of the pillow block bearing assembly shown in Image 1.
@@ -2578,7 +1305,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 234. [Hobbytronics. Pillow Block Bearing](https://www.hobbytronics.co.za/p/777/pillow-block-bearing)
+### 118. [Hobbytronics. Pillow Block Bearing](https://www.hobbytronics.co.za/p/777/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering blueprint and dimension table for the pillow block bearing assembly shown in Image 1.
@@ -2589,7 +1316,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 235. [Miniature Pillow Block Bearing – S.M.R. Engineering Services](https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1)
+### 119. [Miniature Pillow Block Bearing – S.M.R. Engineering Services](https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering technical drawing and dimension table of a standard pillow block bearing, which matches the mechanical type shown in the reference image.
@@ -2600,7 +1327,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 236. [Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16)
+### 120. [Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing depicting the precise pillow block bearing assembly shown in the reference image.
@@ -2611,7 +1338,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 237. [Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog](https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html)
+### 121. [Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog](https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing depicting the standard pillow block bearing assembly shown in the reference image.
@@ -2622,7 +1349,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 238. [Self-Aligning vs. Traditional Mounted Tapered Roller Bearings | IBT ...](https://ibtinc.com/self-aligning-vs-traditional-mounted-tapered-roller-bearings/)
+### 122. [Self-Aligning vs. Traditional Mounted Tapered Roller Bearings | IBT ...](https://ibtinc.com/self-aligning-vs-traditional-mounted-tapered-roller-bearings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict pillow block bearing assemblies, with Image 2 providing a detailed technical breakdown and cross-section corresponding to the mechanism in Image 1.
@@ -2633,7 +1360,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 239. [Pillow Block Bearing Installation Guide Expert Tips - FHD](https://fhdbearings.com/blog/pillow-block-bearing-installation/)
+### 123. [Pillow Block Bearing Installation Guide Expert Tips - FHD](https://fhdbearings.com/blog/pillow-block-bearing-installation/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical illustration of a pillow block bearing assembly, matching the target mechanism type.
@@ -2644,7 +1371,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 240. [Bearings Exploded Diagram at Fred Mounce blog](https://storage.googleapis.com/denhrkcwfngebe/bearings-exploded-diagram.html)
+### 124. [Bearings Exploded Diagram at Fred Mounce blog](https://storage.googleapis.com/denhrkcwfngebe/bearings-exploded-diagram.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 breaks down the internal components of the bearing utilized within the pillow block assembly shown in Image 1.
@@ -2655,7 +1382,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 241. [Pillow Block Bearing Sizes Pdf at Harold Mcswain blog](https://storage.googleapis.com/dxgmmdaofqycje/pillow-block-bearing-sizes-pdf.html)
+### 125. [Pillow Block Bearing Sizes Pdf at Harold Mcswain blog](https://storage.googleapis.com/dxgmmdaofqycje/pillow-block-bearing-sizes-pdf.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a technical product catalog sheet and blueprint for the pillow block bearing mechanism shown in Image 1.
@@ -2666,7 +1393,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 242. [The Ultimate Guide To Pillow Block Bearing Size Charts | AUBEARING](https://www.aubearing.com/the-ultimate-guide-to-pillow-block-bearing-size-charts/)
+### 126. [The Ultimate Guide To Pillow Block Bearing Size Charts | AUBEARING](https://www.aubearing.com/the-ultimate-guide-to-pillow-block-bearing-size-charts/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the technical blueprint and dimension specifications for the pillow block bearing mechanism shown in Image 1.
@@ -2677,7 +1404,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 243. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.ca/Pillow-Mounted-Bearings-UCP205-16-Aligning/dp/B0BNXQF2XL)
+### 127. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.ca/Pillow-Mounted-Bearings-UCP205-16-Aligning/dp/B0BNXQF2XL)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts a pillow block bearing (yataklı bilya) assembly matching the mechanical configuration and components shown in the reference schematic.
@@ -2688,7 +1415,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 244. [Split Pillow Blocks | NSK Bearings for Metal Making](https://nskmetals.com/products/bearing-units/split-pillow-blocks/)
+### 128. [Split Pillow Blocks | NSK Bearings for Metal Making](https://nskmetals.com/products/bearing-units/split-pillow-blocks/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows actual pillow block bearing housings corresponding to the technical assembly illustration in Image 1, representing the physical hardware implementation of the same mechanical component.
@@ -2699,7 +1426,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 245. [Pillow block bearing](https://www.leadbearing.com/product/Pillow-block-bearing.html)
+### 129. [Pillow block bearing](https://www.leadbearing.com/product/Pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed technical blueprint and structural diagram of the pillow block bearing shown mounted in the reference image 1.
@@ -2710,7 +1437,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 246. [Arrangements and their bearing types | SKF](https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types)
+### 130. [Arrangements and their bearing types | SKF](https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical cross-section of a flanged bearing housing and shaft assembly, which is a detailed schematic representation of the mechanism seen in Image 1.
@@ -2721,7 +1448,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 247. [UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/)
+### 131. [UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a standard engineering blueprint of a two-bolt flanged bearing unit (UCFL type), which represents the core housing component utilized in the reference assembly.
@@ -2732,7 +1459,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 248. [UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/)
+### 132. [UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a technical drawing of a standard 4-bolt square flanged bearing housing unit (UCF type), representing the open through-shaft variation of the flanged bearing assembly shown in Image 1.
@@ -2743,7 +1470,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 249. [Bearing Unit Definition at Helene Winkleman blog](https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html)
+### 133. [Bearing Unit Definition at Helene Winkleman blog](https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the standard engineering drawing and dimension specification for a four-bolt flanged ball bearing unit corresponding to the flanged housing arrangement shown in Image 1.
@@ -2754,758 +1481,815 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (107 adet)
+## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (112 adet)
 _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
-### 1. [Precision Machining of Bearing Housing - YouTube](https://www.youtube.com/watch?v=MhWPnOSEFcI)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 1. [Homemade Hydrogen Fuel Cell Horizon DIY Fuel Cell Science Classroom](https://fity.club/lists/suggestions/homemade-hydrogen-fuel-cell/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images show industrial flanged housing components designed for rotational support, confirming they are variants of the same mechanical product class.
-- **Tarih:** 2026-10-11 18:12:09
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, though the reference shows the GenCore design evolution while the candidate displays a generic hydrogen fuel cell power generator cart with CAD and physical build views.
+- **Tarih:** 2026-10-11 21:02:54
 
-![Önizleme](https://i.ytimg.com/vi/MhWPnOSEFcI/hqdefault.jpg)
+![Önizleme](https://i.ytimg.com/vi/4V5UO2BYAaY/maxresdefault.jpg)
 
 
 ---
 
-### 2. [Installing Pillow Block Bearings – TBFK](https://theconceptspace.org/installing-pillow-block-bearings/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 2. [Hydrogen Fuel Cell 3D Model - TurboSquid 2269715](https://www.turbosquid.com/3d-models/hydrogen-fuel-cell-3d-model-2269715)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate the mechanical assembly of a flanged or pillow block bearing unit, though they represent different bearing types and mounting configurations.
-- **Tarih:** 2026-10-11 16:17:50
+- **AI Teknik İncelemesi:** Image 2 depicts a detailed CAD model of a multi-stack fuel cell core, which represents the core internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 21:01:07
 
-![Önizleme](https://fhdbearings.com/wp-content/uploads/2023/10/pillow_block_bearing_.png)
+![Önizleme](https://p.turbosquid.com/ts-thumb/Qt/eZ2diH/f0/hydrogenfuelcellc4dmodel002/jpg/1723946540/1920x1080/fit_q87/199015d23ff70e3c7387037c0468de631c0b979c/hydrogenfuelcellc4dmodel002.jpg)
 
 
 ---
 
-### 3. [608 Bearing Flange by cclontz | Download free STL model | Printables.com](https://www.printables.com/model/209989-608-bearing-flange)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 3. [Hydrogen Energy Fuel Cell Stack - Gas Diffusion and Energy Storage](https://ssiconveyer.en.made-in-china.com/product/bwgtixIUYCYL/China-Hydrogen-Energy-Fuel-Cell-Stack.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows the GenCore design evolution while Image 2 illustrates a modular fuel cell stack assembly breakdown.
+- **Tarih:** 2026-10-11 20:58:49
+
+![Önizleme](https://image.made-in-china.com/2f0j00VwGlgomRHBuT/Hydrogen-Energy-Fuel-Cell-Stack.jpg)
+
+
+---
+
+### 4. [What Is Toyota Hydrogen Fuel Cell](https://storage.googleapis.com/rzkjpr79v3bc/what-is-toyota-hydrogen-fuel-cell.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 2 focuses on an internal automotive FC stack assembly rather than the GenCore stationary cabinet design in Image 1.
+- **Tarih:** 2026-10-11 20:53:57
+
+![Önizleme](https://dieselnet.com/tech/images/energy/powertrains/fuel-cell/fc_system.jpg)
+
+
+---
+
+### 5. [3D Fuel Cell Bipolarplate2 - TurboSquid 1727041](https://www.turbosquid.com/3d-models/3d-fuel-cell-bipolarplate2-1727041)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows a CAD model of a fuel cell bipolar plate stack, which is a key internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:53:53
+
+![Önizleme](https://p.turbosquid.com/ts-thumb/TA/Gdpwfm/e5/bipolarplate2/jpg/1619877329/1920x1080/fit_q87/074f3ca8839a591bfb94aa0c699d6984a905289c/bipolarplate2.jpg)
+
+
+---
+
+### 6. [The Status of On-Board Hydrogen Storage in Fuel Cell Electric Vehicles](https://www.mdpi.com/2411-9660/7/4/97)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image shows the structural housing component of a flanged bearing unit, which corresponds to the main mount shown in the assembly cross-section of the reference image.
-- **Tarih:** 2026-10-11 16:15:33
+- **AI Teknik İncelemesi:** Image 2 provides a detailed exploded CAD assembly of a PEM fuel cell stack component which is functionally related to the GenCore fuel cell system shown in the reference image.
+- **Tarih:** 2026-10-11 20:52:07
 
-![Önizleme](https://media.printables.com/media/prints/209989/images/1926888_5a2d8cbf-1d06-4b77-a3df-0c6f3c61054e/thumbs/cover/1200x630/jpg/bearing-flange2.jpg)
+![Önizleme](https://pub.mdpi-res.com/designs/designs-07-00097/article_deploy/html/images/designs-07-00097-g002.png?1690985949)
 
 
 ---
 
-### 4. [3D model Flange Bearing 02 VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/other/flange-bearing-02?page=2)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 7. [Efficient Fuel Cell Flow Field Design Guide](https://tmnetch.com/efficient-fuel-cell-flow-field-design-guide/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict flanged bearing units, where the first shows a cross-sectional mounting assembly and the second displays the physical 3D CAD representation of the bearing housing component.
-- **Tarih:** 2026-10-11 16:15:30
+- **AI Teknik İncelemesi:** Although Image 1 depicts a complete GenCore fuel cell cabinet system and Image 2 shows detailed fuel cell flow field bipolar plates, both pertain directly to the core technology of fuel cell systems.
+- **Tarih:** 2026-10-11 20:49:11
 
-![Önizleme](https://img-new.cgtrader.com/items/3806707/c064fe06a3/large/flange-bearing-02-3d-model-c064fe06a3.webp)
+![Önizleme](https://tmnetch.com/wp-content/uploads/2025/11/Efficient-Fuel-Cell-Flow-Field-Design-Practical-Engineering-Insights-1024x683.png)
 
 
 ---
 
-### 5. [flange bearing 3d models 【 STLFinder](https://www.stlfinder.com/3dmodels/flange-bearing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 8. [Optimization of Cooling Channel Structure of Bipolar Plate for Proton ...](https://www.mdpi.com/1996-1073/16/16/5858)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows an exploded CAD model of a fuel cell component layer which is functionally related to the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:48:50
+
+![Önizleme](https://pub.mdpi-res.com/energies/energies-16-05858/article_deploy/html/images/energies-16-05858-g001.png?1692946671)
+
+
+---
+
+### 9. [Fuel Cells Bipolar Plate - Interplex](https://interplex.com/fuel-cell-bipolar-plate/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore fuel cell system assembly and Image 2 detailing its internal components like the bipolar plates and flow channels.
+- **Tarih:** 2026-10-11 20:45:54
+
+![Önizleme](https://interplex.com/wp-content/uploads/fuel-cell-1-1011x1024.png)
+
+
+---
+
+### 10. [Recent Development of Fuel Cell Core Components and Key Materials: A Review](https://www.mdpi.com/1996-1073/16/5/2099)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Although Image 1 shows a complete GenCore fuel cell system cabinet design and Image 2 shows an exploded CAD view of a fuel cell stack core component, they both clearly represent parts of the same overarching fuel cell system technology.
+- **Tarih:** 2026-10-11 20:43:05
+
+![Önizleme](https://pub.mdpi-res.com/energies/energies-16-02099/article_deploy/html/images/energies-16-02099-g003.png?1721372388)
+
+
+---
+
+### 11. [(PDF) Study of PEM Fuel Cell End Plate Design by Structural Analysis ...](https://www.academia.edu/71211899/Study_of_PEM_Fuel_Cell_End_Plate_Design_by_Structural_Analysis_Based_on_Contact_Pressure)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image is a 3D CAD representation of the same 4-bolt flanged bearing unit housing featured in the reference cross-section diagram.
-- **Tarih:** 2026-10-11 16:15:22
+- **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system cabinet overview, whereas Image 2 illustrates a detailed exploded CAD model schematic of the internal PEMFC stack component.
+- **Tarih:** 2026-10-11 20:42:43
 
-![Önizleme](https://bamax.es/php/files/uploads/291/flange-bearing-2Le59jGc_200.jpg)
+![Önizleme](https://figures.academia-assets.com/80655660/figure_001.jpg)
 
 
 ---
 
-### 6. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flange-bearing-25-mm-id-1)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 12. [Endplate Design and Topology Optimization of Fuel Cell Stack Clamped ...](https://www.mdpi.com/2071-1050/14/8/4730)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD representation of the flanged bearing unit depicted in the technical cross-section of Image 1.
-- **Tarih:** 2026-10-11 16:15:17
+- **AI Teknik İncelemesi:** Image 2 shows an exploded CAD model of a fuel cell component (PEM fuel cell single cell stack layers), which is intrinsically related to the GenCore fuel cell system in Image 1.
+- **Tarih:** 2026-10-11 20:42:38
 
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/bb064883da86f198e4a28be0e7df8804/large.png)
-
-
----
-
-### 7. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/design-of-pillow-block-1)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict a pillow block/flanged bearing housing with an integrated grease fitting, representing the same functional mechanical component.
-- **Tarih:** 2026-10-11 16:13:53
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1ec507be5808c3272f8dc75044f10bbb/large.png)
+![Önizleme](https://pub.mdpi-res.com/sustainability/sustainability-14-04730/article_deploy/html/images/sustainability-14-04730-g004.png?1649948060)
 
 
 ---
 
-### 8. [3D Printable Flange Bearing Spacers, STL Files (digital Download) - Etsy](https://www.etsy.com/listing/1743364912/3d-printable-flange-bearing-spacers-stl)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
+### 13. [Water Management Strategies for Proton Exchange Membrane Fuel Cells: A ...](https://www.mdpi.com/2673-3293/6/4/38)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image displays 3D-printable CAD files for flanged bearing housings that match the functional geometry of the reference assembly's mounting plates.
-- **Tarih:** 2026-10-11 16:13:49
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a full commercial system design evolution and Image 2 showing a detailed CAD exploded view of a component fuel cell stack.
+- **Tarih:** 2026-10-11 20:42:33
 
-![Önizleme](https://i.etsystatic.com/52054853/r/il/eefb9f/6105915878/il_1588xN.6105915878_bpxj.jpg)
-
-
----
-
-### 9. [UCF 205 Square flanged bearing CAD models free download - YouTube](https://www.youtube.com/watch?v=5a0MYmhEroI)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak ünitesi`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 shows a CAD model of a standard 4-bolt flanged bearing unit (UCF 205), representing an open-bore variation of the flanged bearing assembly shown in the reference cutaway.
-- **Tarih:** 2026-10-11 16:09:55
-
-![Önizleme](https://i.ytimg.com/vi/5a0MYmhEroI/maxresdefault.jpg)
+![Önizleme](https://pub.mdpi-res.com/electrochem/electrochem-06-00038/article_deploy/html/images/electrochem-06-00038-g001.png?1761559804)
 
 
 ---
 
-### 10. [Shaft Support Parts List | PDF](https://www.scribd.com/doc/266267363/3quanbrandonshaftsupportassembly)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 14. [Toyota Hydrogen Fuel Cell Diagram](https://www.animalia-life.club/qa/pictures/toyota-hydrogen-fuel-cell-diagram.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly intended for supporting a rotating shaft, with the candidate representing a simplified educational CAD model variant of the mechanical system shown in the reference.
-- **Tarih:** 2026-10-11 14:18:19
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems and related hardware architectures, though Image 2 focuses on a specific internal core stack assembly rather than the full enclosure shown in Image 1.
+- **Tarih:** 2026-10-11 20:39:51
 
-![Önizleme](https://imgv2-2-f.scribdassets.com/img/document/266267363/original/318de11f88/1?v=1)
+![Önizleme](https://dieselnet.com/tech/images/energy/powertrains/fuel-cell/fc_system.jpg)
 
 
 ---
 
-### 11. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/ff12-bearing-block-1)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 15. [Green Energy Hydrogen Technology with Exploded Parts View Stock ...](https://www.dreamstime.com/d-technical-illustration-hydrogen-fuel-cell-stack-exploded-view-educational-diagram-proton-exchange-membrane-pem-image425398497)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows an exploded CAD rendering of a fuel cell stack core component, which is a key subsystem of the overall fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:37:05
+
+![Önizleme](https://thumbs.dreamstime.com/b/d-technical-illustration-hydrogen-fuel-cell-stack-exploded-view-educational-diagram-proton-exchange-membrane-pem-425398497.jpg?w=576)
+
+
+---
+
+### 16. [PRODUKTE - Hydrogen Innovation GmbH](https://hydrogen-innovation.de/en/produkte/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** While Image 1 depicts an entire GenCore fuel cell system cabinet and Image 2 shows a specific internal fuel cell stack CAD model, both represent the same fundamental technology domain of hydrogen fuel cell systems.
+- **Tarih:** 2026-10-11 20:34:53
+
+![Önizleme](https://hydrogen-innovation.de/wp-content/uploads/2022/07/Hydrogen_Webseite_Stacks-04_small.jpg)
+
+
+---
+
+### 17. [Graebener Bipolar Plate Technologies – ZPUFG](https://energy.otoko-diet.com/graebener-bipolar-plate-technologies/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** While image 1 shows the complete GenCore fuel cell system housing and image 2 shows an individual metallic bipolar plate component, both are fundamentally related as components within the same hydrogen fuel cell stack architecture.
+- **Tarih:** 2026-10-11 20:33:45
+
+![Önizleme](https://awl.nl/wp-content/uploads/2023/03/bipolar-plate-hydrogen-awl-1.jpg)
+
+
+---
+
+### 18. [[FreeCAD Showcase] Simulating a hydrogen fuel cell bipolar plate gasket ...](https://grabcad.com/groups/freecad-help-showcase/discussions/freecad-showcase-simulating-a-hydrogen-fuel-cell-bipolar-plate-gasket-using-open-source-software)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the standard design of a four-bolt flanged bearing housing, representing the same mechanical component type in different visual formats (cross-section vs. 3D isometric model).
-- **Tarih:** 2026-10-11 14:17:49
+- **AI Teknik İncelemesi:** The candidate image shows a CAD model of a fuel cell bipolar plate, which is a core internal component of the fuel cell system shown in the reference.
+- **Tarih:** 2026-10-11 20:33:03
 
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a31d11d677453d6b6e39e0040649e527/large.png)
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/pictures/files/259663/original.jpg?1739021890)
 
 
 ---
 
-### 12. [Bearing pillow block assembly..#shorts - YouTube](https://www.youtube.com/shorts/EybL2d580AI)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 19. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hydrogen-fuel-cell-bipolar-plate-with-gasket-and-collector-1)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict industrial bearing housing assemblies, with the candidate image showing an exploded 3D CAD view of a similar flanged/pillow block bearing arrangement.
-- **Tarih:** 2026-10-11 14:16:42
+- **AI Teknik İncelemesi:** Image 2 displays a CAD model of a bipolar plate, which is an internal component of the fuel cell stack referenced in Image 1.
+- **Tarih:** 2026-10-11 20:32:59
 
-![Önizleme](https://i.ytimg.com/vi/EybL2d580AI/hq2.jpg?sqp=-oaymwEkCOgCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLClhAJ53LvxZth2N9w5ce9G4d5Dbw)
-
-
----
-
-### 13. [3D Model: gray metal flange bearing housing with four bolt holes and grease fitt](https://studio.tripo3d.ai/3d-model/gray-metal-flange-bearing-housing-with-four-bolt-holes-and-grease-fitt-1204afe4-3ade-4781-b4d0-ef50ef0776d4)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a physical representation of the flanged bearing unit depicted in the technical cross-section of Image 1.
-- **Tarih:** 2026-10-11 14:16:03
-
-![Önizleme](https://tripo-public.tripo3d.ai/studio/project/1204afe4-3ade-4781-b4d0-ef50ef0776d4/gray-metal-flange-bearing-housing-with-four-bolt-holes-and-grease-fitt.webp)
+![Önizleme](https://grabcad.com/screenshots/pics/1a2e98b6d331b397fc0ac3e9a313cd22/large.png)
 
 
 ---
 
-### 14. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/four-bolt-flange-bearing-unit-o25mm-1)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 20. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bipolar-plate-1)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays a fuel cell bipolar plate CAD model which is an essential internal component of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:32:56
+
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/2415b4e0688e9041e319ee643ff3a5d3/large.png)
+
+
+---
+
+### 21. [Bipolar plates and stack components - Components for the hydrogen ...](https://www.hoerbiger.com/en/products-and-services/components-for-the-hydrogen-industry/bipolar-plates-and-stack-components.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system assembly while Image 2 displays a detailed CAD model of an internal component (bipolar plate with flow channels and manifold seals) belonging to the same fuel cell technology.
+- **Tarih:** 2026-10-11 20:32:27
+
+![Önizleme](https://www.hoerbiger.com/_Resources/Persistent/8/3/a/7/83a7e449e60d85ceb6124c6c070637a29970faa0/BiPolarPlate-1228x1228.jpg)
+
+
+---
+
+### 22. [Hydrogen Fuel Cell Stack System Electricity Power Supply Battery Energy ...](https://taijipower.en.made-in-china.com/product/MQhROVCdQyck/China-Hydrogen-Fuel-Cell-Stack-System-Electricity-Power-Supply-Battery-Energy-Storage.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems with internal components, stack modules, and auxiliary plumbing housed in an enclosure or frame.
+- **Tarih:** 2026-10-11 20:31:15
+
+![Önizleme](https://image.made-in-china.com/2f0j00uZTqdRcKnhoD/Hydrogen-Fuel-Cell-Stack-System-Electricity-Power-Supply-Battery-Energy-Storage.webp)
+
+
+---
+
+### 23. [Graphite Bipolar Plate – An Important Part in Hydrogen Fuel Cell](https://www.xrgraphite.com/graphite-products/graphite-special-shaped-parts/graphite-bipolar-plates.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows an assembled fuel cell system enclosure, while Image 2 shows individual bipolar flow field plates which are core internal components of the same fuel cell technology.
+- **Tarih:** 2026-10-11 20:30:08
+
+![Önizleme](https://www.xrgraphite.com/img/graphite-bipolar-plates.jpg)
+
+
+---
+
+### 24. [How Does PEM Technology Work? 2025 Electrolysis & Fuel Cell Guide](https://heletitaniumhydrogen.com/how-pem-technology-works-hydrogen-electrolysis-guide/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore design evolution and Image 2 illustrating the internal membrane electrode assembly (MEA) stack components.
+- **Tarih:** 2026-10-11 20:26:31
+
+![Önizleme](https://heletitaniumhydrogen.com/wp-content/uploads/2025/09/pem-stack-structure-diagram-b2b-suppliers.png)
+
+
+---
+
+### 25. [Hydrogen Fuel Cell Powertrains](https://www.schoolcraft.edu/workforce/training-programs/electrified-mobility/hydrogen-fuel-cell-powertrains/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system design evolution, while Image 2 shows a detailed exploded CAD model of the specific internal fuel cell stack components used within such systems.
+- **Tarih:** 2026-10-11 20:23:47
+
+![Önizleme](https://www.schoolcraft.edu/workforce/wp-content/uploads/sites/40/2025/06/hyrdogen-fuel-cell-01.jpg)
+
+
+---
+
+### 26. [Portable Prototype of Hydrogen Fuel Cells for Educational Training](https://www.mdpi.com/2076-3417/13/1/608)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows a complete GenCore cabinet enclosure design while Image 2 illustrates the internal component breakdown and assembly of a fuel cell stack.
+- **Tarih:** 2026-10-11 20:23:37
+
+![Önizleme](https://pub.mdpi-res.com/applsci/applsci-13-00608/article_deploy/html/images/applsci-13-00608-g002.png?1672911278)
+
+
+---
+
+### 27. [1.5W Air Cooled Pem Hydrogen Fuel Cell Stack - China Stack and Hydrogen](https://edeb8150fe8a868d.en.made-in-china.com/product/QxIURkCHJLWK/China-1-5W-Air-Cooled-Pem-Hydrogen-Fuel-Cell-Stack.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays a PEM fuel cell stack core which is the internal functional component of the GenCore fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:22:25
+
+![Önizleme](https://image.made-in-china.com/2f0j00RefikuBgVhYp/1-5W-Air-Cooled-Pem-Hydrogen-Fuel-Cell-Stack.webp)
+
+
+---
+
+### 28. [GAC Group rolls off first self-developed 140kW hydrogen fuel cell stack ...](https://hydrogen-central.com/gac-group-rolls-off-first-self-developed-140kw-hydrogen-fuel-cell-stack/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows an evolutionary overview of a complete GenCore fuel cell system, while Image 2 shows a detailed physical fuel cell stack core component belonging to a similar hydrogen power system.
+- **Tarih:** 2026-10-11 20:22:15
+
+![Önizleme](https://hydrogen-central.com/wp-content/uploads/2025/03/hydrogen-fuel-cell-stack-gac.png)
+
+
+---
+
+### 29. [Do you understand the power principle of hydrogen fuel cell vehicles ...](https://tmnetch.com/understanding-how-hydrogen-fuel-cell-vehicles-work/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a cabinet-enclosed GenCore design and Image 2 displaying a detailed CAD assembly of internal fuel cell components.
+- **Tarih:** 2026-10-11 20:21:42
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2024/04/Fuel-Cell-System.webp)
+
+
+---
+
+### 30. [Pragma Industries PEM Fuel Cell Stack 3D Model $39 - .3ds .blend .c4d ...](https://free3d.com/3d-model/pragma-industries-pem-fuel-cell-stack-6279.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows an entire GenCore fuel cell system housing and evolution chart, while Image 2 shows a detailed CAD model of a fuel cell stack component which is functionally part of the same technology family.
+- **Tarih:** 2026-10-11 20:21:16
+
+![Önizleme](https://preview.free3d.com/img/2022/02/3190217403434796732/j8l5tg47.jpg)
+
+
+---
+
+### 31. [HTPEM Fuel Cell Stack - 3D model by 2D3DYESD [550b850] - Sketchfab](https://sketchfab.com/3d-models/htpem-fuel-cell-stack-550b850180624a7091d3e375c38977a3)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 depicts a detailed CAD model of a fuel cell stack, which is the core internal mechanism of the fuel cell system shown in the reference image.
+- **Tarih:** 2026-10-11 20:21:10
+
+![Önizleme](https://media.sketchfab.com/models/550b850180624a7091d3e375c38977a3/thumbnails/e58d0c431f094f67b01f087476c1dffc/90933975d3a74d938a150230bb7ac13f.jpeg)
+
+
+---
+
+### 32. [PEM Electrolyzer Stack](https://www.pfsamembrane.com/photo/PEM-Electrolyzer-Stack.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore cabinet assembly and Image 2 showing a detailed CAD model of the internal fuel cell stack.
+- **Tarih:** 2026-10-11 20:20:00
+
+![Önizleme](https://www.pfsamembrane.com/Uploads/627772a8ad9c4.jpg)
+
+
+---
+
+### 33. [Fuel Cell Bipolar Plate Design at Alexis Whitaker blog](https://storage.googleapis.com/duhjhswxihtbwe/fuel-cell-bipolar-plate-design.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 illustrates an exploded CAD model of a fuel cell stack (membrane electrode assembly and bipolar plates), which directly relates to the internal components of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:19:38
+
+![Önizleme](https://www.engineering-group.com/wp-content/uploads/2021/06/composite_bipolar_plate_for_PEM_fuel_cell-1024x546.jpeg)
+
+
+---
+
+### 34. [ZSW: Stack technology](https://www.zsw-bw.de/en/research/fuel-cells/topics/stack-technology.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 presents an exploded CAD assembly of internal fuel cell components which corresponds to the fuel cell system architecture referenced in Image 1.
+- **Tarih:** 2026-10-11 20:18:49
+
+![Önizleme](https://www.zsw-bw.de/fileadmin/user_upload/CAD-Genericstack-Explosionsarstellung.jpg)
+
+
+---
+
+### 35. [PEM Hydrogen Fuel Cell Stack - Efficient Energy Solution](https://www.alibaba.com/product-detail/PEM-Hydrogen-Fuel-Cell-stack_1600444682621.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The reference image shows the overall GenCore fuel cell system housing and evolution, while the candidate image depicts a detailed CAD model of a fuel cell core/stack with fluid manifolds, representing a core internal component of the same technology family.
+- **Tarih:** 2026-10-11 20:18:13
+
+![Önizleme](https://sc04.alicdn.com/kf/H287f924682b84a5892ed82dfd1b173104/200433959/H287f924682b84a5892ed82dfd1b173104.jpg)
+
+
+---
+
+### 36. [5-150kw Water-Cooled High-Power Fuel Cell Stack Customization ...](https://h2etech.en.made-in-china.com/product/knmUhXIcsERC/China-5-150kw-Water-Cooled-High-Power-Fuel-Cell-Stack-Customization.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays a generic fuel cell stack assembly which is a core component contained within the larger GenCore system enclosures depicted in Image 1.
+- **Tarih:** 2026-10-11 20:12:52
+
+![Önizleme](https://image.made-in-china.com/2f0j00yafkLdDIYbgz/5-150kw-Water-Cooled-High-Power-Fuel-Cell-Stack-Customization.jpg)
+
+
+---
+
+### 37. [10-150kw Custom High-Power Hydrogen Fuel Cell Stack Liquid-Cooled ...](https://h2etech.en.made-in-china.com/product/LFkGwVnOMdpo/China-10-150kw-Custom-High-Power-Hydrogen-Fuel-Cell-Stack-Liquid-Cooled.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 1 shows the complete GenCore fuel cell system cabinet, while Image 2 provides a detailed CAD representation of the fuel cell stack core component used within such systems.
+- **Tarih:** 2026-10-11 20:10:54
+
+![Önizleme](https://image.made-in-china.com/2f0j00ATNoMZmFQUgc/10-150kw-Custom-High-Power-Hydrogen-Fuel-Cell-Stack-Liquid-Cooled.jpg)
+
+
+---
+
+### 38. [Fuel Cell Stack 3D Model $29 - .3ds .obj .c4d .ma .max - Free3D](https://free3d.com/3d-model/fuel-cell-stack-3756.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays a 3D CAD model of a fuel cell stack, which is the core functional component housed within the GenCore fuel cell system depicted in the reference image.
+- **Tarih:** 2026-10-11 20:09:55
+
+![Önizleme](https://preview.free3d.com/img/2015/11/2162652572358280353/2w9xvrc5.jpg)
+
+
+---
+
+### 39. [CNC Plasma Machines: Bend-Tech Tube and Pipe Cutters](https://www.bend-tech.com/bend-tech-dragon/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is a high-fidelity CAD render of the specific industrial pipe and profile cutting machine referenced by the descriptive text in Image 1.
+- **Tarih:** 2026-10-10 23:31:51
+
+![Önizleme](https://www.bend-tech.com/wp-content/uploads/2022/07/Bend-Tech_dragon_a250_sub.jpg)
+
+
+---
+
+### 40. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pipe-cutter-virax)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The reference implies a device for cutting pipes and profiles, and the CAD model is a standard manual pipe cutter mechanism that serves the same functional purpose.
+- **Tarih:** 2026-10-10 23:31:48
+
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5a6cec97ab141a2381d68c527a8d0e4b/large.jpg)
+
+
+---
+
+### 41. [Version 10 Pipe Cutting CAD/CAM/CNC for Round Pipe, with Rotary Support ...](https://www.flashcutcnc.com/product/software/flashcut-cad-cam-cnc-for-round-pipe-v10-add-on/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image displays specialized CAD/CAM software used for programming pipe and profile cutting machines, which is directly relevant to the reference subject.
+- **Tarih:** 2026-10-10 23:31:42
+
+![Önizleme](https://www.flashcutcnc.com/wp-content/uploads/2019/01/Pipe-CADCAM-Screenshot.jpg)
+
+
+---
+
+### 42. [5 Essential Answers to Your Pipe Profile Cutting Machine Questions: The ...](https://www.qgweld.com/5-essential-answers-to-your-pipe-profile-cutting-machine-questions-the-2025-gui/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (exact_match)
+- **AI Teknik İncelemesi:** The reference image contains text referencing an industrial pipe and profile machine, and the candidate image provides a high-fidelity 3D technical illustration of exactly such a machine.
+- **Tarih:** 2026-10-10 23:31:10
+
+![Önizleme](https://www.qgweld.com/wp-content/uploads/2025/08/pipe-profile-cutting-machine-illustrative-image-for-pipe-pr-1754917255.jpg)
+
+
+---
+
+### 43. [CNC Plasma Large Diameter Pipe Cutter Beveling Machines and Industrial ...](https://www.watts-specialties.com/watts-pipe-cutting-beveling-machines.php)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image depicts an industrial pipe and profile cutting machine, which directly corresponds to the reference product category.
+- **Tarih:** 2026-10-10 23:30:32
+
+![Önizleme](https://www.watts-specialties.com/gallery-122/img/00-w122-machine.jpg)
+
+
+---
+
+### 44. [🧞♂️ industrial 3D model Pipe cutting machine・ 3D File for ・Cults](https://cults3d.com/en/3d-model/tool/industrial-3d-model-pipe-cutting-machine-automaticmachinepro)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image displays a detailed 3D CAD model of an automated industrial machine mechanism consistent with the structural components of pipe and profile processing equipment.
+- **Tarih:** 2026-10-10 23:30:25
+
+![Önizleme](https://fbi.cults3d.com/uploaders/28832209/illustration-file/e7f6212a-5f74-4a91-9925-60dc3b436f84/industrial-3D-model-Pipe-cutting-machine5.jpg)
+
+
+---
+
+### 45. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/4-axis-side-cutting-machine-1)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image provides a high-fidelity 3D CAD representation of the industrial pipe and profile processing equipment described in the reference text.
+- **Tarih:** 2026-10-10 23:30:12
+
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/b62042b36fbd0c2138664ce973816f2b/large.JPG)
+
+
+---
+
+### 46. [CNC pipe cutting machine 46529910 Vector Art at Vecteezy](https://www.vecteezy.com/vector-art/46529910-cnc-pipe-cutting-machine)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image shows a 3D CAD model of a four-bolt flanged bearing unit, which is the exact mechanical component depicted in the cross-sectional technical drawing.
-- **Tarih:** 2026-10-11 14:16:00
+- **AI Teknik İncelemesi:** The candidate image displays a highly detailed CAD model of an industrial CNC pipe/profile cutting machine, matching the technical description of the reference object.
+- **Tarih:** 2026-10-10 23:29:58
 
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/053cc20c4b250562d71f1168cce44be5/large.png)
+![Önizleme](https://static.vecteezy.com/system/resources/previews/046/529/910/non_2x/cnc-pipe-cutting-machine-vector.jpg)
 
 
 ---
 
-### 15. [MSFT45 RHP Heavy Duty 2 Bolt Oval Cast Iron Flanged Bearing ...](https://www.northwestbearings.co.uk/msft45-rhp-heavy-duty-2-bolt-oval-cast-iron-flanged-bearing-unit-with-a-45mm-shaft-dia)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 47. [Zenith Electric CNC Pipe Profile Cutting Machine, 220 V, Automation ...](https://www.indiamart.com/proddetail/cnc-pipe-profile-cutting-machine-2853565481348.html)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is a clear, professional visual representation of a CNC pipe and profile cutting machine, which matches the descriptive context provided in the reference image.
+- **Tarih:** 2026-10-10 23:28:54
+
+![Önizleme](https://5.imimg.com/data5/SELLER/Default/2024/3/395573303/GQ/SE/ND/10551171/cnc-pipe-profile-cutting-machine-1000x1000.jpg)
+
+
+---
+
+### 48. [Xg-300j Pipe CNC Profiling Shape Cutting Machine - CNC and CNC Flame Cutter](https://huawei-sh.en.made-in-china.com/product/MKdmAFuGAZca/China-Xg-300j-Pipe-CNC-Profiling-Shape-Cutting-Machine.html)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** The candidate image displays a standard two-bolt flanged bearing unit that corresponds exactly to the mechanical component illustrated in the technical section view of the reference image.
-- **Tarih:** 2026-10-11 14:12:16
+- **AI Teknik İncelemesi:** The reference text describes a pipe and profile cutting machine, which corresponds exactly to the industrial pipe-cutting mechanism shown in the candidate image.
+- **Tarih:** 2026-10-10 23:28:44
 
-![Önizleme](https://www.northwestbearings.co.uk/image/cache/catalog/products/Bearings/Housings-and-Inserts/RHP/2-Bolt-Oval-RHP-1100x1100w.jpg)
-
-
----
-
-### 16. [UCFL 204/H - Kogellagerunits | SKF](https://www.skf.com/nl/productinfo/productid-UCFL+204/H)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a high-fidelity 3D CAD model of the flanged bearing unit depicted in the technical cross-section of Image 1.
-- **Tarih:** 2026-10-11 14:12:12
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d196808e89cb/png_highpreview/0901d196808e89cb_png_highpreview.png)
+![Önizleme](https://image.made-in-china.com/2f0j00AnZEqzslGdco/Xg-300j-Pipe-CNC-Profiling-Shape-Cutting-Machine.jpg)
 
 
 ---
 
-### 17. [China Flange Bearing Housing Manufacturers and Factory - Suppliers Direct Price | CWL](https://www.cwlbearing.com/flange-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 49. [Premium Vector | CNC pipe cutting machine blueprints](https://www.freepik.com/premium-vector/cnc-pipe-cutting-machine-blueprints_236615556.htm)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image is a technical CAD drawing of an industrial pipe and profile cutting machine, perfectly aligning with the mechanical specifications described in the reference.
+- **Tarih:** 2026-10-10 23:28:36
+
+![Önizleme](https://img.freepik.com/premium-vector/cnc-pipe-cutting-machine-blueprints_204926-2782.jpg)
+
+
+---
+
+### 50. [DIY 5 axis CNC with a double slide on the X axis. - DIY CNC - Maker Forums](https://forum.makerforums.info/t/diy-5-axis-cnc-with-a-double-slide-on-the-x-axis/21039)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image shows a CAD model of a multi-axis CNC cutting assembly, which aligns with the functional requirements of a profile cutting machine.
+- **Tarih:** 2026-10-10 23:28:12
+
+![Önizleme](https://forum.makerforums.info/uploads/default/optimized/3X/1/9/198b47f2dc61318ee3d8e8cb4623889a0b1082bd_2_690x362.png)
+
+
+---
+
+### 51. [Homemade Cnc Plasma Pipe Cutter - Homemade Ftempo](https://homemade.ftempo.com/homemade-cnc-plasma-pipe-cutter/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is a high-fidelity 3D CAD render of the portable industrial pipe and profile cutting machine referenced by the descriptive text in Image 1.
+- **Tarih:** 2026-10-10 23:27:25
+
+![Önizleme](https://www.bend-tech.com/wp-content/uploads/2022/07/Bend-Tech_dragon_a250_sub.jpg)
+
+
+---
+
+### 52. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/semi-automatic-pipe-and-profile-bending-machine-1)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 95` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of an industrial pipe and profile cutting/bending mechanism, which directly corresponds to the product category mentioned in the text of Image 1.
+- **Tarih:** 2026-10-10 23:27:22
+
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8f5edeaed723aa815559843e0fff155b/large.PNG)
+
+
+---
+
+### 53. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/angle-pipe-cutting-machine-1)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is an accurate 3D CAD model of a standard 2-bolt oval flanged bearing unit (UCFL style) matching the flanged bearing assembly shown in the reference cross-section.
-- **Tarih:** 2026-10-11 14:11:58
+- **AI Teknik İncelemesi:** The candidate image provides a high-fidelity 3D CAD representation of a pneumatic pipe and profile cutting/notching mechanism that aligns with the described function of the reference text.
+- **Tarih:** 2026-10-10 23:27:14
 
-![Önizleme](https://cdn.globalso.com/cwlbearing/2-Bolt-Flange-bearing-units109.jpg)
-
-
----
-
-### 18. [How To Design Pillow Block Bearing In SolidWorks | Mechanical Design Tutorial - YouTube](https://www.youtube.com/watch?v=ROd2K-G2554)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The reference image shows a flanged bearing assembly in a cross-section, while the candidate image depicts a pillow block bearing, which is a related mechanical bearing housing type often modeled in the same design software environments.
-- **Tarih:** 2026-10-11 12:25:24
-
-![Önizleme](https://i.ytimg.com/vi/ROd2K-G2554/maxresdefault.jpg)
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/18a6f6bd4c485934658045b315924021/large.png)
 
 
 ---
 
-### 19. [🧸 Pillow Blocks・Free STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/game/pillow-blocks)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict a pillow block bearing unit, with the second image showing a CAD representation of the housing assembly used to support a rotating shaft.
-- **Tarih:** 2026-10-11 12:21:31
-
-![Önizleme](https://fbi.cults3d.com/uploaders/24470369/illustration-file/5ed721c1-2647-495e-ba23-3d8eaa34fc58/Pillow-Block-10mm-V12.jpg)
-
-
----
-
-### 20. [1.125" OD Flanged Bearing Block by roomba1813 - MakerWorld](https://makerworld.com/en/models/620173)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit mounted to a structure; while the shaft profile and housing shape differ, they represent the same functional mechanical assembly category.
-- **Tarih:** 2026-10-11 12:18:26
-
-![Önizleme](https://makerworld.bblmw.com/makerworld/model/US5ba1e5a898ae17/design/2024-09-02_e6a0993e36ebc.png)
-
-
----
-
-### 21. [China High Temperature Bearings And Bearing Units Manufacturers and Factory - Suppliers Direct ...](https://www.cwlbearing.com/high-temperature-bearings-and-bearing-units/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical component, a two-bolt flanged bearing unit, with the second image providing a clean 3D CAD representation of the assembly seen in cross-section in the first image.
-- **Tarih:** 2026-10-11 12:13:00
-
-![Önizleme](https://cdn.globalso.com/cwlbearing/2-Bolt-Flange-bearing-units116.jpg)
-
-
----
-
-### 22. [19mm Bearing Housing by Samuel Miller | Download free STL model | Printables.com](https://www.printables.com/model/864033-19mm-bearing-housing)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image depicts a two-bolt flanged bearing housing which corresponds to the central component shown in the reference assembly.
-- **Tarih:** 2026-10-11 12:12:53
-
-![Önizleme](https://media.printables.com/media/prints/864033/images/6634246_60bc3061-dacc-4525-ab76-9b0c6fde73a6_ea202ef8-f915-43a0-ab56-1b907be8287a/screenshot-2024-05-01-112426.png)
-
-
----
-
-### 23. [UCF 205 Pillow Block Bearing 3D CAD Model Library GrabCAD, 53% OFF](https://brunofuga.adv.br/?s=ucf-205-pillow-block-bearing-3d-cad-model-library-cc-vNN7leSK)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a standard 4-bolt flanged bearing unit (UCF series) featuring the same mounting flange, grease nipple, and insert bearing configuration depicted in the Image 1 reference assembly.
-- **Tarih:** 2026-10-11 12:12:39
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7dcf09bc08d245fca86c63b60088aaa9/large.JPG)
-
-
----
-
-### 24. [UCF205 Square Flanged Bearing 3D Model $6 - .max .unknown .obj .fbx .dxf .dwg .3ds .gltf .usdz ...](https://free3d.com/3d-model/ucf205-square-flanged-bearing-6528.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** The image shows a standard four-bolt flange bearing unit (F205), which is the exact mechanical component cross-sectioned in the reference image.
-- **Tarih:** 2026-10-11 12:12:18
-
-![Önizleme](https://preview.free3d.com/img/2013/01/2140170702303528078/cxydw2gh.jpg)
-
-
----
-
-### 25. [Mounted Bearing Assembly - download free 3D model by eng_maher - Cad Crowd](https://www.cadcrowd.com/3d-models/mounted-bearing-assembly)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images represent flanged pillow block bearing assemblies, though the candidate is a 3D CAD model of a pillow block while the reference is a cross-sectional technical assembly diagram of a flanged unit.
-- **Tarih:** 2026-10-11 10:21:57
-
-![Önizleme](https://cdn.cadcrowd.com/3d-models/6a/0f/6a0fbc8a-f77a-46d0-b64c-6036c0ef0fec/gallery/fc47b6f9-1cca-4632-9ee6-8fd5a6ecdb47/medium.jpg)
-
-
----
-
-### 26. [Mounted Flange Block Bearings Self Aligning Zinc Aluminum Alloy Support ...](https://www.printables.com/model/558591-mounted-flange-block-bearings-self-aligning-zinc-a)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images represent a flanged bearing unit; the first shows a detailed section view of the assembly, while the second is a standard 3D CAD model of the corresponding flanged housing component.
-- **Tarih:** 2026-10-11 10:21:32
-
-![Önizleme](https://media.printables.com/media/prints/558591/images/4479176_8a481878-9f9c-4a19-939b-8b0893957f51/mounted-flange-block-bearings-self-aligning-zinc-aluminum-alloy-support-for-diameter-8mm-linear-motion-shaft-rod.png)
-
-
----
-
-### 27. [Cracked Cast Iron Bearing Housing - Conhagen Projects](https://projects.conhagen.com/cracked-cast-iron-bearing-housing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing assembly mounting a shaft, with Image 2 providing a detailed 3D cross-sectional CAD view of a similar bearing support mechanism.
-- **Tarih:** 2026-10-11 10:20:29
-
-![Önizleme](https://projects.conhagen.com/wp-content/uploads/2022/12/new-bearing-housing-style-2.png)
-
-
----
-
-### 28. [Free STL file Bearing Unit・3D printing template to download・Cults](https://cults3d.com/en/3d-model/gadget/bearing-unit)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit assembly designed for mechanical shaft support, sharing the same core functional geometry of a centrally mounted bearing within a square-flanged housing.
-- **Tarih:** 2026-10-11 10:19:59
-
-![Önizleme](https://files.cults3d.com/uploaders/15818320/illustration-file/40595e44-c478-4544-9f5d-aad97e6acdf4/Bearing-Unit.png)
-
-
----
-
-### 29. [3D Model: flange bearing housing with four mounting holes green cast ...](https://studio.tripo3d.ai/3d-model/eb5681ba-9c08-4f10-905a-b94ffda87fa8)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a 3D rendered model of the exact flanged bearing housing depicted in the technical cross-section of Image 1.
-- **Tarih:** 2026-10-11 10:19:56
-
-![Önizleme](https://tripo-public.tripo3d.ai/studio/project/eb5681ba-9c08-4f10-905a-b94ffda87fa8/flange-bearing-housing-with-four-mounting-holes-green-cast-metal-sil.webp)
-
-
----
-
-### 30. [China UCF210-32 four Bolt Square flange bearing units with 2 inch bore ...](https://www.cwlbearing.com/ucf210-32-four-bolt-square-flange-bearing-units-with-2-inch-bore-product/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing unit with internal rolling elements, representing the same mechanical component type in different visual formats.
-- **Tarih:** 2026-10-11 10:19:49
-
-![Önizleme](https://www.cwlbearing.com/uploads/UCF-3D-picture35.jpg)
-
-
----
-
-### 31. [Rulman Yatak Üniteleri | Rulsan Rulman](http://rulsan.com.tr/rulman-yataklari/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate a housed bearing unit assembly, although the reference is a flange-style layout and the candidate is a pillow block-style bearing unit.
-- **Tarih:** 2026-10-11 10:17:09
-
-![Önizleme](http://rulsan.com.tr/wp-content/uploads/2016/04/PlummerBlock-SNN-500x500_rdax_95.jpg)
-
-
----
-
-### 32. [Mounted Ball Bearings With Four-Bolt Flange at Cameron Malone blog](https://storage.googleapis.com/dkfovbmqlgfqpe/mounted-ball-bearings-with-four-bolt-flange.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Image 1 is a cross-sectional technical assembly drawing of a flanged bearing unit, while Image 2 shows physical hardware examples of the same category of flanged bearing components.
-- **Tarih:** 2026-10-11 10:16:35
-
-![Önizleme](https://cad.timken.com/Asset/timken-flange-mounted-ball-bearing-unit-4-bolt-IP69K-group-photo.jpg)
-
-
----
-
-### 33. [One inch square flanged ball bearing CAD model free download | UCF 205 ...](https://www.youtube.com/watch?v=GcTU8RKUAd8)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the same category of mechanical component, a flanged bearing unit; the reference shows an assembly cross-section while the candidate shows the corresponding CAD components (housing and insert).
-- **Tarih:** 2026-10-11 10:16:34
-
-![Önizleme](https://i.ytimg.com/vi/GcTU8RKUAd8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDggWChyMA8=&rs=AOn4CLAL0Kjxa87jzovEq8ZZFgd38hVv0A)
-
-
----
-
-### 34. [7/8" 4-Bolt Stainless Steel Flange Bearing, SUCSF205-14](https://www.mdsofmi.com/product/4-bolt-stainless-steel-flange-bearing-sucsf-205-14/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Both images illustrate the same mechanical flanged bearing unit assembly, where Image 1 shows the cross-sectional schematic view and Image 2 shows the corresponding physical product.
-- **Tarih:** 2026-10-11 10:16:31
-
-![Önizleme](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_450,h_450/https://www.mdsofmi.com/wp-content/uploads/2025/01/4-Bolt-Stainless-Steel-Flange-Bearing-SUCSF-MDS-of-Michigan.png)
-
-
----
-
-### 35. [Thermoplastic Bearing Housings NFL Series | TransDev](https://www.transdev.co.uk/ntn-bearings-overview/bearing-housings/thermoplastic-bearing-housings/thermoplastic-bearing-housings-nfl-series/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** The candidate image shows 3D CAD models of flanged bearing housings that precisely match the functional design and external configuration depicted in the reference cross-section diagram.
-- **Tarih:** 2026-10-11 08:26:28
-
-![Önizleme](https://www.transdev.co.uk/wp-content/uploads/2019/04/TFL-880x660.png)
-
-
----
-
-### 36. [Thermoplastic Bearing Housings FPL Series | TransDev](https://www.transdev.co.uk/ntn-bearings-overview/bearing-housings/thermoplastic-bearing-housings/thermoplastic-bearing-housings-fpl-series/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Image 1 shows a technical cross-section of a flanged bearing housing in an assembly, while Image 2 shows 3D CAD renders of the exact same type of 4-bolt flanged bearing unit component.
-- **Tarih:** 2026-10-11 08:26:25
-
-![Önizleme](https://www.transdev.co.uk/wp-content/uploads/2019/04/TF.png)
-
-
----
-
-### 37. [ZEN Bearings Launches its New Food and Beverage-Safe Line - BEARING NEWS](https://www.bearing-news.com/zen-bearings-launches-its-new-food-and-beverage-safe-line/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 92` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict a flanged bearing housing assembly; Image 1 shows a cross-sectional mounting detail while Image 2 provides a detailed CAD exploded view of the same mechanical system.
-- **Tarih:** 2026-10-11 08:26:22
-
-![Önizleme](https://www.bearing-news.com/wp-content/uploads/2024/10/zen13102024web6.png)
-
-
----
-
-### 38. [Pillow Block Bearing Housings in Food & Beverage Applications ...](https://ihgybearing.com/pillow-block-bearing-housings-in-food-beverage-applications-thermoplastic-vs-stainless-steel-making-the-right-long-term-choice/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image displays various industrial flanged bearing housing components that correspond to the mechanical function and mounting type shown in the reference schematic.
-- **Tarih:** 2026-10-11 08:26:16
-
-![Önizleme](https://ihgybearing.com/wp-content/uploads/2026/02/stainless-steel-bearing-housings.webp)
-
-
----
-
-### 39. [China Split Bearing Housings Manufacturers and Factory - Suppliers ...](https://www.cwlbearing.com/split-bearing-housings/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a high-fidelity 3D CAD representation of the 2-bolt flanged bearing housing shown in the technical cross-section of Image 1, matching all primary geometric features.
-- **Tarih:** 2026-10-11 08:26:02
-
-![Önizleme](https://cdn.globalso.com/cwlbearing/2-Bolt-Flange-bearing-units21.jpg)
-
-
----
-
-### 40. [China UCFT211-32 Two Bolt Oval Flange bearing Units with 35mm bore ...](https://www.cwlbearing.com/ucft211-32-two-bolt-oval-flange-bearing-units-with-35mm-bore-product/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (exact_match)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing assembly in a cut-away view, showing the same technical configuration of the housing, the ball bearing, and the mounting flange interface.
-- **Tarih:** 2026-10-11 08:24:49
-
-![Önizleme](https://cdn.globalso.com/cwlbearing/UCFT211-32-2-Bolt-Flange-Units.jpg)
-
-
----
-
-### 41. [Bearing housings compact flange stainless steel customized ...](http://www.xiangnaihardware.com/product/bearing-housings-compact-flange-stainless-steel-customized-manufacturing/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image depicts a physical flanged bearing housing which functionally matches the mechanical component illustrated in the reference assembly drawing.
-- **Tarih:** 2026-10-11 08:24:44
-
-![Önizleme](http://www.xiangnaihardware.com/wp-content/uploads/2024/01/P1040334.jpg)
-
-
----
-
-### 42. [Flange Bearing Housing Steel Bearing Housing - Custom Bearing Chock and ...](https://yogieindustry.en.made-in-china.com/product/faNRjtoKXTkB/China-Flange-Bearing-Housing-Steel-Bearing-Housing.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images show industrial bearing housing units, with the candidate representing a heavy-duty split pillow block housing, which is a functional evolution of the flanged bearing concept shown in the reference.
-- **Tarih:** 2026-10-11 08:24:41
-
-![Önizleme](https://image.made-in-china.com/2f0j00jgKBEJvdwMop/Flange-Bearing-Housing-Steel-Bearing-Housing.jpg)
-
-
----
-
-### 43. [UCFL204 Cast Iron 2 bolt Oval Flange 20mm bore bearing UCFL204-20 ...](https://bearingsdirect.com/ucfl204-cast-iron-2-bolt-oval-flange-20mm-bore-bearing-ucfl204-20/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a physical product photograph of the exact 2-bolt flanged bearing housing component described in the assembly schematic of Image 1.
-- **Tarih:** 2026-10-11 08:24:16
-
-![Önizleme](https://cdn11.bigcommerce.com/s-m2tbfwjufh/images/stencil/1280x1280/products/3630/16613/UCFL205-16-3__67643.1673019474.jpg?c=1)
-
-
----
-
-### 44. [UCFL 204/H 20mm SKF Y-Bearing & Housing Oval Flange (2 Bolt)](https://bepltd.com/products/ucfl-204-h-20mm-skf-y-bearing-oval-flange-2-bolt)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a high-fidelity 3D CAD model of the same 2-bolt oval flanged bearing housing (UCFL series) depicted in the technical cross-section of Image 1.
-- **Tarih:** 2026-10-11 08:24:02
-
-![Önizleme](https://bepltd.com/cdn/shop/files/0901d196808e89cb_png_highpreview_20c86477-3d0c-4e42-90ad-244025b30671_600x600.jpg?v=1740576560)
-
-
----
-
-### 45. [UCF 208 Pillow Block Bearing 3D CAD Model Library GrabCAD, 41% OFF](https://ids-deutschland.de/?c=ucf-208-pillow-block-bearing-3d-cad-model-library-ll-kvqqnpIV)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a square flanged bearing unit that perfectly matches the mechanical configuration and internal components shown in the Image 1 cross-section.
-- **Tarih:** 2026-10-11 08:23:57
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/8d9f43b4eaffdbd36455281abe0d63d0/large.jpg)
-
-
----
-
-### 46. [PILLOW BLOCK BEARING FLANGE BEARING UCF 208 3D Warehouse, 45% OFF](https://brunofuga.adv.br/?s=pillow-block-bearing-flange-bearing-ucf-208-3d-warehouse-cc-PaGY1nUn)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 92` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD representation of the four-bolt flanged bearing unit depicted in the cross-sectional technical drawing of Image 1, including matching lubrication points and mounting flange design.
-- **Tarih:** 2026-10-11 08:23:52
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/250e4c254bf01efa2c8d78d137a3a425/large.png)
-
-
----
-
-### 47. [Flanged Bearing 3D - Design | CAD Design by SriMuthu on Dribbble](https://dribbble.com/shots/26124548-Flanged-Bearing-3D-Design-CAD-Design)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image provides a technical representation of a flanged bearing housing component, which constitutes a fundamental element of the functional assembly shown in the reference image.
-- **Tarih:** 2026-10-11 08:23:34
-
-![Önizleme](https://cdn.dribbble.com/userupload/43627573/file/original-af411b8a97fc80dd5a6f713fe0dfb45d.png?resize={width}x{height}&vertical=center)
-
-
----
-
-### 48. [Flange Bearing Dwg at Sarah Turpin blog](https://storage.googleapis.com/dobjlqguwqqqne/flange-bearing-dwg.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a four-bolt flanged bearing housing, with Image 1 showing the assembly context and Image 2 providing the CAD geometry for the housing component itself.
-- **Tarih:** 2026-10-11 08:23:30
-
-![Önizleme](https://i.ytimg.com/vi/wFMQWnKD6wo/maxresdefault.jpg)
-
-
----
-
-### 49. [China UCFL209-26 Two Bolt Oval Flange bearing Units with 1-5/8 inch ...](https://www.cwlbearing.com/ucfl209-26-two-bolt-oval-flange-bearing-units-with-1-58-inch-bore-product/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 54. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pipe-cuter-cnc-1)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate is a standard CAD model of a two-bolt flanged bearing housing which matches the functional purpose and physical configuration of the reference mechanism.
-- **Tarih:** 2026-10-11 08:23:23
+- **AI Teknik İncelemesi:** The image is a clear 3D CAD model representing an industrial pipe and profile cutting machine, which aligns with the text description in the reference.
+- **Tarih:** 2026-10-10 23:27:06
 
-![Önizleme](https://cdn.globalso.com/cwlbearing/2-Bolt-Flange-bearing-units28.jpg)
-
-
----
-
-### 50. [Bearing Housing Cad Model at Rita Campbell blog](https://storage.googleapis.com/djwzaipdvkikle/bearing-housing-cad-model.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a two-bolt oval flanged bearing housing, which is a direct 3D CAD representation of the flanged bearing assembly illustrated in section view in Image 1.
-- **Tarih:** 2026-10-11 08:14:35
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/73719457d4254cfa8aaef7d95aece7a4/large.JPG)
+![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/41833b71005b6ceea0a27d51163a7d3a/large.png)
 
 
 ---
 
-### 51. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flanged-support-bearing-kfl001-1)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a 2-bolt flanged bearing housing unit, representing the same mechanical component type shown mounted in the reference cross-section.
-- **Tarih:** 2026-10-11 08:14:28
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/849610c10fb2a3f9eab04e09b54d2165/large.png)
-
-
----
-
-### 52. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flange-bearing-0-75-shaft-1)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a two-bolt oval flanged bearing unit, representing the same core flanged bearing assembly mechanism shown in the cross-sectional view of Image 1.
-- **Tarih:** 2026-10-11 08:13:50
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/9ed77ef10ee088020b7803b9f8598794/large.png)
-
-
----
-
-### 53. [Free STL file Flange bearing bearing housing 🧞♂️ ・Template to download ...](https://cults3d.com/en/3d-model/tool/flange-bearing-housing)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a two-bolt flanged bearing housing, which directly corresponds to the housing component shown in the sectioned assembly drawing of Image 1.
-- **Tarih:** 2026-10-11 08:13:35
-
-![Önizleme](https://fbi.cults3d.com/uploaders/33290161/illustration-file/2415019a-e4ca-4912-bb2e-ed1ed5fda54c/scr2.jpg)
-
-
----
-
-### 54. [China UCFLX08 Two Bolt Oval Flange bearing Units with 40 mm bore ...](https://www.cwlbearing.com/ucflx08-two-bolt-oval-flange-bearing-units-with-40-mm-bore-product/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a standard 2-bolt flanged bearing housing unit featuring a grease nipple and extended inner ring set screws, directly matching the functional design of the assembly shown in Image 1.
-- **Tarih:** 2026-10-11 08:13:30
-
-![Önizleme](https://cdn.globalso.com/cwlbearing/2-Bolt-Flange-bearing-units123.jpg)
-
-
----
-
-### 55. [UCF 208 - Ball bearing units | SKF](https://www.skf.com/id/products/mounted-bearings/ball-bearing-units/flanged-ball-bearing-units/productid-UCF+208?failover=true)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a standard 4-bolt flanged bearing unit (UCF type) matching the flanged bearing housing application shown in cross-section in Image 1.
-- **Tarih:** 2026-10-11 08:13:19
-
-![Önizleme](https://cdn.skfmediahub.skf.com/api/public/0901d196808e89c4/png_highpreview/0901d196808e89c4_png_highpreview.png)
-
-
----
-
-### 56. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flanged-support-bearing-ucfl204-1)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a two-bolt flanged bearing housing unit, representing the same core mechanical concept shown in the cross-sectional assembly drawing of Image 1.
-- **Tarih:** 2026-10-11 08:10:42
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f086f386d578e5f0dbfd1af3fb27d09d/large.png)
-
-
----
-
-### 57. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bearing-housing-52)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
+### 55. [3D file industrial 3D model Pipe cutting machine・3D printing template ...](https://cults3d.com/en/3d-model/tool/industrial-3d-model-pipe-cutting-machine)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image shows a 3D CAD model of a three-bolt flanged bearing housing which matches the functional configuration of the housing depicted in the reference cross-section.
-- **Tarih:** 2026-10-11 04:13:57
+- **AI Teknik İncelemesi:** The image is a detailed CAD representation of an industrial pipe or profile processing mechanism, matching the functional intent of the reference description.
+- **Tarih:** 2026-10-10 23:27:02
 
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/23168af139d11122cb80093e0fb8fa73/large.png)
-
-
----
-
-### 58. [Precision Bearing Housing — Advanced Mechanical Design. - download free ...](https://www.cadcrowd.com/3d-models/precision-bearing-housing-advanced-mechanical-desi)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** The candidate image shows a CAD model of a mechanical housing that functionally aligns with the flanged bearing housing depicted in the reference drawing.
-- **Tarih:** 2026-10-11 00:23:59
-
-![Önizleme](https://cdn.cadcrowd.com/3d-models/de/f9/def93ea7-f949-4d02-8e35-cf17010a5159/gallery/4514230f-5b94-43d3-ab35-308d30735882/medium.jpg)
+![Önizleme](https://files.cults3d.com/uploaders/28832209/illustration-file/73a33be0-0477-4a37-9c67-91ff0b431683/industrial-3D-model-Pipe-cutting-machine5.jpg)
 
 
 ---
 
-### 59. [Bearing Housing Solidworks at Ellie Septimus blog](https://storage.googleapis.com/dyflkzzlxkoqwe/bearing-housing-solidworks.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict a mechanical bearing housing assembly, with the reference image showing a cross-sectional schematic and the candidate showing a 3D CAD implementation of a similar flanged shaft-bearing system.
-- **Tarih:** 2026-10-11 00:23:21
+### 56. [High power laser automatic pipe cutting machine 3D model | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-machine/high-power-laser-automatic-pipe-cutting-machine)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** The candidate image depicts a 3D CAD model of an industrial pipe and profile cutting machine, which functionally aligns with the machine type described in the reference text.
+- **Tarih:** 2026-10-10 23:26:56
 
-![Önizleme](https://i.ytimg.com/vi/er30f9YWYxM/maxresdefault.jpg)
-
-
----
-
-### 60. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flange-bearing-6)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images depict the housing component of a flanged bearing assembly, with the reference image showing the fully assembled sectional view and the candidate showing the isolated CAD geometry of the mounting flange.
-- **Tarih:** 2026-10-11 00:21:19
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/02794a1b065467e8621973d7f28271b3/large.png)
+![Önizleme](https://img2.cgtrader.com/items/3064967/0ab47dd97b/high-power-laser-automatic-pipe-cutting-machine-3d-model-max-obj-3ds-fbx-sldprt-ige.jpg)
 
 
 ---
 
-### 61. [Flange Bearing Cad Drawing at Jane Dyer blog](https://storage.googleapis.com/dqpfxzrsmuiyoe/flange-bearing-cad-drawing.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (technical_drawing)
-- **AI Teknik İncelemesi:** Both images illustrate flanged bearing housing assemblies, with the reference showing a cross-sectional application and the candidate showing a standard 3D CAD representation of the bearing housing component.
-- **Tarih:** 2026-10-11 00:21:16
+### 57. [Mini Rubber Finger Poultry Plucker Hand-held Duck Feather Plucking ...](https://www.alibaba.com/product-detail/Mini-rubber-finger-Poultry-plucker-hand_1601040833174.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image shows the physical execution of the exact technical assembly described in the reference diagram, featuring the stainless steel tub, rubber plucking fingers, and motor-driven base.
+- **Tarih:** 2026-10-10 23:23:18
 
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/25bc456a278e65d339201fa8a7a43017/large.jpg)
+![Önizleme](http://sc04.alicdn.com/kf/H6fb63fa992884cd999d9ee68317ce33dY/252511973/H6fb63fa992884cd999d9ee68317ce33dY.jpg)
 
 
 ---
 
-### 62. [Custom Aerospace Parts Machined Flanged Bearing Housing, High Quality ...](https://www.bossgoo.com/product-detail/custom-aerospace-parts-machined-flanged-bearing-68702740.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 58. [VEVOR Stainless Steel Chicken Plucker 20 Inch Barrel Diameter De ...](https://www.vevor.ca/chicken-plucker-c_10943/stainless-steel-environmental-chicken-professional-local-shipping-p_010462211296)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is a high-quality rendered commercial product shot of the exact poultry plucker mechanism detailed in the technical diagram provided in Image 1.
+- **Tarih:** 2026-10-10 23:22:25
+
+![Önizleme](https://d2qc09rl1gfuof.cloudfront.net/product/50XJQTMJ000000001/chicken-plucker-m100-2.jpg)
+
+
+---
+
+### 59. [Poultry Plucker 3D model | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-machine/poultry-plucker)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict flanged bearing housing assemblies designed for shaft support, featuring bolted flange mounting and internal bearing retention, representing a real-world manufactured equivalent to the conceptual cross-section drawing.
-- **Tarih:** 2026-10-11 00:21:14
+- **AI Teknik İncelemesi:** The candidate image depicts a top-down view of the essential internal plucking drum and finger array described in the reference technical schematic.
+- **Tarih:** 2026-10-10 23:22:14
 
-![Önizleme](https://bsg-i.nbxc.com/product/17/a2/38/01f4aa211d7f8a528b35d8da71.png)
-
-
----
-
-### 63. [Custom Bearing Housing | Sand Casting Foundry - Kurt Foundry](https://kurtfoundry.com/product/custom-bearing-housing/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The image shows large-scale machined bearing housings which serve the same mechanical function as the referenced flange bearing housing, despite the significant difference in scale and design complexity.
-- **Tarih:** 2026-10-11 00:21:09
-
-![Önizleme](https://kurtfoundry.com/wp-content/uploads/2026/03/A-high-end-industrial-manufacturing-facility-interior-with-large-metallic-components-in-the-foregroun.jpg)
+![Önizleme](https://img-new.cgtrader.com/items/4198343/7b6f54007e/poultry-plucker-3d-model-7b6f54007e.jpg)
 
 
 ---
 
-### 64. [How to design mechanical shaft, bearing housing and flange| SolidWorks ...](https://www.youtube.com/watch?v=er30f9YWYxM)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images illustrate a flanged bearing housing and shaft assembly, with the reference image showing a cross-sectional technical application and the candidate image showing a corresponding 3D CAD modeling representation.
-- **Tarih:** 2026-10-11 00:19:33
+### 60. [VEVOR Stainless Steel Chicken Plucker 20Inch Barrel Diameter De-Feather ...](https://www.vevor.com/chicken-plucker-c_10943/turkey-chicken-plucker-plucking-machine-poultry-de-feather-stainless-steel-50-s-p_010462211296)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** Image 2 is a high-fidelity commercial product render of the exact same mechanical device, a rotary poultry plucker, depicted in the schematic of Image 1.
+- **Tarih:** 2026-10-10 23:21:40
 
-![Önizleme](https://i.ytimg.com/vi/er30f9YWYxM/maxresdefault.jpg)
-
-
----
-
-### 65. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/ucfl-bearing-ucfl-yatak-1)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Both images represent a flanged bearing housing unit; the reference shows a cross-section of an assembly, while the candidate shows a 3D CAD model of a standard two-bolt flange bearing.
-- **Tarih:** 2026-10-11 00:18:42
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/93eb7bd4a8c86c8a2a4f03576ef03253/large.png)
+![Önizleme](https://d2qc09rl1gfuof.cloudfront.net/product/50XJQTMJ000000001/chicken-plucker-m100-2.jpg)
 
 
 ---
 
-### 66. [China Flange Housing Unit ;2 Bolt Flange Bearing Unit；Two Bolt Oval ...](https://www.cwlbearing.com/flange-housing-unit-2-bolt-flange-bearing-unit；two-bolt-oval-flange-bearing-units/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 61. [Figure 1 from Design Consideration and Analysis of an Improved Feather ...](https://www.semanticscholar.org/paper/Design-Consideration-and-Analysis-of-an-Improved-Ashiedu/3d01d4c07c34658a9441b00f5695160ceb6b2d34/figure/0)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (technical_drawing)
+- **AI Teknik İncelemesi:** Both images illustrate the same mechanical assembly of a poultry plucker, featuring identical core components including the bucket, motor, belt-driven pulley system, and rubber plucking fingers.
+- **Tarih:** 2026-10-10 23:21:33
+
+![Önizleme](https://figures.semanticscholar.org/3d01d4c07c34658a9441b00f5695160ceb6b2d34/8-Figure1-1.png)
+
+
+---
+
+### 62. [Feather Plucker 3d model](https://3dmdb.com/en/3d-model/feather-plucker/2744346/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Image 2 is a professional multi-view technical CAD projection of a poultry plucker, sharing the same core structural components and rotational mechanical design as the reference diagram.
+- **Tarih:** 2026-10-10 23:21:27
+
+![Önizleme](https://3dmdb.com/previews/2744346.jpg)
+
+
+---
+
+### 63. [7 Best Chicken Plucker | 550W vs 1HP: Which Drum Size Wins](https://gardeningbeyond.com/best-chicken-plucker/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
-- **AI Teknik İncelemesi:** The candidate is a standard 3D CAD representation of the flanged bearing housing shown in the cross-section reference image.
-- **Tarih:** 2026-10-11 00:18:03
+- **AI Teknik İncelemesi:** Image 1 is a technical schematic showing the internal configuration of components (tub, fingers, motor, shaft) that directly correspond to the physical construction of the poultry plucker in Image 2.
+- **Tarih:** 2026-10-10 23:20:47
 
-![Önizleme](https://cdn.globalso.com/cwlbearing/2-Bolt-Flange-bearing-units35.jpg)
+![Önizleme](https://m.media-amazon.com/images/I/71YLZp+lOzL.jpg)
 
 
 ---
 
-### 67. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bearing-housing-7)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 64. [Drum Chicken Plucker at Edward Mozingo blog](https://storage.googleapis.com/dfvkpnxwpcujbe/drum-chicken-plucker.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 90` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image depicts a finished physical product that aligns with the mechanical assembly components (motor, tub, plucking fingers, and frame) described in the reference technical diagram.
+- **Tarih:** 2026-10-10 23:20:36
+
+![Önizleme](https://m.media-amazon.com/images/I/81lBKDyQN8L.jpg)
+
+
+---
+
+### 65. [Drum Plucker](https://poultryprocessingequipment.com/plucking_equipment/drum_plucker.asp)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is the physical realization of the technical diagram provided, showing the identical stainless steel tub, rubber plucking fingers, and discharge chute configuration.
+- **Tarih:** 2026-10-10 23:18:17
+
+![Önizleme](https://poultryprocessingequipment.com/plucking_equipment/images/drum_plucker.jpg)
+
+
+---
+
+### 66. [Realistic Poultry Plucker 3D Model $59 - .3ds .obj .max .fbx - Free3D](https://free3d.com/3d-model/realistic-poultry-plucker-2010.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image is a high-fidelity 3D model that accurately depicts the mechanical configuration of the poultry plucker described in the technical diagram, including the tub, rubber plucking fingers, water inlet, and control switch housing.
+- **Tarih:** 2026-10-10 23:15:15
+
+![Önizleme](https://preview.free3d.com/img/2017/10/2202317567870109153/deqv293t.jpg)
+
+
+---
+
+### 67. [Piston Filler - How it works - YouTube](https://www.youtube.com/watch?v=G03dpO00lHY)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict a pillow block or flanged bearing housing assembly designed to support a rotating shaft using a ball bearing insert.
-- **Tarih:** 2026-10-11 00:15:27
+- **AI Teknik İncelemesi:** Image 2 displays a technical 3D CAD visualization of the core rotary valve and piston mechanism used in filling machines like the one depicted in the reference drawing.
+- **Tarih:** 2026-10-10 23:14:38
 
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/acf3299ed98d36c0578165aa93ce73c1/large.png)
-
-
----
-
-### 68. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/1-bore-4-bolt-flange-bearing)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 92` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is a 3D CAD representation of a four-bolt flanged bearing housing that matches the mechanical design and assembly shown in the cross-sectional view of Image 1.
-- **Tarih:** 2026-10-11 00:14:42
-
-![Önizleme](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/46732cad1379cdc4551378d36aee5413/large.png)
+![Önizleme](https://i.ytimg.com/vi/G03dpO00lHY/hqdefault.jpg)
 
 
 ---
 
-### 69. [42 mm wood splitter drill, splitting wood cone wood splitter drill ...](https://bigamart.com/product/42-mm-wood-splitter-drill-splitting-wood-cone-wood-splitter-drill-cone-gap-wood-splitter-screw-cone-firewood-splitter-drill-screw-cone/)
+### 68. [Piston Filler Parts at Kai Chuter blog](https://storage.googleapis.com/dlgcbmechomuse/piston-filler-parts.html)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 represents the core pneumatic piston-and-valve assembly utilized in the industrial piston filler system shown in the reference drawing.
+- **Tarih:** 2026-10-10 23:13:55
+
+![Önizleme](https://ae01.alicdn.com/kf/Hf6f9aa69ccd7447da0663d047ac0341a0/Filling-machine-main-part-spare-part-of-piston-filler-50-100-250-300-500ml-rotary-style.jpg)
+
+
+---
+
+### 69. [Volumetric Liquid Filling Machine – Full 3D CAD Project + DWG Drawings](https://www.papacad.com/shop/volumetric-filling-machine-cad-design/)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict the same industrial piston-driven filling mechanism architecture, although the reference is a dual-head production system while the candidate is a single-head laboratory variant.
+- **Tarih:** 2026-10-10 23:13:22
+
+![Önizleme](https://www.papacad.com/wp-content/uploads/2019/10/DIY-volumetric-feeder-complete-2D-plans-papacad.com_.jpg)
+
+
+---
+
+### 70. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/filling-mechanism-with-3-way-valve)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 represents a detailed CAD sub-assembly of a multi-head piston filling mechanism that shares the core structural design and pneumatic actuation principles found in the Acasi TruPiston-2-SH reference drawing.
+- **Tarih:** 2026-10-10 23:13:01
+
+![Önizleme](https://grabcad.com/screenshots/pics/f0c11211ee013461dbb4003c7535dc17/large.jpg)
+
+
+---
+
+### 71. [🥚 Automatic Egg Turner System – 3D Printable Incubator Mechanism (Worm ...](https://cults3d.com/en/3d-model/home/automatic-egg-turner-system-3d-printable-incubator-mechanism-worm-gear)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images demonstrate automated egg turning mechanisms for incubators, though Image 1 uses a lateral sliding bar linkage while Image 2 utilizes a worm gear and roller system.
+- **Tarih:** 2026-10-10 23:07:14
+
+![Önizleme](https://fbi.cults3d.com/uploaders/35387206/illustration-file/64eda45a-d749-4190-afcb-89fb498630c3/Chocadeira_2025-Nov-15_11-37-06PM-000_CustomizedView5535045642.png)
+
+
+---
+
+### 72. [Hydraulic Excavator Cone Screw Splitter for Huge Wood - Log Cone ...](https://rimamach.en.made-in-china.com/product/xKgQwUNbHcRp/China-Hydraulic-Excavator-Cone-Screw-Splitter-for-Huge-Wood.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** The images represent the same functional mechanism, where the technical drawing defines the precise dimensions and specifications for the production of the screw cone splitter seen in the finished assembly image.
+- **Tarih:** 2026-10-10 23:06:13
+
+![Önizleme](https://image.made-in-china.com/2f0j00rYibSqpoaRgM/Hydraulic-Excavator-Cone-Screw-Splitter-for-Huge-Wood.jpg)
+
+
+---
+
+### 73. [Forestry Machine Wood Cone Splitter for Excavator/ Tractor/ Skid Steer ...](https://cnhawk.en.made-in-china.com/product/NZoTXPmvADrH/China-Forestry-Machine-Wood-Cone-Splitter-for-Excavator-Tractor-Skid-Steer-Screw-Log-Splitter.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 is a technical drawing of a wood splitting cone, while Image 2 represents the finished physical assembly of the same type of mechanism mounted on a hydraulic drive unit.
+- **Tarih:** 2026-10-10 23:06:05
+
+![Önizleme](https://image.made-in-china.com/2f0j00aKMhrApEgUzJ/Forestry-Machine-Wood-Cone-Splitter-for-Excavator-Tractor-Skid-Steer-Screw-Log-Splitter.jpg)
+
+
+---
+
+### 74. [42 mm wood splitter drill, splitting wood cone wood splitter drill ...](https://bigamart.com/product/42-mm-wood-splitter-drill-splitting-wood-cone-wood-splitter-drill-cone-gap-wood-splitter-screw-cone-firewood-splitter-drill-screw-cone/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -3517,7 +2301,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 70. [drill bit for splitting wood 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/drill-bit-for-splitting-wood/)
+### 75. [drill bit for splitting wood 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/drill-bit-for-splitting-wood/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (exact_match)
@@ -3529,7 +2313,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 71. [🚜 Hitachi zx250 screw log splitter・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/various/hitachi-zx250-screw-log-splitter)
+### 76. [🚜 Hitachi zx250 screw log splitter・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/various/hitachi-zx250-screw-log-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -3541,7 +2325,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 72. [🧞♂️ Log And Stump Screw / Cone splitter for mini-excavator / screw log ...](https://cults3d.com/en/3d-model/tool/log-and-stump-screw-cone-splitter-for-mini-excavator-screw-log-splitter)
+### 77. [🧞♂️ Log And Stump Screw / Cone splitter for mini-excavator / screw log ...](https://cults3d.com/en/3d-model/tool/log-and-stump-screw-cone-splitter-for-mini-excavator-screw-log-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 82` (working_variation)
@@ -3553,7 +2337,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 73. [3d gas cart in AutoCAD | Download CAD free (141.76 KB) | Bibliocad](https://www.bibliocad.com/en/library/3d-gas-cart_70833/)
+### 78. [3d gas cart in AutoCAD | Download CAD free (141.76 KB) | Bibliocad](https://www.bibliocad.com/en/library/3d-gas-cart_70833/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 presents a CAD model of a gas cylinder truck with dimensions, matching the general structural concept and purpose of the reference product in Image 1.
@@ -3564,7 +2348,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 74. [Oxygen and Acetylene Torch Welding Cart Set Old 3D Model $79 - .3ds ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-old-5290.html)
+### 79. [Oxygen and Acetylene Torch Welding Cart Set Old 3D Model $79 - .3ds ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-old-5290.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images represent gas cylinder trucks designed for transporting pressurized tanks, though the candidate features a dual-cylinder welding cart configuration with a central support spine rather than the folding single-cylinder frame of the reference.
@@ -3575,7 +2359,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 75. [Industrial Welding Cylinder Cart CAD Files | STEP DXF Plans for ...](https://www.etsy.com/listing/4510220069/ndustrial-gas-cylinder-cart-cad-files)
+### 80. [Industrial Welding Cylinder Cart CAD Files | STEP DXF Plans for ...](https://www.etsy.com/listing/4510220069/ndustrial-gas-cylinder-cart-cad-files)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD assembly of components (base plate, axle, and wheels) that correspond directly to the lower base and wheel assembly of the gas cylinder truck in Image 1.
@@ -3586,7 +2370,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 76. [Gas Bottle Cylinder Tank Mounted on Single Handle Hand Truck - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-mounted-on-single-handle-hand-truck)
+### 81. [Gas Bottle Cylinder Tank Mounted on Single Handle Hand Truck - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-mounted-on-single-handle-hand-truck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 78` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a two-wheel gas cylinder hand truck, representing a common working variation of the four-wheel cylinder cart shown in Image 1.
@@ -3597,7 +2381,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 77. [Manual Cart with Mono Handle for Dual Gas Cylinder Capacity - 3D Model ...](https://www.renderhub.com/surf3d/manual-mono-handle-hand-truck-with-two-gas-cylinder-capacity)
+### 82. [Manual Cart with Mono Handle for Dual Gas Cylinder Capacity - 3D Model ...](https://www.renderhub.com/surf3d/manual-mono-handle-hand-truck-with-two-gas-cylinder-capacity)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a CAD model of a gas cylinder truck designed for dual cylinders, sharing the core structural concept and function of the reference product.
@@ -3608,7 +2392,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 78. [Oxygen and Acetylene Torch Welding Cart Set 3D Model $69 - .3ds .blend ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-6008.html)
+### 83. [Oxygen and Acetylene Torch Welding Cart Set 3D Model $69 - .3ds .blend ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-6008.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a dual-cylinder welding cart with similar structural frame geometry and safety chain, representing a functional variation of the reference gas cylinder truck.
@@ -3619,7 +2403,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 79. [Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10" Solid ...](https://www.vevor.com/welding-cart-c_12105/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-10-solid-wheels-p_010647925665)
+### 84. [Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10" Solid ...](https://www.vevor.com/welding-cart-c_12105/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-10-solid-wheels-p_010647925665)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a dual-cylinder welding cart which serves the same functional purpose as the single-cylinder truck in Image 1, though with a modified frame and dual platform layout.
@@ -3630,7 +2414,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 80. [ArtStation - GAS BOTTLE CYLINDER TANK HAND TRUCK TROLLEY DOLLY BARROW ...](https://www.artstation.com/marketplace/p/0aGJ3/gas-bottle-cylinder-tank-hand-truck-trolley-dolly-barrow-cart)
+### 85. [ArtStation - GAS BOTTLE CYLINDER TANK HAND TRUCK TROLLEY DOLLY BARROW ...](https://www.artstation.com/marketplace/p/0aGJ3/gas-bottle-cylinder-tank-hand-truck-trolley-dolly-barrow-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a CAD model of a similar gas cylinder truck mechanism with dual wheels and a loading plate, though featuring a different structural frame configuration.
@@ -3641,7 +2425,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 81. [Gas Bottle Trolley 3d Obj](https://www.turbosquid.com/3d-models/gas-bottle-trolley-3d-obj/668194)
+### 86. [Gas Bottle Trolley 3d Obj](https://www.turbosquid.com/3d-models/gas-bottle-trolley-3d-obj/668194)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict gas cylinder trucks designed for transporting pressurized gas bottles, though Image 2 features a two-cylinder platform cart design rather than the single-cylinder leaning frame shown in Image 1.
@@ -3652,7 +2436,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 82. [Gas Bottle Cylinder Tank on Hand Truck Trolley Barrow Cart - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart)
+### 87. [Gas Bottle Cylinder Tank on Hand Truck Trolley Barrow Cart - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD model of a gas cylinder truck with the same functional design, layout, and securing chain as the reference, though rendered in yellow with loaded cylinders.
@@ -3663,7 +2447,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 83. [Gas Cylinder on Handtruck - 3D Model by firdz3d](https://www.renderhub.com/firdz3d/gas-cylinder-on-handtruck)
+### 88. [Gas Cylinder on Handtruck - 3D Model by firdz3d](https://www.renderhub.com/firdz3d/gas-cylinder-on-handtruck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a 3D CAD model of a gas cylinder truck holding a gas tank, which serves the same functional purpose as the reference product despite minor design variations.
@@ -3674,7 +2458,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 84. [Solidworks Tutorial / How to make a Pillow Block Bearing ? - YouTube](https://www.youtube.com/watch?v=bxiyMasyh7c)
+### 89. [Solidworks Tutorial / How to make a Pillow Block Bearing ? - YouTube](https://www.youtube.com/watch?v=bxiyMasyh7c)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD model tutorial for a pillow block bearing, which directly corresponds to the reference assembly mechanism.
@@ -3685,7 +2469,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 85. [UPC 201 type 12mm Pillow Block Bearing 3D model | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/upc-201-type-12mm-pillow-block-bearing)
+### 90. [UPC 201 type 12mm Pillow Block Bearing 3D model | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/upc-201-type-12mm-pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya), corresponding directly to the mechanical assembly shown in the technical drawing of Image 1.
@@ -3696,7 +2480,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 86. [Response Surface Optimization Design for High-Speed Ball Bearing Double ...](https://www.mdpi.com/2075-4442/13/8/343)
+### 91. [Response Surface Optimization Design for High-Speed Ball Bearing Double ...](https://www.mdpi.com/2075-4442/13/8/343)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded CAD model of the internal rolling bearing assembly and components used inside the pillow block bearing housing shown in Image 1.
@@ -3707,7 +2491,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 87. [Cast Iron Machining Bearing Housing, Packaging Type: Wooden at best ...](https://www.indiamart.com/proddetail/bearing-housing-23093730633.html)
+### 92. [Cast Iron Machining Bearing Housing, Packaging Type: Wooden at best ...](https://www.indiamart.com/proddetail/bearing-housing-23093730633.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing housing that matches the structural type represented in the reference technical assembly diagram.
@@ -3718,7 +2502,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 88. [Buy custom CNC Machine parts direct from factory in China](https://metalworksplus.com/machine-parts/)
+### 93. [Buy custom CNC Machine parts direct from factory in China](https://metalworksplus.com/machine-parts/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical pillow block bearing housing that directly corresponds to the mounted bearing assembly illustrated in the technical cross-section of Image 1.
@@ -3729,7 +2513,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 89. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-8)
+### 94. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-8)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed 3D CAD model of a pillow block bearing that accurately represents the functional assembly depicted in the technical schematic of Image 1.
@@ -3740,7 +2524,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 90. [UCP Pillow Block Bearing for Superior Performance](https://dmwheelsystems.com/en/products/parts/flange-bearings/ucp-pillow-block-bearing/)
+### 95. [UCP Pillow Block Bearing for Superior Performance](https://dmwheelsystems.com/en/products/parts/flange-bearings/ucp-pillow-block-bearing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing, which is a related component variant to the pillow block assembly shown in the reference image.
@@ -3751,7 +2535,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 91. [Pillow Block Bearing Drop In Replacement by Pending Progress | Download ...](https://www.printables.com/model/472502-pillow-block-bearing-drop-in-replacement)
+### 96. [Pillow Block Bearing Drop In Replacement by Pending Progress | Download ...](https://www.printables.com/model/472502-pillow-block-bearing-drop-in-replacement)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya) which matches the mechanical type and function of the reference schematic.
@@ -3762,7 +2546,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 92. [What is a pillow block bearing? - Engistudies](https://engistudies.blogspot.com/2018/10/what-is-pillow-block-bearing.html)
+### 97. [What is a pillow block bearing? - Engistudies](https://engistudies.blogspot.com/2018/10/what-is-pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a labeled 3D CAD model of a pillow block bearing assembly, which matches the exact mechanical component depicted in the reference section view of Image 1.
@@ -3773,7 +2557,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 93. [Pillow Block Bearing | Autodesk Community Gallery](https://www.autodesk.com/community/gallery/project/169385/pillow-block-bearing)
+### 98. [Pillow Block Bearing | Autodesk Community Gallery](https://www.autodesk.com/community/gallery/project/169385/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing (yataklı bilya), which is the exact hardware component depicted in the mounted assembly diagram of Image 1.
@@ -3784,7 +2568,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 94. [Pillow Block Bearing - 3D Model by SimonTGriffiths](https://www.renderhub.com/simontgriffiths/pillow-block-bearing)
+### 99. [Pillow Block Bearing - 3D Model by SimonTGriffiths](https://www.renderhub.com/simontgriffiths/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD wireframe model of a pillow block bearing featuring the correct housing, mounting bolt holes, and grease fitting corresponding to the reference assembly.
@@ -3795,7 +2579,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 95. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-all-sizes-1)
+### 100. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-all-sizes-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a standard pillow block bearing, which corresponds to the bearing assembly depicted in the technical cross-section of Image 1.
@@ -3806,7 +2590,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 96. [Pillow Block Bearing Autocad Drawing at Kenneth Kane blog](https://storage.googleapis.com/dmnlrjurrazxge/pillow-block-bearing-autocad-drawing.html)
+### 101. [Pillow Block Bearing Autocad Drawing at Kenneth Kane blog](https://storage.googleapis.com/dmnlrjurrazxge/pillow-block-bearing-autocad-drawing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a standard pillow block bearing, which is functionally equivalent to the reference diagram showing a bearing assembly supporting a rotating shaft.
@@ -3817,7 +2601,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 97. [Sealed Deep Groove Ball Bearings: Guide for Performance](https://tflbearing.com/blog/sealed-deep-groove-ball-bearings-guide.html)
+### 102. [Sealed Deep Groove Ball Bearings: Guide for Performance](https://tflbearing.com/blog/sealed-deep-groove-ball-bearings-guide.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed CAD model of a deep groove ball bearing which is the core internal component housed within the pillow block bearing assembly depicted in Image 1.
@@ -3828,7 +2612,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 98. [Bearing housings - NTN Bearing Wizard](https://bearingwizard.com/rolling-bearing-types/bearing-housings/)
+### 103. [Bearing housings - NTN Bearing Wizard](https://bearingwizard.com/rolling-bearing-types/bearing-housings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a clear CAD model of a pillow block bearing assembly (housing, bearing, seal, and shaft), accurately representing the same mechanical component shown in the reference image.
@@ -3839,7 +2623,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 99. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.com/Pillow-Mounted-Bearings-UCFL205-16-Aligning/dp/B0BNXNV476)
+### 104. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.com/Pillow-Mounted-Bearings-UCFL205-16-Aligning/dp/B0BNXNV476)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 displays detailed renderings and physical components of a pillow block bearing and its insert bearing assembly, directly matching the mechanical concept shown in the reference schematic.
@@ -3850,7 +2634,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 100. [🔧 KP001 Pillow Block Bearing for 12mm Shaft・Free STL File for ・Cults](https://cults3d.com/en/3d-model/tool/kp001-pillow-block-bearing-for-12mm-shaft)
+### 105. [🔧 KP001 Pillow Block Bearing for 12mm Shaft・Free STL File for ・Cults](https://cults3d.com/en/3d-model/tool/kp001-pillow-block-bearing-for-12mm-shaft)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a standard 3D CAD model of a pillow block bearing matching the mechanical component illustrated in the reference drawing.
@@ -3861,7 +2645,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 101. [Free STL file pillow block bearing 608 for 8 mm rod・3D print design to ...](https://cults3d.com/en/3d-model/tool/pillow-block-bearing-608-for-8-mm-rod)
+### 106. [Free STL file pillow block bearing 608 for 8 mm rod・3D print design to ...](https://cults3d.com/en/3d-model/tool/pillow-block-bearing-608-for-8-mm-rod)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing housing that matches the structural mounting base and configuration depicted in the assembly schematic of Image 1.
@@ -3872,7 +2656,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 102. [Free STL file KP000 Pillow Block Bearing for 10mm Shaft・3D printing ...](https://cults3d.com/en/3d-model/tool/kp000-pillow-block-bearing-for-10mm-shaft)
+### 107. [Free STL file KP000 Pillow Block Bearing for 10mm Shaft・3D printing ...](https://cults3d.com/en/3d-model/tool/kp000-pillow-block-bearing-for-10mm-shaft)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing, which is the standard 3D representation corresponding to the technical assembly shown in Image 1.
@@ -3883,7 +2667,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 103. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/ucf-206-pillow-block-bearing-1)
+### 108. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/ucf-206-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a square flanged pillow block bearing assembly, which matches the bearing component and mounting configuration shown in the reference schematic.
@@ -3894,7 +2678,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 104. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bearing-kp-series-pillow-block-bearing-1)
+### 109. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bearing-kp-series-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 depicts a standard 3D CAD model of a pillow block bearing, which is the exact functional mechanism shown in the reference assembly drawing of Image 1.
@@ -3905,7 +2689,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 105. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-5)
+### 110. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-5)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a 3D CAD model of a standard pillow block bearing (UCP205), representing the physical component assembly shown in the technical cross-section of Image 1.
@@ -3916,7 +2700,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 106. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-d8-1)
+### 111. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/pillow-block-bearing-d8-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a 3D CAD model of a pillow block bearing, which functionally corresponds to the bearing assembly illustrated in the technical cross-section of Image 1.
@@ -3927,7 +2711,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 107. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/kp08-support-pillow-block-bearing-for-t8-lead-screw-for-3d-printing-machines-and-cnc-1)
+### 112. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/kp08-support-pillow-block-bearing-for-t8-lead-screw-for-3d-printing-machines-and-cnc-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict pillow block bearing assemblies, though Image 1 shows an installed sectional view while Image 2 shows a 3D CAD model of a standard pillow block unit.
@@ -3938,87 +2722,32 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (11 adet)
+## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (6 adet)
 _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
-### 1. [Amazing Technique Bearing fitting tech lathe working #technology #hardwork #machine - YouTube](https://www.youtube.com/shorts/9fomSMLBs8M)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
+### 1. [DIY Egg turner and automatic coop door opener - UNIVERSAL - YouTube](https://www.youtube.com/watch?v=g5USqo8atWY)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The images both depict the core mechanical components of a shaft and ball bearing assembly, despite the reference being a conceptual technical diagram and the candidate being a hands-on mechanical repair/refurbishment process.
-- **Tarih:** 2026-10-11 12:22:18
+- **AI Teknik İncelemesi:** Both images document DIY components for poultry-related automation; while the first shows the tray mechanism, the second shows the actuator assembly required to drive such a mechanism.
+- **Tarih:** 2026-10-10 23:10:55
 
-![Önizleme](https://i.ytimg.com/vi/9fomSMLBs8M/maxresdefault.jpg)
+![Önizleme](https://i.ytimg.com/vi/g5USqo8atWY/maxresdefault.jpg)
 
 
 ---
 
-### 2. [Yataklı Rulman Nasıl Değiştirilir-Rulman Yatağı Nasıl Değiştirilir ...](https://www.youtube.com/watch?v=4x2iYn1rXGA)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 2. [DIY Automatic Turning Egg Incubator Tray](https://www.pinterest.com/pin/diy-automatic-turning-egg-incubator-tray--87468417747004610/)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image depicts a physical, real-world application of the flanged bearing unit mechanism shown in the technical reference diagram.
-- **Tarih:** 2026-10-11 10:17:03
+- **AI Teknik İncelemesi:** Both images demonstrate the same functional principle of an automatic egg turner utilizing a tilting tray mechanism powered by an external motor.
+- **Tarih:** 2026-10-10 23:07:41
 
-![Önizleme](https://i.ytimg.com/vi/4x2iYn1rXGA/maxresdefault.jpg)
-
-
----
-
-### 3. [how to change cnc machine spindle bearing #cnc lathe machine spindle ...](https://www.youtube.com/watch?v=maLeTOBo9nA)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 82` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 shows a real-world assembly of multiple bearings onto a shaft within a flanged housing, representing a practical application of the flanged bearing concept shown in the reference drawing.
-- **Tarih:** 2026-10-11 10:16:57
-
-![Önizleme](https://i.ytimg.com/vi/maLeTOBo9nA/maxresdefault.jpg)
+![Önizleme](https://i.pinimg.com/736x/0a/6b/f1/0a6bf1a2db25341a21a84bd744f4b330.jpg)
 
 
 ---
 
-### 4. [Flange Making On The Lathe Machine - YouTube](https://www.youtube.com/watch?v=-ooy-C5rFhQ)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 78` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 demonstrates the lathe machining process of a custom stepped cylindrical blank to fabricate a custom flanged bearing housing.
-- **Tarih:** 2026-10-11 08:16:03
-
-![Önizleme](https://i.ytimg.com/vi/-ooy-C5rFhQ/maxresdefault.jpg)
-
-
----
-
-### 5. [Air Bearing Lathe at Nathan Ronk blog](https://storage.googleapis.com/dptwnpnckqqjke/air-bearing-lathe.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 75` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a workshop video demonstrating the assembly and inspection of mounted bearing housings, representing a practical real-world application of the reference mechanism.
-- **Tarih:** 2026-10-11 08:15:03
-
-![Önizleme](https://i.ytimg.com/vi/GLNTnCgl7fk/maxresdefault.jpg)
-
-
----
-
-### 6. [How to Install Flange bearing -steel housing part 2 - YouTube](https://www.youtube.com/watch?v=-4SBKyCJKwU)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a physical flange bearing unit (F205) of the same functional category as the cross-sectional schematic provided in the reference image.
-- **Tarih:** 2026-10-11 00:21:11
-
-![Önizleme](https://i.ytimg.com/vi/-4SBKyCJKwU/maxresdefault.jpg)
-
-
----
-
-### 7. [Making New Bearing Housing from Old and Rusty Iron Piece on Manual ...](https://www.youtube.com/watch?v=7iLMPA21YpE)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows the machining process of a pillow block bearing housing, which is functionally and structurally identical to the flanged bearing housing mechanism in the reference image.
-- **Tarih:** 2026-10-11 00:19:14
-
-![Önizleme](https://i.ytimg.com/vi/7iLMPA21YpE/maxresdefault.jpg)
-
-
----
-
-### 8. [Oxy Acetylene Cart | JIMBO'S GARAGE - YouTube](https://www.youtube.com/watch?v=ZA_YjfdeVmE)
+### 3. [Oxy Acetylene Cart | JIMBO'S GARAGE - YouTube](https://www.youtube.com/watch?v=ZA_YjfdeVmE)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom DIY oxy-acetylene cart built from a modified hand truck, serving the same core function as the gas cylinder truck in Image 1.
@@ -4029,7 +2758,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 9. [Pillow block bearing - YouTube](https://www.youtube.com/watch?v=VMw5qYU4bHw)
+### 4. [Pillow block bearing - YouTube](https://www.youtube.com/watch?v=VMw5qYU4bHw)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical mounted pillow block bearing assembly installed on a structural plate, closely corresponding to the technical assembly shown in Image 1.
@@ -4040,7 +2769,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 10. [Roller Bearing Pillow Block Features - YouTube](https://www.youtube.com/watch?v=bZQzkxARDGQ)
+### 5. [Roller Bearing Pillow Block Features - YouTube](https://www.youtube.com/watch?v=bZQzkxARDGQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is an educational video presenting physical examples of roller bearing pillow blocks directly related to the mechanical assembly shown in the technical reference image.
@@ -4051,7 +2780,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 11. [Diy Pillow Block Bearing at Linda Lampkin blog](https://storage.googleapis.com/dngzacuogojqle/diy-pillow-block-bearing.html)
+### 6. [Diy Pillow Block Bearing at Linda Lampkin blog](https://storage.googleapis.com/dngzacuogojqle/diy-pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows physical pillow block bearing hardware, which corresponds to the technical assembly shown in the reference drawing.
@@ -4062,252 +2791,607 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-## 💡 Proje Fikirleri & DIY Varyasyonları (57 adet)
+## 💡 Proje Fikirleri & DIY Varyasyonları (89 adet)
 _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
-### 1. [Shaft Mounting Flange at Joan Huber blog](https://storage.googleapis.com/dfubtquuzrcwbe/shaft-mounting-flange.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 1. [Hydrogen Fuel Cells - Beswick Engineering](https://www.beswick.com/industries-served/hydrogen-fuel-cells/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Although Image 1 shows a commercial GenCore fuel cell system assembly and Image 2 shows a transparent experimental PEM fuel cell stack, both fundamentally represent the same core technology of hydrogen fuel cell systems.
+- **Tarih:** 2026-10-11 21:11:09
+
+![Önizleme](https://www.beswick.com/wp-content/uploads/2019/03/hydrogen_fc.jpg)
+
+
+---
+
+### 2. [Hydrogen Fuel Cells Diy at Kevin Marsh blog](https://storage.googleapis.com/dfaowkmksdwobe/hydrogen-fuel-cells-diy.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows an industrial GenCore fuel cell system while Image 2 depicts a smaller experimental PEM fuel cell stack, but both represent the same fundamental technology and domain of fuel cell systems.
+- **Tarih:** 2026-10-11 21:11:04
+
+![Önizleme](https://ev-north.co.uk/wp/wp-content/uploads/2020/04/P1010294-scaled.jpg)
+
+
+---
+
+### 3. [How to Build DIY Hydrogen Fuel Cells: A Beginner’s Guide](https://www.horizoneducational.com/fr/how-to-build-diy-hydrogen-fuel-cells-a-beginner-s-guide/t1638?currency=usd)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows an industrial GenCore design while Image 2 shows an educational or DIY tabletop fuel cell training kit.
+- **Tarih:** 2026-10-11 21:02:59
+
+![Önizleme](https://static.viaaurea.eu/t/horizoneducational.com/images/6243.png/o-w:1200|h:627|fit:crop-50-50/s-2b237fc4f4e1?_ts=1733831255)
+
+
+---
+
+### 4. [Understanding Graphite Bipolar Plates: The Key Component Of Fuel Cells ...](https://tmnetch.com/understanding-graphite-bipolar-plates/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays bipolar plates which are internal core components of the fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:52:33
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2024/04/Graphite-Bipolar-Plate-1.webp)
+
+
+---
+
+### 5. [Graphite Bipolar Electrode Graphite Fuel Cell Bipolar Electrolyzer ...](https://ttwymachinery.en.made-in-china.com/product/pmaYFrIJIBRW/China-Graphite-Bipolar-Electrode-Graphite-Fuel-Cell-Bipolar-Electrolyzer-Plate-Products.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays a stacked array of bipolar flow plates which are core internal components of a fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:47:42
+
+![Önizleme](https://image.made-in-china.com/203f0j00ukTbmLnFnozY/Graphite-Bipolar-Electrode-Graphite-Fuel-Cell-Bipolar-Electrolyzer-Plate-Products.webp)
+
+
+---
+
+### 6. [End Plates – The Open Fuel Cell Project](https://openfuelcell.org/componentsposts/end-plates/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows a complete commercial fuel cell system design evolution, while Image 2 shows a custom-machined bipolar plate component typical of DIY fuel cell stack fabrication.
+- **Tarih:** 2026-10-11 20:41:31
+
+![Önizleme](https://openfuelcell.org/wp-content/uploads/2023/05/flowfields-e1685521638541.jpg)
+
+
+---
+
+### 7. [What is a graphite bipolar plate? - VET Energy](https://www.vet-china.com/news/what-is-a-graphite-bipolar-plate/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** While the reference image displays a complete GenCore fuel cell system cabinet enclosure, the candidate image shows bipolar plates and components internal to a fuel cell stack, making them functionally related within the same technology domain.
+- **Tarih:** 2026-10-11 20:31:26
+
+![Önizleme](https://www.vet-china.com/uploads/graphite-bipolar-plate-Manufacturer.png)
+
+
+---
+
+### 8. [H2e Custom 5-150kw Pem Hydrogen Fuel Cell Stack with Good Performance ...](https://h2etech.en.made-in-china.com/product/LxVpqzioTmRJ/China-H2e-Custom-5-150kw-Pem-Hydrogen-Fuel-Cell-Stack-with-Good-Performance.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays a standalone fuel cell stack core component which is the internal functional heart of the complete fuel cell system shown in the reference image.
+- **Tarih:** 2026-10-11 20:31:10
+
+![Önizleme](https://image.made-in-china.com/2f0j00cQfkTwEJbduq/H2e-Custom-5-150kw-Pem-Hydrogen-Fuel-Cell-Stack-with-Good-Performance.jpg)
+
+
+---
+
+### 9. [Hydrogen Fuel Cell Stack 1500W Hydrogen Fuel Cell Stack Air Cooling ...](https://hfsinopower.en.made-in-china.com/product/MmFUxOPlbXVG/China-Hydrogen-Fuel-Cell-Stack-1500W-Hydrogen-Fuel-Cell-Stack-Air-Cooling.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows the evolution of a GenCore fuel cell system housing and design specs, while Image 2 shows individual PEM fuel cell core stacks which are the internal components of such systems.
+- **Tarih:** 2026-10-11 20:31:06
+
+![Önizleme](https://image.made-in-china.com/2f0j00LqdkaDzgfnom/Hydrogen-Fuel-Cell-Stack-1500W-Hydrogen-Fuel-Cell-Stack-Air-Cooling.webp)
+
+
+---
+
+### 10. [Horizon Educational - How to Build DIY Hydrogen Fuel Cells: A Beginner ...](https://www.horizoneducational.com/how-to-build-diy-hydrogen-fuel-cells-a-beginner-s-guide/t1638?currency=usd)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images feature fuel cell systems, though the reference shows an industrial GenCore design while the candidate displays a desktop DIY educational hydrogen fuel cell trainer.
+- **Tarih:** 2026-10-11 20:31:03
+
+![Önizleme](https://static.viaaurea.eu/t/horizoneducational.com/images/6243.png/o-w:1200|h:627|fit:crop-50-50/s-2b237fc4f4e1?_ts=1733831255)
+
+
+---
+
+### 11. [Impermeable Graphite Bipolar Plates for Pem Hydrogen Fuel Cell Battery ...](https://f69fe4bdad5cc81f.en.made-in-china.com/product/GmnYPKUCvWcH/China-Impermeable-Graphite-Bipolar-Plates-for-Pem-Hydrogen-Fuel-Cell-Battery.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and Image 2 shows individual bipolar plates used inside such systems, they both fundamentally belong to the same fuel cell domain.
+- **Tarih:** 2026-10-11 20:30:11
+
+![Önizleme](https://image.made-in-china.com/2f0j00LDnbetygLFqo/Impermeable-Graphite-Bipolar-Plates-for-Pem-Hydrogen-Fuel-Cell-Battery.jpg)
+
+
+---
+
+### 12. [Bipolar Plates for Hydrogen Fuel Cells | Switzer](https://www.switzermfg.com/metal-bipolar-plates-for-hydrogen-fuel-cells/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system assembly, while Image 2 shows an internal bipolar flow plate component used in fuel cell stacks, sharing the same domain but differing in scale.
+- **Tarih:** 2026-10-11 20:29:51
+
+![Önizleme](https://www.switzermfg.com/wp-content/uploads/2024/06/0_H2-Fuel-Cell_Blog-3_Social-Image-A.jpg)
+
+
+---
+
+### 13. [Figure 1 from Exergy Analysis of a PEM Fuel Cell System with Different ...](https://www.semanticscholar.org/paper/Exergy-Analysis-of-a-PEM-Fuel-Cell-System-with-Flow-Ionescu-Buzbuchi/966b628cbd2559940e9fd56d74ed5098f84956ec/figure/0)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** While the reference depicts an industrial GenCore fuel cell system design evolution, the candidate shows a detailed laboratory-scale PEM fuel cell single-cell assembly with labeled components (MEA, bipolar plates, current collectors), representing a functional working variant within the same overarching technology.
+- **Tarih:** 2026-10-11 20:23:07
+
+![Önizleme](https://d3i71xaburhd42.cloudfront.net/966b628cbd2559940e9fd56d74ed5098f84956ec/2-Figure1-1.png)
+
+
+---
+
+### 14. [Welcome to the Fuel Cell Lab – Green Technology Laboratory](https://research.engineering.ucdavis.edu/greentech/fuel-cell/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows a complete GenCore commercial/prototype system whereas Image 2 displays a small laboratory PEM fuel cell assembly and component.
+- **Tarih:** 2026-10-11 20:22:54
+
+![Önizleme](https://research.engineering.ucdavis.edu/greentech/wp-content/uploads/sites/101/2018/06/FCassemblyBipolarPlate.jpg)
+
+
+---
+
+### 15. [Proton Exchange Membrane Fuel Cell Structure Key Components](https://tmnetch.com/a-deeper-look-at-proton-exchange-membrane-fuel-cells/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 displays bipolar plates used in fuel cell stacks, which are fundamental internal components related to the GenCore fuel cell system shown in Image 1.
+- **Tarih:** 2026-10-11 20:22:41
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2024/04/Graphite-Bipolar-Plate-1.webp)
+
+
+---
+
+### 16. [Rotary CNC Plasma Pipe Cutter - YouTube](https://www.youtube.com/watch?v=LE-0Ykj2yXE)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 shows a physical assembly of flanged bearing units identical in function and structure to the cross-sectional diagram provided in Image 1.
-- **Tarih:** 2026-10-11 14:17:20
+- **AI Teknik İncelemesi:** The candidate image shows a functional industrial pipe and profile cutting machine that matches the functional description provided in the reference text.
+- **Tarih:** 2026-10-10 23:27:45
 
-![Önizleme](https://1.bp.blogspot.com/-cO2QNmRH5Qg/V2Ev33BkIQI/AAAAAAAAkrc/Z0jPGfD0klkN5nbOEalMEXCBLv2e57SlgCLcB/s1600/P1240121+rsz.JPG)
+![Önizleme](https://i.ytimg.com/vi/LE-0Ykj2yXE/maxresdefault.jpg)
 
 
 ---
 
-### 2. [How to Adjust Pillow Block Bearings - YouTube](https://www.youtube.com/watch?v=Dk_wMY9bDcU)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 17. [CNC Pipe and Tube Cutter for Ultra Systems - Arclight Dynamics](https://arclightcnc.com/product/cnc-pipe-tube-cutter/)
+- **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** The reference image contains text identifying a portable industrial pipe and profile cutter, and the candidate image shows a functional CNC plasma cutting system performing that exact task.
+- **Tarih:** 2026-10-10 23:27:34
+
+![Önizleme](https://arclightcnc.com/wp-content/uploads/2021/02/arclight-dynamics-cnc-plasma-pipe-cutter-2-scaled.jpg)
+
+
+---
+
+### 18. [Whizbang Chicken Plucker](https://ar.inspiredpencil.com/pictures-2023/whizbang-chicken-plucker)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a physical pillow block bearing unit, which is the functional equivalent and common hardware implementation of the flanged bearing mechanism shown in the technical cross-section.
-- **Tarih:** 2026-10-11 14:16:37
+- **AI Teknik İncelemesi:** The candidate image displays the primary mechanical components (the feather plate and drive shaft assembly) referenced as parts 3 and 12 in the technical drawing, confirming it is a component-level DIY poultry plucker build.
+- **Tarih:** 2026-10-10 23:24:00
 
-![Önizleme](https://i.ytimg.com/vi/Dk_wMY9bDcU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYyhVMA8=&rs=AOn4CLAGrhmJHmwL41GZESPa3xYRaAc3XA)
+![Önizleme](https://i.ebayimg.com/images/g/CH8AAeSwqr1oj-eL/s-l1200.jpg)
 
 
 ---
 
-### 3. [Motor Bearing Housing Repair at Curtis Edgar blog](https://storage.googleapis.com/dmovdainbqaqpe/motor-bearing-housing-repair.html)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 19. [Rubber Fingers For Plucker / Plucker Fingers Rubber / Chicken Plucker ...](https://www.alibaba.com/product-detail/rubber-fingers-for-plucker-plucker-fingers_62379621872.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 is a physical implementation of the poultry plucker mechanism depicted in the technical diagram, showing the identical arrangement of rubber fingers on the base plate and drum walls.
+- **Tarih:** 2026-10-10 23:23:08
+
+![Önizleme](https://sc02.alicdn.com/kf/H52bb1cab52604302b0a72c2ae6dd7317r/228025041/H52bb1cab52604302b0a72c2ae6dd7317r.jpg)
+
+
+---
+
+### 20. [Diy Barrel Chicken Plucker at Tyson Walsh blog](https://storage.googleapis.com/demzorhkuownue/diy-barrel-chicken-plucker.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows the physical machining and repair process of a flanged bearing housing component similar in geometry and function to the reference cross-section diagram.
-- **Tarih:** 2026-10-11 14:16:29
+- **AI Teknik İncelemesi:** The candidate image demonstrates a DIY implementation of the exact same rotary mechanical plucking principle shown in the reference schematic, utilizing a tub with rubber fingers and a belt-driven motor.
+- **Tarih:** 2026-10-10 23:22:39
 
-![Önizleme](https://i.ytimg.com/vi/tXItS0Q88iM/maxresdefault.jpg)
-
-
----
-
-### 4. [Simple DIY Bearing Housing - YouTube](https://www.youtube.com/shorts/zhQ65K1rgVA)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 78` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 demonstrates a custom DIY fabrication of a bearing mounting arrangement that functionally replicates the housing principle shown in the schematic reference, even if the specific flanged geometry is custom-welded.
-- **Tarih:** 2026-10-11 14:16:26
-
-![Önizleme](https://i.ytimg.com/vi/zhQ65K1rgVA/oar2.jpg?sqp=-oaymwEYCNAFENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBFnlQTAGzKzyTC--J1BhA5LIPw2Q)
+![Önizleme](https://i.ytimg.com/vi/0EDiz-ZRhAI/maxresdefault.jpg)
 
 
 ---
 
-### 5. [Making bearing mounts for my shop made line borer. - YouTube](https://www.youtube.com/watch?v=QJZCzsDwQ_Y)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 21. [Youtube Chicken Pluckers](https://ar.inspiredpencil.com/pictures-2023/youtube-chicken-pluckers)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 displays a practical DIY application utilizing flanged bearing units identical in mechanical function and mounting style to the reference cross-section for a custom line boring tool.
-- **Tarih:** 2026-10-11 14:14:34
+- **AI Teknik İncelemesi:** The candidate image shows a functional DIY implementation of the same rotary plucker mechanism defined in the technical diagram, featuring an identical tub, rubber fingers, motor, and shaft arrangement.
+- **Tarih:** 2026-10-10 23:20:03
 
-![Önizleme](https://i.ytimg.com/vi/QJZCzsDwQ_Y/maxresdefault.jpg)
+![Önizleme](https://i.ytimg.com/vi/UEk7kzRCbjQ/maxresdefault.jpg)
 
 
 ---
 
-### 6. [Bearing Housing Machining - YouTube](https://www.youtube.com/watch?v=EQZWzsLKNic)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Rulman Yatağı`
+### 22. [How to pluck a chicken in 14 seconds - Homemade Whizbang Chicken ...](https://www.youtube.com/watch?v=DMydVdwmuws)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows the functional interior of the poultry plucking mechanism described in the technical drawing, featuring the rotating plate and rubber plucking fingers in a real-world application.
+- **Tarih:** 2026-10-10 23:19:24
+
+![Önizleme](https://i.ytimg.com/vi/DMydVdwmuws/maxresdefault.jpg)
+
+
+---
+
+### 23. [22 Genius DIY Chicken Plucker Designs for Quick Processing | Chicken ...](https://www.pinterest.com/pin/340232946868386952/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image displays a functional DIY iteration of the rotary drum mechanism described in the reference technical diagram, utilizing the same essential principles of a rotating base plate with rubber fingers within a containment tub.
+- **Tarih:** 2026-10-10 23:19:19
+
+![Önizleme](https://i.pinimg.com/736x/bd/48/0b/bd480bb2272bbc4a7ea1dd0ca7f1b562.jpg)
+
+
+---
+
+### 24. [The Deliberate Agrarian: My Chicken PluckerParts Business](https://thedeliberateagrarian.blogspot.com/2006/09/my-chicken-plucker-parts-b_115931021770414888.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The image shows a custom-fabricated feather plate assembly, which functions as the primary rotating component of the poultry plucker mechanism described in the reference diagram.
+- **Tarih:** 2026-10-10 23:19:12
+
+![Önizleme](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ08VMQh8zRquYn5DUYIVDZEtXoRCMwuAdKb64rTFPqraPutrSSsdJJRq9-jpFe6qWAJdLL2S4RZwszIq0IWceBmMXufLvrI97oi-EnjNg3KwEpuPZBeSaNWGdadbz683UspvnjQ/s1600/pluckerparts2.jpg)
+
+
+---
+
+### 25. [VEVOR Chicken Plucker Machine, 20" Diameter Stainless Steel Drum ...](https://www.vevor.ca/chicken-plucker-c_10943/vevor-chicken-plucker-machine-20-diameter-stainless-steel-drum-defeathering-equipment-with-108-soft-fingers-and-2-large-wheels-simple-debris-collection-500w-motor-for-efficient-poultry-plucking-p_010241503412)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image displays a fully operational, commercial-grade poultry plucker that features the exact mechanical components (tub, rubber fingers, rotating base, and frame) detailed in the technical blueprint.
+- **Tarih:** 2026-10-10 23:18:13
+
+![Önizleme](https://d2qc09rl1gfuof.cloudfront.net/product/JQTMJH1100W20B7SX/chicken-plucker-a100-1.22-m.jpg)
+
+
+---
+
+### 26. [Chicken Plucker Sportsman Series](https://buffalotools.com/cknplkr.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 95` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 is a real-world implementation that matches the mechanical assembly, including the stainless steel tub, rubber plucking fingers, motor positioning, and water inlet features described in the technical diagram.
+- **Tarih:** 2026-10-10 23:17:48
+
+![Önizleme](https://buffalotools.com/download/images/hires/C/cknplkrlsa.jpg)
+
+
+---
+
+### 27. [how to build this chicken plucking machine with pictures and ...](https://www.pinterest.com/pin/488499890817546109/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image is a DIY implementation of the exact mechanical principles and components described in the reference blueprint, such as the rotating drum, plucking fingers, motor drive, and base frame.
+- **Tarih:** 2026-10-10 23:17:36
+
+![Önizleme](https://i.pinimg.com/originals/d8/57/d1/d857d1f0af3538a7d97a1cb2e15ae5d8.jpg)
+
+
+---
+
+### 28. [Home made chicken plucker / how to make | Page 4 | BackYard Chickens ...](https://www.backyardchickens.com/threads/home-made-chicken-plucker-how-to-make.637173/page-4)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The candidate is a functional DIY implementation of the same rotary plucking mechanism principle, utilizing a central shaft with rubber fingers driven by an external motor source.
+- **Tarih:** 2026-10-10 23:17:28
+
+![Önizleme](https://www.backyardchickens.com/image/id/6614089/width/600/height/450)
+
+
+---
+
+### 29. [How to Make the Ultimate Chicken Plucker - YouTube](https://www.youtube.com/watch?v=gyrp2FjVwgY)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 represents a functional DIY physical realization of the mechanical principles illustrated in the technical diagram of Image 1, using similar rotational plucking components.
+- **Tarih:** 2026-10-10 23:17:20
+
+![Önizleme](https://i.ytimg.com/vi/gyrp2FjVwgY/maxresdefault.jpg)
+
+
+---
+
+### 30. [How To Make A Chicken Plucker Machine at Elinor Castiglione blog](https://storage.googleapis.com/dijbprifxfhjqe/how-to-make-a-chicken-plucker-machine.html)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The image shows a functional interior of a poultry plucker, including the essential rotating plate and rubber picking fingers that match the design principles illustrated in the reference schematic.
+- **Tarih:** 2026-10-10 23:17:12
+
+![Önizleme](https://i.ytimg.com/vi/yC-wmiE1apc/maxresdefault.jpg)
+
+
+---
+
+### 31. [10 DIY Chicken Plucker Designs to Make Harvesting Your Birds a Breeze](https://morningchores.com/diy-chicken-plucker/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image shows a DIY horizontal drum-style poultry plucker that utilizes the same fundamental mechanical principles of a rotating shaft, rubber fingers, and belt-driven motor seen in the reference diagram.
+- **Tarih:** 2026-10-10 23:17:06
+
+![Önizleme](https://morningchores.com/wp-content/uploads/2019/07/chp9.jpg)
+
+
+---
+
+### 32. [DIY homemade chicken plucker design - YouTube](https://www.youtube.com/watch?v=3lXMstqs58Q)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image shows a functional DIY implementation of the drum-style poultry plucker mechanism described in the technical blueprint.
+- **Tarih:** 2026-10-10 23:16:13
+
+![Önizleme](https://i.ytimg.com/vi/3lXMstqs58Q/maxresdefault.jpg)
+
+
+---
+
+### 33. [Whizbang Chicken Plucker How to Build? Easy Steps Guide | Chicken ...](https://www.pinterest.com/pin/whizbang-chicken-plucker-how-to-build-easy-steps-guide--527765650097961213/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** The candidate image depicts a functional DIY implementation (Whizbang style) of the same mechanical principle shown in the reference schematic, utilizing a rotating base with plucking fingers inside a cylindrical drum.
+- **Tarih:** 2026-10-10 23:16:05
+
+![Önizleme](https://i.pinimg.com/originals/bf/68/63/bf68633b42f15c2dbb382e95adc85f09.png)
+
+
+---
+
+### 34. [10 Homemade Chicken Pluckers - Easy to Build (100% Free) | Poultry Care ...](https://poultrycaresunday.com/homemade-chicken-pluckers/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 presents various DIY home-built versions that utilize the same functional principles of rotating rubber plucking fingers as the reference diagram.
+- **Tarih:** 2026-10-10 23:15:58
+
+![Önizleme](https://poultrycaresunday.com/wp-content/uploads/2017/08/Homemade-Chicken-Pluckers.png)
+
+
+---
+
+### 35. [How to Build a Chicken Plucker - Whizbang Chicken Plucker | Poultry ...](https://poultrycaresunday.com/whizbang-chicken-plucker/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images depict a drum-style poultry plucker employing the same core mechanical principles, such as a rotating base plate with rubber fingers within a cylindrical housing, though the materials differ between the industrial stainless steel reference and the DIY plastic drum variant.
+- **Tarih:** 2026-10-10 23:15:52
+
+![Önizleme](https://poultrycaresunday.com/wp-content/uploads/2017/08/Whizbang-Chicken-Plucker.png)
+
+
+---
+
+### 36. [22 Chicken Plucker Plans Make Your Life Easier](https://cs-tf.com/diy-chicken-plucker/)
+- **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 provides a collection of DIY implementations and functional equivalents of the industrial poultry plucker design depicted in Image 1.
+- **Tarih:** 2026-10-10 23:15:44
+
+![Önizleme](https://cs-tf.com/wp-content/uploads/2023/04/Chicken-Plucker-Plan-768x1152.jpg)
+
+
+---
+
+### 37. [Pneumatic Piston Filler at ₹ 135000 | Piston Filling Machine in Mumbai ...](https://www.indiamart.com/proddetail/pneumatic-piston-filler-26247673788.html)
+- **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
 - **Doğrulama Skoru:** `% 80` (working_variation)
-- **AI Teknik İncelemesi:** Both images depict bearing housing components, with the reference being a sectional technical drawing and the candidate showing the physical machining process of a similar flanged bearing housing.
-- **Tarih:** 2026-10-11 14:12:32
+- **AI Teknik İncelemesi:** Both images show dual-piston volumetric filling mechanisms, though the candidate is a standalone benchtop variant compared to the conveyor-integrated system in the blueprint.
+- **Tarih:** 2026-10-10 23:14:31
 
-![Önizleme](https://i.ytimg.com/vi/EQZWzsLKNic/maxresdefault.jpg)
+![Önizleme](https://5.imimg.com/data5/SELLER/Default/2024/2/388624725/YX/NB/CM/1686681/double-nozzle-pneumatic-piston-filling-machine-1000x1000.jpeg)
 
 
 ---
 
-### 7. [Split Pillow Block Bearings From China – Leading Bearing Manufacturer from China | EGI Bearing](https://egibearing.com/split-pillow-block-bearings/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
+### 38. [diy automatic chicken egg turner - YouTube](https://www.youtube.com/watch?v=8CZd4p55jH4)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The image shows the physical assembly and installation of a flanged bearing unit on a shaft, which aligns with the technical mounting configuration depicted in the reference diagram.
-- **Tarih:** 2026-10-11 12:22:43
+- **AI Teknik İncelemesi:** Both images demonstrate the same functional principle of an automatic egg turner driven by a low-RPM synchronous motor, despite the difference in construction materials (wood/3D-printed vs. metal wire frame).
+- **Tarih:** 2026-10-10 23:11:02
 
-![Önizleme](https://egibearing.com/wp-content/uploads/2024/03/split-pillow-block-bearing-installation.webp)
+![Önizleme](https://i.ytimg.com/vi/8CZd4p55jH4/hqdefault.jpg)
 
 
 ---
 
-### 8. [608 Bearing Pillow Block Housing by kresty - Thingiverse | Woodworking lamp, Cnc router projects ...](https://www.pinterest.com/pin/608-bearing-pillow-block-housing-by-kresty-thingiverse--794885402966700392/)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
+### 39. [Egg Turner Kit for Cabinet Incubators | Incubator Warehouse](https://incubatorwarehouse.com/products/cabinet-egg-turner-kit)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** Both images demonstrate the fundamental principle of a flanged bearing housing, where the second image shows a 3D-printed DIY equivalent of the industrial assembly illustrated in the reference.
-- **Tarih:** 2026-10-11 12:21:58
+- **AI Teknik İncelemesi:** Both images represent automatic egg turner mechanisms for incubators; while the reference is a plastic-framed sliding design, the candidate is a larger, metal-framed tilting-tray design, both serving the identical functional purpose.
+- **Tarih:** 2026-10-10 23:09:46
 
-![Önizleme](https://i.pinimg.com/736x/30/81/e2/3081e29a25322fa7185b4056860f16e3.jpg)
+![Önizleme](https://incubatorwarehouse.com/cdn/shop/files/img_2508_1280x.jpg?v=1689180373)
 
 
 ---
 
-### 9. [pillow block bearing instaling - YouTube](https://www.youtube.com/shorts/ezX35QnDBUE)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
+### 40. [Reptile Incubator Egg Turner at Kathleen Flores blog](https://storage.googleapis.com/dippviltjahwje/reptile-incubator-egg-turner.html)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 100` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is identical to the reference image, confirming it is the same DIY automatic egg turner mechanism.
+- **Tarih:** 2026-10-10 23:09:39
+
+![Önizleme](https://i.ytimg.com/vi/xgvHjhJRGOs/maxresdefault.jpg)
+
+
+---
+
+### 41. [Egg Turner Incubator automatic - YouTube](https://www.youtube.com/watch?v=kaXIYwMvwLk)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a practical implementation of a pillow block bearing on a gate frame, which functions as a direct real-world variant of the flange-mounted bearing mechanism shown in the technical reference.
-- **Tarih:** 2026-10-11 12:14:10
+- **AI Teknik İncelemesi:** Both images demonstrate functional DIY automatic egg turner mechanisms for incubators, utilizing similar tray-based oscillation systems despite differences in construction materials and linkage design.
+- **Tarih:** 2026-10-10 23:09:30
 
-![Önizleme](https://i.ytimg.com/vi/ezX35QnDBUE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCjhUXsqlGYSpUVktAW10HJIUW7DA)
+![Önizleme](https://i.ytimg.com/vi/kaXIYwMvwLk/maxresdefault.jpg)
 
 
 ---
 
-### 10. [STL file Bearing housing 🧪 ・3D printing model to download・Cults](https://cults3d.com/en/3d-model/tool/bearing-housing)
-- **Hedef Parça:** `Flanged Bearing Unit / Flanşlı Yatak`
+### 42. [Incubator Egg Turner - automatic egg turner - how to make egg turner ...](https://www.youtube.com/watch?v=14kmLQM7ymk)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate is a 3D-printed plastic housing for a standard radial ball bearing, which functions as a direct DIY functional equivalent to the flanged bearing unit shown in the technical cross-section.
-- **Tarih:** 2026-10-11 12:12:46
+- **AI Teknik İncelemesi:** Both images demonstrate DIY automatic egg turner mechanisms for incubators, though they use different drive systems (oscillating linkage versus chain-driven rollers).
+- **Tarih:** 2026-10-10 23:09:22
 
-![Önizleme](https://fbi.cults3d.com/uploaders/38107610/illustration-file/12dcb4f6-33b8-4fe0-a7b8-13c56306d425/4.jpg)
+![Önizleme](https://i.ytimg.com/vi/14kmLQM7ymk/maxresdefault.jpg)
 
 
 ---
 
-### 11. [Steel Furnance Bearing Housing Casting at ₹ 450/kg in Faridabad | ID ...](https://www.indiamart.com/proddetail/bearing-housing-casting-2857592171912.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 43. [HOW TO MAKE AUTOMATIC EGG TURNER FOR INCUBATOR (ROLL TYPE) (ENGLISH SUB ...](https://www.youtube.com/watch?v=O8Ek3oLSShE)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows raw cast iron housings consistent with the structural foundation of heavy-duty flanged bearing units, representing the unmachined physical component of the mechanism depicted in the schematic.
-- **Tarih:** 2026-10-11 10:20:34
+- **AI Teknik İncelemesi:** Both images demonstrate DIY automatic egg turner mechanisms utilizing a gear motor to provide oscillatory motion to the egg housing frame.
+- **Tarih:** 2026-10-10 23:09:14
 
-![Önizleme](https://5.imimg.com/data5/SELLER/Default/2025/9/548258846/YN/VP/MO/248863687/bearing-housing-casting-1000x1000.jpeg)
+![Önizleme](https://i.ytimg.com/vi/O8Ek3oLSShE/maxresdefault.jpg)
 
 
 ---
 
-### 12. [Cast Iron Bearing Housing Casting at ₹ 90/kg in Ahmedabad | ID ...](https://www.indiamart.com/proddetail/cast-iron-bearing-housing-casting-2850758755797.html)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 44. [Egg turner incubator - egg turning tray - automatic egg turner - auto ...](https://www.youtube.com/watch?v=rUSB85M9m3Q)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a raw cast or fabricated bearing housing assembly that corresponds structurally to the mounting and housing geometry depicted in the reference technical drawing.
-- **Tarih:** 2026-10-11 10:20:32
+- **AI Teknik İncelemesi:** Both images demonstrate DIY automatic egg turner mechanisms utilizing oscillating rack designs powered by external motors, representing the same functional category.
+- **Tarih:** 2026-10-10 23:09:06
 
-![Önizleme](https://5.imimg.com/data5/NSDMERP/Default/2023/2/MS/BK/UU/4079933/ci-bearing-bracket-1677237443555-1000x1000.jpg)
-
-
----
-
-### 13. [How Do You Install a Flange Bearing? - Flanged Bearing Installation](https://www.mdsofmi.com/how-do-you-install-flange-bearing/)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
-- **Doğrulama Skoru:** `% 80` (working_variation)
-- **AI Teknik İncelemesi:** Both images feature industrial rolling-element bearings; while Image 1 is a cross-sectional technical drawing of a flanged unit and Image 2 is a physical photograph of a standalone bearing, they represent the same core mechanical component category.
-- **Tarih:** 2026-10-11 10:18:23
-
-![Önizleme](https://www.mdsofmi.com/wp-content/uploads/2022/03/How-Do-You-Install-a-Flange-Bearing-MDS-of-MI.png)
+![Önizleme](https://i.ytimg.com/vi/rUSB85M9m3Q/maxresdefault.jpg)
 
 
 ---
 
-### 14. [Germe Manşon rulman montajı nasıl yapılır-Rulman Montajı-Oynak Makaralı ...](https://www.youtube.com/watch?v=u51kO7cxAuU)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı rulman yatağı`
+### 45. [how to make mini eggs turner for incubator - diy egg turner incubator ...](https://www.youtube.com/watch?v=IxC2EcugH0c)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a physical plummer block housing containing a bearing and shaft that matches the mechanical assembly principles depicted in the technical reference cross-section.
-- **Tarih:** 2026-10-11 10:16:59
+- **AI Teknik İncelemesi:** Both images demonstrate functional DIY automatic egg turner mechanisms for incubators, though they employ different mechanical designs—a linear rack system in image 1 and a rotary carousel system in image 2.
+- **Tarih:** 2026-10-10 23:08:58
 
-![Önizleme](https://i.ytimg.com/vi/u51kO7cxAuU/maxresdefault.jpg)
-
-
----
-
-### 15. [UCFL204-12 Imperial Two Bolt Oval Cast Iron Flange Housing ...](https://www.northwestbearings.co.uk/UCFL204-12-Imperial-Two-Bolt-Oval-Cast-Iron-Flange-Housing-With-a-3-4-inch-Bore-insert)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 95` (exact_match)
-- **AI Teknik İncelemesi:** Image 2 is the physical industrial version of the 2-bolt oval flanged bearing unit depicted in the technical cross-section of Image 1.
-- **Tarih:** 2026-10-11 08:24:12
-
-![Önizleme](https://www.northwestbearings.co.uk/image/cache/catalog/categories/UCFL-1000x1000.jpg)
+![Önizleme](https://i.ytimg.com/vi/IxC2EcugH0c/maxresdefault.jpg)
 
 
 ---
 
-### 16. [Flange Bearing](https://www.geocities.ws/rjsny/Flange_Bearing/body_flange_bearing.html)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 demonstrates a real-world implementation of the 4-bolt flanged bearing housing unit shown in the cross-sectional diagram of Image 1.
-- **Tarih:** 2026-10-11 08:16:40
+### 46. [automatic egg turner incubator - how to design egg turner - automatic ...](https://www.youtube.com/watch?v=hax2OaDllQ4)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images represent DIY automatic egg turning mechanisms designed for incubators, despite using different construction materials (wood/3D-print vs. PVC/wire mesh).
+- **Tarih:** 2026-10-10 23:08:45
 
-![Önizleme](https://www.geocities.ws/rjsny/Flange_Bearing/flangebearing.jpg)
-
-
----
-
-### 17. [Auger Bearing UCFA210-32 Flange Mounted Bearing - 2-Bolt Adjustable ...](https://saintcapsc.com/Flange-Mounted-Bearing-2-Bolt-Adjustable-Oval-Mount-Pack-o-673011)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 88` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 is a commercial 2-bolt flanged bearing housing unit corresponding to the functional mechanical assembly illustrated in the cross-section drawing of Image 1.
-- **Tarih:** 2026-10-11 08:13:41
-
-![Önizleme](https://www.ldk-bearings.com/uploads/file/20240627/16/mounted-ball-bearings-with-two-bolt-flange.webp)
+![Önizleme](https://i.ytimg.com/vi/hax2OaDllQ4/maxresdefault.jpg)
 
 
 ---
 
-### 18. [Item # UCF204, Four Bolt Square Flanged Unit, Cast Housing, Set Screw ...](https://bearingfinder.ntnamericas.com/item/four-bolt-flange-unit-square-style/quare-flanged-unit-cast-housing-set-screw-ucf-type/ucf204)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 47. [How to Make AUTOMATIC EGG TURNER at home - EGG Turner INCUBATOR in 2025 ...](https://www.pinterest.com/pin/how-to-make-automatic-egg-turner-at-home-egg-turner-incubator-in-2025--600104719131040188/)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images show DIY automatic egg turner mechanisms for incubators, though they use different drive methods; the first uses a rocking tray system while the second uses a rolling belt system.
+- **Tarih:** 2026-10-10 23:08:25
+
+![Önizleme](https://i.pinimg.com/originals/03/c1/72/03c172076f134342ca86ed614e50a8cc.jpg)
+
+
+---
+
+### 48. [Automatic Egg Turner. How to make an Automatic Egg Turner for Incubator ...](https://www.pinterest.com/pin/automatic-egg-turner-how-to-make-an-automatic-egg-turner-for-incubator-in-easy-way--379780181091611792/)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 100` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is identical to the reference image, depicting the same DIY egg turner mechanism.
+- **Tarih:** 2026-10-10 23:08:17
+
+![Önizleme](https://i.pinimg.com/736x/9d/3c/0e/9d3c0efae4f1a0d07db568cdf04384ca.jpg)
+
+
+---
+
+### 49. [Egg Turning Tray For Incubator at Glenda Macon blog](https://storage.googleapis.com/deaushclhnzlee/egg-turning-tray-for-incubator.html)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images demonstrate DIY automatic egg turner mechanisms for incubators, though Image 1 uses a sliding rack design and Image 2 uses a motorized roller design.
+- **Tarih:** 2026-10-10 23:07:49
+
+![Önizleme](https://i.ytimg.com/vi/bmYB8UTUfwE/maxresdefault.jpg)
+
+
+---
+
+### 50. [Egg turner automatic incubator - egg turner - auto turning egg tray ...](https://www.youtube.com/watch?v=vQLrBNHcAcs)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Both images demonstrate DIY automatic egg turner mechanisms for incubators, though they utilize different actuation designs and frame materials.
+- **Tarih:** 2026-10-10 23:07:35
+
+![Önizleme](https://i.ytimg.com/vi/vQLrBNHcAcs/maxresdefault.jpg)
+
+
+---
+
+### 51. [Diy Egg Incubator With Automatic Turner Diy at James Frary blog](https://storage.googleapis.com/dwqhepxchgahie/diy-egg-incubator-with-automatic-turner-diy.html)
+- **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
+- **Doğrulama Skoru:** `% 100` (exact_match)
+- **AI Teknik İncelemesi:** The candidate image is an identical copy of the reference image.
+- **Tarih:** 2026-10-10 23:07:28
+
+![Önizleme](https://i.pinimg.com/originals/9d/3c/0e/9d3c0efae4f1a0d07db568cdf04384ca.jpg)
+
+
+---
+
+### 52. [Hydraulic Wood Splitter Screw Log Splitters Wood Drill Attachment Cone ...](https://www.walmart.com/ip/Hydraulic-Wood-Splitter-Screw-Log-Splitters-Wood-Drill-Attachment-Cone-Firewood-Drill-for-Mini-Excavator/17305221977)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Image 2 shows a finished, functional hydraulic-driven log splitter attachment that utilizes a cone geometry matching the mechanical design intent specified in the technical drawing.
+- **Tarih:** 2026-10-10 23:06:27
+
+![Önizleme](https://i5.walmartimages.com/seo/Hydraulic-Wood-Splitter-Screw-Log-Splitters-Wood-Drill-Attachment-Cone-Firewood-Drill-for-Mini-Excavator_f904ac68-ae20-4ec3-9735-58ce3a6743e6.4709b36a18ce6183de1c304fb90c6ad5.webp)
+
+
+---
+
+### 53. [Excavator conical log splitter - Robustrack](https://robustrack.co.uk/excavator-conical-log-splitter/)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** Image 2 shows a physical 4-bolt square flanged bearing unit featuring the same housing, grease nipple, and insert bearing construction detailed in the Image 1 cross-section.
-- **Tarih:** 2026-10-11 08:10:38
+- **AI Teknik İncelemesi:** The image shows a heavy-duty hydraulic wood splitter cone attached to machinery, which is the functional application of the technical blueprint provided.
+- **Tarih:** 2026-10-10 23:05:59
 
-![Önizleme](https://bearingfinder.ntnamericas.com/Asset/Four_Bolt_Square_Flanged_Unit_Cast_Housing_Set_Screw_UCF_Type_PR.jpg)
-
-
----
-
-### 19. [Adjusting M Type lathe spindle bearings 2 - YouTube](https://www.youtube.com/watch?v=mGzwNrD3GVM)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image depicts a functional mechanical assembly involving a bearing housing structure similar to the flanged bearing unit shown in the reference cross-section.
-- **Tarih:** 2026-10-11 04:12:10
-
-![Önizleme](https://i.ytimg.com/vi/mGzwNrD3GVM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgXChSMA8=&rs=AOn4CLCDt4F0mO-jyi_mSiUGvnSGzGQ0hg)
+![Önizleme](https://robustrack.co.uk/wp-content/uploads/2022/07/log-splitter-1.jpg)
 
 
 ---
 
-### 20. [Turning a Precision Bearing Seat on Shaft | CNC Lathe Machining # ...](https://www.youtube.com/watch?v=96Xnr9xIoHg)
-- **Hedef Parça:** `Flanged bearing unit / Flanşlı yatak`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows the machining process (turning on a lathe) required to create the shaft and bearing seat shown in the technical reference.
-- **Tarih:** 2026-10-11 04:11:53
-
-![Önizleme](https://i.ytimg.com/vi/96Xnr9xIoHg/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEgwDw==&rs=AOn4CLDcq_7sDtaP4ET0HhsWwuRZw1K67A)
-
-
----
-
-### 21. [Homemade bearing flanges with the drill press - YouTube](https://www.youtube.com/watch?v=_JGfMgnby2E)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
-- **Doğrulama Skoru:** `% 85` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a functional DIY implementation of a flanged bearing housing concept, using a similar shaft-support assembly as the reference diagram.
-- **Tarih:** 2026-10-11 00:23:41
-
-![Önizleme](https://i.ytimg.com/vi/_JGfMgnby2E/maxresdefault.jpg)
-
-
----
-
-### 22. [DIY Equatorial Inverted Fork Pillow Block Flange Bearing Build - ATM ...](https://www.cloudynights.com/forums/topic/757128-diy-equatorial-inverted-fork-pillow-block-flange-bearing-build/)
-- **Hedef Parça:** `Flanged Bearing Housing / Flanşlı Rulman Yatağı`
+### 54. [Customized Hydraulic Log Splitter for Excavators & Loaders](https://www.alibaba.com/product-detail/Factory-Customized-Hydraulic-Screw-Cone-Log_1600574875224.html)
+- **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
+**Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
-- **AI Teknik İncelemesi:** The candidate image shows a physical implementation of the flanged bearing housing mechanism depicted in the reference drawing, utilizing identical mounting orientation and shaft support principles.
-- **Tarih:** 2026-10-11 00:23:23
+- **AI Teknik İncelemesi:** The candidate image shows a hydraulic screw log splitter cone mounted on a skid steer, which is the functional application described by the technical blueprint in the reference image.
+- **Tarih:** 2026-10-10 23:05:53
 
-![Önizleme](https://www.cloudynights.com/uploads/monthly_03_2021/post-30948-0-33569500-1616344231.jpg)
+![Önizleme](https://sc04.alicdn.com/kf/U81c5d552d7b44c2bace6557b8fb72c37j/243729781/U81c5d552d7b44c2bace6557b8fb72c37j.jpg)
 
 
 ---
 
-### 23. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/splitting-cones-log-splitter-splitting-machine-wwwlogsplitterscrewcom--921267667495643911/)
+### 55. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/splitting-cones-log-splitter-splitting-machine-wwwlogsplitterscrewcom--921267667495643911/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -4319,7 +3403,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 24. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/331999803785874352/)
+### 56. [Splitting Cones - log splitter - splitting machine www.logsplitterscrew ...](https://www.pinterest.com/pin/331999803785874352/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -4331,7 +3415,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 25. [32mm Firewood Drill Bit HSS Wood Splitting Cone for Wood Breaking ...](https://www.dhgate.com/goods/997154161.html)
+### 57. [32mm Firewood Drill Bit HSS Wood Splitting Cone for Wood Breaking ...](https://www.dhgate.com/goods/997154161.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -4343,7 +3427,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 26. [Firewood Log Splitter Cone Bits 6-Piece Firewood Log Splitter Drill Bit ...](https://bat-prefab.com/944271/6-Piece-Firewood-Log-Splitter-Drill-Bit-Set-32mm-42mm-Wood)
+### 58. [Firewood Log Splitter Cone Bits 6-Piece Firewood Log Splitter Drill Bit ...](https://bat-prefab.com/944271/6-Piece-Firewood-Log-Splitter-Drill-Bit-Set-32mm-42mm-Wood)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -4355,7 +3439,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 27. [Twist Log Splitter Cone Miniduino High-Speed Firewood Drill Bit - Wood ...](https://bitfoundry.co.za/Miniduino-High-Speed-Firewood-Drill-Bit-Wood-Splitting-Screw-844133)
+### 59. [Twist Log Splitter Cone Miniduino High-Speed Firewood Drill Bit - Wood ...](https://bitfoundry.co.za/Miniduino-High-Speed-Firewood-Drill-Bit-Wood-Splitting-Screw-844133)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -4367,7 +3451,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 28. [Sidiros Screw Cone Log Splitter SPL80EL - Σχιστικό ξύλων με κώνο ...](https://www.youtube.com/watch?v=WexxBjvy1O8)
+### 60. [Sidiros Screw Cone Log Splitter SPL80EL - Σχιστικό ξύλων με κώνο ...](https://www.youtube.com/watch?v=WexxBjvy1O8)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -4379,7 +3463,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 29. [Firewood Log Splitter, 3pcs Drill Bit Removable Cones Kindling Wood ...](https://dropshopping.org/product/firewood-log-splitter-3pcs-drill-bit-removable-cones-kindling-wood-splitting-logs-bits-heavy-duty-electric-drills-screw-cone-driver-hex-square-round-32mm-1-26inch)
+### 61. [Firewood Log Splitter, 3pcs Drill Bit Removable Cones Kindling Wood ...](https://dropshopping.org/product/firewood-log-splitter-3pcs-drill-bit-removable-cones-kindling-wood-splitting-logs-bits-heavy-duty-electric-drills-screw-cone-driver-hex-square-round-32mm-1-26inch)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 98` (exact_match)
@@ -4391,7 +3475,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 30. [Oxygen Tank Hand Truck at Amy Grant blog](https://storage.googleapis.com/ditcvyzfygsswe/oxygen-tank-hand-truck.html)
+### 62. [Oxygen Tank Hand Truck at Amy Grant blog](https://storage.googleapis.com/ditcvyzfygsswe/oxygen-tank-hand-truck.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a double gas cylinder truck variant with the same functional design, frame structure, caster wheels, and safety chains as the single-cylinder reference in Image 1.
@@ -4402,7 +3486,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 31. [Welding cylinder cutting torch carts material handling equipment ...](https://www.artofit.org/image-gallery/311241024251401629/welding-cylinder-cutting-torch-carts-material-handling-equipment-company/)
+### 63. [Welding cylinder cutting torch carts material handling equipment ...](https://www.artofit.org/image-gallery/311241024251401629/welding-cylinder-cutting-torch-carts-material-handling-equipment-company/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a heavy-duty fabricated gas cylinder cart with two main wheels, a baseplate, and a chain restraint, representing a robust working variation of the reference gas cylinder truck design.
@@ -4413,7 +3497,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 32. [17 Best images about Welding cart on Pinterest | Coats, Shops and Posts](https://www.pinterest.com/wesreed1/welding-cart/)
+### 64. [17 Best images about Welding cart on Pinterest | Coats, Shops and Posts](https://www.pinterest.com/wesreed1/welding-cart/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom-built DIY variant of a gas cylinder truck with a similar multi-wheel layout and inclined frame structure, though constructed from square tubing instead of round bent pipes.
@@ -4424,7 +3508,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 33. [Heavy Duty Gas Cylinder Cart with Auxiliary Wheel - Dual Oxygen ...](https://www.walmart.com/ip/Heavy-Duty-Gas-Cylinder-Cart-Auxiliary-Wheel-Dual-Oxygen-Acetylene-Dolly-Welding-Tank-Hand-Truck-Secure-Chain-Triangular-Structure-All-Terrain-Tires/19335315185)
+### 65. [Heavy Duty Gas Cylinder Cart with Auxiliary Wheel - Dual Oxygen ...](https://www.walmart.com/ip/Heavy-Duty-Gas-Cylinder-Cart-Auxiliary-Wheel-Dual-Oxygen-Acetylene-Dolly-Welding-Tank-Hand-Truck-Secure-Chain-Triangular-Structure-All-Terrain-Tires/19335315185)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a similar convertible gas cylinder hand truck designed for dual positions (upright and tilted), though differing slightly in color and wheel configuration.
@@ -4435,7 +3519,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 34. [Welding Cart Ideas](https://ar.inspiredpencil.com/pictures-2023/welding-cart-ideas)
+### 66. [Welding Cart Ideas](https://ar.inspiredpencil.com/pictures-2023/welding-cart-ideas)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a custom-fabricated gas cylinder cart with wheels, baseplate, and support frame functionally identical to the reference product.
@@ -4446,7 +3530,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 35. [Gas Cylinder Cart 2.0 | Strong hand tools, Welding cart, Cylinder](https://www.pinterest.com/pin/gas-cylinder-cart-20--486388828522184194/)
+### 67. [Gas Cylinder Cart 2.0 | Strong hand tools, Welding cart, Cylinder](https://www.pinterest.com/pin/gas-cylinder-cart-20--486388828522184194/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a functional gas cylinder transport truck performing the same core mechanical function and geometry as the reference, differing mainly in color and minor frame construction details.
@@ -4457,7 +3541,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 36. [Diy welding setup ideas | Gas cylinder storage cart, Organizing welding ...](https://www.pinterest.com/pin/torch-cart--38069559337756812/)
+### 68. [Diy welding setup ideas | Gas cylinder storage cart, Organizing welding ...](https://www.pinterest.com/pin/torch-cart--38069559337756812/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom-built, heavy-duty DIY variant of the gas cylinder truck shown in Image 1, featuring a similar wheeled chassis and dual-cylinder carriage design.
@@ -4468,7 +3552,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 37. [Metal Tüp taşıma arabası | ENDÜSTRİ GRUP YATIRIM](https://www.endustriyatirim.com/tekerlekli-sanayi-oksijen-tupu-metal-tasima-el-arabasi-arabalari-fiyatlari/)
+### 69. [Metal Tüp taşıma arabası | ENDÜSTRİ GRUP YATIRIM](https://www.endustriyatirim.com/tekerlekli-sanayi-oksijen-tupu-metal-tasima-el-arabasi-arabalari-fiyatlari/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images show gas cylinder transport trucks with dual-wheel configurations and chain restraints, though the candidate features a standard two-wheel upright design compared to the reference four-wheel articulated model.
@@ -4479,7 +3563,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 38. [Kaynak Tüpü Taşıma Arabası](https://kolitasimaarabalari.com/urun/kaynak-tupu-tasima-arabasi)
+### 70. [Kaynak Tüpü Taşıma Arabası](https://kolitasimaarabalari.com/urun/kaynak-tupu-tasima-arabasi)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a functional gas cylinder truck designed for multiple tanks, sharing the same core structural intent and safety chain mechanism as the reference product despite being a blue-painted dual-cylinder variant.
@@ -4490,7 +3574,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 39. [DIY by GPPH #004: How to make Gas Cylinder Trolley on the Welding Table ...](https://www.youtube.com/watch?v=MKsb1M5uVhk)
+### 71. [DIY by GPPH #004: How to make Gas Cylinder Trolley on the Welding Table ...](https://www.youtube.com/watch?v=MKsb1M5uVhk)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a DIY project variant of a gas cylinder trolley that serves the exact same functional purpose, though with simplified structural tubing compared to the reference design.
@@ -4501,7 +3585,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 40. [Oxygen Acetylene Cart Build Part 1 of 2 - YouTube](https://www.youtube.com/watch?v=8tOZ2Kfp70c)
+### 72. [Oxygen Acetylene Cart Build Part 1 of 2 - YouTube](https://www.youtube.com/watch?v=8tOZ2Kfp70c)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a custom-built DIY oxy-fuel gas cylinder cart serving the identical core function and mechanical layout as the reference truck.
@@ -4512,7 +3596,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 41. [basic oxy/acetylene torch cart http://www.millerwelds.com/resources ...](https://www.pinterest.com/pin/resources-welding-projects-guides-videos--630715122833831084/)
+### 73. [basic oxy/acetylene torch cart http://www.millerwelds.com/resources ...](https://www.pinterest.com/pin/resources-welding-projects-guides-videos--630715122833831084/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom-fabricated DIY variant of a gas cylinder truck featuring the same fundamental wheeled frame and chain retention system, though built with square tubing and a different base geometry.
@@ -4523,7 +3607,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 42. [Gas Cylinder Cart Trolley](https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart-trolley)
+### 74. [Gas Cylinder Cart Trolley](https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart-trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a different model of a gas cylinder truck designed for multiple bottles rather than the single-bottle tripod design in Image 1, but it serves the identical functional purpose.
@@ -4534,7 +3618,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 43. [Tüp Taşıma Arabaları | Gaz Tüpü Taşıma ve Kaynak Set Arabaları – Vona Gaz](https://vonagaz.com/tup-tasima-arabalari-pd-375)
+### 75. [Tüp Taşıma Arabaları | Gaz Tüpü Taşıma ve Kaynak Set Arabaları – Vona Gaz](https://vonagaz.com/tup-tasima-arabalari-pd-375)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict gas cylinder trucks (tüp arabası), though Image 2 shows a dual-cylinder welded frame design rather than the specific multi-caster folding tubular frame in Image 1.
@@ -4545,7 +3629,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 44. [GAS CYLINDER CART - MMA Steel](https://www.mma.com.sg/latest-projects/gas-cylinder-cart/)
+### 76. [GAS CYLINDER CART - MMA Steel](https://www.mma.com.sg/latest-projects/gas-cylinder-cart/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom-built working variation of a gas cylinder truck with matching frame geometry and cylinder retention mechanism, though built with simplified dual wheels instead of the reference four-wheel design.
@@ -4556,7 +3640,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 45. [Gas Cylinder Cart 2.0 – Strong Hand Tools](https://stronghandtools.com/products/gcc210)
+### 77. [Gas Cylinder Cart 2.0 – Strong Hand Tools](https://stronghandtools.com/products/gcc210)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a custom yellow-painted gas cylinder truck with pneumatic wheels, closely matching the multi-wheeled inclined frame design of the reference.
@@ -4567,7 +3651,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 46. [Image result for gas welding cart plans | Welding cart, Welding cart ...](https://www.pinterest.com/pin/330873903857684065/)
+### 78. [Image result for gas welding cart plans | Welding cart, Welding cart ...](https://www.pinterest.com/pin/330873903857684065/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Both images show gas cylinder transport trucks with retaining chains and similar wheeled configurations, although the candidate is a custom-built dual-cylinder cart with an integrated toolbox.
@@ -4578,7 +3662,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 47. [Gas Cylinder Trolleys | Fast Delivery](https://www.firstmats.co.uk/collections/gas-cylinder-trolleys)
+### 79. [Gas Cylinder Trolleys | Fast Delivery](https://www.firstmats.co.uk/collections/gas-cylinder-trolleys)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a fully assembled, functional gas cylinder truck with identical structural frame and wheel configuration to the reference product, differing primarily in color and the addition of a loaded gas cylinder.
@@ -4589,7 +3673,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 48. [Mild Steel Single Gas Cylinder Trolley at Rs 5000 in Bengaluru | ID ...](https://www.indiamart.com/proddetail/industrial-oxygen-cylinder-trolley-2854373149148.html)
+### 80. [Mild Steel Single Gas Cylinder Trolley at Rs 5000 in Bengaluru | ID ...](https://www.indiamart.com/proddetail/industrial-oxygen-cylinder-trolley-2854373149148.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a fabricated working variation of the reference gas cylinder truck with a similar multi-wheel layout and chain retention mechanism, though differing in finish and structural frame details.
@@ -4600,7 +3684,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 49. [CO2 And Oxygen gas cylinders trolley at ₹ 4950 | Pune | ID: 2853103318030](https://www.indiamart.com/proddetail/co2-and-oxygen-gas-cylinders-trolley-2853103318030.html)
+### 81. [CO2 And Oxygen gas cylinders trolley at ₹ 4950 | Pune | ID: 2853103318030](https://www.indiamart.com/proddetail/co2-and-oxygen-gas-cylinders-trolley-2853103318030.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 88` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a custom-built, yellow-painted DIY dual gas cylinder truck that closely replicates the mechanical layout and structural frame of the reference design.
@@ -4611,7 +3695,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 50. [How To Remove Pillow Block Bearing From Shaft at Harry Brawner blog](https://storage.googleapis.com/djrozxznvgxyee/how-to-remove-pillow-block-bearing-from-shaft.html)
+### 82. [How To Remove Pillow Block Bearing From Shaft at Harry Brawner blog](https://storage.googleapis.com/djrozxznvgxyee/how-to-remove-pillow-block-bearing-from-shaft.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a handmade custom variation of the pillow block bearing mechanism presented in the reference technical diagram.
@@ -4622,7 +3706,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 51. [DIY Pillow Bearing block | Bearing Mount DIY - YouTube](https://www.youtube.com/shorts/V8mCz9nTSds)
+### 83. [DIY Pillow Bearing block | Bearing Mount DIY - YouTube](https://www.youtube.com/shorts/V8mCz9nTSds)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a DIY fabrication process attempting to construct a pillow block bearing housing similar to the assembly shown in the reference image.
@@ -4633,7 +3717,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 52. [Simple Pillow Block Bearing Handmade - YouTube](https://www.youtube.com/watch?v=hegAwQVwkeQ)
+### 84. [Simple Pillow Block Bearing Handmade - YouTube](https://www.youtube.com/watch?v=hegAwQVwkeQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a handmade DIY version of the pillow block bearing mechanism presented in the technical drawing of Image 1.
@@ -4644,7 +3728,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 53. [Bearing Housings Archives - NBC](https://www.nbcbearings.com/tag/bearing-housings/)
+### 85. [Bearing Housings Archives - NBC](https://www.nbcbearings.com/tag/bearing-housings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical, installed pillow block bearing mechanism that directly corresponds to the engineering schematic shown in the reference image.
@@ -4655,7 +3739,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 54. [How to make bearing mounts from wood - Use bearings in your woodworking ...](https://www.youtube.com/watch?v=SGYZGCYIgXQ)
+### 86. [How to make bearing mounts from wood - Use bearings in your woodworking ...](https://www.youtube.com/watch?v=SGYZGCYIgXQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom wooden DIY variant of the pillow block bearing shown in Image 1, serving the exact same mechanical functionality.
@@ -4666,7 +3750,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 55. [Homemade Bearing Blocks by John Heisz | Diy bearing installation, Diy ...](https://www.pinterest.com/pin/bearing-blocks-by-john-heisz-homemade-bearing-blocks-constructed-from-lumber-and-bearings-http--450922981426310832/)
+### 87. [Homemade Bearing Blocks by John Heisz | Diy bearing installation, Diy ...](https://www.pinterest.com/pin/bearing-blocks-by-john-heisz-homemade-bearing-blocks-constructed-from-lumber-and-bearings-http--450922981426310832/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a DIY wooden pillow block bearing assembly functioning as a custom working variation of the standard pillow block bearing shown in the reference image.
@@ -4677,7 +3761,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 56. [An Easy Way to Create DIY Bearing Mounts - Core77](https://www.core77.com/posts/77963/An-Easy-Way-to-Create-DIY-Bearing-Mounts)
+### 88. [An Easy Way to Create DIY Bearing Mounts - Core77](https://www.core77.com/posts/77963/An-Easy-Way-to-Create-DIY-Bearing-Mounts)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a custom wooden DIY variant of the pillow block bearing shown in Image 1, replicating the clamping mechanism and housing function using plywood and a standard ball bearing.
@@ -4688,7 +3772,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 57. [Pillow Block Bearing Manufacturers India | Pillow Block Bearings India](https://decbearing.com/pillow-block-bearing-manufacture-india.html)
+### 89. [Pillow Block Bearing Manufacturers India | Pillow Block Bearings India](https://decbearing.com/pillow-block-bearing-manufacture-india.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows assembled pillow block bearings in a workshop setting, which match the technical cross-section shown in Image 1.
