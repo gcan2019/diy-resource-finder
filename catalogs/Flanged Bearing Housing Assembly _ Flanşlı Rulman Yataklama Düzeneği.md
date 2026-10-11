@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 **Doğrulanmış Kaynak Sayısı:** 4 adet
-**Son Güncelleme:** 2026-10-11 21:11:09
+**Son Güncelleme:** 2026-10-11 22:31:15
 
 ---
 

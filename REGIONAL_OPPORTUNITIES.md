@@ -1,12 +1,176 @@
 # ⚙️ Mekanikya (mekanikya.com.tr) — Hızlı Nakit & Üret-Sat Makine Avcısı Raporu
 > **Ortak Mühendis Stratejisi:** Ağır döküm, PLC veya uzun CNC gerektirmeyen; **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Standart Elemanlarla** 1-3 günde üretilip internetten satılarak ilk müşteriden en hızlı nakit kazandıracak makineler ve aparatlar.
 
-**Toplam Tespit Edilen Mekanikya Makinesi / Ürünü:** 5 adet
-**Son Güncelleme:** 2026-10-11 21:59:10
+**Toplam Tespit Edilen Mekanikya Makinesi / Ürünü:** 9 adet
+**Son Güncelleme:** 2026-10-11 22:14:27
 
 ---
 
-## 1. Üçgen Valsli Manuel Kutu Profil, Boru ve Lama Bükme Makinesi (Roll Bender) (⭐ Hızlı Nakit Skoru: %97)
+## 1. Mekanikya FLAT-POLISH Masaüstü Disk Zımpara ve Polisaj İstasyonu (⭐ Hızlı Nakit Skoru: %92)
+- **Teknik Adı:** `Benchtop Disc Sander & Buffing Polishing Station` | **Kategori:** `Zımpara ve Yüzey İşlem Makineleri` | **İmalat Süresi:** `1 Gün (Sadece Lazer Kesim + Montaj)` (`%80 Lazer Sac + %20 Hazır Motor/Mil`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Mekanikya POLISH-PRO-150`
+- **Global Satış / Teknik Adı:** `Combination Disc Sander and Buffer`
+- **Türkiye Pazarı Durumu:** `Türkiye'de ya çok ucuz/dayanıksız Çin malları ya da çok pahalı endüstriyel makineler var. Orta segment 'atölye tipi' boşlukta.`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/71-lG3Xv4lL._AC_SL1500_.jpg`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$120 - $200 USD` *(İthalat Karşılığı: `~4.000 TL - 6.700 TL`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Trendyol/Hepsiburada (Çin malı): 2.500 TL - 4.000 TL (Çok kalitesiz) / Endüstriyel: 12.000 TL+`
+- 📍 **Türkiye Fiyat Kaynağı:** Trendyol / Hepsiburada
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Küçük parçaların kenar çapaklarını alma ve parlatma işlemi için iki ayrı makine yerine tek bir kompakt istasyon sağlar. Sac gövde sayesinde titreşim minimuma iner, hassas çalışma imkanı sunar.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `5mm Lazer Kesim Taban Plakası + 3mm Motor Bağlantı Konsolu (St37)`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Taban plakasının lazerle kesilmesi, motor bağlantı kulaklarının abkantta 90 derece bükülmesi, montaj deliklerinin markalanması.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 1 adet 1/2 HP veya 3/4 HP AC Motor (Hazır), 150mm Alüminyum Zımpara Diski, 100mm Keçe Polisaj Tekeri, 2 adet rulmanlı mil yatağı.
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `1.800 TL / Adet (Motor dahil)`
+- **Mekanikya.com.tr Satış Fiyatımız:** `4.850 TL + KDV / Adet`
+- **Net Kâr:** `3.050 TL / Sipariş` (**%63 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya POLISH-PRO Disk Zımpara ve Polisaj Kombine İstasyonu**
+- **Ürün Rozeti:** `⚡ Çift Fonksiyon | Kompakt Tasarım | Endüstriyel Sac Gövde`
+- **Kısa Teknik Açıklama:** Hem zımparalama hem de parlatma işlemini tek makinede toplayın. 150mm disk zımpara ve polisaj tekerleği ile metal, ahşap ve plastik parçalarınızda mükemmel yüzey kalitesi elde edin.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'POLISH-PRO kombinasyon makinesi için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://manuals.plus/wp-content/uploads/2023/07/WEN-65812-12-Inch-Benchtop-Disc-Sander-TOOL-PURPOSE.png)
+
+- 🖨️ **3D CAD Modeli:** [Explore Disc Sander Models - Shop Powermatic Disc Sanders](https://www.bing.com/aclick?ld=e8GWYPOwNNeLoGbm7zDu-AxjVUCUxWchel18iECMqQiwDms852GpoXNAx-Su4Ydz-3zS4C75XjQ2vjMxcvizC6qSKI8inX10cb5-Ezzey0UH7Lk9UABLlzP5PEaYtgZAPq_0_X8Op3_ChdhCEEYpmhVTlJPTnIghl6vYGXB0_3UnsTCpXJQRXDqXJG-4FAh3CErlu-2g&u=aHR0cHMlM2ElMmYlMmZ3d3cucG93ZXJtYXRpYy5jb20lMmZwcm9kdWN0cyUyZnNhbmRlcnMlMmZkaXNjLXNhbmRlcnMlM2Z1dG1fc291cmNlJTNkQmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2REUk5fTm9uX0JyYW5kZWRfU2VhcmNoX0JpbmclMjZ1dG1fdGVybSUzZGRpc2MlMjUyMHNhbmRlciUyNm1zY2xraWQlM2RmNGY4OTRmMmVjY2IxNzIxNjI3MmZlMzkwY2RjNTFkMiUyNnV0bV9jb250ZW50JTNkRGlzYyUyNTIwU2FuZGVy&rlid=f4f894f2eccb17216272fe390cdc51d2)
+- 🎥 **İmalat / Çalışma Videosu:** [The Ultimate Disk Sander Build FULL PROCESS - YouTubeDIY Sanding Disc Machine | Powerful Homemade Sander BuildHow to Build a Disc Sander from an Old Motor | Full DIY ...Homemade Disc Sander / How to Make a Disk Sander【DIY】Homemade Disc Sander (12inch/300mm) / disc sander buildDisc Sander - Make DIY Build - YouTubeHow to Make a Powerful DIY Disc Sander at Home - YouTube](https://www.youtube.com/watch?v=LxG7QoQIbHo)
+
+---
+
+## 2. Mekanikya GRIND-MAX 2x72 Eğimli Bant Zımpara Şasisi (DIY Kit) (⭐ Hızlı Nakit Skoru: %98)
+- **Teknik Adı:** `Professional 2x72 Tilting Belt Grinder Chassis Kit` | **Kategori:** `Zımpara ve Yüzey İşlem Makineleri` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + Standart Rulman)` (`%90 Lazer Sac & Profil + %10 Hazır Rulman/Civata`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Mekanikya GRIND-MAX-72`
+- **Global Satış / Teknik Adı:** `Tilting Belt Grinder Frame Kit`
+- **Türkiye Pazarı Durumu:** `Türkiye'de bıçak yapımcıları ve hobi metal işleyicileri için kritik eksiklik. İthalat çok pahalı.`
+- **Doğrulanmış Görsel URL:** `https://diktatorgrinder.com/cdn/shop/files/max_chassis_48478c3a-3b57-434b-8a18-aa27e346c496.png?v=1764225031&width=640`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$350 - $500 USD (Sadece şasi)` *(İthalat Karşılığı: `~12.000 TL - 17.000 TL (Gümrük/Kargo hariç)`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Yerli üretim profesyonel kit yok; sadece çok basit, titreyen atölye yapımları var (3.000 - 6.000 TL)`
+- 📍 **Türkiye Fiyat Kaynağı:** Sahibinden / Instagram Bıçakçılar Grupları
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Bıçak yapanlar veya metal sanatçıları için en büyük sorun, zımparayı hem yatay hem dikey kullanabilmek ve titreşimsiz bir gövdeye sahip olmaktır. Bu kit, motoru kullanıcıya bırakarak kargo maliyetini düşürür ve profesyonel rijitliği sağlar.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `8mm ve 10mm St37 Lazer Kesim Gövde Plakaları + 40x40x3mm Kutu Profil Destekler`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Lazer kesim yan plakalar, 90 derece eğim mekanizması için merkezleme delikleri, abkant ile destek ayakları bükümü, statik toz boya.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 4 adet UCP204 Yastıklı Rulman, 20mm İndüksiyonlu Mil (kesilmiş), M12 ve M16 yüksek mukavemetli civatalar, Gerdirme yaylı mekanizma parçaları.
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `2.800 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `7.450 TL + KDV / Adet`
+- **Net Kâr:** `4.650 TL / Sipariş` (**%62 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya GRIND-MAX 2x72 Profesyonel Eğimli Bant Zımpara Şasisi**
+- **Ürün Rozeti:** `🔥 Titreşimsiz Gövde | 0-90° Ayarlanabilir Açı | Hızlı Kurulum Kiti`
+- **Kısa Teknik Açıklama:** Profesyonel bıçak ve metal işleme için tasarlanmış, 2x72 inç standart bant uyumlu, yüksek rijitlikli şasi kiti. 90 derece eğim mekanizması ile hem yatay hem dikey çalışmaya uygundur. Kendi motorunuzu kolayca entegre edin.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'GRIND-MAX zımpara şasisi için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://i.etsystatic.com/30852733/r/il/06b6f0/3238377555/il_fullxfull.3238377555_dawr.jpg)
+
+- 🖨️ **3D CAD Modeli:** [DIY 2x72 belt grinder files - 3D CAD Model Library | GrabCAD](https://grabcad.com/library/diy-2x72-belt-grinder-1/files)
+- 🎥 **İmalat / Çalışma Videosu:** [How to: Build a 2x72 Belt Grinder - A Complete Walk Through2x72 DIY Tilting Belt Grinder Build - For Knifemaking ...DIY 2x72 Belt Grinder Build - Tracking assembly & TEST RUN ...2x72 DIY Tilting Belt Grinder - A New DIY Design - Homemade ...HOW TO: DiY 2x72 Belt Grinder With Tilting Feature - Easy ...DIY 2x72 Belt Grinder Build [FREE PLANS] - YouTubeDIY 2x72 Belt Grinder Build - Wiring & VFD - YouTube](https://www.youtube.com/watch?v=0PEi1AYVin4)
+
+---
+
+## 3. Mekanikya Pipe-Stretch Manuel Boru Daraltma ve Genişletme Aparatı (⭐ Hızlı Nakit Skoru: %98)
+- **Teknik Adı:** `Manual Pipe Shrinker and Stretcher Tool` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri` | **İmalat Süresi:** `1 Gün (Lazer Kesim + Montaj)` (`%90 Lazer Sac + %10 Standart Cıvata/Somun`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Mekanikya PS-100 / Vevor Pipe Tool`
+- **Global Satış / Teknik Adı:** `Tube Shrinker and Expander Tool`
+- **Türkiye Pazarı Durumu:** `İthal ürünler plastik veya kalitesiz döküm, yerli sağlam alternatif aranıyor.`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/61W9X0q5H4L._AC_SL1500_.jpg`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$60 - $120 USD (Amazon / AliExpress)` *(İthalat Karşılığı: `~2.000 TL - 4.000 TL`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `2.500 TL - 5.000 TL (Çin malı düşük kaliteli ürünler)`
+- 📍 **Türkiye Fiyat Kaynağı:** Trendyol / Hepsiburada
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Egzozcuların ve boru tesisatçılarının, farklı çaplardaki boruları birbirine geçirmek için kullandığı 'daraltma-genişletme' işlemini, boruyu yakmadan veya ezmeden profesyonelce yapar.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `20mm St37 Lazer Kesim Gövde Plakaları (Sertleştirilmiş)`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** 2 adet ana gövde plakasının lazer kesimi, merkez deliklerin hassas delinmesi, yüzeylerin taşlanması.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** Yüksek mukavemetli 8.8 kalite M16-M20 cıvatalar, kalın pullar ve basit rulmanlı baskı makaraları.
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `850 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `2.850 TL + KDV / Adet`
+- **Net Kâr:** `2.000 TL / Sipariş` (**%70 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya PS-100 Boru Daraltma ve Genişletme Aparatı**
+- **Ürün Rozeti:** `🛠️ Sanayi Tipi Güçlü Gövde | Egzoz ve Boru İşleri İçin | Hızlı Teslimat`
+- **Kısa Teknik Açıklama:** Boru uçlarını hassas bir şekilde daraltın veya genişletin. Isıl işlem gerektirmez, boruyu deforme etmeden form verir. Ağır hizmet tipi çelik gövdesi ile ömürlük kullanım sunar.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'PS-100 boru daraltma aparatı için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://i.pinimg.com/736x/57/9e/9e/579e9e442981615a7670acb5a661c850.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Stretcher Shrinker | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/stretcher-shrinker-1)
+- 🎥 **İmalat / Çalışma Videosu:** [How Does a Shrinker/Stretcher Actually Work? - YouTube](https://www.youtube.com/shorts/ffMqWdfWwo0)
+
+---
+
+## 4. Mekanikya English-Wheel Profesyonel Sac Şekillendirme ve Kavis Verme Tekerleği (⭐ Hızlı Nakit Skoru: %95)
+- **Teknik Adı:** `Benchtop English Wheel for Sheet Metal Shaping` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri` | **İmalat Süresi:** `2-3 Gün (Lazer Kesim + Hassas Torna Mili + Montaj)` (`%70 Lazer Sac & Profil + %30 Hazır Rulman ve Torna Tekerleği`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Mekanikya EW-PRO / Grizzly T25101 Alt Yapısı`
+- **Global Satış / Teknik Adı:** `Manual Sheet Metal English Wheel`
+- **Türkiye Pazarı Durumu:** `Türkiye'de neredeyse hiç yerli üretimi yok, tamamen ithal ve çok pahalı.`
+- **Doğrulanmış Görsel URL:** `https://images-na.ssl-images.amazon.com/images/I/61FvXf1Z8HL._AC_SL1500_.jpg`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$350 - $600 USD (Amazon / eBay / Grizzly)` *(İthalat Karşılığı: `~12.000 TL - 20.000 TL (Gümrük ve Kargo Dahil)`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Yerli Üretici Yok / İthalatçı fiyatları 25.000 TL+ (Sahibinden/Nadir)`
+- 📍 **Türkiye Fiyat Kaynağı:** Sahibinden / Global Market
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Özel araç kaporta restorasyonu, metal sanatçıları ve uçak gövde işleri yapanlar için sacı çekiçle dövmeden, pürüzsüz ve profesyonel kavisler vermenin tek yoludur.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `12mm ve 15mm St37 Lazer Kesim Yan Gövde Plakaları + 40x40x4mm Kutu Profil Stand`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Yan şaselerin lazerle hassas kesimi, rulman yuvalarının CNC veya rayba ile genişletilmesi, standın kaynaklanması ve toz boya.
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 2 adet C45 veya CK45 çelikten tornalanmış hassas yüzeyli tekerlek, 4 adet UCP serisi yataklı rulman, M16 ayar kolu ve somun.
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `4.500 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `11.500 TL + KDV / Adet`
+- **Net Kâr:** `7.000 TL / Sipariş` (**%61 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya EW-PRO Profesyonel Sac Şekillendirme Tekerleği (English Wheel)**
+- **Ürün Rozeti:** `🚀 Türkiye'nin İlk Yerli Üretimi | Hassas Kavisler | Ağır Hizmet Şasi`
+- **Kısa Teknik Açıklama:** Sac metal parçalara mükemmel kavisler ve formlar vermek için tasarlanmıştır. Otomobil restorasyonu ve özel metal işçiliği için idealdir. Masaüstüne monte edilebilir veya kendi standıyla kullanılabilir.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'EW-PRO sac şekillendirme tekerleği için hemen sipariş vermek istiyorum' (Tıkla & Sipariş Ver)`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://www.custom-choppers-guide.com/images/engshlishbw1.jpg)
+
+- 🖨️ **3D CAD Modeli:** [English wheel | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/english-wheel-11)
+- 🎥 **İmalat / Çalışma Videosu:** [MetalAce English Wheels - Eastwood Metal Wheels](https://www.bing.com/aclick?ld=e86h6S9dB5-EECsNkBEaq5WjVUCUzkqR3YJ-W9lymxHIoQeNxox5ZRg30jLkrkqmBll1Z0u48Hf91E9fKDd85zJVY5rcj_aWoYJoVkVpE6H6JMMbVRI4XP8qVfL6QojPly0rL-F5wcGMEueuTJfcoPfyaI6oNrQsiF-8BoQzJHw9pq0-NkpOrXKbDCA2pauNyoC-LXH1ecFNRGK6tWTIrCfyKpge8&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWFzdHdvb2QuY29tJTJmbWV0YWwtZmFicmljYXRpb24lMmZlbmdsaXNoLXdoZWVsLmh0bWwlM2ZXaWNrZWRzb3VyY2UlM2RNaWNyb3NvZnQlMjZXaWNrZWRpZCUzZDc5MDk2MzE0NDM1MTE4JTdjd2hhdCUyNTIwaXMlMjUyMGFuJTI1MjBlbmdsaXNoJTI1MjB3aGVlbCU3Y3AlMjZtc2Nsa2lkJTNkOThlNjM3NWRiOWI2MWZhOTBiODM1ZDk2Njc2MDg2NmElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RTRU0lMjUyME5CJTI1MjBUYXhvbm9teSUyNTIwLSUyNTIwTWV0YWwlMjUyMEZhYnJpY2F0aW9uJTI2dXRtX3Rlcm0lM2R3aGF0JTI1MjBpcyUyNTIwYW4lMjUyMGVuZ2xpc2glMjUyMHdoZWVsJTI2dXRtX2NvbnRlbnQlM2RTRU0lMjUyME5CJTI1MjBUYXhvbm9teSUyNTIwLSUyNTIwTWV0YWwlMjUyMEZhYnJpY2F0aW9uJTI1MjAtJTI1MjBFbmdsaXNoJTI1MjBXaGVlbA&rlid=98e6375db9b61fa90b835d966760866a)
+
+---
+
+## 5. Üçgen Valsli Manuel Kutu Profil, Boru ve Lama Bükme Makinesi (Roll Bender) (⭐ Hızlı Nakit Skoru: %97)
 - **Teknik Adı:** `Manual Square & Round Tube Roll Bender Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `2 Gün (Lazer Sac Yan Gövdeler + 3 Adet Torna Merdanesi + Yataklı Rulman)` (`%80 Lazer Sac & Basit Torna + %20 Hazır UCP Rulman/Kriko Vidası`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -47,7 +211,7 @@
 
 ---
 
-## 2. Pedallı Krikolu Ağır Yük Makine ve Kaynak Masası Taşıma Ayağı (4'lü Set) (⭐ Hızlı Nakit Skoru: %98)
+## 6. Pedallı Krikolu Ağır Yük Makine ve Kaynak Masası Taşıma Ayağı (4'lü Set) (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `Foot Pedal Lift & Lock Workbench Caster Set` | **Kategori:** `Atölye Taşıma, Kaldırma & Tezgah Ekipmanları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + MAG Kaynak)` (`%85 Lazer Sac & Abkant + %15 Hazır Tekerlek/Klemp`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -88,7 +252,7 @@
 
 ---
 
-## 3. Krikolu / Atölye Presi Uyumlu Masaüstü Abkant Sac Büküm Aparatı (Press Brake Attachment) (⭐ Hızlı Nakit Skoru: %99)
+## 7. Krikolu / Atölye Presi Uyumlu Masaüstü Abkant Sac Büküm Aparatı (Press Brake Attachment) (⭐ Hızlı Nakit Skoru: %99)
 - **Teknik Adı:** `Shop Press Brake Attachment (12" - 20" Heavy Duty Bending Die)` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `1 Gün (Kalın Lazer Kesim + Kaynak + Yay)` (`%90 Lazer Sac & Mil + %10 Hazır Kalıp Yayı`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -129,7 +293,7 @@
 
 ---
 
-## 4. Manuel Kollu Sac Kordon Çekme, Kenar Güçlendirme ve Bükme Makinesi (Bead Roller) (⭐ Hızlı Nakit Skoru: %97)
+## 8. Manuel Kollu Sac Kordon Çekme, Kenar Güçlendirme ve Bükme Makinesi (Bead Roller) (⭐ Hızlı Nakit Skoru: %97)
 - **Teknik Adı:** `Manual Sheet Metal Bead Roller & Rotary Forming Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `2 Gün (10mm Lazer Sac Gövde + Torna Kalıp Makaraları)` (`%85 Lazer Sac & Basit Torna + %15 Hazır Dişli/Yatak`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -170,7 +334,7 @@
 
 ---
 
-## 5. Matkap Tahrikli 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi (Tube Notcher) (⭐ Hızlı Nakit Skoru: %98)
+## 9. Matkap Tahrikli 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi (Tube Notcher) (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `0-60 Degree Adjustable Pipe & Tube Notcher Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + Basit Torna Mili)` (`%85 Lazer Sac & Profil + %15 Hazır Rulman/Mil`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği

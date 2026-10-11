@@ -5,7 +5,7 @@
 **Hedef Ürün:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 **Doğrulanmış Kaynak Sayısı:** 24 adet
-**Son Güncelleme:** 2026-10-11 21:11:09
+**Son Güncelleme:** 2026-10-11 22:31:15
 
 ---
 

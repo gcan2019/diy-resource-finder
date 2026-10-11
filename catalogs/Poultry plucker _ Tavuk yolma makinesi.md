@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Poultry plucker / Tavuk yolma makinesi`
 **Doğrulanmış Kaynak Sayısı:** 46 adet
-**Son Güncelleme:** 2026-10-11 21:11:09
+**Son Güncelleme:** 2026-10-11 22:31:15
 
 ---
 
