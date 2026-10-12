@@ -4336,6 +4336,28 @@
       "variant_type": "working_variation",
       "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (880x614px)) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 06:17:38"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "FLANGE CAST BEARING HOUSING 4 BOLT SQUARE - Collier & Miller",
+      "page_url": "https://www.colliermiller.com.au/f308-flange-cast-bearing-housing-4-bolt-square",
+      "candidate_image_url": "https://www.colliermiller.com.au/Images/F300_Housings.jpg",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 08:14:26"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "One inch square flanged ball bearing CAD model free download | UCF 205 ...",
+      "page_url": "https://www.youtube.com/watch?v=GcTU8RKUAd8",
+      "candidate_image_url": "https://i.ytimg.com/vi/GcTU8RKUAd8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDggWChyMA8=&rs=AOn4CLAL0Kjxa87jzovEq8ZZFgd38hVv0A",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 08:14:47"
     }
   ]
 }
