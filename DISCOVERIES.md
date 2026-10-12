@@ -2,15 +2,26 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Tüm Ürünler Genel Kataloğu`
-**Doğrulanmış Kaynak Sayısı:** 406 adet
-**Son Güncelleme:** 2026-10-12 14:20:11
+**Doğrulanmış Kaynak Sayısı:** 407 adet
+**Son Güncelleme:** 2026-10-12 16:13:48
 
 ---
 
-## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (155 adet)
+## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (156 adet)
 _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
-### 1. [Bearing Housing 5-11-2018 | PDF](https://www.scribd.com/document/401060663/Bearing-Housing-5-11-2018)
+### 1. [Bearing housing and its types. Do-it-yourself bearing housing - Industry](https://techconfronts.com/17217143-bearing-housing-and-its-types-do-it-yourself-bearing-housing)
+- **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
+- **Doğrulama Skoru:** `% 89` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
+- **Tarih:** 2026-10-12 16:13:48
+
+![Önizleme](https://i.techconfronts.com/images/019/image-55677-6-j.webp)
+
+
+---
+
+### 2. [Bearing Housing 5-11-2018 | PDF](https://www.scribd.com/document/401060663/Bearing-Housing-5-11-2018)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 91` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -21,7 +32,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 2. [Mounted Flange Bearings at Stephanie Fleming blog](https://storage.googleapis.com/djgfmvgbvevqge/mounted-flange-bearings.html)
+### 3. [Mounted Flange Bearings at Stephanie Fleming blog](https://storage.googleapis.com/djgfmvgbvevqge/mounted-flange-bearings.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -32,7 +43,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 3. [FLANGE BEARING HOUSING 209 CAST IRON 4 BOLT SQUARE OD:85MM SPHERICAL ...](https://www.colliermiller.com.au/f209-flange-bearing-housing-209-cast-iron-4-bolt-square-od85mm-spherical-bearing)
+### 4. [FLANGE BEARING HOUSING 209 CAST IRON 4 BOLT SQUARE OD:85MM SPHERICAL ...](https://www.colliermiller.com.au/f209-flange-bearing-housing-209-cast-iron-4-bolt-square-od85mm-spherical-bearing)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 88` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -43,7 +54,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 4. [One inch square flanged ball bearing CAD model free download | UCF 205 ...](https://www.youtube.com/watch?v=GcTU8RKUAd8)
+### 5. [One inch square flanged ball bearing CAD model free download | UCF 205 ...](https://www.youtube.com/watch?v=GcTU8RKUAd8)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -54,7 +65,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 5. [FLANGE CAST BEARING HOUSING 4 BOLT SQUARE - Collier & Miller](https://www.colliermiller.com.au/f308-flange-cast-bearing-housing-4-bolt-square)
+### 6. [FLANGE CAST BEARING HOUSING 4 BOLT SQUARE - Collier & Miller](https://www.colliermiller.com.au/f308-flange-cast-bearing-housing-4-bolt-square)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 89` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -65,7 +76,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 6. [How to Design an Oval Flanged Bearing Housing in SolidWorks (Full Step ...](https://www.youtube.com/watch?v=h9y9OJVqLaE)
+### 7. [How to Design an Oval Flanged Bearing Housing in SolidWorks (Full Step ...](https://www.youtube.com/watch?v=h9y9OJVqLaE)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -76,7 +87,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 7. [Session 05 – Case study on Bearing housing (Two-Bolt Flange Mount)](https://designkatha.blogspot.com/2025/12/session-05-case-study-on-bearing.html)
+### 8. [Session 05 – Case study on Bearing housing (Two-Bolt Flange Mount)](https://designkatha.blogspot.com/2025/12/session-05-case-study-on-bearing.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 88` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -87,7 +98,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 8. [China Flange Bearing Housing Manufacturers and Factory - Suppliers Direct Price | CWL](https://www.cwlbearing.com/flange-bearing-housing/)
+### 9. [China Flange Bearing Housing Manufacturers and Factory - Suppliers Direct Price | CWL](https://www.cwlbearing.com/flange-bearing-housing/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -98,7 +109,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 9. [Bearing Housing Assembly Drawing | PDF](https://www.scribd.com/document/910118409/Bearing-Housing-Assembly-Only)
+### 10. [Bearing Housing Assembly Drawing | PDF](https://www.scribd.com/document/910118409/Bearing-Housing-Assembly-Only)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -109,7 +120,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 10. [Precision UFL UCFL Flanged Bearing Housing: Engineering Technical Drawing Wireframe. Minimalist ...](https://stock.adobe.com/images/precision-ufl-ucfl-flanged-bearing-housing-engineering-technical-drawing-wireframe-minimalist-monochrome-line-art-blueprint-for-industrial-machine-parts-power-transmission-and-rotary-motion-devices/1595137450)
+### 11. [Precision UFL UCFL Flanged Bearing Housing: Engineering Technical Drawing Wireframe. Minimalist ...](https://stock.adobe.com/images/precision-ufl-ucfl-flanged-bearing-housing-engineering-technical-drawing-wireframe-minimalist-monochrome-line-art-blueprint-for-industrial-machine-parts-power-transmission-and-rotary-motion-devices/1595137450)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -120,7 +131,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 11. [Bearing Housing And Shaft at Dorothy Hood blog](https://storage.googleapis.com/dlgcefcyteccre/bearing-housing-and-shaft.html)
+### 12. [Bearing Housing And Shaft at Dorothy Hood blog](https://storage.googleapis.com/dlgcefcyteccre/bearing-housing-and-shaft.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 89` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -131,7 +142,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 12. [Model Flange Bearing Housing in FreeCAD (Gallery Serial No. 239 ...](https://www.mechnexus.com/model-flange-bearing-housing-in-freecad-gallery-serial-no-252/)
+### 13. [Model Flange Bearing Housing in FreeCAD (Gallery Serial No. 239 ...](https://www.mechnexus.com/model-flange-bearing-housing-in-freecad-gallery-serial-no-252/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 91` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -142,7 +153,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 13. [Bearing Housing Assembly at Todd Briggs blog](https://storage.googleapis.com/dppxzikeulxwfe/bearing-housing-assembly.html)
+### 14. [Bearing Housing Assembly at Todd Briggs blog](https://storage.googleapis.com/dppxzikeulxwfe/bearing-housing-assembly.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 92` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -153,7 +164,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 14. [DAM005M Shaft Bearing Assembly for slurry pump 6/4D-AH AHR](https://www.tobee.store/products/slurry-pump-shaft-bearing-assembly-dam005m.html)
+### 15. [DAM005M Shaft Bearing Assembly for slurry pump 6/4D-AH AHR](https://www.tobee.store/products/slurry-pump-shaft-bearing-assembly-dam005m.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 88` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -164,7 +175,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 15. [Bearing Housing Assembly Drawing | PDF](https://www.scribd.com/document/383716550/Bearing-Housing-Drawing-pdf)
+### 16. [Bearing Housing Assembly Drawing | PDF](https://www.scribd.com/document/383716550/Bearing-Housing-Drawing-pdf)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -175,7 +186,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 16. [Bearing House Assembly - YouTube](https://www.youtube.com/watch?v=HR15e-MDt0c)
+### 17. [Bearing House Assembly - YouTube](https://www.youtube.com/watch?v=HR15e-MDt0c)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -186,7 +197,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 17. [Precision Bearing Housing — Advanced Mechanical Design. - download free ...](https://www.cadcrowd.com/3d-models/precision-bearing-housing-advanced-mechanical-desi)
+### 18. [Precision Bearing Housing — Advanced Mechanical Design. - download free ...](https://www.cadcrowd.com/3d-models/precision-bearing-housing-advanced-mechanical-desi)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 91` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -197,7 +208,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 18. [Fixed bearing units flange version | norelem](https://www.norelem-china.com/cn/en/Products/Product-overview/Systems-and-components-for-machine-and-plant-construction/24000-Trapezoidal-thread-spindles-Ball-screw-linear-actuators-Pillow-block-bearings/Ball-screws-and-bearing-units/24080-Fixed-bearing-units-flange-version.html)
+### 19. [Fixed bearing units flange version | norelem](https://www.norelem-china.com/cn/en/Products/Product-overview/Systems-and-components-for-machine-and-plant-construction/24000-Trapezoidal-thread-spindles-Ball-screw-linear-actuators-Pillow-block-bearings/Ball-screws-and-bearing-units/24080-Fixed-bearing-units-flange-version.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -208,7 +219,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 19. [JHDEKBF | Flange-Mounted Linear Bearing Housings | LILY Bearing](https://www.lily-bearing.com/products/jhdekbf/)
+### 20. [JHDEKBF | Flange-Mounted Linear Bearing Housings | LILY Bearing](https://www.lily-bearing.com/products/jhdekbf/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 89` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -219,7 +230,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 20. [Bearing Housing & Flange | PDF](https://www.scribd.com/document/699773834/Bearing-Housing-Flange)
+### 21. [Bearing Housing & Flange | PDF](https://www.scribd.com/document/699773834/Bearing-Housing-Flange)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 89` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -230,7 +241,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 21. [Flange Bearing Housing Dimensions at Chin Reddick blog](https://storage.googleapis.com/djzkfqwltpyaie/flange-bearing-housing-dimensions.html)
+### 22. [Flange Bearing Housing Dimensions at Chin Reddick blog](https://storage.googleapis.com/djzkfqwltpyaie/flange-bearing-housing-dimensions.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 91` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -241,7 +252,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 22. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flanged-support-bearing-kfl001-1)
+### 23. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/flanged-support-bearing-kfl001-1)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -252,7 +263,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 23. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881948)
+### 24. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881948)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical diagram of a PEM fuel cell internal stack component, whereas Image 1 illustrates the complete GenCore fuel cell system housing and evolution.
@@ -263,7 +274,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 24. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881999)
+### 25. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881999)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 illustrating the internal PEM fuel cell stack components.
@@ -274,7 +285,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 25. [Segmented Polymer Electrolyte Membrane Fuel Cells—A Review – FHPIP](https://club-london.de/segmented-polymer-electrolyte-membrane-fuel-cellsa-review/)
+### 26. [Segmented Polymer Electrolyte Membrane Fuel Cells—A Review – FHPIP](https://club-london.de/segmented-polymer-electrolyte-membrane-fuel-cellsa-review/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 shows a complete GenCore fuel cell system assembly and cabinet design, Image 2 details the internal membrane electrode assembly (MEA) and cell components, making them technologically related parts of the same fuel cell system domain.
@@ -285,7 +296,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 26. [Polymer Electrolyte Membrane , Membranes – NIXLI](https://esslinger-fruehling.de/polymer-electrolyte-membrane-membranes/)
+### 27. [Polymer Electrolyte Membrane , Membranes – NIXLI](https://esslinger-fruehling.de/polymer-electrolyte-membrane-membranes/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts an assembled GenCore fuel cell system unit and table, Image 2 illustrates the fundamental electrochemical working principle and internal membrane structure of a fuel cell.
@@ -296,7 +307,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 27. [A Review of Water Management in Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/2/4/1057)
+### 28. [A Review of Water Management in Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/2/4/1057)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of the internal single cell components (PEM fuel cell) that make up the overall fuel cell system shown in Image 1.
@@ -307,7 +318,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 28. [Proton Exchange Membrane Fuel Cell Catalyst Layer Degradation ...](https://www.mdpi.com/2073-4344/15/1/97)
+### 29. [Proton Exchange Membrane Fuel Cell Catalyst Layer Degradation ...](https://www.mdpi.com/2073-4344/15/1/97)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system design evolution, while Image 2 illustrates the internal components and operational principle of a proton exchange membrane fuel cell stack used within such systems.
@@ -318,7 +329,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 29. [Proton Exchange Membrane Fuel Cell Diagram](https://www.pinterest.com/pin/proton-exchange-membrane-fuel-cell--479211216591043914/)
+### 30. [Proton Exchange Membrane Fuel Cell Diagram](https://www.pinterest.com/pin/proton-exchange-membrane-fuel-cell--479211216591043914/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing system-level GenCore design evolution and Image 2 illustrating the fundamental internal components of a PEM fuel cell.
@@ -329,7 +340,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 30. [Proton Exchange Membrane Fuel Cell Diagram Poster | Zazzle](https://www.zazzle.com/proton_exchange_membrane_fuel_cell_diagram_poster-228081772213125610)
+### 31. [Proton Exchange Membrane Fuel Cell Diagram Poster | Zazzle](https://www.zazzle.com/proton_exchange_membrane_fuel_cell_diagram_poster-228081772213125610)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical diagram of a proton exchange membrane fuel cell, which is the foundational component of the fuel cell system shown in Image 1.
@@ -340,7 +351,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 31. [Mea Fuel Cell Design at Clifton Curran blog](https://storage.googleapis.com/dpsaiqugmhhdke/mea-fuel-cell-design.html)
+### 32. [Mea Fuel Cell Design at Clifton Curran blog](https://storage.googleapis.com/dpsaiqugmhhdke/mea-fuel-cell-design.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is an exploded technical diagram of a fuel cell component (PEM fuel cell stack) which is directly related to the GenCore fuel cell system shown in Image 1.
@@ -351,7 +362,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 32. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6?uuid=uuid:afc6da46-5468-45ff-8043-dd5bbe16b641)
+### 33. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6?uuid=uuid:afc6da46-5468-45ff-8043-dd5bbe16b641)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the evolution of a GenCore fuel cell enclosure system and Image 2 displaying technical micro-structural details of fuel cell components (PEM, GDL, etc.).
@@ -362,7 +373,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 33. [PPT - PEM Fuel Cell Stack Sealing PowerPoint Presentation, free ...](https://www.slideserve.com/Mercy/pem-fuel-cell-stack-sealing-powerpoint-ppt-presentation)
+### 34. [PPT - PEM Fuel Cell Stack Sealing PowerPoint Presentation, free ...](https://www.slideserve.com/Mercy/pem-fuel-cell-stack-sealing-powerpoint-ppt-presentation)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete system enclosure evolution and Image 2 illustrating the internal component breakdown of a fuel cell stack.
@@ -373,7 +384,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 34. [İki kutuplu plaka geometri. Projesi](https://dizini.net/proje/83688/index.html)
+### 35. [İki kutuplu plaka geometri. Projesi](https://dizini.net/proje/83688/index.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical CAD drawing of a bipolar plate flow field, which is a core internal component of the fuel cell system shown in Image 1.
@@ -384,7 +395,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 35. [Structure Of The PEM Fuel Cell Stack | Best Photoetching Factory 2024](https://tmnetch.com/whats-the-structure-of-the-pem-fuel-cell-stack/)
+### 36. [Structure Of The PEM Fuel Cell Stack | Best Photoetching Factory 2024](https://tmnetch.com/whats-the-structure-of-the-pem-fuel-cell-stack/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 illustrates an exploded technical diagram of a fuel cell component (membrane electrode assembly and bipolar plates), which is a related sub-system of the overall fuel cell system shown in Image 1.
@@ -395,7 +406,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 36. [Labelled Diagram Of Hydrogen Fuel Cell](https://ar.inspiredpencil.com/pictures-2023/labelled-diagram-of-hydrogen-fuel-cell)
+### 37. [Labelled Diagram Of Hydrogen Fuel Cell](https://ar.inspiredpencil.com/pictures-2023/labelled-diagram-of-hydrogen-fuel-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and Image 2 illustrates the internal working diagram of a hydrogen fuel cell, both fundamentally represent the same core technology.
@@ -406,7 +417,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 37. [Scheme showing fuel-cell components, unit cell cross-section of the Nth ...](https://www.researchgate.net/figure/Scheme-showing-fuel-cell-components-unit-cell-cross-section-of-the-Nth-unit-cell-in-a_fig4_307912066)
+### 38. [Scheme showing fuel-cell components, unit cell cross-section of the Nth ...](https://www.researchgate.net/figure/Scheme-showing-fuel-cell-components-unit-cell-cross-section-of-the-Nth-unit-cell-in-a_fig4_307912066)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore design evolution and system integration, while Image 2 illustrates the underlying component-level technical diagram of a PEM fuel cell unit.
@@ -417,7 +428,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 38. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.com/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
+### 39. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.com/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed cross-sectional technical diagram of a fuel cell component, perfectly complementing the system-level overview in Image 1.
@@ -428,7 +439,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 39. [Figure 1 - from PEM fuel cell as a membrane reactor](https://www.academia.edu/figures/33443596/figure-1-schematic-representation-of-the-pem-fuel-cell-cross)
+### 40. [Figure 1 - from PEM fuel cell as a membrane reactor](https://www.academia.edu/figures/33443596/figure-1-schematic-representation-of-the-pem-fuel-cell-cross)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Although Image 1 depicts a complete GenCore fuel cell system enclosure and specifications, and Image 2 shows a microscopic technical diagram of an individual proton-exchange membrane fuel cell stack layer, both fundamentally represent the same overall technology (Yakıt hücresi sistemi).
@@ -439,7 +450,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 40. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/int/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
+### 41. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/int/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a detailed technical schematic of a PEM fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
@@ -450,7 +461,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 41. [Innovative Fuel Cells Enabled by Ion Exchange Membranes](https://www.nafion.com/en/support/white-papers/membranes-for-fuel-cells-white-paper)
+### 42. [Innovative Fuel Cells Enabled by Ion Exchange Membranes](https://www.nafion.com/en/support/white-papers/membranes-for-fuel-cells-white-paper)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a schematic diagram of a Proton Exchange Membrane (PEM) fuel cell, which details the core electrochemical components of the fuel cell system shown in Image 1.
@@ -461,7 +472,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 42. [Advances in Low Pt Loading Membrane Electrode Assembly for Proton ...](https://www.mdpi.com/1420-3049/28/2/773)
+### 43. [Advances in Low Pt Loading Membrane Electrode Assembly for Proton ...](https://www.mdpi.com/1420-3049/28/2/773)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of the internal membrane electrode assembly (MEA) of a fuel cell, complementing the system-level design shown in Image 1.
@@ -472,7 +483,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 43. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/deu/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
+### 44. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/deu/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 showing a detailed technical breakdown of a proton exchange membrane (PEM) fuel cell stack.
@@ -483,7 +494,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 44. [Fuel Cell Electrolyte Membrane at Leonel Muncy blog](https://storage.googleapis.com/dgthcqveerpwke/fuel-cell-electrolyte-membrane.html)
+### 45. [Fuel Cell Electrolyte Membrane at Leonel Muncy blog](https://storage.googleapis.com/dgthcqveerpwke/fuel-cell-electrolyte-membrane.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed explanatory technical diagram of the internal components of a fuel cell system, matching the functional domain of the reference system.
@@ -494,7 +505,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 45. [PPT - Fuel Cell System Design (1) PowerPoint Presentation, free ...](https://www.slideserve.com/zorana/fuel-cell-system-design-1)
+### 46. [PPT - Fuel Cell System Design (1) PowerPoint Presentation, free ...](https://www.slideserve.com/zorana/fuel-cell-system-design-1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical diagram of a fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
@@ -505,7 +516,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 46. [Hydrogen Fuel Cell Stack](https://animalia-life.club/qa/pictures/hydrogen-fuel-cell-stack)
+### 47. [Hydrogen Fuel Cell Stack](https://animalia-life.club/qa/pictures/hydrogen-fuel-cell-stack)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 shows a complete GenCore fuel cell system enclosure and evolutionary data, Image 2 provides a detailed technical schematic of the internal fuel cell stack components, making them conceptually and functionally related.
@@ -516,7 +527,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 47. [China 12v Pemfc Stack Supplier, Manufacturer - Vet](https://www.vet-china.com/hydrogen-fuel-cell-12v-pemfc-stack-60w-hydrogen-fuel-cell.html/)
+### 48. [China 12v Pemfc Stack Supplier, Manufacturer - Vet](https://www.vet-china.com/hydrogen-fuel-cell-12v-pemfc-stack-60w-hydrogen-fuel-cell.html/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded view of the fuel cell stack internal components, which directly relates to the GenCore fuel cell system shown in the reference image.
@@ -527,7 +538,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 48. [Direct Methanol Fuel Cell Hardware](https://www.fuelcellstore.com/direct-methanol-fuel-cell-hardware-test-cell)
+### 49. [Direct Methanol Fuel Cell Hardware](https://www.fuelcellstore.com/direct-methanol-fuel-cell-hardware-test-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical exploded-view diagram of a fuel cell core stack, which represents the internal functional component of the fuel cell system shown in Image 1.
@@ -538,7 +549,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 49. [How to Build a Fuel Cell](https://www.fuelcellstore.com/blog-section/how-to-build-a-fuel-cell)
+### 50. [How to Build a Fuel Cell](https://www.fuelcellstore.com/blog-section/how-to-build-a-fuel-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell technology, with Image 1 showing the complete GenCore system design evolution and Image 2 providing a detailed technical schematic of internal components like the membrane electrode assembly and flow channels.
@@ -549,7 +560,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 50. [PEM Fuel Cell Hardware](https://www.fuelcellstore.com/pem-fuel-cell-hardware-test-stack)
+### 51. [PEM Fuel Cell Hardware](https://www.fuelcellstore.com/pem-fuel-cell-hardware-test-stack)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded view of the internal fuel cell stack components, directly supporting the system-level design shown in the reference image.
@@ -560,7 +571,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 51. [Bipolar Plate Geometry DWG Block for AutoCAD | Designs CAD](https://designscad.com/downloads/bipolar-plate-geometry-dwg-block-for-autocad/)
+### 52. [Bipolar Plate Geometry DWG Block for AutoCAD | Designs CAD](https://designscad.com/downloads/bipolar-plate-geometry-dwg-block-for-autocad/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a technical CAD drawing of a serpentine flow field bipolar plate, which is a core internal component of the fuel cell system shown in Image 1.
@@ -571,7 +582,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 52. [3-In-1 Pem Fuel Cell/Redox Flow Cell Hardware – BLGQMG](https://cecpu.org/3in1-pem-fuel-cellredox-flow-cell-hardware/)
+### 53. [3-In-1 Pem Fuel Cell/Redox Flow Cell Hardware – BLGQMG](https://cecpu.org/3in1-pem-fuel-cellredox-flow-cell-hardware/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed schematic and operational principle of a PEM fuel cell, perfectly complementing the system-level design shown in the reference image.
@@ -582,7 +593,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 53. [Toyota Fuel Cell Stack Design at Samantha Tennant blog](https://storage.googleapis.com/dqpgyfraoselee/toyota-fuel-cell-stack-design.html)
+### 54. [Toyota Fuel Cell Stack Design at Samantha Tennant blog](https://storage.googleapis.com/dqpgyfraoselee/toyota-fuel-cell-stack-design.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 illustrates an exploded technical diagram of a fuel cell stack, which is the core internal component belonging to the broader fuel cell system shown in Image 1.
@@ -593,7 +604,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 54. [Proton Exchange Membrane Stack Price | OEM & Wholesale Guide](https://heletitaniumhydrogen.com/compare-proton-exchange-membrane-stack-price/)
+### 55. [Proton Exchange Membrane Stack Price | OEM & Wholesale Guide](https://heletitaniumhydrogen.com/compare-proton-exchange-membrane-stack-price/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 providing a detailed technical diagram of a Membrane Electrode Assembly (MEA) fuel cell stack.
@@ -604,7 +615,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 55. [Hydrogen fuel cell and Bipolar plates](https://www.vet-china.com/news/hydrogen-fuel-cell-and-bipolar-plates/)
+### 56. [Hydrogen fuel cell and Bipolar plates](https://www.vet-china.com/news/hydrogen-fuel-cell-and-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and cabinet evolution, Image 2 details the internal exploded view of the core fuel cell stack, making it a legitimate related technical diagram of the same overall technology.
@@ -615,7 +626,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 56. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/zh/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
+### 57. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/zh/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the internal PEMFC core components, complementing the system-level design shown in the reference image.
@@ -626,7 +637,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 57. [Hydrogen Fuel Cell Schematic Diagram](https://www.circuitdiagram.co/hydrogen-fuel-cell-schematic-diagram/)
+### 58. [Hydrogen Fuel Cell Schematic Diagram](https://www.circuitdiagram.co/hydrogen-fuel-cell-schematic-diagram/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a complete GenCore enclosure design evolution and Image 2 illustrating the internal component-level technical diagram of a hydrogen fuel cell.
@@ -637,7 +648,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 58. [220w Fuel Cell Stack 24v Pemfc Stack Hydrogen Fuel Cell Stack](https://www.vet-china.com/220w-fuel-cell-stack-24v-pemfc-stack-hydrogen-fuel-cell-stack.html/)
+### 59. [220w Fuel Cell Stack 24v Pemfc Stack Hydrogen Fuel Cell Stack](https://www.vet-china.com/220w-fuel-cell-stack-24v-pemfc-stack-hydrogen-fuel-cell-stack.html/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the specific fuel cell stack component used within the broader GenCore fuel cell system shown in Image 1.
@@ -648,7 +659,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 59. [Proton Exchange Membrane Fuel Cells (PEMFCs): Advances and Challenges](https://www.mdpi.com/2073-4360/13/18/3064/xml)
+### 60. [Proton Exchange Membrane Fuel Cells (PEMFCs): Advances and Challenges](https://www.mdpi.com/2073-4360/13/18/3064/xml)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of a fuel cell internal stack, accurately illustrating the core components corresponding to the fuel cell system shown in the reference image.
@@ -659,7 +670,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 60. [proton exchange membrane fuel cell ~ Electrical Engineering Pics](http://electrical-engineering-pics.blogspot.com/2014/09/proton-exchange-membrane-fuel-cell.html)
+### 61. [proton exchange membrane fuel cell ~ Electrical Engineering Pics](http://electrical-engineering-pics.blogspot.com/2014/09/proton-exchange-membrane-fuel-cell.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts an entire GenCore fuel cell system assembly and cabinet evolution, Image 2 shows a detailed technical diagram of the internal PEM fuel cell stack mechanism, making them conceptually related but visually distinct.
@@ -670,7 +681,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 61. [Bipolar Plates of Carbon: A Game-Changer in PEM Fuel Cells](https://www.engineering-group.com/pem-fuel-cells-with-carbon-composite-bipolar-plates/)
+### 62. [Bipolar Plates of Carbon: A Game-Changer in PEM Fuel Cells](https://www.engineering-group.com/pem-fuel-cells-with-carbon-composite-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system cabinet and specifications, Image 2 illustrates the internal exploded view of the fuel cell stack components (MEA, bipolar plates), representing a closely related technical subsystem within the same technology domain.
@@ -681,7 +692,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 62. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.compositesworld.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
+### 63. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.compositesworld.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed schematic and exploded technical diagram of a proton exchange membrane fuel cell, which is the foundational core technology of the fuel cell system shown in the reference image.
@@ -692,7 +703,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 63. [Solidworks Assembly Drawing Exploded View at PaintingValley.com ...](https://paintingvalley.com/solidworks-assembly-drawing-exploded-view)
+### 64. [Solidworks Assembly Drawing Exploded View at PaintingValley.com ...](https://paintingvalley.com/solidworks-assembly-drawing-exploded-view)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed exploded technical drawing of a compressor/expander sub-assembly used within the fuel cell system shown in Image 1.
@@ -703,7 +714,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 64. [Figure 2-1 from Flow visualization in 3D printed PEM fuel cell bipolar ...](https://www.semanticscholar.org/paper/Flow-visualization-in-3D-printed-PEM-fuel-cell-Piri/97bfe973d8cc088ebf6bc7c3442bcf751cf6e855/figure/3)
+### 65. [Figure 2-1 from Flow visualization in 3D printed PEM fuel cell bipolar ...](https://www.semanticscholar.org/paper/Flow-visualization-in-3D-printed-PEM-fuel-cell-Piri/97bfe973d8cc088ebf6bc7c3442bcf751cf6e855/figure/3)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While the reference image shows an entire GenCore fuel cell system assembly and cabinet, the candidate image provides a detailed exploded CAD drawing of an individual fuel cell stack component, representing the core technology inside the system.
@@ -714,7 +725,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 65. [Pem Fuel Cell Stack Components at Kathryn Serna blog](https://storage.googleapis.com/dktsdgbnevzzme/pem-fuel-cell-stack-components.html)
+### 66. [Pem Fuel Cell Stack Components at Kathryn Serna blog](https://storage.googleapis.com/dktsdgbnevzzme/pem-fuel-cell-stack-components.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the internal fuel cell stack component used within the broader GenCore fuel cell system shown in Image 1.
@@ -725,7 +736,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 66. [How Fuel Cell Engines Work _ Hydrogen fuel cells, explained – AZZU](https://moment.ebus-wiki.org/how-fuel-cell-engines-work-hydrogen-fuel-cells-explained/)
+### 67. [How Fuel Cell Engines Work _ Hydrogen fuel cells, explained – AZZU](https://moment.ebus-wiki.org/how-fuel-cell-engines-work-hydrogen-fuel-cells-explained/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed scientific diagram of the internal components of a fuel cell system, matching the overarching technology domain of Image 1.
@@ -736,7 +747,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 67. [Electrochemistry Encyclopedia – PEM fuel cells](https://knowledge.electrochem.org/encycl/art-f04-fuel-cells-pem.htm)
+### 68. [Electrochemistry Encyclopedia – PEM fuel cells](https://knowledge.electrochem.org/encycl/art-f04-fuel-cells-pem.htm)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded diagram of a fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
@@ -747,7 +758,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 68. [Examining Fuel Cells for Transportation - Technical Articles](https://eepower.com/technical-articles/examining-fuel-cells-for-transportation/)
+### 69. [Examining Fuel Cells for Transportation - Technical Articles](https://eepower.com/technical-articles/examining-fuel-cells-for-transportation/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded schematic diagram of a fuel cell stack components, which directly relates to the underlying technology of the fuel cell system shown in Image 1.
@@ -758,7 +769,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 69. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.gardnerweb.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
+### 70. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.gardnerweb.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** The reference image describes a GenCore fuel cell system design evolution, while the candidate image depicts an actual physical PEM fuel cell stack plate assembly that serves as the core functional component within such systems.
@@ -769,7 +780,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 70. [Geometries of bipolar plates. in AutoCAD | CAD (18.99 KB) | Bibliocad](https://www.bibliocad.com/en/library/geometries-of-bipolar-plates_81561/)
+### 71. [Geometries of bipolar plates. in AutoCAD | CAD (18.99 KB) | Bibliocad](https://www.bibliocad.com/en/library/geometries-of-bipolar-plates_81561/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a technical blueprint of a bipolar plate flow field, which is a critical internal component of the fuel cell stack referenced in the GenCore system documentation.
@@ -780,7 +791,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 71. [CNC Machining in Metal Bipolar Plates for Fuel Cells - Runsom Precision](https://www.runsom.com/es/blog/cnc-machining-in-metal-bipolar-plates-for-fuel-cells/)
+### 72. [CNC Machining in Metal Bipolar Plates for Fuel Cells - Runsom Precision](https://www.runsom.com/es/blog/cnc-machining-in-metal-bipolar-plates-for-fuel-cells/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While the reference image depicts a complete GenCore fuel cell system unit and the second image depicts the internal component-level exploded view of a PEM fuel cell stack, both represent the same fundamental fuel cell technology and system architecture.
@@ -791,7 +802,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 72. [How To Build A DIY Hydrogen Fuel Cell - Climatebiz](https://climatebiz.com/diy-hydrogen-fuel-cell/)
+### 73. [How To Build A DIY Hydrogen Fuel Cell - Climatebiz](https://climatebiz.com/diy-hydrogen-fuel-cell/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While image 1 shows a full GenCore fuel cell cabinet system and image 2 shows a generic schematic diagram of a PEM fuel cell stack, both are technically related to fuel cell system architecture.
@@ -802,7 +813,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 73. [Fuel Cell Stack Components | Metal Bipolar Plates | Precision Resource](https://www.precisionresource.com/precision-metal-components/fuel-cell-stack-components/)
+### 74. [Fuel Cell Stack Components | Metal Bipolar Plates | Precision Resource](https://www.precisionresource.com/precision-metal-components/fuel-cell-stack-components/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images illustrate different hierarchical levels of the same GenCore fuel cell system technology, with Image 1 showing the cabinet integration and Image 2 providing an exploded technical view of the core stack assembly.
@@ -813,7 +824,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 74. [Principles of Fuel Cell Stack Design and Development | TMNetch](https://tmnetch.com/principles-of-fuel-cell-stack-design-and-development/)
+### 75. [Principles of Fuel Cell Stack Design and Development | TMNetch](https://tmnetch.com/principles-of-fuel-cell-stack-design-and-development/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images illustrate different components of the same GenCore fuel cell system, with image 1 showing the physical enclosure evolution and image 2 providing the technical schematic of the internal stack architecture.
@@ -824,7 +835,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 75. [Automatic Pipe Cutting Machine for Conveyor Idler Rollers Manufacturer ...](https://www.tlpathakgroup.com/product/automatic-pipe-cutting-machine-for-conveyor-idler-rollers)
+### 76. [Automatic Pipe Cutting Machine for Conveyor Idler Rollers Manufacturer ...](https://www.tlpathakgroup.com/product/automatic-pipe-cutting-machine-for-conveyor-idler-rollers)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of an industrial pipe cutting mechanism, which matches the functional description of the reference target.
@@ -835,7 +846,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 76. [3d Illustration of Pipe Cutter Stock Illustration - Illustration of ...](https://www.dreamstime.com/stock-illustration-d-illustration-pipe-cutter-above-engineering-drawing-image93482610)
+### 77. [3d Illustration of Pipe Cutter Stock Illustration - Illustration of ...](https://www.dreamstime.com/stock-illustration-d-illustration-pipe-cutter-above-engineering-drawing-image93482610)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** The candidate image depicts a detailed technical drawing of a manual tube cutter, which falls under the functional classification of pipe and profile cutting mechanisms.
@@ -846,7 +857,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 77. [CNC Pipe Profile Cutting Machine - Plasma Cutting and Pipe Cutting](https://sunrisecnc.en.made-in-china.com/product/sjzJywBdQghU/China-CNC-Pipe-Profile-Cutting-Machine.html)
+### 78. [CNC Pipe Profile Cutting Machine - Plasma Cutting and Pipe Cutting](https://sunrisecnc.en.made-in-china.com/product/sjzJywBdQghU/China-CNC-Pipe-Profile-Cutting-Machine.html)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** The reference text describes a pipe and profile cutting machine, and the candidate image is a professional industrial CNC pipe and profile cutting machine matching that description.
@@ -857,7 +868,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 78. [CNC Pipe Profile Cutting Machine - Technocrats Plasma | PDF](https://www.slideshare.net/slideshow/cnc-pipe-profile-cutting-machine-technocrats-plasma/263259677)
+### 79. [CNC Pipe Profile Cutting Machine - Technocrats Plasma | PDF](https://www.slideshare.net/slideshow/cnc-pipe-profile-cutting-machine-technocrats-plasma/263259677)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** The candidate image is a technical specification brochure for a pipe and profile cutting machine, which matches the target subject matter perfectly.
@@ -868,7 +879,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 79. [Pipe Profile Cutting Machine at Beth Meeks blog](https://storage.googleapis.com/dgxsubmuvfonxe/pipe-profile-cutting-machine.html)
+### 80. [Pipe Profile Cutting Machine at Beth Meeks blog](https://storage.googleapis.com/dgxsubmuvfonxe/pipe-profile-cutting-machine.html)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 100` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image shows the professional industrial pipe and profile cutting machine matching the description provided in the reference text.
@@ -879,7 +890,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 80. [ProfileCut / Pipe & profile cutting machines / Machines - MicroStep](https://www.microstep.eu/machines/pipe-profile-cutting-machines/profilecut/)
+### 81. [ProfileCut / Pipe & profile cutting machines / Machines - MicroStep](https://www.microstep.eu/machines/pipe-profile-cutting-machines/profilecut/)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image shows an industrial profile cutting machine, which directly matches the descriptive intent of the reference text provided.
@@ -890,7 +901,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 81. [CNC Pipe Profile Plasma / Gas Cutting Machines - Technocrats Plasma ...](https://www.technocratplasma.com/cnc-plasma-gas-profile-cutting-machines/)
+### 82. [CNC Pipe Profile Plasma / Gas Cutting Machines - Technocrats Plasma ...](https://www.technocratplasma.com/cnc-plasma-gas-profile-cutting-machines/)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image depicts an industrial pipe and profile cutting machine that matches the requested mechanical category.
@@ -901,7 +912,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 82. [Tube Cutting Cnc Machine at Agnes Hendricks blog](https://storage.googleapis.com/dingfrsnrafmje/tube-cutting-cnc-machine.html)
+### 83. [Tube Cutting Cnc Machine at Agnes Hendricks blog](https://storage.googleapis.com/dingfrsnrafmje/tube-cutting-cnc-machine.html)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image shows a professional-grade pipe and profile cutting machine with plasma torch assembly and adjustable pipe support cradles, matching the intended industrial classification.
@@ -912,7 +923,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 83. [5-axis beveling round pipe plasma cutting machine](https://www.fwincnc.com/5-axis-beveling-round-pipe-plasma-cutting-machine/)
+### 84. [5-axis beveling round pipe plasma cutting machine](https://www.fwincnc.com/5-axis-beveling-round-pipe-plasma-cutting-machine/)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** The reference image contains text identifying a portable industrial pipe and profile cutting machine, and the candidate image is a high-fidelity visual of exactly such an industrial pipe processing machine.
@@ -923,7 +934,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 84. [5 axis CNC Plasma Pipe Tube Cutting Beveling Machine from China ...](https://www.eastrisecnc.com/5-axis-CNC-Plasma-Pipe-Tube-Cutting-Beveling-Machine-pd20918067.html)
+### 85. [5 axis CNC Plasma Pipe Tube Cutting Beveling Machine from China ...](https://www.eastrisecnc.com/5-axis-CNC-Plasma-Pipe-Tube-Cutting-Beveling-Machine-pd20918067.html)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** The reference input provided text describing an industrial pipe and profile cutting machine, and the candidate image displays an industrial-grade CNC plasma pipe cutting machine that matches that description perfectly.
@@ -934,7 +945,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 85. [6 axis Plasma pipe cutting machine](https://pclgroupcncmachine.com/round-pipe-cutting-and-bevel-machine/)
+### 86. [6 axis Plasma pipe cutting machine](https://pclgroupcncmachine.com/round-pipe-cutting-and-bevel-machine/)
 - **Hedef Parça:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** The candidate image provides a detailed CAD-style technical blueprint of a multi-axis pipe and profile machining system, which aligns with the functional description of the reference product.
@@ -945,7 +956,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 86. [VEVOR Chicken Poultry Plucker 2200W 240R/min Turkey Chicken Poultry ...](https://www.vevor.com/chicken-plucker-c_10943/60cm-chicken-plucker-plucking-machine-silica-gel-poultry-plucker-stainless-steel-p_010575038224)
+### 87. [VEVOR Chicken Poultry Plucker 2200W 240R/min Turkey Chicken Poultry ...](https://www.vevor.com/chicken-plucker-c_10943/60cm-chicken-plucker-plucking-machine-silica-gel-poultry-plucker-stainless-steel-p_010575038224)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 is a physical product photograph that perfectly corresponds to the technical layout and functional components specified in the Image 1 blueprint.
@@ -956,7 +967,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 87. [Automatic Poultry Plucker Machine 60cm Stainless Steel 3HP: Yavolo](https://yavolo.co.uk/product/poultry-plucker-machine-60cm-drum-automatic-chicken-turkey-duck-birds-rotating-water-pipe-drain-chute-defeather-plucking-stainless-steel-132-rubber-fingers-3hp-220v-8-bird-capacity-farming-abattoir)
+### 88. [Automatic Poultry Plucker Machine 60cm Stainless Steel 3HP: Yavolo](https://yavolo.co.uk/product/poultry-plucker-machine-60cm-drum-automatic-chicken-turkey-duck-birds-rotating-water-pipe-drain-chute-defeather-plucking-stainless-steel-132-rubber-fingers-3hp-220v-8-bird-capacity-farming-abattoir)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image is a photographic representation of the exact mechanical assembly described in the reference technical diagram.
@@ -967,7 +978,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 88. [Rubber Finger For Chicken Plucker Chicken Plucking Machine Fingers For ...](https://www.alibaba.com/product-detail/Rubber-Finger-For-Chicken-Plucker-Chicken_60613295301.html)
+### 89. [Rubber Finger For Chicken Plucker Chicken Plucking Machine Fingers For ...](https://www.alibaba.com/product-detail/Rubber-Finger-For-Chicken-Plucker-Chicken_60613295301.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 contains the same machine model shown in the schematic of Image 1, serving as a parts reference catalog for the same poultry plucker system.
@@ -978,7 +989,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 89. [Stainless-Steel-Chicken-Plucker-Drill-Attachment-Chicken-Feather ...](https://www.aliexpress.com/item/1005007614104031.html)
+### 90. [Stainless-Steel-Chicken-Plucker-Drill-Attachment-Chicken-Feather ...](https://www.aliexpress.com/item/1005007614104031.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** The candidate image shows the core rotating component (feather plate and fingers) that is a central, essential subsystem of the poultry plucker mechanism depicted in the reference diagram.
@@ -989,7 +1000,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 90. [High Quality Poultry Scalder and Plucker Machine - Mini Plucker and ...](https://njxby-slaughter.en.made-in-china.com/product/kjenxWzugMcp/China-High-Quality-Poultry-Scalder-and-Plucker-Machine.html)
+### 91. [High Quality Poultry Scalder and Plucker Machine - Mini Plucker and ...](https://njxby-slaughter.en.made-in-china.com/product/kjenxWzugMcp/China-High-Quality-Poultry-Scalder-and-Plucker-Machine.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** The candidate image represents a more complex, integrated commercial unit that performs the same poultry plucking function as the reference diagram, including the core drum and finger mechanism.
@@ -1000,7 +1011,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 91. [VEVOR Chicken Plucker Machine, Feather Plucker with 20-inch Stainless ...](https://www.vevor.com/chicken-plucker-c_10943/vevor-chicken-plucker-machine-20-diameter-stainless-steel-drum-defeathering-equipment-with-108-soft-fingers-and-2-large-wheels-simple-debris-collection-500w-motor-for-efficient-poultry-plucking-p_010241503412)
+### 92. [VEVOR Chicken Plucker Machine, Feather Plucker with 20-inch Stainless ...](https://www.vevor.com/chicken-plucker-c_10943/vevor-chicken-plucker-machine-20-diameter-stainless-steel-drum-defeathering-equipment-with-108-soft-fingers-and-2-large-wheels-simple-debris-collection-500w-motor-for-efficient-poultry-plucking-p_010241503412)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** The candidate image shows the physical, operational version of the mechanical components detailed in the reference technical diagram, confirming it is the same class of industrial poultry plucking equipment.
@@ -1011,7 +1022,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 92. [Chicken Plucker Machine by Vertical Retraction System](https://design-of-machine.blogspot.com/2015/11/chicken-plucker-machine.html)
+### 93. [Chicken Plucker Machine by Vertical Retraction System](https://design-of-machine.blogspot.com/2015/11/chicken-plucker-machine.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images are identical technical schematics of a poultry plucker, depicting the same drum-and-finger mechanism with only minor variations in labeling nomenclature.
@@ -1022,7 +1033,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 93. [Chicken Plucking Machine - Efficient and Reliable Defeathering](https://www.alibaba.com/product-detail/best-price-chicken-plucking-machine-defeathering_60627342277.html)
+### 94. [Chicken Plucking Machine - Efficient and Reliable Defeathering](https://www.alibaba.com/product-detail/best-price-chicken-plucking-machine-defeathering_60627342277.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 100` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image is an exact duplicate of the reference technical diagram, showing identical labeling and mechanical structure for a poultry plucker.
@@ -1033,7 +1044,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 94. [Vektorová grafika „Assembly drawing of speed drive shaft. Vector cad ...](https://stock.adobe.com/cz/images/assembly-drawing-of-speed-drive-shaft-vector-cad-scheme-of-part-of-steel-mechanical-device-with-dimension-lines-engineering-background-technical-template-cross-section/894881188)
+### 95. [Vektorová grafika „Assembly drawing of speed drive shaft. Vector cad ...](https://stock.adobe.com/cz/images/assembly-drawing-of-speed-drive-shaft-vector-cad-scheme-of-part-of-steel-mechanical-device-with-dimension-lines-engineering-background-technical-template-cross-section/894881188)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering blueprint of a drive shaft assembly that corresponds to the core mechanical transmission component (part 12) shown in the reference poultry plucker schematic.
@@ -1044,7 +1055,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 95. [TMG INDUSTRIAL STAINLESS STEEL CHICKEN/TURKEY PLUCKER - 23" DRUM](https://www.liveauctionworld.com/TMG-INDUSTRIAL-STAINLESS-STEEL-CHICKEN-TURKEY-PLUCKER-23-DRUM_i32770041)
+### 96. [TMG INDUSTRIAL STAINLESS STEEL CHICKEN/TURKEY PLUCKER - 23" DRUM](https://www.liveauctionworld.com/TMG-INDUSTRIAL-STAINLESS-STEEL-CHICKEN-TURKEY-PLUCKER-23-DRUM_i32770041)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 is the physical manifestation of the technical component assembly diagram provided in Image 1, showing the same stainless steel tub design and rubber plucking finger layout.
@@ -1055,7 +1066,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 96. [Stainless Steel Commercial Poultry Plucker /Chicken Drum Plucking ...](https://www.sonypack.com/Stainless-Steel-Commercial-Poultry-Plucker-Chicken-Drum-Plucking-Machine-pd43904325.html)
+### 97. [Stainless Steel Commercial Poultry Plucker /Chicken Drum Plucking ...](https://www.sonypack.com/Stainless-Steel-Commercial-Poultry-Plucker-Chicken-Drum-Plucking-Machine-pd43904325.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 is a physical assembly that perfectly corresponds to the components and structural layout detailed in the technical diagram of the poultry plucker.
@@ -1066,7 +1077,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 97. [Chicken Plucker Uk](https://ar.inspiredpencil.com/pictures-2023/chicken-plucker-uk)
+### 98. [Chicken Plucker Uk](https://ar.inspiredpencil.com/pictures-2023/chicken-plucker-uk)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows modern commercial variants of the poultry plucker mechanism described in the Image 1 technical diagram, utilizing the same core components like the stainless steel tub, rubber fingers, and rotating base.
@@ -1077,7 +1088,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 98. [Oh-trm Feather Plucker: Efficient Poultry Processing Solution - Buy ...](https://www.alibaba.com/product-detail/OH-TRM-Feather-Plucker-Efficient-Poultry_1601017830469.html)
+### 99. [Oh-trm Feather Plucker: Efficient Poultry Processing Solution - Buy ...](https://www.alibaba.com/product-detail/OH-TRM-Feather-Plucker-Efficient-Poultry_1601017830469.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 provides a schematic breakdown of the internal components (tub, plucking fingers, motor, shaft) that form the operational basis of the commercial poultry plucker shown in Image 2.
@@ -1088,7 +1099,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 99. [Stainless Steel Poultry Feather Plucking Plucker Machine for Chicken ...](https://qdempire.en.made-in-china.com/product/eONACyVdKZpD/China-Stainless-Steel-Poultry-Feather-Plucking-Plucker-Machine-for-Chicken-Duck-Goose-Slaughterhouse-Use.html)
+### 100. [Stainless Steel Poultry Feather Plucking Plucker Machine for Chicken ...](https://qdempire.en.made-in-china.com/product/eONACyVdKZpD/China-Stainless-Steel-Poultry-Feather-Plucking-Plucker-Machine-for-Chicken-Duck-Goose-Slaughterhouse-Use.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** The images represent the same mechanical assembly, where the first is a schematic technical diagram detailing components and the second is the completed, functional hardware version of that exact design.
@@ -1099,7 +1110,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 100. [Rotary Plucker](https://www.poultryprocessingequipment.com/plucking_equipment/rotary_plucker.asp)
+### 101. [Rotary Plucker](https://www.poultryprocessingequipment.com/plucking_equipment/rotary_plucker.asp)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict industrial-scale poultry plucking mechanisms utilizing rotary rubber fingers, though the first is a single-drum vertical schematic while the second is a dual-drum horizontal industrial assembly.
@@ -1110,7 +1121,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 101. [Mini Chicken Scalding Plucker Machine Poultry Slaughter Abattoir ...](https://qdempire.en.made-in-china.com/product/vmRUdNqKfArw/China-Mini-Chicken-Scalding-Plucker-Machine-Poultry-Slaughter-Abattoir-Equipment-Price-for-Livestock-Abattoir-for-Slaughterhouse-Poultry-Abattoir-Processing.html)
+### 102. [Mini Chicken Scalding Plucker Machine Poultry Slaughter Abattoir ...](https://qdempire.en.made-in-china.com/product/vmRUdNqKfArw/China-Mini-Chicken-Scalding-Plucker-Machine-Poultry-Slaughter-Abattoir-Equipment-Price-for-Livestock-Abattoir-for-Slaughterhouse-Poultry-Abattoir-Processing.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image shows the physical assembly corresponding to the technical schematic provided in the reference image, including the internal rubber plucking fingers and the stainless steel housing.
@@ -1121,7 +1132,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 102. [Oh-dit Poultry Plucker With Innovative Stand Design - Buy Drum Plucker ...](https://www.alibaba.com/product-detail/OH-DIT-Poultry-Plucker-with-Innovative_1601018969950.html)
+### 103. [Oh-dit Poultry Plucker With Innovative Stand Design - Buy Drum Plucker ...](https://www.alibaba.com/product-detail/OH-DIT-Poultry-Plucker-with-Innovative_1601018969950.html)
 - **Hedef Parça:** `Poultry plucker / Tavuk yolma makinesi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 is a schematic representation of the mechanical components while Image 2 is the actual product that perfectly matches the functional layout of the reference diagram.
@@ -1132,7 +1143,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 103. [Automatic inline piston filler machine, high viscosity liquid products ...](https://acasi.com/products/piston-bottle-filler-pi-3100-drawings)
+### 104. [Automatic inline piston filler machine, high viscosity liquid products ...](https://acasi.com/products/piston-bottle-filler-pi-3100-drawings)
 - **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images are professional technical drawings from the same manufacturer (Acasi) depicting the same style of piston filling machine, though they represent different specific model configurations (TruPiston-2-SH vs PI3100).
@@ -1143,7 +1154,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 104. [Automatic inline 2 pistons filler machine pneumatic driven with ...](https://acasi.com/products/piston-filler-model-trupiston-2-sh-v21-drawings)
+### 105. [Automatic inline 2 pistons filler machine pneumatic driven with ...](https://acasi.com/products/piston-filler-model-trupiston-2-sh-v21-drawings)
 - **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Both images are official technical blueprints from the same manufacturer (Acasi) representing the same piston filler series, with minor design variations indicated by the model number (TRUPISTON-2-SH vs TRUPISTON-2-SH-V21).
@@ -1154,7 +1165,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 105. [Piston Drawing With Dimensions](https://ar.inspiredpencil.com/pictures-2023/piston-drawing-with-dimensions)
+### 106. [Piston Drawing With Dimensions](https://ar.inspiredpencil.com/pictures-2023/piston-drawing-with-dimensions)
 - **Hedef Parça:** `Piston Filler / Pistonlu Dolum Makinesi`
 - **Doğrulama Skoru:** `% 100` (exact_match)
 - **AI Teknik İncelemesi:** The candidate image is an identical duplicate of the reference technical drawing for the Acasi TruPiston-2-SH filling machine.
@@ -1165,7 +1176,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 106. [Rima Log Splitter Cone Splitting Excavator Attachment Hydraulic Screw ...](https://www.alibaba.com/product-detail/Rima-Log-Splitter-Cone-Splitting-Excavator_1601206346788.html)
+### 107. [Rima Log Splitter Cone Splitting Excavator Attachment Hydraulic Screw ...](https://www.alibaba.com/product-detail/Rima-Log-Splitter-Cone-Splitting-Excavator_1601206346788.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
@@ -1177,7 +1188,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 107. [Skid Steer Mounted Cone Log Splitter for Wood Cutting - Log Splitter ...](https://cnhawk.en.made-in-china.com/product/zFgtcerAOTGK/China-Skid-Steer-Mounted-Cone-Log-Splitter-for-Wood-Cutting.html)
+### 108. [Skid Steer Mounted Cone Log Splitter for Wood Cutting - Log Splitter ...](https://cnhawk.en.made-in-china.com/product/zFgtcerAOTGK/China-Skid-Steer-Mounted-Cone-Log-Splitter-for-Wood-Cutting.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -1189,7 +1200,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 108. [Forestry Machinery Attachment Hydraulic Log Cone Splitter - Log ...](https://cnhawk.en.made-in-china.com/product/BOiTGzbAstaD/China-Forestry-Machinery-Attachment-Hydraulic-Log-Cone-Splitter.html)
+### 109. [Forestry Machinery Attachment Hydraulic Log Cone Splitter - Log ...](https://cnhawk.en.made-in-china.com/product/BOiTGzbAstaD/China-Forestry-Machinery-Attachment-Hydraulic-Log-Cone-Splitter.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -1201,7 +1212,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 109. [Wood Splitter Plans (Build it Yourself)](https://woodsplitterplans.com/)
+### 110. [Wood Splitter Plans (Build it Yourself)](https://woodsplitterplans.com/)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
@@ -1213,7 +1224,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 110. [JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...](https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more)
+### 111. [JCS 60 Hydraulic Cone Timber Splitter to fit Excavators, Telehandlers ...](https://www.jbequipment.co.uk/products/jcs-60-hydraulic-cone-timber-splitter-to-fit-excavators-telehandlers-more)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
@@ -1225,7 +1236,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 111. [32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...](https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html)
+### 112. [32mm Firewood Log Splitter Drill Bit Hex Shank Removable Wood Splitter ...](https://www.lightinthebox.com/en/p/firewood-chop-wood-drill-bit-32mm-splitting-cone-log-splitters-firewood-chopper-wood-split-cone-drill-bit-woodworking-tools_p9399366.html)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 90` (working_variation)
@@ -1237,7 +1248,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 112. [JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...](https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter)
+### 113. [JCS 40 Hydraulic Cone Timber Splitter to fit 6,500 to 15,500 lbs Excav ...](https://jbequipment.us/products/jcs-40-hydraulic-cone-splitter)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 95` (working_variation)
@@ -1249,7 +1260,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 113. [Screw Wood Splitter Plans](https://woodsplitterplans.com/splitters/screw-wood-splitters.htm)
+### 114. [Screw Wood Splitter Plans](https://woodsplitterplans.com/splitters/screw-wood-splitters.htm)
 - **Hedef Parça:** `**English:** Screw log splitter cone (Wood splitter cone)  
 **Turkish:** Konik odun yarma ucu (Burgu odun yarma konisi)`
 - **Doğrulama Skoru:** `% 100` (exact_match)
@@ -1261,7 +1272,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 114. [Hospital Steel Hand Truck Gas Bottle Cart medical oxygen cylinder ...](https://www.lazada.com.ph/products/hospital-steel-hand-truck-gas-bottle-cart-medical-oxygen-cylinder-trolley-single-double-cylinder-trolley-gas-bottle-cart-lab-hand-truck-dual-pressure-liquid-oxygen-bottle-carrier-i2401396455.html)
+### 115. [Hospital Steel Hand Truck Gas Bottle Cart medical oxygen cylinder ...](https://www.lazada.com.ph/products/hospital-steel-hand-truck-gas-bottle-cart-medical-oxygen-cylinder-trolley-single-double-cylinder-trolley-gas-bottle-cart-lab-hand-truck-dual-pressure-liquid-oxygen-bottle-carrier-i2401396455.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a double-cylinder variant of the single gas cylinder truck shown in Image 1, sharing the same fundamental wheeled cart and chain-restraint mechanism design.
@@ -1272,7 +1283,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 115. [Oxy / acetylene gas bottle trolley - the lifting company](https://theliftingcompany.com.au/products/oxy-acetylene-gas-bottle-trolley)
+### 116. [Oxy / acetylene gas bottle trolley - the lifting company](https://theliftingcompany.com.au/products/oxy-acetylene-gas-bottle-trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a technical drawing of a heavy-duty gas bottle trolley, which is a related variant of the gas cylinder truck shown in Image 1.
@@ -1283,7 +1294,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 116. [E Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/product-3/)
+### 117. [E Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/product-3/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed technical drawing and bill of materials for an oxy-acetylene gas bottle trolley, representing a dual-cylinder variant of the single-cylinder gas truck shown in Image 1.
@@ -1294,7 +1305,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 117. [G Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/go-size-oxy-acet-trolley/)
+### 118. [G Size Oxy Acet Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/go-size-oxy-acet-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and parts list for a gas bottle trolley, representing the same general mechanism category as the reference truck.
@@ -1305,7 +1316,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 118. [Oxy Acetylene Gas Bottle Trolley w/ Ramp » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/oxy-acetylene-gas-bottle-trolley-ramp/)
+### 119. [Oxy Acetylene Gas Bottle Trolley w/ Ramp » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/oxy-acetylene-gas-bottle-trolley-ramp/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering drawing of a heavy-duty gas cylinder trolley with a ramp, sharing the same fundamental application as the reference gas cylinder truck.
@@ -1316,7 +1327,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 119. [Build Plans Welding Trolley, English in Millimeter - Etsy](https://www.etsy.com/listing/1590782514/build-plans-welding-trolley-english-in)
+### 120. [Build Plans Welding Trolley, English in Millimeter - Etsy](https://www.etsy.com/listing/1590782514/build-plans-welding-trolley-english-in)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a construction plan for a welding trolley designed to hold gas cylinders, sharing the same functional purpose and category as the reference gas cylinder truck despite structural differences.
@@ -1327,7 +1338,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 120. [G Size Oxy-Acet Inline Gas bottle Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/g-size-oxy-acet-inline-gas-bottle-trolley/)
+### 121. [G Size Oxy-Acet Inline Gas bottle Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/g-size-oxy-acet-inline-gas-bottle-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and bill of materials representing the same gas cylinder truck/trolley mechanism shown in Image 1.
@@ -1338,7 +1349,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 121. [Single S Size Propane Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/single-s-size-propane-trolley/)
+### 122. [Single S Size Propane Trolley » D.O.T. Engineering](https://dotengineering.com.au/products/gas-bottle-trolleys/single-s-size-propane-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing and bill of materials representing the exact same type of gas cylinder truck mechanism shown in the reference image.
@@ -1349,7 +1360,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 122. [Gas Cylinder Hand Truck | National Cart](https://nationalcart.com/products/gas-cylinder-hand-truck/)
+### 123. [Gas Cylinder Hand Truck | National Cart](https://nationalcart.com/products/gas-cylinder-hand-truck/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict gas cylinder hand trucks, although Image 2 is a standard two-wheel upright blueprint whereas Image 1 is a multi-wheel convertible design.
@@ -1360,7 +1371,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 123. [Plummer Block Assembly With Shaft at Alexis Hoff blog](https://storage.googleapis.com/djxswlwzjgdnke/plummer-block-assembly-with-shaft.html)
+### 124. [Plummer Block Assembly With Shaft at Alexis Hoff blog](https://storage.googleapis.com/djxswlwzjgdnke/plummer-block-assembly-with-shaft.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 presents detailed technical blueprints and CAD models of a plummer block (pillow block bearing), matching the reference mechanism.
@@ -1371,7 +1382,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 124. [Machine Drawing: PLUMMER BLOCK (PEDESTAL BEARING)](https://machine-drawing.blogspot.com/2015/08/plummer-block-pedestal-bearing.html)
+### 125. [Machine Drawing: PLUMMER BLOCK (PEDESTAL BEARING)](https://machine-drawing.blogspot.com/2015/08/plummer-block-pedestal-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering drawing and assembly blueprint for a plummer block (pillow block bearing assembly) matching the mechanical configuration shown in Image 1.
@@ -1382,7 +1393,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 125. [UCP20620 Inch Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_inch/UCP206-20)
+### 126. [UCP20620 Inch Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_inch/UCP206-20)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a standard dimensional technical blueprint and engineering drawing of the pillow block bearing mechanism shown in the reference image.
@@ -1393,7 +1404,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 126. [Item # SNC 207, Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN ...](https://bearingfinder.ntnamericas.com/sl/item/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type/snc-207)
+### 127. [Item # SNC 207, Split Pillow Blocks, Cast Iron Housing, SNC Type On NTN ...](https://bearingfinder.ntnamericas.com/sl/item/mounted-roller-units/split-pillow-blocks-cast-iron-housing-snc-type/snc-207)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides standard engineering technical drawings and dimensional specifications for the pillow block bearing assembly depicted in Image 1.
@@ -1404,7 +1415,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 127. [KP08 Pillow Block Bearing, Bore Dia. 8mm | Flux Electronix](https://fluxelectronix.com/shop/kp08-pillow-block-bearing-bore-dia-8mm/)
+### 128. [KP08 Pillow Block Bearing, Bore Dia. 8mm | Flux Electronix](https://fluxelectronix.com/shop/kp08-pillow-block-bearing-bore-dia-8mm/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides standard technical drawings, dimensional tables, and product photos of pillow block bearings matching the category shown in the reference image.
@@ -1415,7 +1426,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 128. [The Role of Plummer Blocks and Pillow Blocks in Industrial Settings](https://nisukaindustries.com/the-role-of-plummer-blocks-and-pillow-blocks/)
+### 129. [The Role of Plummer Blocks and Pillow Blocks in Industrial Settings](https://nisukaindustries.com/the-role-of-plummer-blocks-and-pillow-blocks/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a labeled technical cutaway view of a pillow block / plummer block bearing, matching the mechanism shown in the reference image.
@@ -1426,7 +1437,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 129. [Pillow block bearings - SUNBEARING Rolling Bearing Manufacturer](https://www.sunbearing.net/n1836001/Pillow-block-bearings.htm)
+### 130. [Pillow block bearings - SUNBEARING Rolling Bearing Manufacturer](https://www.sunbearing.net/n1836001/Pillow-block-bearings.htm)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts a labeled cross-section and cutout of the exact same pillow block bearing (yataklı bilya) mechanism shown in Image 1.
@@ -1437,7 +1448,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 130. [Pillow Block Bearing Assembly at Constance Woodford blog](https://storage.googleapis.com/dmzlwtnnaaokre/pillow-block-bearing-assembly.html)
+### 131. [Pillow Block Bearing Assembly at Constance Woodford blog](https://storage.googleapis.com/dmzlwtnnaaokre/pillow-block-bearing-assembly.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts the exploded view and installation components of the same pillow block bearing mechanism shown assembled in Image 1.
@@ -1448,7 +1459,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 131. [Steel Bearing Housing & Adapter, Sleeves at ₹ 15000/number in Bengaluru ...](https://www.indiamart.com/proddetail/bearing-housing-adapter-sleeves-12366756397.html)
+### 132. [Steel Bearing Housing & Adapter, Sleeves at ₹ 15000/number in Bengaluru ...](https://www.indiamart.com/proddetail/bearing-housing-adapter-sleeves-12366756397.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a detailed exploded technical view of the exact same pillow block bearing mechanism seen assembled in Image 1.
@@ -1459,7 +1470,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 132. [Pillar Block Bearing Sizes – Pillow Block Bearing Dimensions – FIRCZG](https://stay.growingvinestreet.org/pillar-block-bearing-sizes-pillow-block-bearing-dimensions/)
+### 133. [Pillar Block Bearing Sizes – Pillow Block Bearing Dimensions – FIRCZG](https://stay.growingvinestreet.org/pillar-block-bearing-sizes-pillow-block-bearing-dimensions/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the technical blueprint and dimension specifications for the pillow block bearing mechanism shown in Image 1.
@@ -1470,7 +1481,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 133. [Bearing Housing Casting | Bearing Housing Manufacturing Process](https://mahavirconcast.com/products/casting/product-offerings/bearing-housing/)
+### 134. [Bearing Housing Casting | Bearing Housing Manufacturing Process](https://mahavirconcast.com/products/casting/product-offerings/bearing-housing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows physical pillow block bearing housings (flanged/split plummer blocks) corresponding to the assembly shown in the schematic reference diagram.
@@ -1481,7 +1492,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 134. [Split Pillow Block Housing Factory - Custom Bearing Chock and Heavy ...](https://yogieindustry.en.made-in-china.com/product/iFTtpYRARHGW/China-Split-Pillow-Block-Housing-Factory.html)
+### 135. [Split Pillow Block Housing Factory - Custom Bearing Chock and Heavy ...](https://yogieindustry.en.made-in-china.com/product/iFTtpYRARHGW/China-Split-Pillow-Block-Housing-Factory.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a large heavy-duty split housing pillow block bearing housing that matches the structural assembly concept of the reference mechanical drawing in Image 1.
@@ -1492,7 +1503,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 135. [Bearing Housing Cad at Clifford Zak blog](https://storage.googleapis.com/drywqqswvrudue/bearing-housing-cad.html)
+### 136. [Bearing Housing Cad at Clifford Zak blog](https://storage.googleapis.com/drywqqswvrudue/bearing-housing-cad.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed dimensional technical drawing and CAD model of the pillow block bearing mechanism shown assembled in Image 1.
@@ -1503,7 +1514,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 136. [UCP207 Metric Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_metric/UCP207)
+### 137. [UCP207 Metric Series Two Bolt Pillow Block | AST Bearings](https://www.astbearings.com/catalog/pillow_2_bolt_metric/UCP207)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a technical drawing schematic of the pillow block bearing assembly shown in the reference image.
@@ -1514,7 +1525,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 137. [KP004 | Pillow Block Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/kp004/)
+### 138. [KP004 | Pillow Block Bearing - AMI | LILY Bearing](https://www.lily-bearing.com/products/kp004/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical blueprint with dimensional specifications of the pillow block bearing mechanism shown in Image 1.
@@ -1525,7 +1536,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 138. [adjustable pillow block bearing, UCP pillow block bearings](https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/)
+### 139. [adjustable pillow block bearing, UCP pillow block bearings](https://www.nskbearingcatalogue.com/product/adjustable-pillow-block-bearing/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical data sheet and dimensioned blueprint of the pillow block bearing mechanism shown in the reference image.
@@ -1536,7 +1547,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 139. [Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco)
+### 140. [Part Number E-P4B-TRB-75MM-ECO/ECO, Type E Pillow Block: 4-Bolt Base ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-4-bolt-base/e-p4b-trb-75mm-eco-eco)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering drawing and technical specification of the pillow block bearing assembly shown in Image 1.
@@ -1547,7 +1558,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 140. [Hobbytronics. Pillow Block Bearing](https://www.hobbytronics.co.za/p/777/pillow-block-bearing)
+### 141. [Hobbytronics. Pillow Block Bearing](https://www.hobbytronics.co.za/p/777/pillow-block-bearing)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering blueprint and dimension table for the pillow block bearing assembly shown in Image 1.
@@ -1558,7 +1569,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 141. [Miniature Pillow Block Bearing – S.M.R. Engineering Services](https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1)
+### 142. [Miniature Pillow Block Bearing – S.M.R. Engineering Services](https://smrengineering.co.uk/products/miniature-pillow-block-bearing-1)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed engineering technical drawing and dimension table of a standard pillow block bearing, which matches the mechanical type shown in the reference image.
@@ -1569,7 +1580,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 142. [Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16)
+### 143. [Part Number E-P2B-TRB-2 15/16, Type E Pillow Block: 2-Bolt Base Bearing ...](https://cad.timken.com/item/type-e-mounted-tapered-roller-bearings/pillow-block-2-bolt-base-bearing/e-p2b-trb-2-15-16)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing depicting the precise pillow block bearing assembly shown in the reference image.
@@ -1580,7 +1591,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 143. [Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog](https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html)
+### 144. [Dodge Pillow Block Bearings Cad Drawings at Valerie Mcclinton blog](https://storage.googleapis.com/dyoizexgsupqce/dodge-pillow-block-bearings-cad-drawings.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed engineering technical drawing depicting the standard pillow block bearing assembly shown in the reference image.
@@ -1591,7 +1602,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 144. [Self-Aligning vs. Traditional Mounted Tapered Roller Bearings | IBT ...](https://ibtinc.com/self-aligning-vs-traditional-mounted-tapered-roller-bearings/)
+### 145. [Self-Aligning vs. Traditional Mounted Tapered Roller Bearings | IBT ...](https://ibtinc.com/self-aligning-vs-traditional-mounted-tapered-roller-bearings/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict pillow block bearing assemblies, with Image 2 providing a detailed technical breakdown and cross-section corresponding to the mechanism in Image 1.
@@ -1602,7 +1613,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 145. [Pillow Block Bearing Installation Guide Expert Tips - FHD](https://fhdbearings.com/blog/pillow-block-bearing-installation/)
+### 146. [Pillow Block Bearing Installation Guide Expert Tips - FHD](https://fhdbearings.com/blog/pillow-block-bearing-installation/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical illustration of a pillow block bearing assembly, matching the target mechanism type.
@@ -1613,7 +1624,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 146. [Bearings Exploded Diagram at Fred Mounce blog](https://storage.googleapis.com/denhrkcwfngebe/bearings-exploded-diagram.html)
+### 147. [Bearings Exploded Diagram at Fred Mounce blog](https://storage.googleapis.com/denhrkcwfngebe/bearings-exploded-diagram.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 breaks down the internal components of the bearing utilized within the pillow block assembly shown in Image 1.
@@ -1624,7 +1635,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 147. [Pillow Block Bearing Sizes Pdf at Harold Mcswain blog](https://storage.googleapis.com/dxgmmdaofqycje/pillow-block-bearing-sizes-pdf.html)
+### 148. [Pillow Block Bearing Sizes Pdf at Harold Mcswain blog](https://storage.googleapis.com/dxgmmdaofqycje/pillow-block-bearing-sizes-pdf.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a technical product catalog sheet and blueprint for the pillow block bearing mechanism shown in Image 1.
@@ -1635,7 +1646,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 148. [The Ultimate Guide To Pillow Block Bearing Size Charts | AUBEARING](https://www.aubearing.com/the-ultimate-guide-to-pillow-block-bearing-size-charts/)
+### 149. [The Ultimate Guide To Pillow Block Bearing Size Charts | AUBEARING](https://www.aubearing.com/the-ultimate-guide-to-pillow-block-bearing-size-charts/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the technical blueprint and dimension specifications for the pillow block bearing mechanism shown in Image 1.
@@ -1646,7 +1657,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 149. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.ca/Pillow-Mounted-Bearings-UCP205-16-Aligning/dp/B0BNXQF2XL)
+### 150. [2 PCS Heavy Duty Pillow Block Mounted Ball Bearings 1 Inch Bore Solid ...](https://www.amazon.ca/Pillow-Mounted-Bearings-UCP205-16-Aligning/dp/B0BNXQF2XL)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 clearly depicts a pillow block bearing (yataklı bilya) assembly matching the mechanical configuration and components shown in the reference schematic.
@@ -1657,7 +1668,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 150. [Split Pillow Blocks | NSK Bearings for Metal Making](https://nskmetals.com/products/bearing-units/split-pillow-blocks/)
+### 151. [Split Pillow Blocks | NSK Bearings for Metal Making](https://nskmetals.com/products/bearing-units/split-pillow-blocks/)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows actual pillow block bearing housings corresponding to the technical assembly illustration in Image 1, representing the physical hardware implementation of the same mechanical component.
@@ -1668,7 +1679,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 151. [Pillow block bearing](https://www.leadbearing.com/product/Pillow-block-bearing.html)
+### 152. [Pillow block bearing](https://www.leadbearing.com/product/Pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed technical blueprint and structural diagram of the pillow block bearing shown mounted in the reference image 1.
@@ -1679,7 +1690,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 152. [Arrangements and their bearing types | SKF](https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types)
+### 153. [Arrangements and their bearing types | SKF](https://www.skf.com/africa/en/products/rolling-bearings/principles-of-rolling-bearing-selection/bearing-selection-process/bearing-type-and-arrangement/arrangements-and-their-bearing-types)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical cross-section of a flanged bearing housing and shaft assembly, which is a detailed schematic representation of the mechanism seen in Image 1.
@@ -1690,7 +1701,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 153. [UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/)
+### 154. [UCFLX08 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucflx08-fsb-self-lube-flanged-bearing-unit/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a standard engineering blueprint of a two-bolt flanged bearing unit (UCFL type), which represents the core housing component utilized in the reference assembly.
@@ -1701,7 +1712,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 154. [UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/)
+### 155. [UCF204-12 Self-Lube Flanged Bearing Unit - Aire Bearings](https://www.airebearings.co.uk/product/ucf204-12-fsb-self-lube-flanged-bearing-unit/)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 82` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a technical drawing of a standard 4-bolt square flanged bearing housing unit (UCF type), representing the open through-shaft variation of the flanged bearing assembly shown in Image 1.
@@ -1712,7 +1723,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 155. [Bearing Unit Definition at Helene Winkleman blog](https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html)
+### 156. [Bearing Unit Definition at Helene Winkleman blog](https://storage.googleapis.com/dszscefkyozjhe/bearing-unit-definition.html)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Flanşlı Rulman Yataklama Düzeneği`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides the standard engineering drawing and dimension specification for a four-bolt flanged ball bearing unit corresponding to the flanged housing arrangement shown in Image 1.
