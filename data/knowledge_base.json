@@ -4380,6 +4380,28 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 10:14:36"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Mounted Flange Bearings at Stephanie Fleming blog",
+      "page_url": "https://storage.googleapis.com/djgfmvgbvevqge/mounted-flange-bearings.html",
+      "candidate_image_url": "https://www.triangleoshkosh.com/media/catalog/product/technical-images/FJB8.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 12:20:44"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Amazing Technique Bearing fitting tech lathe working #technology # ...",
+      "page_url": "https://www.youtube.com/shorts/9fomSMLBs8M",
+      "candidate_image_url": "https://i.ytimg.com/vi/9fomSMLBs8M/maxresdefault.jpg",
+      "score": 90,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 12:21:34"
     }
   ]
 }
