@@ -4358,6 +4358,28 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 08:14:47"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Custom Aerospace Parts Machined Flanged Bearing Housing, High Quality ...",
+      "page_url": "https://www.bossgoo.com/product-detail/custom-aerospace-parts-machined-flanged-bearing-68702740.html",
+      "candidate_image_url": "https://bsg-i.nbxc.com/product/17/a2/38/01f4aa211d7f8a528b35d8da71.png",
+      "score": 95,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1000x1000px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 10:13:43"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "FLANGE BEARING HOUSING 209 CAST IRON 4 BOLT SQUARE OD:85MM SPHERICAL ...",
+      "page_url": "https://www.colliermiller.com.au/f209-flange-bearing-housing-209-cast-iron-4-bolt-square-od85mm-spherical-bearing",
+      "candidate_image_url": "https://www.colliermiller.com.au/Images/F200_Housings.jpg",
+      "score": 88,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 10:14:36"
     }
   ]
 }
