@@ -4402,6 +4402,61 @@
       "variant_type": "working_variation",
       "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 12:21:34"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Bearing Housing Assemblies – Mini Lathe - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=udZGtMCcwNM",
+      "candidate_image_url": "https://i.ytimg.com/vi/udZGtMCcwNM/hqdefault.jpg",
+      "score": 94,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (480x360px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 14:18:21"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Bearing Housing 5-11-2018 | PDF",
+      "page_url": "https://www.scribd.com/document/401060663/Bearing-Housing-5-11-2018",
+      "candidate_image_url": "https://imgv2-1-f.scribdassets.com/img/document/401060663/original/3a9acddeb1/1670601165?v=1",
+      "score": 91,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 14:19:11"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/four-bolt-flange-bearing-unit-o25mm-1",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/053cc20c4b250562d71f1168cce44be5/large.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 14:19:29"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/flange-bearing-25-mm-id-1",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/bb064883da86f198e4a28be0e7df8804/large.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 14:19:30"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "⚡ Design a Bearing Housing in #solidworks | Step-by-Step Mechanical CAD Tutorial - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=GAfI8SSu0cA",
+      "candidate_image_url": "https://i.ytimg.com/vi/GAfI8SSu0cA/maxresdefault.jpg",
+      "score": 95,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 14:20:11"
     }
   ]
 }
