@@ -4490,6 +4490,17 @@
       "variant_type": "working_variation",
       "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 18:11:55"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Bearing Housing Design Pdf at Callie Douglass blog",
+      "page_url": "https://exorkoxox.blob.core.windows.net/bearing-housing-design-pdf.html",
+      "candidate_image_url": "https://res.cloudinary.com/engineering-com/image/upload/v1585972594/tips/Section_p4s5ar.jpg",
+      "score": 88,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 22:10:18"
     }
   ]
 }
