@@ -4303,6 +4303,39 @@
       "variant_type": "working_variation",
       "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (720x720px)) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 04:13:52"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "MACHINE SHOP TIPS #46 Lathe Project BEARING Pt 1 tubalcain - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=zj5Mzo1dfeU",
+      "candidate_image_url": "https://i.ytimg.com/vi/zj5Mzo1dfeU/maxresdefault.jpg",
+      "score": 93,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 06:16:18"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "How to Design an Oval Flanged Bearing Housing in SolidWorks (Full Step ...",
+      "page_url": "https://www.youtube.com/watch?v=h9y9OJVqLaE",
+      "candidate_image_url": "https://i.ytimg.com/vi/h9y9OJVqLaE/maxresdefault.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 06:16:18"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Bearing Housing Diy at Bailey Walters blog",
+      "page_url": "https://storage.googleapis.com/dnqyksehzwgawe/bearing-housing-diy.html",
+      "candidate_image_url": "http://s3files.core77.com/blog/images/802276_81_77963_lriZlcbGe.jpg",
+      "score": 91,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (880x614px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 06:17:38"
     }
   ]
 }
