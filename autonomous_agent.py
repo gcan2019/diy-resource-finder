@@ -195,28 +195,50 @@ def strip_md_json(raw: str) -> str:
 
 def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig = None):
     models = [
-        "gemma-4-31b-it",
         "gemini-3-flash-preview",
-        "gemini-3.5-flash"
+        "gemma-4-31b-it",
+        "gemini-3.5-flash",
+        "gemini-3.7-flash",
+        "gemini-3.8-flash",
+        "gemini-3.1-flash-lite",
+        "gemini-3.5-flash-lite"
     ]
     last_err = None
     for model_name in models:
         try:
             if model_name.startswith("gemma"):
-                use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=7000))
+                # gemma models don't support response_mime_type
+                use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
+                text_contents = []
+                for c in contents:
+                    if hasattr(c, "text"):
+                        text_contents.append(c)
+                    elif hasattr(c, "mime_type") and "image" in getattr(c, "mime_type", ""):
+                        text_contents.append(c)  # gemma supports images
+                    else:
+                        text_contents.append(c)
+                return client.models.generate_content(
+                    model=model_name,
+                    contents=text_contents,
+                    config=use_cfg
+                )
             else:
                 if config:
-                    config.http_options = types.HttpOptions(timeout=7000)
+                    config.http_options = types.HttpOptions(timeout=12000)
                     use_cfg = config
                 else:
-                    use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=7000))
-            return client.models.generate_content(
-                model=model_name,
-                contents=contents,
-                config=use_cfg
-            )
+                    use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
+                return client.models.generate_content(
+                    model=model_name,
+                    contents=contents,
+                    config=use_cfg
+                )
         except Exception as e:
             last_err = e
+            err_str = str(e)
+            if "429" in err_str or "404" in err_str or "400" in err_str:
+                continue
+            time.sleep(1)
             continue
     raise last_err
 
@@ -429,11 +451,17 @@ Return ONLY valid JSON:
         if cand_meta:
             title = (cand_meta.get("title") or "").lower()
             page_url = (cand_meta.get("page_url") or "").lower()
+            combined = title + " " + page_url
             keywords = [w.lower() for w in search_base.replace("/", " ").replace("-", " ").split() if len(w) >= 3]
-            tech_signals = ["cad", "grabcad", "drawing", "blueprint", "diy", "youtube", "pipe", "tube", "expander", "stretcher", "bender", "press", "tool", "machine", "dimension", "stl", "step", "fabrication", "build"]
-            matched_kw = sum(1 for k in keywords if k in title or k in page_url)
-            matched_tech = sum(1 for t in tech_signals if t in title or t in page_url)
-            if (matched_kw >= 1 and matched_tech >= 1) or (vis.get("is_blueprint") and matched_kw >= 1):
+            tech_signals = ["cad", "grabcad", "drawing", "blueprint", "diy", "youtube", "pipe", "tube", "expander", "stretcher", "bender", "press", "tool", "machine", "dimension", "stl", "step", "fabrication", "build", "welding", "roller", "notcher"]
+            # Anti-signals: pages that are almost never relevant
+            anti_signals = ["pinterest.com", "shutterstock", "alamy", "dreamstime", "istockphoto", "depositphotos", "freepik", "stock photo", "clip art", "amazon.com/dp"]
+            if any(anti in combined for anti in anti_signals):
+                return {"verified": False, "score": 0, "reason": "Stok fotoğraf / alakasız platform."}
+            matched_kw = sum(1 for k in keywords if k in combined)
+            matched_tech = sum(1 for t in tech_signals if t in combined)
+            # Stricter threshold: need 2+ keyword matches AND 2+ tech signals, OR blueprint + 2+ keywords
+            if (matched_kw >= 2 and matched_tech >= 2) or (vis.get("is_blueprint") and matched_kw >= 2):
                 cat = "technical_drawing" if vis.get("is_blueprint") else classify_item({"page_url": page_url, "title": title})
                 score = min(95, max(vis.get("visual_score", 78), 76 + matched_kw * 4 + matched_tech * 3))
                 return {
@@ -531,6 +559,14 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
 
             if page_url in known_urls:
                 continue
+            # Normalize URL for fuzzy dedup (strip query params and fragments)
+            try:
+                parsed = urllib.parse.urlparse(page_url)
+                norm_url = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+                if norm_url in known_urls:
+                    continue
+            except Exception:
+                pass
 
             cand_bytes = fetch_image_bytes(img_url)
             if not cand_bytes:
@@ -558,6 +594,12 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
                 }
                 kb["discoveries"].append(discovery_record)
                 known_urls.add(page_url)
+                # Also add normalized URL for cross-round dedup
+                try:
+                    parsed = urllib.parse.urlparse(page_url)
+                    known_urls.add(f"{parsed.scheme}://{parsed.netloc}{parsed.path}")
+                except Exception:
+                    pass
                 past_titles.append(cand.get("title", ""))
                 new_in_this_round += 1
 
@@ -579,13 +621,13 @@ def main():
     parser = argparse.ArgumentParser(description="Kesintisiz Otonom Araştırma Ajanı")
     parser.add_argument("--target", type=str, default="targets/flanged_bearing.png", help="Hedef görsel")
     parser.add_argument("--continuous", action="store_true", default=True, help="Kesintisiz çalış")
-    parser.add_argument("--rounds", type=int, default=100, help="Maksimum tur sayısı")
+    parser.add_argument("--rounds", type=int, default=200, help="Maksimum tur sayısı")
 
     args = parser.parse_args()
 
     api_key = get_api_key()
     if not api_key:
-        sys.exit("HATA: GEMINI_API_KEY bulunamadı. Lütfen GitHub Repo -> Settings -> Secrets and variables -> Actions kısmına GEMINI_API_KEY ekleyin.")
+        sys.exit("HATA: GEMINI_API_KEY bulunamadı. Lütfen .env dosyasına GEMINI_API_KEY ekleyin.")
 
     client = genai.Client(api_key=api_key)
     target_path = Path(args.target)
@@ -599,7 +641,14 @@ def main():
             print("Hedef görsel bulunamadı! 'targets/' klasörüne bir fotoğraf koyun.")
             return
 
-    run_continuous_discovery(client, target_path, max_rounds=args.rounds)
+    try:
+        run_continuous_discovery(client, target_path, max_rounds=args.rounds)
+    except KeyboardInterrupt:
+        print("\n⏹️ Kullanıcı tarafından durduruldu.")
+    except Exception as e:
+        print(f"\n❌ Beklenmeyen hata: {e}")
+        import traceback
+        traceback.print_exc()
 
 if __name__ == "__main__":
     main()

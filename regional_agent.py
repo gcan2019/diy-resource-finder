@@ -84,11 +84,18 @@ def load_regional_gaps() -> dict:
 def save_regional_gaps(data: dict):
     REGIONAL_GAPS_JSON.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig):
+def strip_md_json(raw: str) -> str:
+    txt = raw.strip()
+    if txt.startswith("```"):
+        txt = txt.split("\n", 1)[-1]
+        if txt.endswith("```"):
+            txt = txt[:-3].strip()
+    return txt
+
+def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig = None):
     models = [
         "gemini-3-flash-preview",
         "gemma-4-31b-it",
-        "gemma-4-26b-a4b-it",
         "gemini-3.5-flash",
         "gemini-3.7-flash",
         "gemini-3.6-flash",
@@ -98,24 +105,33 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
     ]
     last_err = None
     for model_name in models:
-        for attempt in range(2):
-            try:
-                if model_name.startswith("gemma"):
-                    text_input = "\n".join([c.text if hasattr(c, "text") else str(c) for c in contents])
-                    return client.models.generate_content(
-                        model=model_name,
-                        contents=text_input
-                    )
+        try:
+            if model_name.startswith("gemma"):
+                text_input = "\n".join([c.text if hasattr(c, "text") else str(c) for c in contents])
+                use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
+                return client.models.generate_content(
+                    model=model_name,
+                    contents=text_input,
+                    config=use_cfg
+                )
+            else:
+                if config:
+                    config.http_options = types.HttpOptions(timeout=12000)
+                    use_cfg = config
+                else:
+                    use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
                 return client.models.generate_content(
                     model=model_name,
                     contents=contents,
-                    config=config
+                    config=use_cfg
                 )
-            except Exception as e:
-                last_err = e
-                if "429" in str(e) or "404" in str(e):
-                    break
-                time.sleep(2)
+        except Exception as e:
+            last_err = e
+            err_str = str(e)
+            if "429" in err_str or "404" in err_str or "400" in err_str:
+                continue
+            time.sleep(1)
+            continue
     raise last_err
 
 # ──────────────────────────────────────────────
@@ -329,12 +345,7 @@ FİLTRELEME VE SEÇİM KURALLARI:
             contents=[types.Part.from_text(text=prompt)],
             config=types.GenerateContentConfig(response_mime_type="application/json")
         )
-        raw_txt = res.text.strip()
-        if raw_txt.startswith("```"):
-            raw_txt = raw_txt.split("\n", 1)[-1]
-            if raw_txt.endswith("```"):
-                raw_txt = raw_txt[:-3].strip()
-        data = json.loads(raw_txt)
+        data = json.loads(strip_md_json(res.text))
         return data.get("opportunities", [])
     except Exception as e:
         print(f"Gemini analiz hatası: {e}")
@@ -525,7 +536,16 @@ def run_regional_radar(region_name: str = "Tümü", continuous: bool = False, ma
             added_count = 0
             for opp in new_opps:
                 pname = opp.get("part_name", "")
-                if any(pname.lower() == ep.lower() for ep in existing_parts if ep):
+                pname_clean = pname.lower().replace(" ", "").replace("-", "").replace("_", "")
+                is_dup = False
+                for ep in existing_parts:
+                    if not ep:
+                        continue
+                    ep_clean = ep.lower().replace(" ", "").replace("-", "").replace("_", "")
+                    if pname_clean == ep_clean or pname_clean in ep_clean or ep_clean in pname_clean:
+                        is_dup = True
+                        break
+                if is_dup:
                     continue
 
                 opp["region"] = "Mekanikya.com.tr (Üret & Sat)"
@@ -555,7 +575,7 @@ def main():
     parser = argparse.ArgumentParser(description="Mekanikya Hızlı Nakit & Üret-Sat Makine Avcısı")
     parser.add_argument("--region", type=str, default="Tümü", help="Odak ürün kategorisi")
     parser.add_argument("--continuous", action="store_true", default=False, help="Sürekli keşif modu")
-    parser.add_argument("--rounds", type=int, default=5, help="Maksimum tur sayısı")
+    parser.add_argument("--rounds", type=int, default=50, help="Maksimum tur sayısı")
 
     args = parser.parse_args()
     run_regional_radar(region_name=args.region, continuous=args.continuous, max_rounds=args.rounds)

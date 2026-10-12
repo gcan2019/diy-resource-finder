@@ -70,34 +70,54 @@ def load_sellable_machines() -> dict:
 def save_sellable_machines(data: dict):
     SELLABLE_MACHINES_JSON.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig):
+def strip_md_json(raw: str) -> str:
+    txt = raw.strip()
+    if txt.startswith("```"):
+        txt = txt.split("\n", 1)[-1]
+        if txt.endswith("```"):
+            txt = txt[:-3].strip()
+    return txt
+
+def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig = None):
     models = [
-        "gemini-3.6-flash",
-        "gemini-2.5-flash",
-        "gemini-2.5-flash-lite",
+        "gemini-3-flash-preview",
+        "gemma-4-31b-it",
         "gemini-3.5-flash",
         "gemini-3.7-flash",
-        "gemini-3-flash-preview",
-        "gemini-3.1-flash-lite",
         "gemini-3.8-flash",
-        "gemini-3.5-flash-lite",
-        "gemini-2.5-pro",
-        "gemma-4-31b-it"
+        "gemini-3.1-flash-lite",
+        "gemini-3.5-flash-lite"
     ]
     last_err = None
     for model_name in models:
-        for attempt in range(2):
-            try:
+        try:
+            if model_name.startswith("gemma"):
+                # gemma models don't support response_mime_type
+                text_input = "\n".join([c.text if hasattr(c, "text") else str(c) for c in contents])
+                use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
+                return client.models.generate_content(
+                    model=model_name,
+                    contents=text_input,
+                    config=use_cfg
+                )
+            else:
+                if config:
+                    config.http_options = types.HttpOptions(timeout=12000)
+                    use_cfg = config
+                else:
+                    use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
                 return client.models.generate_content(
                     model=model_name,
                     contents=contents,
-                    config=config
+                    config=use_cfg
                 )
-            except Exception as e:
-                last_err = e
-                if "429" in str(e) or "404" in str(e) or "400" in str(e):
-                    break
-                time.sleep(1)
+        except Exception as e:
+            last_err = e
+            err_str = str(e)
+            if "429" in err_str or "404" in err_str or "400" in err_str:
+                continue  # try next model immediately
+            time.sleep(1)
+            continue
     raise last_err
 
 # ──────────────────────────────────────────────
@@ -111,10 +131,31 @@ CATEGORIES = [
     ("⚡ Sac, Tel & Montaj Düzenekleri", "Sac kenar bükme caka aparatı, tel doğrultma ve kesme mekanizması, boru çentik açma (tube notcher)")
 ]
 
+def fetch_market_intelligence() -> str:
+    """Real web search for current market data to ground AI discovery."""
+    ddgs = DDGS()
+    snippets = []
+    search_queries = [
+        "Türkiye'de olmayan ithal makine aparat fiyat Trendyol Sahibinden 2024 2025",
+        "DIY workshop machine fabrication sell online Etsy eBay profitable",
+        "small workshop machines high demand Turkey import expensive",
+        "atölye makinesi imalat fiyat sac profil büküm Sahibinden satılık"
+    ]
+    for q in search_queries:
+        try:
+            results = list(ddgs.text(q, max_results=3))
+            for r in results:
+                snippets.append(f"- {r.get('title', '')} | {r.get('body', '')}")
+        except Exception:
+            pass
+        time.sleep(0.5)
+    return "\n".join(snippets)
+
 # ──────────────────────────────────────────────
 # Yapay Zeka ile Satılabilir Makine Keşfi
 # ──────────────────────────────────────────────
 def discover_sellable_machines(client: genai.Client, category_filter: str, existing_names: list[str]) -> list[dict]:
+    web_context = fetch_market_intelligence()
     prompt = f"""Sen Türkiye imalat sektörünü, ithalat bağımlılıklarını, gümrük vergilerini, KOBİ ve küçük atölye imkanlarını çok iyi bilen kıdemli bir Makine İmalat Mühendisi ve E-Ticaret Girişimcisisin.
 
 TEMEL HEDEF:
@@ -128,6 +169,9 @@ ancak küçük/orta ölçekli bir Türk atölyesinde (lazer kesim sac, profil ç
 4. 💰 YÜKSEK KÂR MARJI: Malzeme ve işçilik maliyeti uygun, ancak piyasada bulunamadığı veya ithali pahalı olduğu için 3x - 5x kâr marjıyla satılabilecek.
 
 Kapsam: Alan fark etmez (Sağlı sollu: Atölye ve metal işleme aparatları, niş tarım ve gıda makineleri, dolum/paketleme/etiketleme, mini geri dönüşüm/plastik/filament, sac/boru bükme/çentikleme aparatları).
+
+İnternet Pazar Araştırması Verileri (Güncel Web Taraması):
+{web_context}
 
 Mevcut listede zaten olan makineler (tekrar etme):
 {existing_names}
@@ -162,7 +206,7 @@ Aşağıdaki JSON şemasında çıktı ver:
             contents=[types.Part.from_text(text=prompt)],
             config=types.GenerateContentConfig(response_mime_type="application/json")
         )
-        data = json.loads(res.text)
+        data = json.loads(strip_md_json(res.text))
         return data.get("machines", [])
     except Exception as e:
         print(f"Gemini makine keşif hatası: {e}")
@@ -302,7 +346,16 @@ def run_sellable_machines_radar(category_filter: str = "all", continuous: bool =
             added_count = 0
             for m in new_machines:
                 mname = m.get("machine_name", "")
-                if any(mname.lower() == en.lower() for en in existing_names if en):
+                mname_clean = mname.lower().replace(" ", "").replace("-", "").replace("_", "")
+                is_dup = False
+                for en in existing_names:
+                    if not en:
+                        continue
+                    en_clean = en.lower().replace(" ", "").replace("-", "").replace("_", "")
+                    if mname_clean == en_clean or mname_clean in en_clean or en_clean in mname_clean:
+                        is_dup = True
+                        break
+                if is_dup:
                     continue
 
                 print(f"   ⚙️ İnceleniyor: {mname} (Maliyet: {m.get('estimated_material_cost_tl')} -> Satış: {m.get('online_sales_price_tl')})")
