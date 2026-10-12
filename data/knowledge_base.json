@@ -4468,6 +4468,28 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 16:13:48"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Mounting a shaft seal in open housings - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=sxZi9_-XnZU",
+      "candidate_image_url": "https://i.ytimg.com/vi/sxZi9_-XnZU/hqdefault.jpg",
+      "score": 87,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 18:11:38"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/bearing-housing-7",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/acf3299ed98d36c0578165aa93ce73c1/large.png",
+      "score": 94,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-12 18:11:55"
     }
   ]
 }
