@@ -55,9 +55,25 @@ SELLABLE_MACHINES_JSON = DATA_DIR / "sellable_machines.json"
 SELLABLE_REPORT_MD = BASE_DIR / "SELLABLE_MACHINES.md"
 SELLABLE_PID_FILE = DATA_DIR / "sellable_machines.pid"
 
+LOGS_DIR = DATA_DIR / "logs"
+LOGS_DIR.mkdir(exist_ok=True)
+REGIONAL_LOG_FILE = LOGS_DIR / "regional_agent.log"
+AGENT_LOG_FILE = LOGS_DIR / "autonomous_agent.log"
+SELLABLE_LOG_FILE = LOGS_DIR / "sellable_agent.log"
+
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
 CATALOGS_DIR.mkdir(exist_ok=True)
+
+def get_recent_log_lines(log_path: Path, max_lines: int = 25) -> str:
+    if not log_path.exists():
+        return "Henüz log kaydı yok. Ajan başlatıldığında çalışma çıktıları burada canlı akacaktır."
+    try:
+        lines = log_path.read_text(encoding="utf-8", errors="replace").splitlines()
+        recent = [l for l in lines if l.strip()][-max_lines:]
+        return "\n".join(recent) if recent else "Log dosyası boş."
+    except Exception as e:
+        return f"Log okuma hatası: {e}"
 
 # ──────────────────────────────────────────────
 # API Key Yönetimi
@@ -218,7 +234,8 @@ def start_agent(target_file: Path | str = None):
         tmap = get_target_map()
         target_name = tmap.get(file_name, tf_path.stem)
 
-    proc = subprocess.Popen(cmd)
+    log_fp = open(AGENT_LOG_FILE, "a", encoding="utf-8")
+    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp)
     PID_FILE.write_text(str(proc.pid))
     CURRENT_TARGET_JSON.write_text(json.dumps({
         "target_file": file_name,
@@ -272,7 +289,8 @@ def start_regional_agent(region: str = "Tümü", continuous: bool = True):
         cmd.append("--continuous")
     else:
         cmd.extend(["--rounds", "1"])
-    proc = subprocess.Popen(cmd)
+    log_fp = open(REGIONAL_LOG_FILE, "a", encoding="utf-8")
+    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp)
     REGIONAL_PID_FILE.write_text(str(proc.pid))
 
 def stop_regional_agent():
@@ -325,7 +343,8 @@ def start_sellable_agent(category: str = "all"):
         stop_sellable_agent()
         time.sleep(1)
     cmd = [sys.executable, "-u", "sellable_machines_agent.py", "--category", category, "--continuous"]
-    proc = subprocess.Popen(cmd)
+    log_fp = open(SELLABLE_LOG_FILE, "a", encoding="utf-8")
+    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp)
     SELLABLE_PID_FILE.write_text(str(proc.pid))
 
 def stop_sellable_agent():
@@ -494,6 +513,19 @@ with tab_dashboard:
                         start_agent(TARGETS_DIR / target_to_scan)
                         st.toast("Tarama başlatıldı!", icon="🚀")
                         st.rerun()
+
+    # Canlı Terminal / Ajan Çalışma Konsolu
+    with st.expander("🖥️ Canlı Otonom Keşif Konsolu & Logları", expanded=running):
+        c_log_text = get_recent_log_lines(AGENT_LOG_FILE, max_lines=25)
+        st.code(c_log_text, language="bash")
+        c_l1, c_l2 = st.columns(2)
+        with c_l1:
+            if st.button("🔄 Konsolu Yenile", key="ref_agent_log_btn", use_container_width=True):
+                st.rerun()
+        with c_l2:
+            if st.button("🗑️ Logları Temizle", key="clr_agent_log_btn", use_container_width=True):
+                AGENT_LOG_FILE.unlink(missing_ok=True)
+                st.rerun()
 
     st.markdown("---")
 
@@ -672,6 +704,19 @@ with tab_sellable:
                 with col_sb2:
                     if st.button("🔄 Yenile", key="ref_sellable_btn_2", use_container_width=True):
                         st.rerun()
+
+    # Canlı Terminal / Ajan Çalışma Konsolu
+    with st.expander("🖥️ Canlı Satılabilir Makine Radarı Konsolu & Logları", expanded=sell_running):
+        c_log_text = get_recent_log_lines(SELLABLE_LOG_FILE, max_lines=25)
+        st.code(c_log_text, language="bash")
+        c_sl1, c_sl2 = st.columns(2)
+        with c_sl1:
+            if st.button("🔄 Konsolu Yenile", key="ref_sell_log_btn", use_container_width=True):
+                st.rerun()
+        with c_sl2:
+            if st.button("🗑️ Logları Temizle", key="clr_sell_log_btn", use_container_width=True):
+                SELLABLE_LOG_FILE.unlink(missing_ok=True)
+                st.rerun()
 
     # Kategori Filtre Butonları (Sağlı Sollu)
     machines_all = load_sellable_machines_data()
@@ -858,15 +903,34 @@ with tab_regional:
                 st.warning("🔴 **Mekanikya Makine Avcısı:** DURDURULDU (Boşta)")
                 col_b1, col_b2 = st.columns(2)
                 with col_b1:
-                    if st.button("⚡ Hızlı 1 Tur Makine Avı", type="primary", use_container_width=True, help="Arka planda beklemeden tek bir tur tarar ve hemen sonuçları ekler (~30 sn)."):
-                        start_regional_agent(clean_focus, continuous=False)
-                        st.toast("Hızlı 1 Tur Makine Avı başlatıldı!", icon="🚀")
+                    if st.button("⚡ Hızlı 1 Tur Makine Avı", type="primary", use_container_width=True, help="Arka planda beklemeden tek bir tur tarar ve hemen sonuçları ekler (~20-30 sn)."):
+                        with st.spinner(f"🔍 '{clean_focus}' taranıyor, canlı piyasa fiyatları ve 6 maddeli imalat reçeteleri çıkarılıyor..."):
+                            log_fp = open(REGIONAL_LOG_FILE, "a", encoding="utf-8")
+                            res = subprocess.run(
+                                [sys.executable, "-u", "regional_agent.py", "--region", clean_focus, "--rounds", "1"],
+                                stdout=log_fp,
+                                stderr=log_fp
+                            )
+                        st.toast("1 Tur Makine Avı Tamamlandı! Yeni makineler eklendi.", icon="✅")
                         st.rerun()
                 with col_b2:
                     if st.button("▶️ Kesintisiz Sürekli Av", use_container_width=True, help="Durmaksızın ardışık turlarla yeni makineler keşfeder."):
                         start_regional_agent(clean_focus, continuous=True)
                         st.toast("Kesintisiz Makine Avcısı başlatıldı!", icon="♾️")
                         st.rerun()
+
+    # Canlı Terminal / Ajan Çalışma Konsolu
+    with st.expander("🖥️ Canlı Mekanikya Ajan Konsolu & Çalışma Logları", expanded=reg_running):
+        c_log_text = get_recent_log_lines(REGIONAL_LOG_FILE, max_lines=30)
+        st.code(c_log_text, language="bash")
+        col_lr1, col_lr2 = st.columns(2)
+        with col_lr1:
+            if st.button("🔄 Konsolu Yenile", key="refresh_reg_log_btn", use_container_width=True):
+                st.rerun()
+        with col_lr2:
+            if st.button("🗑️ Logları Temizle", key="clear_reg_log_btn", use_container_width=True):
+                REGIONAL_LOG_FILE.unlink(missing_ok=True)
+                st.rerun()
 
     st.markdown("---")
 

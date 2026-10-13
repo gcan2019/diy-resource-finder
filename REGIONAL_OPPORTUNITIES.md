@@ -1,12 +1,94 @@
 # ⚙️ Mekanikya (mekanikya.com.tr) — Hızlı Nakit & Üret-Sat Makine Avcısı Raporu
 > **Ortak Mühendis Stratejisi:** Ağır döküm, PLC veya uzun CNC gerektirmeyen; **%80+ Lazer Kesim Sac + Abkant Büküm + Kutu Profil + Hazır Standart Elemanlarla** 1-3 günde üretilip internetten satılarak ilk müşteriden en hızlı nakit kazandıracak makineler ve aparatlar.
 
-**Toplam Tespit Edilen Mekanikya Makinesi / Ürünü:** 11 adet
-**Son Güncelleme:** 2026-10-13 14:31:13
+**Toplam Tespit Edilen Mekanikya Makinesi / Ürünü:** 13 adet
+**Son Güncelleme:** 2026-10-13 15:51:42
 
 ---
 
-## 1. Mekanikya MAG-FIX Lazer Kesim Manyetik Kaynak Destek ve Sıkıştırma Standı (⭐ Hızlı Nakit Skoru: %95)
+## 1. Mekanikya PRESS-BREAK Masaüstü Sac Bükme ve Kenetleme Aparatı (⭐ Hızlı Nakit Skoru: %92)
+- **Teknik Adı:** `Portable Sheet Metal Finger Brake` | **Kategori:** `Sac Şekillendirme ve Bükme Ekipmanları` | **İmalat Süresi:** `1 Gün (Lazer Kesim + Kaynak)` (`%80 Lazer Sac + %20 Hazır Bağlantı Elemanları`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Mekanikya BEND-PRO-400`
+- **Global Satış / Teknik Adı:** `Manual Hand Metal Bending Finger Brake`
+- **Türkiye Pazarı Durumu:** `Türkiye Piyasasında Kaliteli Masaüstü Versiyonu Eksik`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/61N+V+V0jDL._AC_SL1000_.jpg`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$180 - $300 USD` *(İthalat Karşılığı: `~9.500 TL - 15.000 TL`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Yerli üretim 4.000 TL - 5.500 TL bandında boşluk var`
+- 📍 **Türkiye Fiyat Kaynağı:** Sahibinden / Atölye Ekipmanları
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Kutu profil ve ince sac bükmek için büyük makineler çok yer kaplıyor. Bu aparat, mevcut mengene üzerine monte edilerek 3mm'ye kadar sacları saniyeler içinde büker.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `12mm Alt ve Üst Çene (St37 veya C45) + 5mm Yan Destekler`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Lazer kesim + 90 derece hassas abkant büküm + menteşe kaynakları
+- **Piyasadan Hazır Alınacak Standart Parçalar:** M16 sıkma cıvataları, ağır hizmet tipi menteşeler, tutma kolları
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `950 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `3.800 TL + KDV / Adet`
+- **Net Kâr:** `2.850 TL / Sipariş` (**%75 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya BEND-PRO 400mm Masaüstü Sac Bükme Aparatı**
+- **Ürün Rozeti:** `🔥 Mengene Uyumlu | 12mm Çelik Çene | Hassas Büküm`
+- **Kısa Teknik Açıklama:** Atölyenizde sac levhaları, kutu profil parçalarını ve köşebentleri 0-135 derece arasında kontrollü bükmenizi sağlar. Taşınabilir ve sağlam.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'BEND-PRO sac bükme aparatı siparişi vermek istiyorum'`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://s3.amazonaws.com/iliketomakestuff.com/wp-content/uploads/2017/09/27160320/yt_metalBrake.jpg)
+
+- 🖨️ **3D CAD Modeli:** [Portable Sheet Metal Finger Brake GrabCAD 3D CAD Kütüphanesi](https://grabcad.com/library?query=Portable%20Sheet%20Metal%20Finger%20Brake)
+- 🎥 **İmalat / Çalışma Videosu:** [Portable Sheet Metal Finger Brake İmalat ve Atölye Videoları | YouTube](https://www.youtube.com/results?search_query=Portable%20Sheet%20Metal%20Finger%20Brake%20DIY%20build%20fabrication)
+
+---
+
+## 2. Mekanikya BELT-GRINDER Çok Amaçlı Dikey Bant Zımpara ve Taşlama Standı (⭐ Hızlı Nakit Skoru: %95)
+- **Teknik Adı:** `Multi-Purpose Vertical Belt Grinder Chassis` | **Kategori:** `Atölye Zımparalama ve Polisaj Ekipmanları` | **İmalat Süresi:** `2 Gün (Lazer Kesim + Kaynak)` (`%90 Lazer Sac + %10 Hazır Rulman/Mil`)
+
+### 1️⃣ Global Referans & Ürün Kimliği
+- **Referans Model / Tip Kodu:** `Mekanikya GRIND-BASIC-1`
+- **Global Satış / Teknik Adı:** `Vertical Belt Grinder Attachment Frame`
+- **Türkiye Pazarı Durumu:** `Türkiye'de Profesyonel Uygun Fiyatlı Alternatif Yok (İthalat Çok Pahalı)`
+- **Doğrulanmış Görsel URL:** `https://m.media-amazon.com/images/I/71R2h4yXQCL._AC_SL1500_.jpg`
+
+### 2️⃣ Çifte Fiyat Kanıtı (Global vs. Türkiye)
+- 🌍 **Global / Yurt Dışı Satış Fiyatı:** `$350 - $600 USD (Vevor / Grizzly)` *(İthalat Karşılığı: `~18.000 TL - 25.000 TL`)*
+- 🇹🇷 **Türkiye İnternet Piyasası Canlı Fiyatı:** `Yerli rakip yok, sadece sanayi tipi devasa makineler var`
+- 📍 **Türkiye Fiyat Kaynağı:** Trendyol / Sahibinden
+
+### 3️⃣ Çözdüğü Atölye Problemi (Neden Hemen Para Verirler?)
+> Küçük atölyelerde kaynak temizleme, çapak alma ve metal şekillendirme için profesyonel ama ekonomik bir istasyon bulunmuyor. Bu ürün ile her motoru bir zımpara makinesine dönüştürebilirler.
+
+### 4️⃣ İmalat Reçetesi (BOM - 1-3 Günde Üretim)
+- **Sac Kalınlığı & Malzeme Cinsi:** `10mm St37 Lazer Kesim Ana Gövde + 8mm Ayar Plakaları`
+- **Kesim / Abkant Büküm / Kaynak Adımı:** Lazer kesim parçaların abkantta bükülmesi, rulman yuvalarının torna ile temizlenmesi ve şasi montajı
+- **Piyasadan Hazır Alınacak Standart Parçalar:** 3 adet rulman (6202), gergi yayı, alüminyum tekerlek seti, M12 civatalar
+
+### 5️⃣ Maliyet ve Kâr Analizi
+- **Tahmini Yerli İmalat Maliyetimiz:** `2.100 TL / Adet`
+- **Mekanikya.com.tr Satış Fiyatımız:** `6.850 TL + KDV / Adet`
+- **Net Kâr:** `4.750 TL / Sipariş` (**%69 Kâr Oranı**)
+
+### 6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı
+- **Ürün Başlığı:** **Mekanikya BELT-GRINDER Dikey Bant Zımpara Şasisi**
+- **Ürün Rozeti:** `🔥 Kendi Motorunu Kendin Seç | 10mm Çelik Gövde`
+- **Kısa Teknik Açıklama:** Metal işleme atölyeniz için profesyonel bant zımpara şasisi. 2x72 inç standart zımparalar ile uyumlu, ayarlanabilir gövde tasarımı.
+- **Sipariş / WhatsApp Çağrısı:** `📲 WhatsApp Hızlı Sipariş Hattı: 'BELT-GRINDER zımpara şasisi siparişi vermek istiyorum'`
+
+#### 📐 Ürün / Teknik Görsel:
+![Ürün Görseli](https://www.iforgeiron.com/uploads/monthly_2017_09/CONCEPTUALS.jpg.742e20ce74ead9e68fb02903b087eb98.jpg)
+
+- 🖨️ **3D CAD Modeli:** [belt grinder - Recent models | 3D CAD Model Collection ...](https://grabcad.com/library?page=1&time=all_time&query=belt+grinder)
+- 🎥 **İmalat / Çalışma Videosu:** [How do you build a pro belt grinder for under $1,000? - YouTube](https://www.youtube.com/watch?v=QrhmA-SGjzc)
+
+---
+
+## 3. Mekanikya MAG-FIX Lazer Kesim Manyetik Kaynak Destek ve Sıkıştırma Standı (⭐ Hızlı Nakit Skoru: %95)
 - **Teknik Adı:** `Magnetic Welding Fixture Clamp Stand` | **Kategori:** `Kaynak ve Montaj Ekipmanları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Montaj)` (`%80 Lazer Kesim Sac + %20 Mıknatıs/Standart Eleman`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -47,7 +129,7 @@
 
 ---
 
-## 2. Mekanikya WELD-SQUARE Ayarlanabilir 90 Derece Kaynak Fikstür Gönyesi (⭐ Hızlı Nakit Skoru: %98)
+## 4. Mekanikya WELD-SQUARE Ayarlanabilir 90 Derece Kaynak Fikstür Gönyesi (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `Adjustable 90 Degree Welding Fixture Square` | **Kategori:** `Kaynak, Bağlama & Montaj Fikstürleri` | **İmalat Süresi:** `1 Gün (Lazer Kesim + Abkant Büküm)` (`%95 Lazer Kesim Sac + %5 Standart Cıvata/Topuz`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -88,7 +170,7 @@
 
 ---
 
-## 3. Mekanikya FLAT-POLISH Masaüstü Disk Zımpara ve Polisaj İstasyonu (⭐ Hızlı Nakit Skoru: %92)
+## 5. Mekanikya FLAT-POLISH Masaüstü Disk Zımpara ve Polisaj İstasyonu (⭐ Hızlı Nakit Skoru: %92)
 - **Teknik Adı:** `Benchtop Disc Sander & Buffing Polishing Station` | **Kategori:** `Zımpara ve Yüzey İşlem Makineleri` | **İmalat Süresi:** `1 Gün (Sadece Lazer Kesim + Montaj)` (`%80 Lazer Sac + %20 Hazır Motor/Mil`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -129,7 +211,7 @@
 
 ---
 
-## 4. Mekanikya GRIND-MAX 2x72 Eğimli Bant Zımpara Şasisi (DIY Kit) (⭐ Hızlı Nakit Skoru: %98)
+## 6. Mekanikya GRIND-MAX 2x72 Eğimli Bant Zımpara Şasisi (DIY Kit) (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `Professional 2x72 Tilting Belt Grinder Chassis Kit` | **Kategori:** `Zımpara ve Yüzey İşlem Makineleri` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + Standart Rulman)` (`%90 Lazer Sac & Profil + %10 Hazır Rulman/Civata`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -170,7 +252,7 @@
 
 ---
 
-## 5. Mekanikya Pipe-Stretch Manuel Boru Daraltma ve Genişletme Aparatı (⭐ Hızlı Nakit Skoru: %98)
+## 7. Mekanikya Pipe-Stretch Manuel Boru Daraltma ve Genişletme Aparatı (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `Manual Pipe Shrinker and Stretcher Tool` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri` | **İmalat Süresi:** `1 Gün (Lazer Kesim + Montaj)` (`%90 Lazer Sac + %10 Standart Cıvata/Somun`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -211,7 +293,7 @@
 
 ---
 
-## 6. Mekanikya English-Wheel Profesyonel Sac Şekillendirme ve Kavis Verme Tekerleği (⭐ Hızlı Nakit Skoru: %95)
+## 8. Mekanikya English-Wheel Profesyonel Sac Şekillendirme ve Kavis Verme Tekerleği (⭐ Hızlı Nakit Skoru: %95)
 - **Teknik Adı:** `Benchtop English Wheel for Sheet Metal Shaping` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri` | **İmalat Süresi:** `2-3 Gün (Lazer Kesim + Hassas Torna Mili + Montaj)` (`%70 Lazer Sac & Profil + %30 Hazır Rulman ve Torna Tekerleği`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -252,7 +334,7 @@
 
 ---
 
-## 7. Üçgen Valsli Manuel Kutu Profil, Boru ve Lama Bükme Makinesi (Roll Bender) (⭐ Hızlı Nakit Skoru: %97)
+## 9. Üçgen Valsli Manuel Kutu Profil, Boru ve Lama Bükme Makinesi (Roll Bender) (⭐ Hızlı Nakit Skoru: %97)
 - **Teknik Adı:** `Manual Square & Round Tube Roll Bender Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `2 Gün (Lazer Sac Yan Gövdeler + 3 Adet Torna Merdanesi + Yataklı Rulman)` (`%80 Lazer Sac & Basit Torna + %20 Hazır UCP Rulman/Kriko Vidası`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -293,7 +375,7 @@
 
 ---
 
-## 8. Pedallı Krikolu Ağır Yük Makine ve Kaynak Masası Taşıma Ayağı (4'lü Set) (⭐ Hızlı Nakit Skoru: %98)
+## 10. Pedallı Krikolu Ağır Yük Makine ve Kaynak Masası Taşıma Ayağı (4'lü Set) (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `Foot Pedal Lift & Lock Workbench Caster Set` | **Kategori:** `Atölye Taşıma, Kaldırma & Tezgah Ekipmanları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + MAG Kaynak)` (`%85 Lazer Sac & Abkant + %15 Hazır Tekerlek/Klemp`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -334,7 +416,7 @@
 
 ---
 
-## 9. Krikolu / Atölye Presi Uyumlu Masaüstü Abkant Sac Büküm Aparatı (Press Brake Attachment) (⭐ Hızlı Nakit Skoru: %99)
+## 11. Krikolu / Atölye Presi Uyumlu Masaüstü Abkant Sac Büküm Aparatı (Press Brake Attachment) (⭐ Hızlı Nakit Skoru: %99)
 - **Teknik Adı:** `Shop Press Brake Attachment (12" - 20" Heavy Duty Bending Die)` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `1 Gün (Kalın Lazer Kesim + Kaynak + Yay)` (`%90 Lazer Sac & Mil + %10 Hazır Kalıp Yayı`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -375,7 +457,7 @@
 
 ---
 
-## 10. Manuel Kollu Sac Kordon Çekme, Kenar Güçlendirme ve Bükme Makinesi (Bead Roller) (⭐ Hızlı Nakit Skoru: %97)
+## 12. Manuel Kollu Sac Kordon Çekme, Kenar Güçlendirme ve Bükme Makinesi (Bead Roller) (⭐ Hızlı Nakit Skoru: %97)
 - **Teknik Adı:** `Manual Sheet Metal Bead Roller & Rotary Forming Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `2 Gün (10mm Lazer Sac Gövde + Torna Kalıp Makaraları)` (`%85 Lazer Sac & Basit Torna + %15 Hazır Dişli/Yatak`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği
@@ -416,7 +498,7 @@
 
 ---
 
-## 11. Matkap Tahrikli 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi (Tube Notcher) (⭐ Hızlı Nakit Skoru: %98)
+## 13. Matkap Tahrikli 0-60° Dereceli Boru ve Profil Kurt Ağzı Açma Makinesi (Tube Notcher) (⭐ Hızlı Nakit Skoru: %98)
 - **Teknik Adı:** `0-60 Degree Adjustable Pipe & Tube Notcher Machine` | **Kategori:** `Sac, Boru & Profil Şekillendirme Makineleri / Aparatları` | **İmalat Süresi:** `1-2 Gün (Lazer Kesim + Abkant + Basit Torna Mili)` (`%85 Lazer Sac & Profil + %15 Hazır Rulman/Mil`)
 
 ### 1️⃣ Global Referans & Ürün Kimliği

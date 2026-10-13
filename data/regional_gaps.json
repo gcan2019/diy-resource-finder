@@ -529,6 +529,108 @@
       "video_title": "Welding and Fabrication - Custom Engineered Solutions",
       "video_url": "https://www.bing.com/aclick?ld=e84GoK_tpKFWy7mp6hpvM5rTVUCUysKE-NMSO84WpL5p_QK5oCqtEhJuQ0iShzQ01tMjomMni-DwIj8OydiGD_X7t1lxupuQemx1UHgacJcg0dRqufcpLeC_8BzXu2rLtiURdHgPJMcbPDo0wQC-rz19YyaiLCcoFkmPW1Ac0i_nsvjPaiADd4KnlRvuAS2QDdRj62xkQepeMS5OZ9lJ4ommYv-Js&u=aHR0cHMlM2ElMmYlMmZ3d3cub25lYWxtZmdzZXJ2aWNlcy5jb20lM2Ztc2Nsa2lkJTNkMTM4MDY4OGExOWU1MTViNGIzMjYwMjQ0MGY2NDI3Mjc&rlid=1380688a19e515b4b32602440f642727",
       "discovered_at": "2026-10-13 14:31:13"
+    },
+    {
+      "part_name": "Mekanikya BELT-GRINDER Çok Amaçlı Dikey Bant Zımpara ve Taşlama Standı",
+      "english_name": "Multi-Purpose Vertical Belt Grinder Chassis",
+      "category": "Atölye Zımparalama ve Polisaj Ekipmanları",
+      "production_time_days": "2 Gün (Lazer Kesim + Kaynak)",
+      "fabrication_ratio": "%90 Lazer Sac + %10 Hazır Rulman/Mil",
+      "opportunity_score": 95,
+      "1_misumi_identity": {
+        "model_code": "Mekanikya GRIND-BASIC-1",
+        "japanese_name": "Vertical Belt Grinder Attachment Frame",
+        "series_number": "Türkiye'de Profesyonel Uygun Fiyatlı Alternatif Yok (İthalat Çok Pahalı)",
+        "misumi_page_url": "https://www.vevor.com/belt-grinder-c_11270/2x72-inch-belt-grinder-chassis-p_010834199920",
+        "verified_image_url": "https://m.media-amazon.com/images/I/71R2h4yXQCL._AC_SL1500_.jpg"
+      },
+      "2_dual_price_proof": {
+        "misumi_jpy_price": "$350 - $600 USD (Vevor / Grizzly)",
+        "misumi_tl_equivalent": "~18.000 TL - 25.000 TL",
+        "tr_market_live_price": "Yerli rakip yok, sadece sanayi tipi devasa makineler var",
+        "tr_market_source": "Trendyol / Sahibinden"
+      },
+      "3_workshop_problem_solved": "Küçük atölyelerde kaynak temizleme, çapak alma ve metal şekillendirme için profesyonel ama ekonomik bir istasyon bulunmuyor. Bu ürün ile her motoru bir zımpara makinesine dönüştürebilirler.",
+      "4_bom_recipe": {
+        "sheet_metal_specs": "10mm St37 Lazer Kesim Ana Gövde + 8mm Ayar Plakaları",
+        "cutting_bending_steps": "Lazer kesim parçaların abkantta bükülmesi, rulman yuvalarının torna ile temizlenmesi ve şasi montajı",
+        "off_the_shelf_parts": "3 adet rulman (6202), gergi yayı, alüminyum tekerlek seti, M12 civatalar"
+      },
+      "5_cost_profit_analysis": {
+        "local_manufacturing_cost_tl": "2.100 TL / Adet",
+        "mekanikya_sales_price_tl": "6.850 TL + KDV / Adet",
+        "net_profit_tl": "4.750 TL / Sipariş",
+        "net_profit_margin_percent": 69
+      },
+      "6_mekanikya_product_card": {
+        "card_title": "Mekanikya BELT-GRINDER Dikey Bant Zımpara Şasisi",
+        "badge_text": "🔥 Kendi Motorunu Kendin Seç | 10mm Çelik Gövde",
+        "short_tech_description": "Metal işleme atölyeniz için profesyonel bant zımpara şasisi. 2x72 inç standart zımparalar ile uyumlu, ayarlanabilir gövde tasarımı.",
+        "whatsapp_cta": "📲 WhatsApp Hızlı Sipariş Hattı: 'BELT-GRINDER zımpara şasisi siparişi vermek istiyorum'"
+      },
+      "blueprint_search_term": "DIY belt grinder chassis blueprint 2x72",
+      "cad_search_term": "2x72 belt grinder 3d model",
+      "video_search_term": "how to build a professional belt grinder chassis",
+      "region": "Mekanikya.com.tr (Üret & Sat)",
+      "blueprint_source_url": "https://www.iforgeiron.com/topic/52559-yet-another-2x72-diy-belt-sander-project/",
+      "blueprint_image_url": "https://www.iforgeiron.com/uploads/monthly_2017_09/CONCEPTUALS.jpg.742e20ce74ead9e68fb02903b087eb98.jpg",
+      "svg_blueprint_path": "C:\\Users\\DELL\\.gemini\\antigravity\\scratch\\diy-resource-finder\\data\\blueprints\\Mekanikya_BELT-GRINDER_Çok_Ama_blueprint.svg",
+      "cad_model_title": "belt grinder - Recent models | 3D CAD Model Collection ...",
+      "cad_model_url": "https://grabcad.com/library?page=1&time=all_time&query=belt+grinder",
+      "video_title": "How do you build a pro belt grinder for under $1,000? - YouTube",
+      "video_url": "https://www.youtube.com/watch?v=QrhmA-SGjzc",
+      "discovered_at": "2026-10-13 15:51:33"
+    },
+    {
+      "part_name": "Mekanikya PRESS-BREAK Masaüstü Sac Bükme ve Kenetleme Aparatı",
+      "english_name": "Portable Sheet Metal Finger Brake",
+      "category": "Sac Şekillendirme ve Bükme Ekipmanları",
+      "production_time_days": "1 Gün (Lazer Kesim + Kaynak)",
+      "fabrication_ratio": "%80 Lazer Sac + %20 Hazır Bağlantı Elemanları",
+      "opportunity_score": 92,
+      "1_misumi_identity": {
+        "model_code": "Mekanikya BEND-PRO-400",
+        "japanese_name": "Manual Hand Metal Bending Finger Brake",
+        "series_number": "Türkiye Piyasasında Kaliteli Masaüstü Versiyonu Eksik",
+        "misumi_page_url": "https://www.woodwardfab.com/product/18-inch-sheet-metal-brake/",
+        "verified_image_url": "https://m.media-amazon.com/images/I/61N+V+V0jDL._AC_SL1000_.jpg"
+      },
+      "2_dual_price_proof": {
+        "misumi_jpy_price": "$180 - $300 USD",
+        "misumi_tl_equivalent": "~9.500 TL - 15.000 TL",
+        "tr_market_live_price": "Yerli üretim 4.000 TL - 5.500 TL bandında boşluk var",
+        "tr_market_source": "Sahibinden / Atölye Ekipmanları"
+      },
+      "3_workshop_problem_solved": "Kutu profil ve ince sac bükmek için büyük makineler çok yer kaplıyor. Bu aparat, mevcut mengene üzerine monte edilerek 3mm'ye kadar sacları saniyeler içinde büker.",
+      "4_bom_recipe": {
+        "sheet_metal_specs": "12mm Alt ve Üst Çene (St37 veya C45) + 5mm Yan Destekler",
+        "cutting_bending_steps": "Lazer kesim + 90 derece hassas abkant büküm + menteşe kaynakları",
+        "off_the_shelf_parts": "M16 sıkma cıvataları, ağır hizmet tipi menteşeler, tutma kolları"
+      },
+      "5_cost_profit_analysis": {
+        "local_manufacturing_cost_tl": "950 TL / Adet",
+        "mekanikya_sales_price_tl": "3.800 TL + KDV / Adet",
+        "net_profit_tl": "2.850 TL / Sipariş",
+        "net_profit_margin_percent": 75
+      },
+      "6_mekanikya_product_card": {
+        "card_title": "Mekanikya BEND-PRO 400mm Masaüstü Sac Bükme Aparatı",
+        "badge_text": "🔥 Mengene Uyumlu | 12mm Çelik Çene | Hassas Büküm",
+        "short_tech_description": "Atölyenizde sac levhaları, kutu profil parçalarını ve köşebentleri 0-135 derece arasında kontrollü bükmenizi sağlar. Taşınabilir ve sağlam.",
+        "whatsapp_cta": "📲 WhatsApp Hızlı Sipariş Hattı: 'BEND-PRO sac bükme aparatı siparişi vermek istiyorum'"
+      },
+      "blueprint_search_term": "DIY finger brake sheet metal plans",
+      "cad_search_term": "sheet metal finger brake cad model",
+      "video_search_term": "making a DIY sheet metal bending brake",
+      "region": "Mekanikya.com.tr (Üret & Sat)",
+      "blueprint_source_url": "https://fity.club/lists/suggestions/diy-sheet-metal-brake-plans/",
+      "blueprint_image_url": "https://s3.amazonaws.com/iliketomakestuff.com/wp-content/uploads/2017/09/27160320/yt_metalBrake.jpg",
+      "svg_blueprint_path": "C:\\Users\\DELL\\.gemini\\antigravity\\scratch\\diy-resource-finder\\data\\blueprints\\Mekanikya_PRESS-BREAK_Masaüstü_blueprint.svg",
+      "cad_model_title": "Portable Sheet Metal Finger Brake GrabCAD 3D CAD Kütüphanesi",
+      "cad_model_url": "https://grabcad.com/library?query=Portable%20Sheet%20Metal%20Finger%20Brake",
+      "video_title": "Portable Sheet Metal Finger Brake İmalat ve Atölye Videoları | YouTube",
+      "video_url": "https://www.youtube.com/results?search_query=Portable%20Sheet%20Metal%20Finger%20Brake%20DIY%20build%20fabrication",
+      "discovered_at": "2026-10-13 15:51:42"
     }
   ]
 }

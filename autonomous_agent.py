@@ -195,20 +195,23 @@ def strip_md_json(raw: str) -> str:
 
 def safe_generate_content(client: genai.Client, contents: list, config: types.GenerateContentConfig = None):
     models = [
-        "gemini-3-flash-preview",
-        "gemma-4-31b-it",
-        "gemini-3.5-flash",
-        "gemini-3.7-flash",
-        "gemini-3.8-flash",
         "gemini-3.1-flash-lite",
-        "gemini-3.5-flash-lite"
+        "gemini-3.1-flash-lite-preview",
+        "gemini-flash-lite-latest",
+        "gemini-3.5-flash-lite",
+        "gemini-3.8-flash",
+        "gemini-3.7-flash",
+        "gemini-3.6-flash",
+        "gemini-3.5-flash",
+        "gemini-3-flash-preview",
+        "gemma-4-31b-it"
     ]
     last_err = None
     for model_name in models:
         try:
             if model_name.startswith("gemma"):
                 # gemma models don't support response_mime_type
-                use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
+                use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=15000))
                 text_contents = []
                 for c in contents:
                     if hasattr(c, "text"):
@@ -224,10 +227,10 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
                 )
             else:
                 if config:
-                    config.http_options = types.HttpOptions(timeout=12000)
+                    config.http_options = types.HttpOptions(timeout=15000)
                     use_cfg = config
                 else:
-                    use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=12000))
+                    use_cfg = types.GenerateContentConfig(http_options=types.HttpOptions(timeout=15000))
                 return client.models.generate_content(
                     model=model_name,
                     contents=contents,
@@ -236,7 +239,7 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
         except Exception as e:
             last_err = e
             err_str = str(e)
-            if "429" in err_str or "404" in err_str or "400" in err_str:
+            if "429" in err_str or "404" in err_str or "400" in err_str or "500" in err_str or "503" in err_str:
                 continue
             time.sleep(1)
             continue

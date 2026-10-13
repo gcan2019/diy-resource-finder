@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="100%" height="100%">
+  <defs>
+    <!-- İnce Grid -->
+    <pattern id="smallgrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#16304d" stroke-width="0.6"/>
+    </pattern>
+    <!-- Kalın Grid (100x100) -->
+    <pattern id="thickgrid" width="100" height="100" patternUnits="userSpaceOnUse">
+      <rect width="100" height="100" fill="url(#smallgrid)"/>
+      <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#234e7a" stroke-width="1.2"/>
+    </pattern>
+    <!-- Ok Uçları -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 10 5 L 0 8.5 z" fill="#48cae4"/>
+    </marker>
+  </defs>
+
+  <!-- Arka Plan ve Grid -->
+  <rect width="800" height="480" fill="#0b1726"/>
+  <rect width="800" height="480" fill="url(#thickgrid)"/>
+
+  <!-- Dış Teknik Resim Çerçevesi -->
+  <rect x="15" y="15" width="770" height="450" fill="none" stroke="#00b4d8" stroke-width="1.8"/>
+  <rect x="20" y="20" width="760" height="440" fill="none" stroke="#0077b6" stroke-width="0.8"/>
+
+  <!-- Üst Sol Rozet / Başlık -->
+  <rect x="35" y="32" width="310" height="32" fill="#132a42" rx="4" stroke="#00b4d8" stroke-width="1"/>
+  <circle cx="50" cy="48" r="5" fill="#48cae4"/>
+  <text x="65" y="53" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#caf0f8">MEKANİKYA MÜHENDİSLİK AR-GE</text>
+  <text x="360" y="52" font-family="'Courier New', monospace" font-size="11" fill="#90e0ef">TEKNİK İMALAT ŞEMASI (REV-1)</text>
+
+  <!-- Şematik Makine Çizimi (Vektörel CAD Temsili) -->
+  <!-- Zemin Bağlantı Pleyti -->
+  <path d="M 110 330 L 690 330 L 675 355 L 125 355 Z" fill="#173753" stroke="#00b4d8" stroke-width="2"/>
+  <!-- Montaj Delikleri -->
+  <circle cx="150" cy="342" r="5" fill="#0b1726" stroke="#48cae4" stroke-width="1.5"/>
+  <circle cx="650" cy="342" r="5" fill="#0b1726" stroke="#48cae4" stroke-width="1.5"/>
+
+  <!-- Sol ve Sağ Lazer Kesim Yan Flanşlar / Destek Plakaları -->
+  <path d="M 190 330 L 190 170 L 245 170 L 245 330 Z" fill="#1f486d" stroke="#90e0ef" stroke-width="2"/>
+  <path d="M 555 330 L 555 170 L 610 170 L 610 330 Z" fill="#1f486d" stroke="#90e0ef" stroke-width="2"/>
+
+  <!-- Ana Mekanizma Gövdesi / Kızak / Kiriş -->
+  <rect x="220" y="180" width="360" height="65" fill="#285984" rx="3" stroke="#caf0f8" stroke-width="2"/>
+  <!-- İnce Lazer Yuvaları & Miller -->
+  <line x1="245" y1="212" x2="555" y2="212" stroke="#48cae4" stroke-width="3" stroke-dasharray="8,4"/>
+  <circle cx="280" cy="212" r="12" fill="#0b1726" stroke="#00b4d8" stroke-width="2"/>
+  <circle cx="520" cy="212" r="12" fill="#0b1726" stroke="#00b4d8" stroke-width="2"/>
+  <rect x="360" y="200" width="80" height="25" fill="#132a42" rx="2" stroke="#caf0f8" stroke-width="1.5"/>
+
+  <!-- Abkant Büküm & Kesim İşaretleri -->
+  <path d="M 270 270 L 320 270 L 350 310 L 450 310 L 480 270 L 530 270" fill="none" stroke="#48cae4" stroke-width="2" stroke-dasharray="4,2"/>
+  <text x="400" y="295" font-family="'Courier New', monospace" font-size="11" fill="#90e0ef" text-anchor="middle">&lt; BÜKÜM &amp; MONTAJ HATTI &gt;</text>
+
+  <!-- Ölçü Çizgileri & Okları (Dimensions) -->
+  <!-- Alt Yatay Ölçü -->
+  <line x1="110" y1="380" x2="690" y2="380" stroke="#48cae4" stroke-width="1.2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="110" y1="365" x2="110" y2="390" stroke="#48cae4" stroke-width="1"/>
+  <line x1="690" y1="365" x2="690" y2="390" stroke="#48cae4" stroke-width="1"/>
+  <text x="400" y="396" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#caf0f8" text-anchor="middle">L = 400 - 600 mm | Standart Atölye </text>
+
+  <!-- Düşey Yükseklik Ölçüsü -->
+  <line x1="90" y1="170" x2="90" y2="355" stroke="#48cae4" stroke-width="1.2" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="80" y1="170" x2="105" y2="170" stroke="#48cae4" stroke-width="1"/>
+  <line x1="80" y1="355" x2="105" y2="355" stroke="#48cae4" stroke-width="1"/>
+  <text x="75" y="270" font-family="'Courier New', monospace" font-size="11" fill="#caf0f8" text-anchor="end">H ≈ 250 mm</text>
+
+  <!-- Lider Çizgisi: Malzeme Bilgisi -->
+  <path d="M 245 170 L 300 115 L 430 115" fill="none" stroke="#48cae4" stroke-width="1.2"/>
+  <circle cx="245" cy="170" r="3" fill="#48cae4"/>
+  <text x="440" y="119" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#90e0ef">4 parça lazer kesim (0-60° açı skalası lazer kazım</text>
+
+  <!-- Sağ Alt Köşe: Resmi Mühendislik Anteti (Title Block) -->
+  <g transform="translate(420, 375)">
+    <rect x="0" y="0" width="345" height="75" fill="#0e2238" stroke="#00b4d8" stroke-width="1.5"/>
+    <line x1="0" y1="24" x2="345" y2="24" stroke="#1d456b" stroke-width="1"/>
+    <line x1="0" y1="48" x2="345" y2="48" stroke="#1d456b" stroke-width="1"/>
+    <line x1="175" y1="48" x2="175" y2="75" stroke="#1d456b" stroke-width="1"/>
+    
+    <text x="10" y="17" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#caf0f8">Matkap Tahrikli 0-60° Dereceli Boru ve Profil</text>
+    <text x="10" y="40" font-family="'Courier New', monospace" font-size="11" fill="#90e0ef">MALZEME: 8mm ve 10mm St37 (S235JR) Lazer Kesim Şasi + </text>
+    <text x="10" y="65" font-family="'Courier New', monospace" font-size="10" fill="#48cae4">İMALAT: 1-3 GÜN</text>
+    <text x="185" y="65" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#90e0ef">MEKANIKYA.COM.TR</text>
+  </g>
+</svg>
