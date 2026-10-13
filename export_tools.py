@@ -142,3 +142,48 @@ def generate_web_card_html(opp: dict) -> str:
     💬 WhatsApp ile Hemen Sipariş Ver
   </a>
 </div>"""
+
+def generate_discoveries_csv(discoveries: list[dict], product_name: str = "") -> str:
+    """
+    Doğrulanmış keşiflerin tümünü Excel uyumlu (UTF-8 BOM, noktalı virgüllü) CSV formatına dönüştürür.
+    """
+    output = io.StringIO()
+    output.write('\ufeff')  # Excel UTF-8 tanıma BOM karakteri
+    writer = csv.writer(output, delimiter=";")
+    writer.writerow([
+        "Sıra",
+        "Hedef Ürün",
+        "Kategori",
+        "Başlık",
+        "Sayfa Linki (URL)",
+        "Görsel Linki",
+        "Doğrulama Skoru (%)",
+        "AI Değerlendirmesi",
+        "Keşif Tarihi"
+    ])
+    
+    for idx, d in enumerate(discoveries, 1):
+        target = d.get("target_name", product_name)
+        cat = d.get("category", "Genel")
+        title = d.get("title", "")
+        page_url = d.get("page_url", "")
+        img_url = d.get("candidate_image_url", "")
+        score = d.get("score", "")
+        reason = d.get("reason", "")
+        disc_at = d.get("discovered_at", "")
+        writer.writerow([idx, target, cat, title, page_url, img_url, score, reason, disc_at])
+        
+    return output.getvalue()
+
+def generate_discoveries_links_txt(discoveries: list[dict]) -> str:
+    """
+    Tüm web linklerini satır satır temiz bir text listesi olarak üretir.
+    Toplu indirme araçları (IDM, wget, curl) veya toplu sekme açıcılar için idealdir.
+    """
+    lines = []
+    for d in discoveries:
+        url = d.get("page_url", "").strip()
+        if url and url != "#":
+            lines.append(url)
+    return "\n".join(lines)
+

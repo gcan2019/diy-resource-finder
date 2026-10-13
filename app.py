@@ -26,7 +26,9 @@ from export_tools import (
     generate_market_search_urls,
     generate_bom_csv,
     generate_whatsapp_message,
-    generate_web_card_html
+    generate_web_card_html,
+    generate_discoveries_csv,
+    generate_discoveries_links_txt
 )
 
 # ──────────────────────────────────────────────
@@ -783,6 +785,61 @@ with tab_dashboard:
     m2.metric("Teknik Çizim", len(grouped_discoveries["technical_drawing"]))
     m3.metric("3D CAD / STL", len(grouped_discoveries["cad_model"]))
     m4.metric("DIY Video", len(grouped_discoveries["diy_video"]))
+
+    # 3.1 HIZLI İNDİRME VE DIŞA AKTARMA KUTUSU
+    all_items_current = []
+    for _k in grouped_discoveries:
+        all_items_current.extend(grouped_discoveries[_k])
+
+    if all_items_current:
+        clean_safe_name = "".join(c for c in selected_product[:30] if c.isalnum() or c in (" ", "_", "-")).strip().replace(" ", "_")
+        if not clean_safe_name:
+            clean_safe_name = "TUM_URUNLER"
+        csv_data = generate_discoveries_csv(all_items_current, selected_product)
+        txt_links = generate_discoveries_links_txt(all_items_current)
+
+        with st.expander(f"📥 {selected_product} — Tüm Linkleri & Dosyaları İndir ({len(all_items_current)} Kaynak)", expanded=True):
+            col_d1, col_d2, col_d3 = st.columns(3)
+            with col_d1:
+                st.download_button(
+                    label=f"📊 Excel / CSV İndir ({len(all_items_current)} Link)",
+                    data=csv_data,
+                    file_name=f"{clean_safe_name}_KAYNAKLAR.csv",
+                    mime="text/csv",
+                    key=f"dl_csv_{abs(hash(str(selected_product))) % 100000}",
+                    type="primary",
+                    use_container_width=True
+                )
+            with col_d2:
+                st.download_button(
+                    label=f"🔗 Sadece Linkler Listesi (.txt)",
+                    data=txt_links,
+                    file_name=f"{clean_safe_name}_LINKLER.txt",
+                    mime="text/plain",
+                    key=f"dl_txt_{abs(hash(str(selected_product))) % 100000}",
+                    use_container_width=True
+                )
+            with col_d3:
+                prod_cat_path = CATALOGS_DIR / f"{clean_safe_name}.md"
+                if prod_cat_path.exists():
+                    cat_md_text = prod_cat_path.read_text(encoding="utf-8")
+                else:
+                    from autonomous_agent import generate_catalog_markdown
+                    cat_md_text = generate_catalog_markdown(selected_product, all_items_current)
+                    prod_cat_path.write_text(cat_md_text, encoding="utf-8")
+
+                st.download_button(
+                    label=f"📑 Markdown Raporu İndir (.md)",
+                    data=cat_md_text,
+                    file_name=f"{clean_safe_name}_KATALOG.md",
+                    mime="text/markdown",
+                    key=f"dl_md_{abs(hash(str(selected_product))) % 100000}",
+                    use_container_width=True
+                )
+
+            with st.expander("📋 Linkleri Ekranda Gör ve Kopyala", expanded=False):
+                st.caption(f"Aşağıdaki alandan tüm {len(all_items_current)} linki sağ üstteki kopyalama simgesine basarak tek seferde kopyalayabilirsiniz:")
+                st.code(txt_links, language="text")
 
     st.divider()
 
