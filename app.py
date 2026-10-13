@@ -150,6 +150,7 @@ def clean_product_name(raw_name: str) -> str:
             text = text[len(prefix):].strip()
     return " ".join(text.split())
 
+@st.cache_data(ttl=5)
 def get_all_product_targets() -> list[str]:
     targets_set = set()
 
@@ -305,6 +306,7 @@ def stop_regional_agent():
             pass
         REGIONAL_PID_FILE.unlink(missing_ok=True)
 
+@st.cache_data(ttl=5)
 def load_regional_gaps_data() -> list[dict]:
     if REGIONAL_GAPS_JSON.exists():
         try:
@@ -359,6 +361,7 @@ def stop_sellable_agent():
             pass
         SELLABLE_PID_FILE.unlink(missing_ok=True)
 
+@st.cache_data(ttl=5)
 def load_sellable_machines_data() -> list[dict]:
     if SELLABLE_MACHINES_JSON.exists():
         try:
@@ -393,6 +396,7 @@ def classify_item(item: dict) -> str:
         return "technical_drawing"
     return "diy_project"
 
+@st.cache_data(ttl=5)
 def load_knowledge_base_data(target_filter: str = None) -> tuple[dict, int, list[str], int]:
     discoveries = []
     if KNOWLEDGE_BASE_JSON.exists():
@@ -529,8 +533,8 @@ with tab_dashboard:
 
     st.markdown("---")
 
-    # 2. ÜRÜN DOSYASI SEÇİCİ & YENİ ÜRÜN YÜKLEME
-    grouped_all, count_all, all_targets, total_in_db = load_knowledge_base_data()
+    # 2. ÜRÜN DOSYASI SEÇİCİ & YENİ ÜRÜN YÜKLEME (HIZLI ÖNBELLEKLİ)
+    all_targets = get_all_product_targets()
     target_options = ["Tüm Ürünler"] + all_targets
 
     # Aktif olarak taranan ürün varsa varsayılan olarak onu seç
@@ -548,7 +552,8 @@ with tab_dashboard:
             "📁 Ekranda İncelenen Ürün Arşivi:",
             target_options,
             index=default_idx,
-            help="İncelemek istediğiniz ürünün arşivini seçin. Her ürünün dosyası bağımsızdır!"
+            help="İncelemek istediğiniz ürünün arşivini seçin. Her ürünün dosyası bağımsızdır!",
+            key="dash_selected_product_sel"
         )
 
     with col_add:
@@ -565,8 +570,8 @@ with tab_dashboard:
             st.success(f"✅ '{new_target.name}' yeni hedef olarak kaydedildi!")
             st.rerun()
 
-    # Filtrelenmiş verileri çek
-    grouped_discoveries, filtered_count, _, _ = load_knowledge_base_data(target_filter=selected_product)
+    # Filtrelenmiş verileri tek seferde önbellekten çek
+    grouped_discoveries, filtered_count, _, total_in_db = load_knowledge_base_data(target_filter=selected_product)
 
     # 3. KULLANICIYI AYDINLATAN VE TEK TIKLA TARAMAYA GEÇİREN AKILLI BİLGİ KUTUSU
     if running and selected_product != "Tüm Ürünler":
@@ -609,7 +614,7 @@ with tab_dashboard:
 
     st.divider()
 
-    # 4. KATEGORİLERE GÖRE DOĞRULANMIŞ GALERİ
+    # 4. KATEGORİLERE GÖRE DOĞRULANMIŞ HIZLI SAYFALANMIŞ GALERİ
     sub_tab_drawings, sub_tab_cad, sub_tab_videos, sub_tab_projects = st.tabs([
         f"📐 Teknik Çizimler ({len(grouped_discoveries['technical_drawing'])})",
         f"🖨️ 3D CAD Modelleri ({len(grouped_discoveries['cad_model'])})",
@@ -617,13 +622,47 @@ with tab_dashboard:
         f"💡 Proje Fikirleri ({len(grouped_discoveries['diy_project'])})"
     ])
 
-    def render_discovery_cards(items: list[dict]):
+    def render_discovery_cards(items: list[dict], cat_key: str = "items"):
         if not items:
             st.info("Bu kategoride bu ürün için henüz doğrulanmış kaynak bulunamadı. Ajan taradıkça burası otomatik dolacaktır.")
             return
 
+        total_items = len(items)
+        
+        # Sayfalama / Pagination Çubuğu (Varsayılan 12 Kart ile Süper Hızlı Render)
+        col_c1, col_c2 = st.columns([3, 1])
+        with col_c1:
+            st.caption(f"Toplam **{total_items}** adet doğrulanmış kaynak bulundu.")
+        with col_c2:
+            page_size = st.selectbox(
+                "Sayfa Başı:",
+                [12, 24, 48],
+                index=0,
+                key=f"psize_{cat_key}",
+                label_visibility="collapsed"
+            )
+
+        total_pages = max(1, (total_items + page_size - 1) // page_size)
+        if total_pages > 1:
+            col_p1, col_p2, col_p3 = st.columns([1, 2, 1])
+            with col_p2:
+                current_page = st.number_input(
+                    f"Sayfa Seçin (1 - {total_pages}):",
+                    min_value=1,
+                    max_value=total_pages,
+                    value=1,
+                    step=1,
+                    key=f"pnum_{cat_key}"
+                )
+        else:
+            current_page = 1
+
+        start_idx = (current_page - 1) * page_size
+        end_idx = min(start_idx + page_size, total_items)
+        display_items = items[start_idx:end_idx]
+
         cols = st.columns(3)
-        for idx, item in enumerate(items):
+        for idx, item in enumerate(display_items):
             with cols[idx % 3]:
                 title = item.get("title", "Doğrulanmış Kaynak")
                 page_url = item.get("page_url", "#")
@@ -643,25 +682,27 @@ with tab_dashboard:
                     st.markdown(f"**[{title[:55]}...]({page_url})**")
                     st.caption(f"🎯 Hedef: `{target_name[:35]}`")
                     st.badge(f"✅ Skor: %{score} Doğrulandı")
-                    st.caption(f"🧠 **AI Notu:** {reason}")
-                    st.caption(f"🕒 {discovered_at}")
+                    if reason:
+                        st.caption(f"🧠 **AI Notu:** {reason[:120]}")
+                    if discovered_at:
+                        st.caption(f"🕒 {discovered_at}")
                     st.link_button("🔗 Kaynağa Git", page_url, use_container_width=True)
 
     with sub_tab_drawings:
         st.caption("2D teknik resimler, ölçü tabloları ve montaj kesitleri")
-        render_discovery_cards(grouped_discoveries["technical_drawing"])
+        render_discovery_cards(grouped_discoveries["technical_drawing"], cat_key="drawings")
 
     with sub_tab_cad:
         st.caption("GrabCAD, Thingiverse, STL, STEP 3D modeller")
-        render_discovery_cards(grouped_discoveries["cad_model"])
+        render_discovery_cards(grouped_discoveries["cad_model"], cat_key="cad")
 
     with sub_tab_videos:
         st.caption("YouTube yapım, imalat, montaj ve atölye rehberleri")
-        render_discovery_cards(grouped_discoveries["diy_video"])
+        render_discovery_cards(grouped_discoveries["diy_video"], cat_key="videos")
 
     with sub_tab_projects:
         st.caption("Topluluk DIY varyasyonları ve makaleler")
-        render_discovery_cards(grouped_discoveries["diy_project"])
+        render_discovery_cards(grouped_discoveries["diy_project"], cat_key="projects")
 
 # ══════════════════════════════════════════════
 # SEKME 2: İNTERNETTEN SATILABİLİR MAKİNELER (ÜRET & SAT)
