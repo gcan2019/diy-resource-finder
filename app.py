@@ -20,6 +20,14 @@ import urllib.parse
 from pathlib import Path
 from PIL import Image
 
+from blueprint_generator import get_or_create_blueprint_svg, generate_svg_blueprint
+from export_tools import (
+    generate_market_search_urls,
+    generate_bom_csv,
+    generate_whatsapp_message,
+    generate_web_card_html
+)
+
 # ──────────────────────────────────────────────
 # Sayfa Yapılandırması
 # ──────────────────────────────────────────────
@@ -175,11 +183,13 @@ def is_agent_running() -> bool:
             if process != 0:
                 ctypes.windll.kernel32.CloseHandle(process)
                 return True
+            PID_FILE.unlink(missing_ok=True)
             return False
         else:
             os.kill(pid, 0)
             return True
     except Exception:
+        PID_FILE.unlink(missing_ok=True)
         return False
 
 def get_active_agent_info() -> dict | None:
@@ -244,18 +254,24 @@ def is_regional_agent_running() -> bool:
             if process != 0:
                 ctypes.windll.kernel32.CloseHandle(process)
                 return True
+            REGIONAL_PID_FILE.unlink(missing_ok=True)
             return False
         else:
             os.kill(pid, 0)
             return True
     except Exception:
+        REGIONAL_PID_FILE.unlink(missing_ok=True)
         return False
 
-def start_regional_agent(region: str = "Merzifon, Amasya"):
+def start_regional_agent(region: str = "Tümü", continuous: bool = True):
     if is_regional_agent_running():
         stop_regional_agent()
         time.sleep(1)
-    cmd = [sys.executable, "-u", "regional_agent.py", "--region", region, "--continuous"]
+    cmd = [sys.executable, "-u", "regional_agent.py", "--region", region]
+    if continuous:
+        cmd.append("--continuous")
+    else:
+        cmd.extend(["--rounds", "1"])
     proc = subprocess.Popen(cmd)
     REGIONAL_PID_FILE.write_text(str(proc.pid))
 
@@ -295,11 +311,13 @@ def is_sellable_agent_running() -> bool:
             if process != 0:
                 ctypes.windll.kernel32.CloseHandle(process)
                 return True
+            SELLABLE_PID_FILE.unlink(missing_ok=True)
             return False
         else:
             os.kill(pid, 0)
             return True
     except Exception:
+        SELLABLE_PID_FILE.unlink(missing_ok=True)
         return False
 
 def start_sellable_agent(category: str = "all"):
@@ -716,13 +734,36 @@ with tab_sellable:
                     if tools:
                         st.markdown(f"**🛠️ Gereken Atölye Aletleri:** `{tools}`")
 
-                    b_mc1, b_mc2 = st.columns(2)
+                    # Canlı Pazar ve Teknik Arama Butonları
+                    m_urls = generate_market_search_urls({"part_name": mname, "english_name": eng_name})
+                    b_mc1, b_mc2, b_mc3, b_mc4 = st.columns(4)
                     with b_mc1:
-                        if cad_url:
-                            st.link_button("🖨️ 3D CAD Dosyası", cad_url, use_container_width=True)
+                        st.link_button("🛒 Trendyol", m_urls["trendyol"], use_container_width=True, help="Trendyol muadillerini açar")
                     with b_mc2:
+                        st.link_button("🏷️ Sahibinden", m_urls["sahibinden"], use_container_width=True, help="Sahibinden piyasasını açar")
+                    with b_mc3:
+                        if cad_url:
+                            st.link_button("🖨️ 3D CAD", cad_url, use_container_width=True)
+                        else:
+                            st.link_button("🖨️ GrabCAD", m_urls["grabcad"], use_container_width=True)
+                    with b_mc4:
                         if vid_url:
-                            st.link_button("🎥 Yapım / İmalat Videosu", vid_url, use_container_width=True)
+                            st.link_button("🎥 Video", vid_url, use_container_width=True)
+                        else:
+                            st.link_button("🎥 YouTube", m_urls["youtube"], use_container_width=True)
+
+                    # WhatsApp Sipariş Mesajı
+                    with st.expander("💬 WhatsApp Teklif / Sipariş Mesajı", expanded=False):
+                        wa_txt = f"""*MEKANİKYA MAKİNE VE APARAT TEKLİFİ* ⚙️
+📦 *Makine:* {mname} ({eng_name})
+🏷️ *Kategori:* {cat}
+💰 *İnternet Satış Fiyatı:* *{price}*
+💡 *Kullanım & Talep:* {demand[:180]}...
+🚚 *Lojistik:* {shipping}
+
+Sipariş ve detaylar için: mekanikya.com.tr"""
+                        st.code(wa_txt, language="markdown")
+                        st.link_button("📲 WhatsApp Web İle Paylaş", f"https://wa.me/?text={urllib.parse.quote(wa_txt)}", use_container_width=True)
 
                     if bp_img:
                         if st.button(f"🚀 Bu Makineyi Teknik Otonom Tarayıcıya Gönder", key=f"send_machine_to_scanner_{idx}", type="primary", use_container_width=True):
@@ -801,6 +842,7 @@ with tab_regional:
             )
 
         with col_reg_ctrl:
+            clean_focus = "Tümü" if selected_region.startswith("Tümü") else selected_region
             if reg_running:
                 st.success("🟢 **Mekanikya Makine Avcısı:** ÇALIŞIYOR (Global & TR Pazarı Taranıyor)")
                 col_b1, col_b2 = st.columns(2)
@@ -816,28 +858,94 @@ with tab_regional:
                 st.warning("🔴 **Mekanikya Makine Avcısı:** DURDURULDU (Boşta)")
                 col_b1, col_b2 = st.columns(2)
                 with col_b1:
-                    if st.button("▶️ Sürekli Makine & Ürün Avını Başlat", type="primary", use_container_width=True):
-                        clean_focus = "Tümü" if selected_region.startswith("Tümü") else selected_region
-                        start_regional_agent(clean_focus)
-                        st.toast("Mekanikya Hızlı Nakit Makine Avcısı başlatıldı!", icon="🚀")
+                    if st.button("⚡ Hızlı 1 Tur Makine Avı", type="primary", use_container_width=True, help="Arka planda beklemeden tek bir tur tarar ve hemen sonuçları ekler (~30 sn)."):
+                        start_regional_agent(clean_focus, continuous=False)
+                        st.toast("Hızlı 1 Tur Makine Avı başlatıldı!", icon="🚀")
                         st.rerun()
                 with col_b2:
-                    if st.button("🔄 Yenile", key="ref_mekanikya_idle", use_container_width=True):
+                    if st.button("▶️ Kesintisiz Sürekli Av", use_container_width=True, help="Durmaksızın ardışık turlarla yeni makineler keşfeder."):
+                        start_regional_agent(clean_focus, continuous=True)
+                        st.toast("Kesintisiz Makine Avcısı başlatıldı!", icon="♾️")
                         st.rerun()
 
     st.markdown("---")
 
-    # Tespit Edilen Mekanikya Ürünleri
+    # Veri Yükleme ve Metrik Paneli
     opps_raw = load_regional_gaps_data()
     mekanikya_opps = [o for o in opps_raw if "1_misumi_identity" in o]
-    display_opps = mekanikya_opps if mekanikya_opps else opps_raw
+    all_opps = mekanikya_opps if mekanikya_opps else opps_raw
 
-    st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilip İnternetten Satılabilir Makineler ({len(display_opps)} Adet)")
+    # Üst İstatistik Metrik Çubuğu
+    if all_opps:
+        def _parse_profit(o):
+            try:
+                m5 = o.get("5_cost_profit_analysis", {})
+                return int(m5.get("net_profit_margin_percent", 70))
+            except Exception:
+                return 70
 
-    if not display_opps:
-        st.info("Henüz makine/ürün kaydı yok. Yukarıdaki **'▶️ Sürekli Makine & Ürün Avını Başlat'** butonuna basarak taramayı başlatabilirsiniz.")
+        avg_margin = int(sum(_parse_profit(o) for o in all_opps) / max(1, len(all_opps)))
+        fast_prod = sum(1 for o in all_opps if "1-" in o.get("production_time_days", "") or "1 " in o.get("production_time_days", ""))
+
+        c_m1, c_m2, c_m3, c_m4 = st.columns(4)
+        c_m1.metric("💡 Tespit Edilen Makine", f"{len(all_opps)} Adet")
+        c_m2.metric("⏱️ 1-2 Günde Üretilebilir", f"{fast_prod} Makine", "Lazer Sac + Profil")
+        c_m3.metric("📈 Ortalama Net Kâr Marjı", f"%{avg_margin}", "Yüksek Kârlı")
+        c_m4.metric("🇹🇷 Yerli Üretim Avantajı", "%100 İthal İkamesi", "Hızlı Nakit Akışı")
+
+        st.divider()
+
+        # Canlı Filtreleme ve Sıralama Çubuğu
+        c_search, c_sort = st.columns([3, 2])
+        with c_search:
+            search_query = st.text_input(
+                "🔍 Makine Adı, Malzeme veya Çözüm İle Filtrele:",
+                placeholder="Örn: boru, kordon, fikstür, abkant, kaynak...",
+                key="reg_search_input"
+            )
+        with c_sort:
+            sort_mode = st.selectbox(
+                "Sıralama Ölçütü:",
+                [
+                    "⭐ En Yüksek Fırsat Puanı",
+                    "📈 En Yüksek Kâr Marjı (%)",
+                    "⏱️ En Hızlı Üretilenler (1-2 Gün)",
+                    "🕒 En Yeni Keşifler"
+                ],
+                key="reg_sort_select"
+            )
+
+        # Filtreleme Uygula
+        filtered_opps = all_opps
+        if search_query:
+            sq = search_query.lower()
+            filtered_opps = [
+                o for o in all_opps
+                if sq in o.get("part_name", "").lower()
+                or sq in o.get("english_name", "").lower()
+                or sq in o.get("category", "").lower()
+                or sq in str(o.get("4_bom_recipe", {})).lower()
+                or sq in o.get("3_workshop_problem_solved", "").lower()
+            ]
+
+        # Sıralama Uygula
+        if sort_mode == "⭐ En Yüksek Fırsat Puanı":
+            filtered_opps = sorted(filtered_opps, key=lambda x: x.get("opportunity_score", 90), reverse=True)
+        elif sort_mode == "📈 En Yüksek Kâr Marjı (%)":
+            filtered_opps = sorted(filtered_opps, key=lambda x: _parse_profit(x), reverse=True)
+        elif sort_mode == "⏱️ En Hızlı Üretilenler (1-2 Gün)":
+            filtered_opps = sorted(filtered_opps, key=lambda x: 1 if "1" in x.get("production_time_days", "") else 2)
+        elif sort_mode == "🕒 En Yeni Keşifler":
+            filtered_opps = list(reversed(filtered_opps))
     else:
-        for idx, opp in enumerate(reversed(display_opps), 1):
+        filtered_opps = []
+
+    st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilip İnternetten Satılabilir Makineler ({len(filtered_opps)} Adet)")
+
+    if not filtered_opps:
+        st.info("Kriterlere uygun makine bulunamadı. Yukarıdaki **'⚡ Hızlı 1 Tur Makine Avı'** butonuna basarak taramayı başlatabilirsiniz.")
+    else:
+        for idx, opp in enumerate(filtered_opps, 1):
             pname = opp.get("part_name", "İsimsiz Makine")
             eng_name = opp.get("english_name", "")
             category = opp.get("category", "Sac & Profil Makine")
@@ -855,6 +963,9 @@ with tab_regional:
             m5 = opp.get("5_cost_profit_analysis", {})
             m6 = opp.get("6_mekanikya_product_card", {})
 
+            # Canlı Pazar Arama Linklerini Üret
+            market_urls = generate_market_search_urls(opp)
+
             with st.container(border=True):
                 col_info, col_img = st.columns([3, 2])
                 with col_info:
@@ -864,7 +975,7 @@ with tab_regional:
 
                     if m1 or m2 or m4 or m5 or m6:
                         # 1. Global Referans & Ürün Kimliği
-                        with st.expander("1️⃣ Global Referans Model & Türkiye Pazar Durumu", expanded=True):
+                        with st.expander("1️⃣ Global Referans Model & Türkiye Pazar Durumu", expanded=False):
                             st.markdown(f"- **Referans Model / Tip Kodu:** `{m1.get('model_code', '-')}`")
                             st.markdown(f"- **Global Satış / Teknik Adı:** `{m1.get('japanese_name', '-')}`")
                             st.markdown(f"- **Türkiye Pazarı Durumu:** `{m1.get('series_number', '-')}`")
@@ -888,7 +999,7 @@ with tab_regional:
                             st.markdown(f"- **Piyasadan Hazır Alınacak Standart Parçalar:** {m4.get('off_the_shelf_parts', '-')}")
 
                         # 6. Mekanikya.com.tr Sitemize Hazır Ürün Kartı
-                        with st.expander("6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı (Kopyala & Yükle)", expanded=True):
+                        with st.expander("6️⃣ Mekanikya.com.tr Sitemize Hazır Ürün Kartı", expanded=False):
                             st.markdown(f"**🛒 Ürün Başlığı:** {m6.get('card_title', '-')}")
                             st.markdown(f"**🏷️ Rozet:** `{m6.get('badge_text', '-')}`")
                             st.markdown(f"**📝 Kısa Teknik Açıklama:**\n{m6.get('short_tech_description', '-')}")
@@ -896,29 +1007,150 @@ with tab_regional:
                     else:
                         st.markdown(f"**💡 Açıklama:** {m3}")
 
-                    # Eylemler: CAD & Video Butonları
-                    b_c1, b_c2 = st.columns(2)
-                    with b_c1:
+                    # ──────────────────────────────────────────────────────────
+                    # YENİ: CANLI PİYASA DOĞRULAMA BUTONLARI (Trendyol, Sahibinden, GrabCAD, YouTube)
+                    # ──────────────────────────────────────────────────────────
+                    st.markdown("##### 🔎 Canlı Piyasa ve Teknik Doğrulama")
+                    c_ver1, c_ver2, c_ver3, c_ver4, c_ver5 = st.columns(5)
+                    with c_ver1:
+                        st.link_button("🛒 Trendyol", market_urls["trendyol"], use_container_width=True, help="Trendyol'daki muadil ve canlı TL fiyatlarını açar")
+                    with c_ver2:
+                        st.link_button("🏷️ Sahibinden", market_urls["sahibinden"], use_container_width=True, help="Sahibinden'deki canlı atölye fiyatlarını açar")
+                    with c_ver3:
+                        st.link_button("📦 Hepsiburada", market_urls["hepsiburada"], use_container_width=True, help="Hepsiburada aramasını açar")
+                    with c_ver4:
                         if cad_url:
-                            st.link_button("🖨️ 3D CAD Dosyası (GrabCAD)", cad_url, use_container_width=True)
-                    with b_c2:
+                            st.link_button("🖨️ GrabCAD", cad_url, use_container_width=True)
+                        else:
+                            st.link_button("🖨️ GrabCAD", market_urls["grabcad"], use_container_width=True)
+                    with c_ver5:
                         if vid_url:
-                            st.link_button("🎥 İmalat / Yapım Videosu", vid_url, use_container_width=True)
+                            st.link_button("🎥 YouTube", vid_url, use_container_width=True)
+                        else:
+                            st.link_button("🎥 YouTube", market_urls["youtube"], use_container_width=True)
+
+                    # ──────────────────────────────────────────────────────────
+                    # YENİ: CANLI İMALAT MALİYETİ & LAZER KESİM SİMÜLATÖRÜ
+                    # ──────────────────────────────────────────────────────────
+                    with st.expander("🧮 Canlı İmalat Maliyeti & Lazer Kesim Simülatörü (Atölye Hesabı)", expanded=False):
+                        st.caption("Atölyenizdeki gerçek sac, lazer kesim metre ve işçilik fiyatlarına göre kâr marjını ve satış fiyatını anında simüle edin:")
+                        
+                        # Başlangıç değerlerini tahminden al
+                        def _extract_int(val, default):
+                            try:
+                                digs = "".join(c for c in str(val).split("TL")[0] if c.isdigit())
+                                return int(digs) if digs else default
+                            except Exception:
+                                return default
+
+                        base_cost = _extract_int(m5.get("local_manufacturing_cost_tl", ""), 1200)
+                        
+                        cs1, cs2 = st.columns(2)
+                        with cs1:
+                            c_raw_sac = st.number_input(
+                                "1. Ham Sac & Profil Maliyeti (TL):",
+                                min_value=100, max_value=50000,
+                                value=max(100, int(base_cost * 0.45)),
+                                step=50,
+                                key=f"sim_sac_{idx}"
+                            )
+                            c_laser = st.number_input(
+                                "2. Lazer Kesim Masrafı (TL):",
+                                min_value=50, max_value=30000,
+                                value=max(50, int(base_cost * 0.25)),
+                                step=50,
+                                key=f"sim_laser_{idx}"
+                            )
+                            c_bend = st.number_input(
+                                "3. Abkant Büküm & Kaynak (TL):",
+                                min_value=50, max_value=20000,
+                                value=max(50, int(base_cost * 0.15)),
+                                step=50,
+                                key=f"sim_bend_{idx}"
+                            )
+                        with cs2:
+                            c_hardware = st.number_input(
+                                "4. Hazır Hırdavat / Rulman / Mil (TL):",
+                                min_value=50, max_value=25000,
+                                value=max(50, int(base_cost * 0.15)),
+                                step=50,
+                                key=f"sim_hard_{idx}"
+                            )
+                            c_paint = st.number_input(
+                                "5. Toz Boya / Kaplama (TL):",
+                                min_value=0, max_value=10000,
+                                value=max(0, int(base_cost * 0.10)),
+                                step=50,
+                                key=f"sim_paint_{idx}"
+                            )
+                            c_margin = st.slider(
+                                "Hedef Kâr Marjı (%):",
+                                min_value=30, max_value=85,
+                                value=70,
+                                step=5,
+                                key=f"sim_margin_{idx}"
+                            )
+
+                        tot_cost = c_raw_sac + c_laser + c_bend + c_hardware + c_paint
+                        rec_price = int(tot_cost / max(0.01, (1 - c_margin / 100.0)))
+                        net_profit = rec_price - tot_cost
+
+                        st.markdown("---")
+                        rc1, rc2, rc3 = st.columns(3)
+                        rc1.metric("🛠️ Hesaplanan Net Maliyet", f"{tot_cost:,} TL".replace(",", "."))
+                        rc2.metric("💰 Tavsiye Satış Fiyatı (+KDV)", f"{rec_price:,} TL".replace(",", "."))
+                        rc3.metric("📈 Net Kâr Tutarı", f"{net_profit:,} TL".replace(",", "."), f"%{c_margin} Marj")
+
+                    # ──────────────────────────────────────────────────────────
+                    # YENİ: 1-TIKLA DIŞA AKTARMA (WhatsApp, BOM CSV, HTML Kart)
+                    # ──────────────────────────────────────────────────────────
+                    with st.expander("📦 Atölye ve Satış İhracat Araçları (BOM CSV / WhatsApp / Web)", expanded=False):
+                        tab_exp_csv, tab_exp_wa, tab_exp_html = st.tabs([
+                            "📥 Lazer Kesimciye BOM CSV",
+                            "💬 WhatsApp Teklif Metni",
+                            "🌐 Web Sitesi HTML Kartı"
+                        ])
+
+                        with tab_exp_csv:
+                            bom_csv_content = generate_bom_csv(opp)
+                            clean_fname_csv = "".join(c for c in pname[:25] if c.isalnum() or c in (" ", "_", "-")).strip().replace(" ", "_")
+                            st.download_button(
+                                label="📥 Lazer Kesimciye Gönderilecek BOM Reçetesini İndir (.csv)",
+                                data=bom_csv_content,
+                                file_name=f"{clean_fname_csv}_IMALAT_RECETESI.csv",
+                                mime="text/csv",
+                                key=f"btn_bom_csv_{idx}",
+                                use_container_width=True
+                            )
+                            st.code(bom_csv_content, language="csv")
+
+                        with tab_exp_wa:
+                            wa_msg = generate_whatsapp_message(opp)
+                            st.caption("Müşterilere veya WhatsApp sipariş hattına doğrudan gönderilebilecek hazır teklif metni:")
+                            st.code(wa_msg, language="markdown")
+                            wa_encoded = urllib.parse.quote(wa_msg)
+                            st.link_button("📲 WhatsApp Web ile Müşteriye Gönder", f"https://wa.me/?text={wa_encoded}", use_container_width=True)
+
+                        with tab_exp_html:
+                            html_card = generate_web_card_html(opp)
+                            st.caption("Mekanikya.com.tr veya e-ticaret sitenize kopyalayabileceğiniz temiz HTML kodu:")
+                            st.code(html_card, language="html")
 
                     # Bu ürünü otonom teknik tarayıcıya gönderme butonu
-                    if bp_img:
+                    if bp_img or opp.get("svg_blueprint_path"):
                         if st.button(f"🚀 Bu Makineyi Teknik Çizim & CAD Otonom Tarayıcıya Gönder", key=f"send_to_scanner_{idx}", type="primary", use_container_width=True):
                             try:
                                 clean_fname = "".join(c for c in pname[:30] if c.isalnum() or c in (" ", "_", "-")).strip() + ".png"
                                 target_save_path = TARGETS_DIR / clean_fname
 
                                 img_data = None
-                                try:
-                                    req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
-                                    with urllib.request.urlopen(req, timeout=10) as resp:
-                                        img_data = resp.read()
-                                except Exception:
-                                    pass
+                                if bp_img:
+                                    try:
+                                        req = urllib.request.Request(bp_img, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                                        with urllib.request.urlopen(req, timeout=10) as resp:
+                                            img_data = resp.read()
+                                    except Exception:
+                                        pass
 
                                 if not img_data or len(img_data) < 100:
                                     from PIL import ImageDraw
@@ -941,14 +1173,56 @@ with tab_regional:
                             except Exception as e:
                                 st.error(f"Hedefe aktarılırken hata: {e}")
 
+                # ──────────────────────────────────────────────────────────
+                # SAĞ KOLON: AKILLI 2D CAD VEKTÖR BLUEPRINT / ÜRÜN GÖRSELİ
+                # ──────────────────────────────────────────────────────────
                 with col_img:
-                    if bp_img:
+                    # Garantili 2D CAD Vektörel Blueprint SVG dosyasını kontrol et
+                    svg_path = opp.get("svg_blueprint_path")
+                    if not svg_path or not Path(svg_path).exists():
                         try:
-                            st.image(bp_img, caption=f"📐 {m1.get('model_code', 'Ürün / Teknik Görsel')}", use_container_width=True)
+                            svg_path = get_or_create_blueprint_svg(
+                                pname,
+                                eng_name,
+                                m4.get("sheet_metal_specs", "St37 Sac"),
+                                m4.get("cutting_bending_steps", "Lazer Kesim")
+                            )
+                            opp["svg_blueprint_path"] = svg_path
                         except Exception:
-                            st.caption("Görsel önizlemesi yüklenemedi.")
-                    else:
-                        st.info("Bu makine için henüz görsel önizlemesi bulunamadı.")
+                            svg_path = None
+
+                    # Görsel sekmesi: Gerçek Fotoğraf vs 2D CAD Blueprint
+                    img_tab1, img_tab2 = st.tabs(["📷 Ürün Görseli", "📐 2D CAD Vektör Şema"])
+                    
+                    with img_tab1:
+                        if bp_img:
+                            try:
+                                st.image(bp_img, caption=f"📐 {m1.get('model_code', 'Ürün / Teknik Görsel')}", use_container_width=True)
+                            except Exception:
+                                st.caption("Web görsel önizlemesi yüklenemedi. Yan sekmedeki 2D CAD şemasını inceleyebilirsiniz.")
+                                if svg_path and Path(svg_path).exists():
+                                    st.image(svg_path, caption="📐 Mekanikya 2D Vektörel İmalat Şeması", use_container_width=True)
+                        else:
+                            if svg_path and Path(svg_path).exists():
+                                st.image(svg_path, caption="📐 Mekanikya 2D Vektörel İmalat Şeması", use_container_width=True)
+                            else:
+                                st.info("Bu makine için web görseli aranıyor...")
+
+                    with img_tab2:
+                        if svg_path and Path(svg_path).exists():
+                            st.image(svg_path, caption=f"📐 {pname[:35]} — Mekanikya 2D CAD Şeması", use_container_width=True)
+                            svg_content = Path(svg_path).read_text(encoding="utf-8")
+                            st.download_button(
+                                label="📥 2D CAD Blueprint İndir (.svg)",
+                                data=svg_content,
+                                file_name=f"{pname[:20].replace(' ', '_')}_blueprint.svg",
+                                mime="image/svg+xml",
+                                key=f"down_svg_bp_{idx}",
+                                use_container_width=True
+                            )
+                        else:
+                            st.caption("SVG Blueprint hazırlanıyor...")
+
 
 # ══════════════════════════════════════════════
 # SEKME 4: KATALOG RAPORLARI

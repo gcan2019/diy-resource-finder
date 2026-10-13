@@ -43,6 +43,7 @@ from PIL import Image
 from google import genai
 from google.genai import types
 from ddgs import DDGS
+from blueprint_generator import get_or_create_blueprint_svg
 
 # ──────────────────────────────────────────────
 # Dizin ve Dosya Yapısı
@@ -386,6 +387,17 @@ def enrich_opportunity_with_assets(opp: dict, img_candidates: list[str]) -> dict
             if not current_v or not current_v.startswith("http"):
                 ref_id["verified_image_url"] = img_found
 
+    # Her halükarda garantili endüstriyel 2D CAD Vektör Blueprint SVG'si oluştur
+    pname = opp.get("part_name", "")
+    m4 = opp.get("4_bom_recipe", {})
+    mat_spec = m4.get("sheet_metal_specs", "St37 / St52 Sac + Kutu Profil")
+    cut_step = m4.get("cutting_bending_steps", "Lazer Kesim + Abkant Büküm")
+    try:
+        svg_file = get_or_create_blueprint_svg(pname, eng_name, mat_spec, cut_step)
+        opp["svg_blueprint_path"] = svg_file
+    except Exception:
+        pass
+
     # 2. 3D CAD Modeli (GrabCAD)
     cad_term = opp.get("cad_search_term") or f"{eng_name} GrabCAD STEP 3D model"
     try:
@@ -394,9 +406,15 @@ def enrich_opportunity_with_assets(opp: dict, img_candidates: list[str]) -> dict
             cad_res = list(ddgs.text(cad_term, max_results=2))
         if cad_res:
             opp["cad_model_title"] = cad_res[0].get("title")
-            opp["cad_model_url"] = cad_res[0].get("href") or cad_res[0].get("url")
+            c_url = cad_res[0].get("href") or cad_res[0].get("url")
+            if c_url and "grabcad.com" in c_url:
+                opp["cad_model_url"] = c_url
     except Exception:
         pass
+
+    if not opp.get("cad_model_url"):
+        opp["cad_model_title"] = f"{eng_name} GrabCAD 3D CAD Kütüphanesi"
+        opp["cad_model_url"] = f"https://grabcad.com/library?query={urllib.parse.quote(eng_name)}"
 
     # 3. İmalat / Çalışma Videosu (YouTube)
     vid_term = opp.get("video_search_term") or f"how to build {eng_name} DIY fabrication"
@@ -405,10 +423,17 @@ def enrich_opportunity_with_assets(opp: dict, img_candidates: list[str]) -> dict
         if not vid_res:
             vid_res = list(ddgs.text(vid_term, max_results=2))
         if vid_res:
-            opp["video_title"] = vid_res[0].get("title")
-            opp["video_url"] = vid_res[0].get("href") or vid_res[0].get("url")
+            v_url = vid_res[0].get("href") or vid_res[0].get("url")
+            # Bing ad / redirect linklerini ele
+            if v_url and ("youtube.com" in v_url or "youtu.be" in v_url) and "aclick" not in v_url:
+                opp["video_title"] = vid_res[0].get("title")
+                opp["video_url"] = v_url
     except Exception:
         pass
+
+    if not opp.get("video_url"):
+        opp["video_title"] = f"{eng_name} İmalat ve Atölye Videoları | YouTube"
+        opp["video_url"] = f"https://www.youtube.com/results?search_query={urllib.parse.quote(eng_name + ' DIY build fabrication')}"
 
     opp["discovered_at"] = time.strftime("%Y-%m-%d %H:%M:%S")
     return opp

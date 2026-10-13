@@ -429,6 +429,106 @@
       "video_title": "The Ultimate Disk Sander Build FULL PROCESS - YouTubeDIY Sanding Disc Machine | Powerful Homemade Sander BuildHow to Build a Disc Sander from an Old Motor | Full DIY ...Homemade Disc Sander / How to Make a Disk Sander【DIY】Homemade Disc Sander (12inch/300mm) / disc sander buildDisc Sander - Make DIY Build - YouTubeHow to Make a Powerful DIY Disc Sander at Home - YouTube",
       "video_url": "https://www.youtube.com/watch?v=LxG7QoQIbHo",
       "discovered_at": "2026-10-11 22:14:27"
+    },
+    {
+      "part_name": "Mekanikya WELD-SQUARE Ayarlanabilir 90 Derece Kaynak Fikstür Gönyesi",
+      "english_name": "Adjustable 90 Degree Welding Fixture Square",
+      "category": "Kaynak, Bağlama & Montaj Fikstürleri",
+      "production_time_days": "1 Gün (Lazer Kesim + Abkant Büküm)",
+      "fabrication_ratio": "%95 Lazer Kesim Sac + %5 Standart Cıvata/Topuz",
+      "opportunity_score": 98,
+      "1_misumi_identity": {
+        "model_code": "Strong Hand Tools LF-2",
+        "japanese_name": "Adjustable Welding Angle Jig",
+        "series_number": "Türkiye pazarında profesyonel muadili çok az, genelde ucuz/kalitesiz ithal ürünler mevcut",
+        "misumi_page_url": "https://www.stronghandtools.com/product/adjustable-90-degree-angle-jig/",
+        "verified_image_url": "https://i.ebayimg.com/images/g/V~AAAOSw-sRj274U/s-l1200.jpg"
+      },
+      "2_dual_price_proof": {
+        "misumi_jpy_price": "$90 - $130 USD",
+        "misumi_tl_equivalent": "~3.500 TL - 4.500 TL (Kargo + Gümrük Hariç)",
+        "tr_market_live_price": "Türkiye piyasasında hassas lazer kesim muadili yok, döküm gönyeler 1.500-2.500 TL",
+        "tr_market_source": "Trendyol / Sahibinden"
+      },
+      "3_workshop_problem_solved": "Kaynak yaparken profillerin 90 derece tutulması için sürekli tek el kullanmak zorundalar. Bu aparat hem gönyeleme yapar hem de parçayı el değmeden sabitler.",
+      "4_bom_recipe": {
+        "sheet_metal_specs": "8mm A1 Kalite S235 Sac Lazer Kesim",
+        "cutting_bending_steps": "Lazer kesim sonrası abkantta 90 derece büküm, hassas yüzey taşlama, elektrostatik toz boya",
+        "off_the_shelf_parts": "M10 Paslanmaz Topuz, M10 saplama, kanat somun"
+      },
+      "5_cost_profit_analysis": {
+        "local_manufacturing_cost_tl": "450 TL / Adet",
+        "mekanikya_sales_price_tl": "1.850 TL + KDV / Adet",
+        "net_profit_tl": "1.400 TL / Sipariş",
+        "net_profit_margin_percent": 75
+      },
+      "6_mekanikya_product_card": {
+        "card_title": "Mekanikya WELD-SQUARE Ayarlanabilir Kaynak Gönyesi",
+        "badge_text": "🔥 Stoktan Hemen Teslim | Lazer Kesim Hassasiyeti | Ömürlük Çelik",
+        "short_tech_description": "Profil kaynak işlerinizde 90 dereceyi saniyeler içinde yakalayın. Spatter (çapak) tutmaz yüzey, 8mm çelik gövde ile atölyenizin en sağlam yardımcısı.",
+        "whatsapp_cta": "📲 WhatsApp Hızlı Sipariş: 'WELD-SQUARE kaynak gönyesi istiyorum'"
+      },
+      "blueprint_search_term": "adjustable welding square jig drawing",
+      "cad_search_term": "welding fixture square 3D model",
+      "video_search_term": "DIY adjustable welding angle jig build",
+      "region": "Mekanikya.com.tr (Üret & Sat)",
+      "blueprint_source_url": "https://ar.inspiredpencil.com/pictures-2023/welding-jigs-drawing",
+      "blueprint_image_url": "https://www.metalartspress.com/sites/default/files/chapter-images/wkh-chapter4-image012.gif",
+      "cad_model_title": "90 degree clamp welding fixture | 3D CAD Model Library | GrabCAD",
+      "cad_model_url": "https://grabcad.com/library/90-degree-clamp-welding-fixture-1",
+      "video_title": "DIY Welding Jig for Perfect Angle Cuts - Make Any Joint!",
+      "video_url": "https://m.youtube.com/watch?v=JDnlbaZz_Kc",
+      "discovered_at": "2026-10-13 14:31:06"
+    },
+    {
+      "part_name": "Mekanikya MAG-FIX Lazer Kesim Manyetik Kaynak Destek ve Sıkıştırma Standı",
+      "english_name": "Magnetic Welding Fixture Clamp Stand",
+      "category": "Kaynak ve Montaj Ekipmanları",
+      "production_time_days": "1-2 Gün (Lazer Kesim + Montaj)",
+      "fabrication_ratio": "%80 Lazer Kesim Sac + %20 Mıknatıs/Standart Eleman",
+      "opportunity_score": 95,
+      "1_misumi_identity": {
+        "model_code": "BuildPro / Fixto Modular System",
+        "japanese_name": "Welding Magnet Positioning Tool",
+        "series_number": "Türkiye'de sadece ucuz Çin malı mıknatıslar var, modüler bir sistem yok",
+        "misumi_page_url": "https://www.weldingtableandfixtures.com/heavy-duty-welding-fixture-clamps.html",
+        "verified_image_url": "https://www.weldingtableandfixtures.com/media/product/2023/05/Untitled_Project_(4)_799_155146.jpg"
+      },
+      "2_dual_price_proof": {
+        "misumi_jpy_price": "$150 - $200 USD",
+        "misumi_tl_equivalent": "~5.000 TL - 7.000 TL",
+        "tr_market_live_price": "Yerli muadili yok, profesyonel ithal ürünler çok pahalı",
+        "tr_market_source": "Sahibinden / E-Makine"
+      },
+      "3_workshop_problem_solved": "Kaynak masasında düzensiz parçaların, sac levhaların havada veya açıda sabitlenmesi sorunu. Manyetik kollar ile kaynakçı ekstra personel ihtiyacını ortadan kaldırır.",
+      "4_bom_recipe": {
+        "sheet_metal_specs": "6mm ve 10mm Lazer Kesim Sac Şasi",
+        "cutting_bending_steps": "Lazer kesim + 3 eksenli büküm + mafsal yuvalarının delinmesi",
+        "off_the_shelf_parts": "Güçlü Neodimyum Mıknatıslar, Sıkma kolları, Mafsallı bağlantı elemanları"
+      },
+      "5_cost_profit_analysis": {
+        "local_manufacturing_cost_tl": "850 TL / Adet",
+        "mekanikya_sales_price_tl": "2.950 TL + KDV / Adet",
+        "net_profit_tl": "2.100 TL / Sipariş",
+        "net_profit_margin_percent": 71
+      },
+      "6_mekanikya_product_card": {
+        "card_title": "Mekanikya MAG-FIX Manyetik Kaynak Fikstür Standı",
+        "badge_text": "🔥 Profesyonel Seri | Modüler Tasarım | Yüksek Tutma Kapasitesi",
+        "short_tech_description": "Üçüncü eliniz gibi çalışır. Karmaşık kaynak projelerinde parçaları istediğiniz açıda ve konumda sabitleyerek kaynak kalitesini %100 artırır.",
+        "whatsapp_cta": "📲 WhatsApp Hızlı Sipariş: 'MAG-FIX manyetik standı istiyorum'"
+      },
+      "blueprint_search_term": "magnetic welding fixture design",
+      "cad_search_term": "welding magnet holder 3D model",
+      "video_search_term": "custom welding fixture magnets fabrication",
+      "region": "Mekanikya.com.tr (Üret & Sat)",
+      "blueprint_source_url": "https://www.amazon.in/ATC-Magnetic-Fixture-Welding-Holding/dp/B095C19MJ6",
+      "blueprint_image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d53112f7-1a1e-422c-bf70-ea3258e74f97.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "cad_model_title": "Magnetic Welding Clamp files - 3D CAD Model Library | GrabCAD",
+      "cad_model_url": "https://grabcad.com/library/magnetic-welding-clamp/files",
+      "video_title": "Welding and Fabrication - Custom Engineered Solutions",
+      "video_url": "https://www.bing.com/aclick?ld=e84GoK_tpKFWy7mp6hpvM5rTVUCUysKE-NMSO84WpL5p_QK5oCqtEhJuQ0iShzQ01tMjomMni-DwIj8OydiGD_X7t1lxupuQemx1UHgacJcg0dRqufcpLeC_8BzXu2rLtiURdHgPJMcbPDo0wQC-rz19YyaiLCcoFkmPW1Ac0i_nsvjPaiADd4KnlRvuAS2QDdRj62xkQepeMS5OZ9lJ4ommYv-Js&u=aHR0cHMlM2ElMmYlMmZ3d3cub25lYWxtZmdzZXJ2aWNlcy5jb20lM2Ztc2Nsa2lkJTNkMTM4MDY4OGExOWU1MTViNGIzMjYwMjQ0MGY2NDI3Mjc&rlid=1380688a19e515b4b32602440f642727",
+      "discovered_at": "2026-10-13 14:31:13"
     }
   ]
 }
