@@ -5381,6 +5381,83 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-13 14:36:18"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Skf Bearing Shaft Tolerance Calculator at Manuel Dupree blog",
+      "page_url": "https://exoabfmik.blob.core.windows.net/fiz1pgesur/skf-bearing-shaft-tolerance-calculator.html",
+      "candidate_image_url": "https://cdn.skfmediahub.skf.com/api/public/0901d196805ecdd3/png_highpreview_800/0901d196805ecdd3_png_highpreview_800.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de flanşlı yataklama mekanizmalarını gösteren teknik kesit çizimleridir ve rulman yerleşimi ile muhafaza yapısı açısından birbirleriyle oldukça uyumludur.",
+      "discovered_at": "2026-10-13 16:19:24"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Design of bearing arrangements | Schaeffler medias",
+      "page_url": "https://medias.schaeffler.jp/ja/knowledge-center/rolling-bearings/design-of-bearing-arrangements",
+      "candidate_image_url": "https://cdn.schaeffler-ecommerce.com/cdn/00018C7A_a.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de rulman yataklama sistemlerinin teknik kesit çizimlerini temsil etmekte olup, flanşlı rulman yatağı mekanizması ile aynı endüstriyel kategoriye girmektedir.",
+      "discovered_at": "2026-10-13 16:19:28"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Protect your bearings. Seal your housings. | SKF",
+      "page_url": "https://www.skf.com/ng/products/mounted-bearings/bearing-housings/txl-seal-for-snl-housings",
+      "candidate_image_url": "https://cdn.skfmediahub.skf.com/api/public/094e029e5d39a718/png_highpreview_800/094e029e5d39a718_png_highpreview_800.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de yataklı rulman düzeneğini temsil etmekle birlikte, biri flanşlı montaj detayını, diğeri ise rulmanlı yatak gövdesinin kesit görünümünü içeren benzer mekanik bileşenlerdir.",
+      "discovered_at": "2026-10-13 16:19:33"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Pillow Block Bearing Measurements at Sara Gosman blog",
+      "page_url": "https://storage.googleapis.com/dybhgkgtuypzve/pillow-block-bearing-measurements.html",
+      "candidate_image_url": "https://lintechmotion.com/images/SLBC_Closed_Pillow_Blocks_Chart_1.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yataklı rulman (pillow block bearing) sistemlerinin teknik detaylarını ve montaj prensiplerini gösteren mühendislik çizimleridir.",
+      "discovered_at": "2026-10-13 16:33:04"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Drawing Bearings",
+      "page_url": "https://qaqooking.wiki/all/how-to/drawing-bearings",
+      "candidate_image_url": "https://www.coolenbearings.com/sites/default/files/images/tech/basic/Shaft-bearing-housing-system.png",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-13 16:34:14"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Bearing Housing, Adapter, Sleves, Seals - Bearing Housing & Adapter, Sleeves Manufacturer from ...",
+      "page_url": "https://www.indiamart.com/snskarsystems/bearing-housing-adapter-sleves-seals.html",
+      "candidate_image_url": "https://4.imimg.com/data4/UQ/FC/MY-6244573/bearing-housing-500x500.png",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-13 16:34:51"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Bearing House",
+      "page_url": "https://www.oreneng.com/post/bearing-house",
+      "candidate_image_url": "https://static.wixstatic.com/media/1d2679_11174e738ce74260a482f682c512c444~mv2.png/v1/fill/w_980,h_570,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1d2679_11174e738ce74260a482f682c512c444~mv2.png",
+      "score": 88,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-13 16:35:37"
     }
   ]
 }
