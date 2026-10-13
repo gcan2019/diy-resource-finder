@@ -22,6 +22,9 @@ import warnings
 warnings.filterwarnings("ignore")
 
 from blueprint_generator import get_or_create_blueprint_svg, generate_svg_blueprint
+import importlib
+import export_tools
+importlib.reload(export_tools)
 from export_tools import (
     generate_market_search_urls,
     generate_bom_csv,
