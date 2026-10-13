@@ -4501,6 +4501,17 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-12 22:10:18"
+    },
+    {
+      "target_name": "Flanged Bearing Housing Assembly / Pillow block bearing",
+      "title": "Shaft Bearing and Housing Assembly Tutorial in Solidworks - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=PlYoSgB_JFs",
+      "candidate_image_url": "https://i.ytimg.com/vi/PlYoSgB_JFs/maxresdefault.jpg",
+      "score": 95,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-13 10:13:14"
     }
   ]
 }

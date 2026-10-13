@@ -2,8 +2,8 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Tüm Ürünler Genel Kataloğu`
-**Doğrulanmış Kaynak Sayısı:** 410 adet
-**Son Güncelleme:** 2026-10-12 22:10:18
+**Doğrulanmış Kaynak Sayısı:** 411 adet
+**Son Güncelleme:** 2026-10-13 10:13:14
 
 ---
 
@@ -3151,10 +3151,21 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (21 adet)
+## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (22 adet)
 _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
-### 1. [⚡ Design a Bearing Housing in #solidworks | Step-by-Step Mechanical CAD Tutorial - YouTube](https://www.youtube.com/watch?v=GAfI8SSu0cA)
+### 1. [Shaft Bearing and Housing Assembly Tutorial in Solidworks - YouTube](https://www.youtube.com/watch?v=PlYoSgB_JFs)
+- **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
+- **Doğrulama Skoru:** `% 95` (working_variation)
+- **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
+- **Tarih:** 2026-10-13 10:13:14
+
+![Önizleme](https://i.ytimg.com/vi/PlYoSgB_JFs/maxresdefault.jpg)
+
+
+---
+
+### 2. [⚡ Design a Bearing Housing in #solidworks | Step-by-Step Mechanical CAD Tutorial - YouTube](https://www.youtube.com/watch?v=GAfI8SSu0cA)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3165,7 +3176,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 2. [Bearing Housing Assemblies – Mini Lathe - YouTube](https://www.youtube.com/watch?v=udZGtMCcwNM)
+### 3. [Bearing Housing Assemblies – Mini Lathe - YouTube](https://www.youtube.com/watch?v=udZGtMCcwNM)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (480x360px)) + Teknik Kaynak Doğrulaması.
@@ -3176,7 +3187,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 3. [Amazing Technique Bearing fitting tech lathe working #technology # ...](https://www.youtube.com/shorts/9fomSMLBs8M)
+### 4. [Amazing Technique Bearing fitting tech lathe working #technology # ...](https://www.youtube.com/shorts/9fomSMLBs8M)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3187,7 +3198,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 4. [MACHINE SHOP TIPS #46 Lathe Project BEARING Pt 1 tubalcain - YouTube](https://www.youtube.com/watch?v=zj5Mzo1dfeU)
+### 5. [MACHINE SHOP TIPS #46 Lathe Project BEARING Pt 1 tubalcain - YouTube](https://www.youtube.com/watch?v=zj5Mzo1dfeU)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 93` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3198,7 +3209,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 5. [Simple DIY Bearing Housing - YouTube](https://www.youtube.com/shorts/zhQ65K1rgVA)
+### 6. [Simple DIY Bearing Housing - YouTube](https://www.youtube.com/shorts/zhQ65K1rgVA)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (720x720px)) + Teknik Kaynak Doğrulaması.
@@ -3209,7 +3220,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 6. [Bearing Housing Machining Process | Proses Pemesinan Rumah Bearing ...](https://www.youtube.com/watch?v=yAn7tE51Gi0)
+### 7. [Bearing Housing Machining Process | Proses Pemesinan Rumah Bearing ...](https://www.youtube.com/watch?v=yAn7tE51Gi0)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3220,7 +3231,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 7. [#Exercise 2 #How To Make a Miniature Flange Type Bearing Housing - YouTube](https://www.youtube.com/watch?v=owuql65dYaY)
+### 8. [#Exercise 2 #How To Make a Miniature Flange Type Bearing Housing - YouTube](https://www.youtube.com/watch?v=owuql65dYaY)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3231,7 +3242,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 8. [How to design mechanical shaft, bearing housing and flange| SolidWorks ...](https://www.youtube.com/watch?v=er30f9YWYxM)
+### 9. [How to design mechanical shaft, bearing housing and flange| SolidWorks ...](https://www.youtube.com/watch?v=er30f9YWYxM)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3242,7 +3253,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 9. [Precision Machining of Bearing Housing - YouTube](https://www.youtube.com/watch?v=MhWPnOSEFcI)
+### 10. [Precision Machining of Bearing Housing - YouTube](https://www.youtube.com/watch?v=MhWPnOSEFcI)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (480x360px)) + Teknik Kaynak Doğrulaması.
@@ -3253,7 +3264,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 10. [Bearing Housing Machining - YouTube](https://www.youtube.com/watch?v=EQZWzsLKNic)
+### 11. [Bearing Housing Machining - YouTube](https://www.youtube.com/watch?v=EQZWzsLKNic)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3264,7 +3275,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 11. [Making New Bearing Housing from Old and Rusty Iron Piece on Manual ...](https://www.youtube.com/watch?v=7iLMPA21YpE)
+### 12. [Making New Bearing Housing from Old and Rusty Iron Piece on Manual ...](https://www.youtube.com/watch?v=7iLMPA21YpE)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3275,7 +3286,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 12. [How to Install Flange bearing -steel housing part 2 - YouTube](https://www.youtube.com/watch?v=-4SBKyCJKwU)
+### 13. [How to Install Flange bearing -steel housing part 2 - YouTube](https://www.youtube.com/watch?v=-4SBKyCJKwU)
 - **Hedef Parça:** `Flanged Bearing Housing Assembly / Pillow block bearing`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -3286,7 +3297,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 13. [How To Make A Mini Machine – DIY Mini Pinball Machine from Cardboard ...](https://rooms.blackcountrytours.co.uk/how-to-make-a-mini-machine-diy-mini-pinball-machine-from-cardboard/)
+### 14. [How To Make A Mini Machine – DIY Mini Pinball Machine from Cardboard ...](https://rooms.blackcountrytours.co.uk/how-to-make-a-mini-machine-diy-mini-pinball-machine-from-cardboard/)
 - **Hedef Parça:** `Pipe & Tube Expander Stretcher / Manuel Boru Şişirme ve Genişletme Aparatı (Mekanikya Pipe-Stretch)`
 - **Doğrulama Skoru:** `% 84` (working_variation)
 - **AI Teknik İncelemesi:** Teknik anahtar kelime ve mühendislik kaynağı doğrulaması (How To Make A Mini Machine – DIY Mini Pinball Mach).
@@ -3297,7 +3308,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 14. [Amazing DIY Tool for my HANDMADE Lathe machine 👌 - YouTube](https://www.youtube.com/watch?v=_nZ-CkO_yqc)
+### 15. [Amazing DIY Tool for my HANDMADE Lathe machine 👌 - YouTube](https://www.youtube.com/watch?v=_nZ-CkO_yqc)
 - **Hedef Parça:** `Pipe & Tube Expander Stretcher / Manuel Boru Şişirme ve Genişletme Aparatı (Mekanikya Pipe-Stretch)`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Teknik anahtar kelime ve mühendislik kaynağı doğrulaması (Amazing DIY Tool for my HANDMADE Lathe machine 👌 -).
@@ -3308,7 +3319,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 15. [EBAY: AIR HYDRAULIC EXHAUST PIPE EXPANDER STRETCHER 1 5/8" to 4 1/4 ...](https://www.youtube.com/watch?v=c5luqncWqa4)
+### 16. [EBAY: AIR HYDRAULIC EXHAUST PIPE EXPANDER STRETCHER 1 5/8" to 4 1/4 ...](https://www.youtube.com/watch?v=c5luqncWqa4)
 - **Hedef Parça:** `Pipe & Tube Expander Stretcher / Manuel Boru Şişirme ve Genişletme Aparatı (Mekanikya Pipe-Stretch)`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Teknik anahtar kelime ve mühendislik kaynağı doğrulaması (EBAY: AIR HYDRAULIC EXHAUST PIPE EXPANDER STRETCHE).
@@ -3319,7 +3330,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 16. [DIY Egg turner and automatic coop door opener - UNIVERSAL - YouTube](https://www.youtube.com/watch?v=g5USqo8atWY)
+### 17. [DIY Egg turner and automatic coop door opener - UNIVERSAL - YouTube](https://www.youtube.com/watch?v=g5USqo8atWY)
 - **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images document DIY components for poultry-related automation; while the first shows the tray mechanism, the second shows the actuator assembly required to drive such a mechanism.
@@ -3330,7 +3341,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 17. [DIY Automatic Turning Egg Incubator Tray](https://www.pinterest.com/pin/diy-automatic-turning-egg-incubator-tray--87468417747004610/)
+### 18. [DIY Automatic Turning Egg Incubator Tray](https://www.pinterest.com/pin/diy-automatic-turning-egg-incubator-tray--87468417747004610/)
 - **Hedef Parça:** `Egg turner / Yumurta çevirme mekanizması`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images demonstrate the same functional principle of an automatic egg turner utilizing a tilting tray mechanism powered by an external motor.
@@ -3341,7 +3352,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 18. [Oxy Acetylene Cart | JIMBO'S GARAGE - YouTube](https://www.youtube.com/watch?v=ZA_YjfdeVmE)
+### 19. [Oxy Acetylene Cart | JIMBO'S GARAGE - YouTube](https://www.youtube.com/watch?v=ZA_YjfdeVmE)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom DIY oxy-acetylene cart built from a modified hand truck, serving the same core function as the gas cylinder truck in Image 1.
@@ -3352,7 +3363,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 19. [Pillow block bearing - YouTube](https://www.youtube.com/watch?v=VMw5qYU4bHw)
+### 20. [Pillow block bearing - YouTube](https://www.youtube.com/watch?v=VMw5qYU4bHw)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a physical mounted pillow block bearing assembly installed on a structural plate, closely corresponding to the technical assembly shown in Image 1.
@@ -3363,7 +3374,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 20. [Roller Bearing Pillow Block Features - YouTube](https://www.youtube.com/watch?v=bZQzkxARDGQ)
+### 21. [Roller Bearing Pillow Block Features - YouTube](https://www.youtube.com/watch?v=bZQzkxARDGQ)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is an educational video presenting physical examples of roller bearing pillow blocks directly related to the mechanical assembly shown in the technical reference image.
@@ -3374,7 +3385,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 21. [Diy Pillow Block Bearing at Linda Lampkin blog](https://storage.googleapis.com/dngzacuogojqle/diy-pillow-block-bearing.html)
+### 22. [Diy Pillow Block Bearing at Linda Lampkin blog](https://storage.googleapis.com/dngzacuogojqle/diy-pillow-block-bearing.html)
 - **Hedef Parça:** `Pillow block bearing / Yataklı bilya`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows physical pillow block bearing hardware, which corresponds to the technical assembly shown in the reference drawing.
