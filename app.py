@@ -204,6 +204,105 @@ def get_all_product_targets() -> list[str]:
 
     return sorted(list(targets_set))
 
+def is_matching_target_name(name1: str, name2: str) -> bool:
+    if not name1 or not name2:
+        return False
+    c1 = clean_product_name(name1).strip().lower()
+    c2 = clean_product_name(name2).strip().lower()
+    if c1 == c2:
+        return True
+    if len(c1) > 8 and len(c2) > 8:
+        if c1 in c2 or c2 in c1:
+            return True
+    # Slash ile ayrılmış parçaları kontrol et (Örn: "English / Türkçe")
+    p1 = [p.strip().lower() for p in c1.split("/") if len(p.strip()) > 3]
+    p2 = [p.strip().lower() for p in c2.split("/") if len(p.strip()) > 3]
+    for part1 in p1:
+        for part2 in p2:
+            if part1 == part2 or (len(part1) > 6 and part1 in part2) or (len(part2) > 6 and part2 in part1):
+                return True
+    return False
+
+def delete_product_archive(product_name: str) -> dict:
+    """
+    Seçilen ürünün tüm kayıtlarını güvenle temizler:
+    1. knowledge_base.json içindeki keşiflerini siler.
+    2. target_map.json içindeki haritalamasını siler.
+    3. targets/ klasöründeki ilişkili görsel dosyasını siler.
+    4. catalogs/ klasöründeki özel raporunu siler.
+    5. Eğer çalışan ajan bu ürünü tarıyorsa ajanı durdurur.
+    """
+    clean_target = clean_product_name(product_name)
+    deleted_counts = {"discoveries": 0, "target_files": 0, "catalogs": 0}
+
+    # 1. Eğer çalışan ajan bu hedefi tarıyorsa durdur
+    active_info = get_active_agent_info()
+    if active_info:
+        act_name = clean_product_name(active_info.get("target_name", ""))
+        if is_matching_target_name(clean_target, act_name):
+            stop_agent()
+
+    # 2. knowledge_base.json temizliği
+    if KNOWLEDGE_BASE_JSON.exists():
+        try:
+            kb = json.loads(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"))
+            disc_orig = kb.get("discoveries", [])
+            remained = []
+            for item in disc_orig:
+                it_name = clean_product_name(item.get("target_name", ""))
+                if is_matching_target_name(clean_target, it_name):
+                    deleted_counts["discoveries"] += 1
+                else:
+                    remained.append(item)
+            kb["discoveries"] = remained
+            KNOWLEDGE_BASE_JSON.write_text(json.dumps(kb, indent=2, ensure_ascii=False), encoding="utf-8")
+        except Exception:
+            pass
+
+    # 3. target_map.json ve targets/ dosya temizliği
+    tmap = get_target_map()
+    matched_fnames = []
+    for fname, pname in list(tmap.items()):
+        if is_matching_target_name(clean_target, pname):
+            matched_fnames.append(fname)
+            del tmap[fname]
+
+    save_target_map(tmap)
+
+    # targets/ dosyasını sil
+    for fname in matched_fnames:
+        fpath = TARGETS_DIR / fname
+        if fpath.exists():
+            try:
+                fpath.unlink(missing_ok=True)
+                deleted_counts["target_files"] += 1
+            except Exception:
+                pass
+
+    # targets/ klasöründe doğrudan isimle eşleşen dosya var mı?
+    if TARGETS_DIR.exists():
+        for f in TARGETS_DIR.iterdir():
+            if f.is_file() and is_matching_target_name(clean_target, f.stem):
+                try:
+                    f.unlink(missing_ok=True)
+                    deleted_counts["target_files"] += 1
+                except Exception:
+                    pass
+
+    # 4. catalogs/ temizliği
+    if CATALOGS_DIR.exists():
+        for cfile in CATALOGS_DIR.iterdir():
+            if is_matching_target_name(clean_target, cfile.stem):
+                try:
+                    cfile.unlink(missing_ok=True)
+                    deleted_counts["catalogs"] += 1
+                except Exception:
+                    pass
+
+    # 5. Cache temizliği
+    st.cache_data.clear()
+    return deleted_counts
+
 
 def is_agent_running() -> bool:
     if not PID_FILE.exists():
@@ -572,12 +671,25 @@ with tab_dashboard:
 
     col_sel, col_add = st.columns([3, 2])
     with col_sel:
-        selected_product = st.selectbox(
-            "📁 Ekranda İncelenen Ürün Arşivi:",
-            target_options,
-            help="İncelemek istediğiniz ürünün arşivini seçin. Her ürünün dosyası bağımsızdır!",
-            key="dash_selected_product_sel"
-        )
+        col_sb, col_del = st.columns([4, 1.3])
+        with col_sb:
+            selected_product = st.selectbox(
+                "📁 Ekranda İncelenen Ürün Arşivi:",
+                target_options,
+                help="İncelemek istediğiniz ürünün arşivini seçin. Her ürünün dosyası bağımsızdır!",
+                key="dash_selected_product_sel"
+            )
+        with col_del:
+            st.write("")
+            st.write("")
+            if selected_product != "Tüm Ürünler":
+                with st.popover("🗑️ Arşivi Sil", use_container_width=True):
+                    st.warning(f"**'{selected_product}'** ürün arşivini ve tüm keşiflerini kalıcı olarak silmek istediğinize emin misiniz?")
+                    if st.button("❌ Onayla ve Kalıcı Sil", type="primary", use_container_width=True, key=f"btn_pop_del_{abs(hash(str(selected_product))) % 100000}"):
+                        res = delete_product_archive(selected_product)
+                        st.session_state["dash_selected_product_sel"] = "Tüm Ürünler"
+                        st.toast(f"✅ '{selected_product}' ve {res['discoveries']} adet keşfi silindi!", icon="🗑️")
+                        st.rerun()
 
     with col_add:
         st.write("➕ **Yeni Ürün Dosyası Aç (Fotoğraf Yükle):**")
@@ -590,8 +702,45 @@ with tab_dashboard:
         if new_target:
             save_path = TARGETS_DIR / new_target.name
             save_path.write_bytes(new_target.read())
+            st.cache_data.clear()
             st.success(f"✅ '{new_target.name}' yeni hedef olarak kaydedildi!")
             st.rerun()
+
+    # 2.1 GEÇMİŞ ARAMALARI VE ÜRÜN ARŞİVLERİNİ YÖNETME & TEMİZLEME MASASI
+    with st.expander("🧹 Kayıtlı Ürün Arşivlerini Yönet & Eski Aramaları Temizle", expanded=False):
+        st.caption("Geçmişte taranmış ve artık ihtiyacınız olmayan eski ürün aramalarını/arşivlerini buradan tek tek silebilirsiniz:")
+        if not all_targets:
+            st.info("Kayıtlı herhangi bir özel ürün arşivi bulunmuyor.")
+        else:
+            # Her ürünün kayıt sayısını hesapla
+            kb_counts = {}
+            if KNOWLEDGE_BASE_JSON.exists():
+                try:
+                    _kb = json.loads(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"))
+                    for _d in _kb.get("discoveries", []):
+                        _tn = clean_product_name(_d.get("target_name", ""))
+                        kb_counts[_tn] = kb_counts.get(_tn, 0) + 1
+                except Exception:
+                    pass
+
+            for t_idx, t_name in enumerate(all_targets, 1):
+                c_count = 0
+                for kn, cnt in kb_counts.items():
+                    if is_matching_target_name(t_name, kn):
+                        c_count += cnt
+
+                col_t_info, col_t_btn = st.columns([4, 1.2])
+                with col_t_info:
+                    st.markdown(f"**{t_idx}. {t_name}** `({c_count} Doğrulanmış Kaynak)`")
+                with col_t_btn:
+                    with st.popover(f"🗑️ Sil", use_container_width=True):
+                        st.caption(f"'{t_name}' arşivi ve {c_count} kaynak kalıcı olarak silinsin mi?")
+                        if st.button("Kalıcı Olarak Sil", type="primary", use_container_width=True, key=f"tbl_del_{t_idx}_{abs(hash(str(t_name))) % 10000}"):
+                            res = delete_product_archive(t_name)
+                            if st.session_state.get("dash_selected_product_sel") == t_name:
+                                st.session_state["dash_selected_product_sel"] = "Tüm Ürünler"
+                            st.toast(f"'{t_name}' arşivi silindi!", icon="🗑️")
+                            st.rerun()
 
     # Filtrelenmiş verileri tek seferde önbellekten çek
     grouped_discoveries, filtered_count, _, total_in_db = load_knowledge_base_data(target_filter=selected_product)
