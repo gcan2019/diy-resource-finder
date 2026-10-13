@@ -18,7 +18,8 @@ import sys
 import time
 import urllib.parse
 from pathlib import Path
-from PIL import Image
+import warnings
+warnings.filterwarnings("ignore")
 
 from blueprint_generator import get_or_create_blueprint_svg, generate_svg_blueprint
 from export_tools import (
@@ -27,6 +28,22 @@ from export_tools import (
     generate_whatsapp_message,
     generate_web_card_html
 )
+
+# ──────────────────────────────────────────────
+# Güvenli & Hızlı Görsel Render Yardımcısı (Deprecation Uyarısız)
+# ──────────────────────────────────────────────
+def safe_show_image(image_input, caption=None):
+    if not image_input:
+        return
+    try:
+        st.image(image_input, caption=caption, width="stretch")
+    except TypeError:
+        try:
+            st.image(image_input, caption=caption, use_container_width=True)
+        except Exception:
+            st.image(image_input, caption=caption)
+    except Exception:
+        pass
 
 # ──────────────────────────────────────────────
 # Sayfa Yapılandırması
@@ -150,7 +167,7 @@ def clean_product_name(raw_name: str) -> str:
             text = text[len(prefix):].strip()
     return " ".join(text.split())
 
-@st.cache_data(ttl=5)
+@st.cache_data(ttl=60)
 def get_all_product_targets() -> list[str]:
     targets_set = set()
 
@@ -306,7 +323,7 @@ def stop_regional_agent():
             pass
         REGIONAL_PID_FILE.unlink(missing_ok=True)
 
-@st.cache_data(ttl=5)
+@st.cache_data(ttl=60)
 def load_regional_gaps_data() -> list[dict]:
     if REGIONAL_GAPS_JSON.exists():
         try:
@@ -361,7 +378,7 @@ def stop_sellable_agent():
             pass
         SELLABLE_PID_FILE.unlink(missing_ok=True)
 
-@st.cache_data(ttl=5)
+@st.cache_data(ttl=60)
 def load_sellable_machines_data() -> list[dict]:
     if SELLABLE_MACHINES_JSON.exists():
         try:
@@ -396,7 +413,7 @@ def classify_item(item: dict) -> str:
         return "technical_drawing"
     return "diy_project"
 
-@st.cache_data(ttl=5)
+@st.cache_data(ttl=60)
 def load_knowledge_base_data(target_filter: str = None) -> tuple[dict, int, list[str], int]:
     discoveries = []
     if KNOWLEDGE_BASE_JSON.exists():
@@ -508,6 +525,7 @@ with tab_dashboard:
                         st.rerun()
                 with col_btn_ref:
                     if st.button("🔄 Durumu Yenile", use_container_width=True):
+                        st.cache_data.clear()
                         st.rerun()
             else:
                 available_target_files = [f.name for f in TARGETS_DIR.iterdir() if f.suffix.lower() in [".png", ".jpg", ".jpeg"]]
@@ -537,21 +555,26 @@ with tab_dashboard:
     all_targets = get_all_product_targets()
     target_options = ["Tüm Ürünler"] + all_targets
 
-    # Aktif olarak taranan ürün varsa varsayılan olarak onu seç
-    default_idx = 0
-    if running and active_info:
-        active_tname = active_info.get("target_name", "")
-        for idx, opt in enumerate(target_options):
-            if opt != "Tüm Ürünler" and (opt in active_tname or active_tname in opt):
-                default_idx = idx
-                break
+    # Session state ile temiz seçim yönetimi (çift tetiklemeyi ve donmayı önler)
+    if "dash_selected_product_sel" not in st.session_state:
+        init_idx = 0
+        if running and active_info:
+            active_tname = active_info.get("target_name", "")
+            for idx, opt in enumerate(target_options):
+                if opt != "Tüm Ürünler" and (opt in active_tname or active_tname in opt):
+                    init_idx = idx
+                    break
+        st.session_state["dash_selected_product_sel"] = target_options[init_idx] if init_idx < len(target_options) else target_options[0]
+
+    # Eğer seçili ürün target_options listesinde yoksa ilk elemana eşitle
+    if st.session_state["dash_selected_product_sel"] not in target_options:
+        st.session_state["dash_selected_product_sel"] = target_options[0]
 
     col_sel, col_add = st.columns([3, 2])
     with col_sel:
         selected_product = st.selectbox(
             "📁 Ekranda İncelenen Ürün Arşivi:",
             target_options,
-            index=default_idx,
             help="İncelemek istediğiniz ürünün arşivini seçin. Her ürünün dosyası bağımsızdır!",
             key="dash_selected_product_sel"
         )
@@ -628,6 +651,9 @@ with tab_dashboard:
             return
 
         total_items = len(items)
+        prod_hash = abs(hash(str(selected_product))) % 1000000
+        page_size_key = f"psize_{cat_key}_{prod_hash}"
+        page_num_key = f"pnum_{cat_key}_{prod_hash}"
         
         # Sayfalama / Pagination Çubuğu (Varsayılan 12 Kart ile Süper Hızlı Render)
         col_c1, col_c2 = st.columns([3, 1])
@@ -638,7 +664,7 @@ with tab_dashboard:
                 "Sayfa Başı:",
                 [12, 24, 48],
                 index=0,
-                key=f"psize_{cat_key}",
+                key=page_size_key,
                 label_visibility="collapsed"
             )
 
@@ -646,13 +672,15 @@ with tab_dashboard:
         if total_pages > 1:
             col_p1, col_p2, col_p3 = st.columns([1, 2, 1])
             with col_p2:
+                saved_page = st.session_state.get(page_num_key, 1)
+                safe_val = min(max(1, saved_page), total_pages)
                 current_page = st.number_input(
                     f"Sayfa Seçin (1 - {total_pages}):",
                     min_value=1,
                     max_value=total_pages,
-                    value=1,
+                    value=safe_val,
                     step=1,
-                    key=f"pnum_{cat_key}"
+                    key=page_num_key
                 )
         else:
             current_page = 1
@@ -674,10 +702,7 @@ with tab_dashboard:
 
                 with st.container(border=True):
                     if img_url:
-                        try:
-                            st.image(img_url, use_container_width=True)
-                        except Exception:
-                            pass
+                        safe_show_image(img_url)
 
                     st.markdown(f"**[{title[:55]}...]({page_url})**")
                     st.caption(f"🎯 Hedef: `{target_name[:35]}`")
@@ -734,6 +759,7 @@ with tab_sellable:
                         st.rerun()
                 with col_sb2:
                     if st.button("🔄 Yenile", key="ref_sellable_btn", use_container_width=True):
+                        st.cache_data.clear()
                         st.rerun()
             else:
                 col_sb1, col_sb2 = st.columns(2)
@@ -744,6 +770,7 @@ with tab_sellable:
                         st.rerun()
                 with col_sb2:
                     if st.button("🔄 Yenile", key="ref_sellable_btn_2", use_container_width=True):
+                        st.cache_data.clear()
                         st.rerun()
 
     # Canlı Terminal / Ajan Çalışma Konsolu
@@ -774,12 +801,35 @@ with tab_sellable:
     if sel_category != "🌐 Tümü (Sağlı Sollu)":
         filtered_machines = [m for m in machines_all if m.get("category") == sel_category]
 
-    st.markdown(f"### 💡 Tespit Edilen Yüksek Kâr Marjlı Makineler ({len(filtered_machines)} Adet)")
+    total_sell_items = len(filtered_machines)
+    page_size_sell = 10
+    total_sell_pages = max(1, (total_sell_items + page_size_sell - 1) // page_size_sell)
+    cat_hash = abs(hash(str(sel_category))) % 100000
+
+    col_sp1, col_sp2 = st.columns([3, 1])
+    with col_sp1:
+        st.markdown(f"### 💡 Tespit Edilen Yüksek Kâr Marjlı Makineler ({total_sell_items} Adet)")
+    with col_sp2:
+        if total_sell_pages > 1:
+            sell_page = st.number_input(
+                f"Sayfa (1 - {total_sell_pages}):",
+                min_value=1,
+                max_value=total_sell_pages,
+                value=1,
+                step=1,
+                key=f"sell_pnum_{cat_hash}"
+            )
+        else:
+            sell_page = 1
+
+    sell_start = (sell_page - 1) * page_size_sell
+    sell_end = min(sell_start + page_size_sell, total_sell_items)
+    page_machines = list(reversed(filtered_machines))[sell_start:sell_end]
 
     if not filtered_machines:
         st.info("Bu kategoride henüz kayıtlı makine bulunamadı. Yukarıdaki butona basarak taramayı başlatabilirsiniz.")
     else:
-        for idx, m in enumerate(reversed(filtered_machines), 1):
+        for idx, m in enumerate(page_machines, sell_start + 1):
             mname = m.get("machine_name", "İsimsiz Makine")
             eng_name = m.get("english_name", "")
             cat = m.get("category", "Genel")
@@ -888,10 +938,7 @@ Sipariş ve detaylar için: mekanikya.com.tr"""
 
                 with col_m_img:
                     if bp_img:
-                        try:
-                            st.image(bp_img, caption="📐 2D Teknik Çizim / Kesit / Tasarım", use_container_width=True)
-                        except Exception:
-                            st.caption("Teknik çizim görseli yüklenemedi.")
+                        safe_show_image(bp_img, caption="📐 2D Teknik Çizim / Kesit / Tasarım")
                     else:
                         st.info("Bu makine için teknik çizim önizlemesi aranıyor...")
 
@@ -939,6 +986,7 @@ with tab_regional:
                         st.rerun()
                 with col_b2:
                     if st.button("🔄 Sonuçları Yenile", use_container_width=True):
+                        st.cache_data.clear()
                         st.rerun()
             else:
                 st.warning("🔴 **Mekanikya Makine Avcısı:** DURDURULDU (Boşta)")
@@ -1045,12 +1093,35 @@ with tab_regional:
     else:
         filtered_opps = []
 
-    st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilip İnternetten Satılabilir Makineler ({len(filtered_opps)} Adet)")
+    total_reg_items = len(filtered_opps)
+    page_size_reg = 6
+    total_reg_pages = max(1, (total_reg_items + page_size_reg - 1) // page_size_reg)
+    sort_search_hash = abs(hash(str(sort_mode) + str(search_query))) % 100000
+
+    col_rp1, col_rp2 = st.columns([3, 1])
+    with col_rp1:
+        st.markdown(f"### 💰 Mekanikya.com.tr İçin 1-3 Günde Üretilip İnternetten Satılabilir Makineler ({total_reg_items} Adet)")
+    with col_rp2:
+        if total_reg_pages > 1:
+            reg_page = st.number_input(
+                f"Sayfa Seçin (1 - {total_reg_pages}):",
+                min_value=1,
+                max_value=total_reg_pages,
+                value=1,
+                step=1,
+                key=f"reg_pnum_{sort_search_hash}"
+            )
+        else:
+            reg_page = 1
+
+    reg_start = (reg_page - 1) * page_size_reg
+    reg_end = min(reg_start + page_size_reg, total_reg_items)
+    page_opps = filtered_opps[reg_start:reg_end]
 
     if not filtered_opps:
         st.info("Kriterlere uygun makine bulunamadı. Yukarıdaki **'⚡ Hızlı 1 Tur Makine Avı'** butonuna basarak taramayı başlatabilirsiniz.")
     else:
-        for idx, opp in enumerate(filtered_opps, 1):
+        for idx, opp in enumerate(page_opps, reg_start + 1):
             pname = opp.get("part_name", "İsimsiz Makine")
             eng_name = opp.get("english_name", "")
             category = opp.get("category", "Sac & Profil Makine")
@@ -1301,21 +1372,15 @@ with tab_regional:
                     
                     with img_tab1:
                         if bp_img:
-                            try:
-                                st.image(bp_img, caption=f"📐 {m1.get('model_code', 'Ürün / Teknik Görsel')}", use_container_width=True)
-                            except Exception:
-                                st.caption("Web görsel önizlemesi yüklenemedi. Yan sekmedeki 2D CAD şemasını inceleyebilirsiniz.")
-                                if svg_path and Path(svg_path).exists():
-                                    st.image(svg_path, caption="📐 Mekanikya 2D Vektörel İmalat Şeması", use_container_width=True)
+                            safe_show_image(bp_img, caption=f"📐 {m1.get('model_code', 'Ürün / Teknik Görsel')}")
+                        elif svg_path and Path(svg_path).exists():
+                            safe_show_image(svg_path, caption="📐 Mekanikya 2D Vektörel İmalat Şeması")
                         else:
-                            if svg_path and Path(svg_path).exists():
-                                st.image(svg_path, caption="📐 Mekanikya 2D Vektörel İmalat Şeması", use_container_width=True)
-                            else:
-                                st.info("Bu makine için web görseli aranıyor...")
+                            st.info("Bu makine için web görseli aranıyor...")
 
                     with img_tab2:
                         if svg_path and Path(svg_path).exists():
-                            st.image(svg_path, caption=f"📐 {pname[:35]} — Mekanikya 2D CAD Şeması", use_container_width=True)
+                            safe_show_image(svg_path, caption=f"📐 {pname[:35]} — Mekanikya 2D CAD Şeması")
                             svg_content = Path(svg_path).read_text(encoding="utf-8")
                             st.download_button(
                                 label="📥 2D CAD Blueprint İndir (.svg)",
@@ -1453,7 +1518,7 @@ with tab_instant:
         
         c_i1, c_i2 = st.columns([1, 2])
         with c_i1:
-            st.image(im, use_container_width=True)
+            safe_show_image(im)
         with c_i2:
             st.info("Bu fotoğrafı doğrudan otonom arama hedeflerine eklemek isterseniz:")
             if st.button("➕ Bu Fotoğrafı Otonom Hedefler Listesine Ekle"):
