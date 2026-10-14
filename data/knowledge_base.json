@@ -3652,6 +3652,28 @@
       "variant_type": "working_variation",
       "reason": "İkinci görseldeki tüp arabaları, referans ürünle aynı amaca hizmet eden ve benzer tekerlek ile taşıma mekanizmalarına sahip varyasyonlar içermektedir.",
       "discovered_at": "2026-10-14 18:29:19"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen Acetylene Cart Build Part 2 of 2 - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=8l3_YIZpTaM",
+      "candidate_image_url": "https://i.ytimg.com/vi/8l3_YIZpTaM/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için yapılmış el yapımı (DIY) bir oksijen-asetilen tüp arabası göstermektedir ve temel işlevi referans ürünle aynıdır.",
+      "discovered_at": "2026-10-14 20:25:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "'G' SIZE OXY-OXY GAS BOTTLE LIFTING FRAME » D.O.T. Engineering",
+      "page_url": "https://dotengineering.com.au/products/gas-bottle-frames/g-size-oxy-oxy-gas-bottle-lifting-frame/",
+      "candidate_image_url": "https://dotengineering.com.au/wp-content/uploads/2017/10/2-s-size-propane-gas-bottle-lifting-frame-300x300.gif",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, referans tüp arabası ürününün farklı açılardan ölçülendirilmiş ve kaynak detaylarını içeren teknik resim çizimidir.",
+      "discovered_at": "2026-10-14 20:31:07"
     }
   ]
 }
