@@ -2640,6 +2640,94 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, birinci görseldeki gaz silindiri taşıma arabasının teknik çizimini (ölçülendirilmiş plan ve görünüşlerini) göstermektedir.",
       "discovered_at": "2026-10-14 04:28:41"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Stainless Steel Fold-down Cylinder Hand Truck- Wuxi tongyang machinery ...",
+      "page_url": "https://www.yinglift.com/product/HandT/45.html",
+      "candidate_image_url": "https://www.yinglift.com/upload/product/202309/08/2023090819143792684.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, birinci görseldeki tüp arabasının ölçülendirilmiş teknik resmini göstermektedir.",
+      "discovered_at": "2026-10-14 06:25:03"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "How to make Oxygen and acetylene trolley step by step instruction - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=sGhkUjkhN44",
+      "candidate_image_url": "https://i.ytimg.com/vi/sGhkUjkhN44/maxresdefault.jpg",
+      "score": 82,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabasıyla aynı fonksiyona sahip ancak el yapımı (DIY) olarak imal edilmiş bir oksijen/asetilen tüp arabası varyasyonudur.",
+      "discovered_at": "2026-10-14 06:26:31"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Plans DXF PDF | DIY Laser Cut Gas Cylinder Trolley ...",
+      "page_url": "https://www.etsy.com/listing/4487353566/welding-cart-plans-dxf-pdf-diy-laser-cut",
+      "candidate_image_url": "https://i.etsystatic.com/36923629/r/il/64df37/7951904607/il_794xN.7951904607_5ivu.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, tüp taşıma amacıyla tasarlanmış farklı bir CAD tüp arabası modelini göstermektedir.",
+      "discovered_at": "2026-10-14 06:26:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Gas Cylinder Hand Truck | 9\" Cylinder - Valley Craft",
+      "page_url": "https://valleycraft.com/product/double-cylinder-hand-truck-9-cylinder-hand-brake/",
+      "candidate_image_url": "https://valleycraft.com/wp-content/uploads/2023/10/F86065A6_9-480x481.jpg",
+      "score": 91,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-14 06:33:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "gas cylinder dimensions",
+      "page_url": "https://pwent.eu/en/gas-cylinder-dimensions/",
+      "candidate_image_url": "https://pwent.eu/wp-content/uploads/2023/02/DIN-S-gas-cylinder-protection-cap-dimensions.png",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-14 06:34:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "26 Tons LPG Gas Road Transport Tank Truck Trailer - Fudeng Automobile ...",
+      "page_url": "https://www.fudengtrailer.com/26T-LPG-Gas-Tanker-Trailer-pd43239020.html",
+      "candidate_image_url": "https://ilrorwxhqljjlp5p.leadongcdn.com/cloud/liBppKjrllSRnjjnljqoiq/lpg-gas-tank-drawing.jpg",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-14 06:35:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🚚 GAS CYLINDER TRUCK 1/87 HO SCALE・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/various/gas-cylinder-truck-1-87-ho-scale",
+      "candidate_image_url": "https://images.cults3d.com/4jiFrg1exH0JoG6IqHYNfaOw8VY=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/22709625/illustration-file/20df3478-4ba7-47f3-b6fa-a8e672fc0964/GCT-1.png",
+      "score": 91,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-14 06:36:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gasoline Tanker Truck Dimensions – NKAXF",
+      "page_url": "https://success.craigrobertdouglas.co.uk/gasoline-tanker-truck-dimensions/",
+      "candidate_image_url": "https://5jrorwxhqkrjiij.leadongcdn.com/cloud/iqBqoKinRilSqroqmrio/Dimension-.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-14 06:36:51"
     }
   ]
 }
