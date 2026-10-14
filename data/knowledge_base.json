@@ -3674,6 +3674,39 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, referans tüp arabası ürününün farklı açılardan ölçülendirilmiş ve kaynak detaylarını içeren teknik resim çizimidir.",
       "discovered_at": "2026-10-14 20:31:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Industrial Stainless Steel Oxygen Cylinder Trolley 3D Model - TurboSquid 2371406",
+      "page_url": "https://www.turbosquid.com/3d-models/industrial-stainless-steel-oxygen-cylinder-trolley-3d-model-2371406",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/rN/3nVcK5/TR/industrialstainlesssteeloxygencylindertrolley21/png/1741584810/1920x1080/fit_q87/2df2288ae18a94ee02402eec30d844637bf86258/industrialstainlesssteeloxygencylindertrolley21.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, birinci görseldeki gaz silindiri arabasının (tüp arabası) CAD ortamında modellenmiş üstten görünümüdür.",
+      "discovered_at": "2026-10-14 22:20:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Diy metal trolley | best homemade tools | hand trolley making | How to move heavy gas cylinders ...",
+      "page_url": "https://www.pinterest.com/pin/diy-metal-trolley--47639708551670712/",
+      "candidate_image_url": "https://i.pinimg.com/originals/0f/cf/26/0fcf265e7a91c71520077151a7c6a4fc.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans ürüne benzer bir tüp arabası konseptini işleyen el yapımı bir çalışma varyasyonudur.",
+      "discovered_at": "2026-10-14 22:20:25"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Portable Oxygen And Acetylene Tanks Clip Art",
+      "page_url": "https://ar.inspiredpencil.com/pictures-2023/portable-oxygen-and-acetylene-tanks-clip-art",
+      "candidate_image_url": "https://o.quizlet.com/pP-LycWX5xGl6X2X29FWbg_b.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, kaynak ekipmanı ve gaz silindiri arabası sistemini gösteren teknik bir şema içermektedir.",
+      "discovered_at": "2026-10-14 22:21:14"
     }
   ]
 }
