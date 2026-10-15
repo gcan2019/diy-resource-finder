@@ -4059,6 +4059,149 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, referans tüp arabası tasarımına çok benzeyen ancak iki adet büyük gaz silindirini taşıyabilecek şekilde çift gövdeli olarak üretilmiş işlevsel bir varyasyondur.",
       "discovered_at": "2026-10-15 08:33:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D GAS Cylinder Trolley - TurboSquid 2330262",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-gas-cylinder-trolley-2330262",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/tM/Ssz74u/EK/screenshot087/jpg/1735205773/1920x1080/fit_q87/f0264e9799c1d96e384029fdfae0a30892fc230e/screenshot087.jpg",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de silindirik nesneleri taşımak için tasarlanmış benzer tekerlekli taşıma mekanizmalarını temsil etmektedir, ancak aday görsel yangın tüpü taşımaya yönelik modifiye edilmiş bir CAD modelidir.",
+      "discovered_at": "2026-10-15 10:22:32"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck 3D model - Download Tools on 3DModels.org",
+      "page_url": "https://3dmodels.org/3d-models/hand-truck/",
+      "candidate_image_url": "https://i.3dmodels.org/uploads/hdpoly/085_hand_truck/hand_truck_1000_0012.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel, tüp taşıma arabasının tekerlek ve taban yapısını detaylandıran bir CAD modelidir, referans ürünle aynı fonksiyonel amaca hizmet etmektedir.",
+      "discovered_at": "2026-10-15 10:22:36"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Archivo OBJ Hand Truck (STEP)・Modelo para descargar e imprimir en 3D・Cults",
+      "page_url": "https://cults3d.com/es/modelo-3d/herramientas/hand-truck",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/27284593/illustration-file/42cee946-3a4a-4cec-a84e-d2d81bd7b5bd/Zrzut-ekranu-2024-06-06-194136.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görüntülenen CAD modeli, tüp taşıma arabasının taban ve tekerlek mekanizmasını temsil eden benzer bir işlevsel yapıya sahiptir.",
+      "discovered_at": "2026-10-15 10:22:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck・ OBJ File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/tool/hand-truck",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/27284593/illustration-file/6bad3f8f-74c6-4ef8-806a-e15b095b5e12/Zrzut-ekranu-2024-06-06-190040.png",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de gaz tüplerini taşımak için tasarlanmış benzer tekerlekli taşıma mekanizmalarını temsil etmektedir.",
+      "discovered_at": "2026-10-15 10:22:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DIY LPG Gas Cylinder Carrying Trolley - YouTube | Gas, Gas delivery ...",
+      "page_url": "https://www.pinterest.com/pin/diy-lpg-gas-cylinder-carrying-trolley-youtube--47639708551670674/",
+      "candidate_image_url": "https://i.pinimg.com/736x/0d/6f/1c/0d6f1c978ba88742858d68fb6e24f948.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görüntüdeki aday ürün, referans üründeki tüp taşıma işlevini yerine getiren el yapımı bir mekanik varyasyondur.",
+      "discovered_at": "2026-10-15 10:23:06"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck Welding Cart DXF Files | JC Customs Metal Fab",
+      "page_url": "https://jccustomsmetalfab.com/products/hand-truck-welding-cart-dxf-files",
+      "candidate_image_url": "https://jccustomsmetalfab.com/cdn/shop/files/IMG_8474.jpg?v=1723111230&width=990",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de gaz silindirlerini taşımak için tasarlanmış benzer mekanik yapıya sahip taşıyıcı arabalardır; ikinci görsel, kaynak makinesini de taşıyacak şekilde modifiye edilmiş bir varyasyondur.",
+      "discovered_at": "2026-10-15 10:23:09"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck Welding Cart pt.2 - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=CeYbmk_F27Q",
+      "candidate_image_url": "https://i.ytimg.com/vi/CeYbmk_F27Q/maxresdefault.jpg",
+      "score": 78,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görüntüdeki aday ürün, referans üründeki temel tüp taşıma mekanizmasını ve şasi yapısını aynı işlevsellikle yansıtan farklı bir yapısal varyasyondur.",
+      "discovered_at": "2026-10-15 10:23:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Trolleys Aluminium - Materials Handling",
+      "page_url": "https://www.materialshandling.com.au/products/gas-cylinder-trolleys-aluminium/",
+      "candidate_image_url": "https://www.materialshandling.com.au/wp-content/uploads/Gas-Cylinder-Trolleys-Aluminium-range-768x942.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de gaz silindiri taşıma fonksiyonuna sahip endüstriyel tip tekerlekli taşıma araçlarını (tüp arabası) temsil etmektedir.",
+      "discovered_at": "2026-10-15 10:25:23"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welders gas cylinder trolleys with 400mm dia. wheels",
+      "page_url": "https://view.publitas.com/hc-slingsby-ireland/slingbsy-2026-roi/product/58621801",
+      "candidate_image_url": "https://view.publitas.com/87699/2856843/pages/46156739-26b9-4bc0-b778-4cce23d91397-at600.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görüntü, hedef ürüne benzer fonksiyonel özelliklere sahip, sanayi tipi çeşitli tüp taşıma arabalarının yer aldığı teknik bir ürün kataloğu sayfasıdır.",
+      "discovered_at": "2026-10-15 10:25:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Detailed Cart Design in DWG (147.56 KB) | CAD Library",
+      "page_url": "https://libreriacad.com/en/dwg/detailed-cart-design/",
+      "candidate_image_url": "https://libreriacad.com/wp-content/uploads/images/objetos-variados/all/94619.gif",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, referans görseldeki tüp taşıma arabasının teknik ölçülerini ve yapısal tasarımını detaylandıran bir mühendislik çizimidir.",
+      "discovered_at": "2026-10-15 10:25:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Baggage Cart Dwg at Amy Kates blog",
+      "page_url": "https://storage.googleapis.com/dipdvvnpnmexte/baggage-cart-dwg.html",
+      "candidate_image_url": "https://freecadfloorplans.com/wp-content/uploads/2023/02/hand-trolley.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, referans ürünün teknik çizimlerini (üst, yan ve ön görünüş) içeren bir mühendislik planıdır.",
+      "discovered_at": "2026-10-15 10:25:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Following figure shows the cart wheel assembly. | Chegg.com",
+      "page_url": "https://www.chegg.com/homework-help/questions-and-answers/following-figure-shows-cart-wheel-assembly-assume-manually-assembling-cart-wheel-assembly--q77669605",
+      "candidate_image_url": "https://media.cheggcdn.com/media/5ed/5ed0e78f-032c-4636-802b-5808263ede51/phphRqa3x",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans görseldeki tüp taşıma arabasının tekerlek düzeneğine ait teknik bir analiz ve montaj kılavuzunu içermektedir.",
+      "discovered_at": "2026-10-15 10:27:13"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Horizontal Cylinder Cart - Made in the USA - Ergo Safe Inc.",
+      "page_url": "https://ergosafeinc.com/horizontal-cylinder-cart/",
+      "candidate_image_url": "https://ergosafeinc.com/wp-content/uploads/2020/09/cylinder-cart.png",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki mekanizma da gaz silindirlerini güvenli bir şekilde taşımak için tasarlanmış endüstriyel taşıma arabalarıdır, ancak görseldeki model farklı bir konfigürasyona ve yük sabitleme yöntemine sahiptir.",
+      "discovered_at": "2026-10-15 10:28:43"
     }
   ]
 }
