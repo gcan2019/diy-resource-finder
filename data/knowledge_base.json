@@ -3707,6 +3707,39 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, kaynak ekipmanı ve gaz silindiri arabası sistemini gösteren teknik bir şema içermektedir.",
       "discovered_at": "2026-10-14 22:21:14"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "STL file Mig Welder and cart・3D printable model to download・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/various/mig-welder-and-cart",
+      "candidate_image_url": "https://images.cults3d.com/c8uV4_-x8zaYxT2ZEptRgPwsJg4=/246x246/filters:no_upscale()/https://files.cults3d.com/uploaders/14858059/illustration-file/75987bfc-d467-47f3-88e8-ff99cc809872/Tanks-2.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de gaz tüplerini taşımak için tasarlanmış mekanik arabaları göstermektedir; ikinci görsel aynı işlevi gören iki tüp kapasiteli bir CAD modelidir.",
+      "discovered_at": "2026-10-15 00:26:14"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🦸 Diorama 1:72 Scale Oxy Acetylene Welding Kit・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/game/diorama-1-72-scale-oxy-acetylene-welding-kit",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/27211898/illustration-file/15393a01-3b77-4495-b31c-f8142f867df4/Welding-Kit-3.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referanstaki tek tüp taşımaya yönelik destek tekerli tasarımın çift tüp taşımaya uygun 2 tekerlekli çalışan bir CAD varyasyonudur.",
+      "discovered_at": "2026-10-15 00:27:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxy-Acetylene Bottle Cart Build - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=NWMn26HTCKA",
+      "candidate_image_url": "https://i.ytimg.com/vi/NWMn26HTCKA/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabasıyla aynı amaca hizmet eden ancak ev yapımı (DIY) olarak üretilmiş farklı bir gaz tüpü taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-10-15 00:27:48"
     }
   ]
 }
