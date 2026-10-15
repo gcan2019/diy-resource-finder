@@ -4323,6 +4323,105 @@
       "variant_type": "working_variation",
       "reason": "Her iki ürün de gaz silindiri taşıma işlevini gören endüstriyel taşıma arabalarıdır, ancak aday görsel daha karmaşık ve çift silindirli bir yapıya sahip farklı bir mekanik tasarımdır.",
       "discovered_at": "2026-10-15 12:34:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Transport Trolley 3D Models - Download",
+      "page_url": "https://artgraphic3d.com/3d-models/207-transport-trolley",
+      "candidate_image_url": "https://artgraphic3d.com/5978-home_default/3d-bottle-gas-trolley.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görüntüdeki aday, gaz tüpü taşıma arabasının üç boyutlu bir CAD modellemesidir ve referans ürünle aynı mekanik işlevselliğe sahiptir.",
+      "discovered_at": "2026-10-15 14:26:55"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinders on Trolley v2 – SafetyImages.com",
+      "page_url": "https://safetyimages.com/products/gas-cylinders-on-trolley-v2",
+      "candidate_image_url": "https://safetyimages.com/cdn/shop/files/R-HW-Y-10712-PGasCylindersonTrolleyv2.jpg?v=1685407668&width=1445",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir konfigürasyona sahip olsa da aynı temel işlevsel amaca hizmet eden bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-15 14:29:25"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "An Innovative Solution for Stair Climbing: A Conceptual Design and Analysis of a Tri-Wheeled ...",
+      "page_url": "https://www.mdpi.com/2411-5134/10/4/57",
+      "candidate_image_url": "https://pub.mdpi-res.com/inventions/inventions-10-00057/article_deploy/html/images/inventions-10-00057-g002.png?1752662319",
+      "score": 75,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşıma arabasının daha gelişmiş ve katlanabilir mekanizmalara sahip tasarım aşamasındaki teknik çizimidir.",
+      "discovered_at": "2026-10-15 14:29:50"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lpg Cylinder Trolley For Staircase Collection Cheap | www.oceanproperty.co.th",
+      "page_url": "https://www.oceanproperty.co.th/?q=lpg-cylinder-trolley-for-staircase-e-nYYDj5fA",
+      "candidate_image_url": "http://5.imimg.com/data5/SELLER/Default/2022/6/YM/QD/PS/26632757/full-metal-heavy-duty-lpg-gas-cylinder-trolley-with-stair-climbing-support.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de tüp taşıma arabası fonksiyonuna sahiptir, ancak aday görsel merdiven tırmanma özellikli farklı bir varyasyonu temsil etmektedir.",
+      "discovered_at": "2026-10-15 14:29:54"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "100kg low head room 'e size' gas bottle trolley",
+      "page_url": "https://theliftingcompany.com.au/products/100kg-low-head-room-e-size-gas-bottle-trolley",
+      "candidate_image_url": "http://theliftingcompany.com.au/cdn/shop/files/TLC02228LOWHEIGHTESIZEGASTROLLEYREV0_1024x1024.png?v=1779173506",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, birinci görseldeki tüp taşıma arabasının benzer bir işlevsel konfigürasyona sahip farklı bir teknik çizim varyantıdır.",
+      "discovered_at": "2026-10-15 14:30:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Motorized heavy duty stair climbing hand truck-handtrucks2go.com",
+      "page_url": "https://handtrucks2go.com/Motorized-Heavy-Duty-Stair-Climber-Hand-Truck.html",
+      "candidate_image_url": "https://handtrucks2go.com/images/D/274101-specs.JPG",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntüdeki teknik çizim, referans görseldeki katlanabilir tüp taşıma arabasının yapısal ölçülerini ve mekanik detaylarını net bir şekilde temsil etmektedir.",
+      "discovered_at": "2026-10-15 14:31:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck Stair Climbing with Adjustable Plate Toe Position - 3D Model by surf3d",
+      "page_url": "https://www.renderhub.com/surf3d/hand-truck-stair-climbing-with-adjustable-plate-toe-position",
+      "candidate_image_url": "https://cdn.renderhub.com/surf3d/hand-truck-stair-climbing-with-adjustable-plate-toe-position/hand-truck-stair-climbing-with-adjustable-plate-toe-position-26.jpg?v=3",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel, referans üründeki temel işlevselliğe sahip ancak farklı konfigürasyonlara ve daha karmaşık bir yapıya sahip 3D bir CAD modelidir.",
+      "discovered_at": "2026-10-15 14:34:58"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Electric Hand Truck with Stair Climbing Motor Powered - 3D Model by surf3d",
+      "page_url": "https://www.renderhub.com/surf3d/electric-hand-truck-with-stair-climbing-motor-powered",
+      "candidate_image_url": "https://cdn.renderhub.com/surf3d/electric-hand-truck-with-stair-climbing-motor-powered/electric-hand-truck-with-stair-climbing-motor-powered-42.jpg?v=3",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de tüp veya silindirik yük taşımaya uygun taşıma arabası mekanizmalarını temsil etmektedir, ancak yapısal tasarım ve tekerlek dizilimi açısından farklı varyasyonlardır.",
+      "discovered_at": "2026-10-15 14:35:02"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Fork Hand Truck Cart Stair Climber for Climbing and Lift - 3D Model by surf3d",
+      "page_url": "https://www.renderhub.com/surf3d/stair-climber-climbing-forklift-hand-truck-cart-pallet-tilt",
+      "candidate_image_url": "https://cdn.renderhub.com/surf3d/stair-climber-climbing-forklift-hand-truck-cart-pallet-tilt/stair-climber-climbing-forklift-hand-truck-cart-pallet-tilt-32.jpg?v=5",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "İkinci görsel, referans tüp arabası ürününün üç boyutlu bilgisayar destekli tasarım (CAD) modelidir.",
+      "discovered_at": "2026-10-15 14:35:09"
     }
   ]
 }
