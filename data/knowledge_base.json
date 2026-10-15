@@ -4015,6 +4015,50 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-15 04:38:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Cart 2.0 | Strong hand tools, Welding cart, Cylinder",
+      "page_url": "https://www.pinterest.com/pin/gas-cylinder-cart-20--486388828526515727/",
+      "candidate_image_url": "https://i.pinimg.com/736x/e7/36/ed/e736eddf611e02681a43f7c031a513da.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, birinci görseldeki referans tüp arabası ile aynı temel mekanik prensibe sahip, ancak farklı malzeme ve tasarım detayları içeren çalışır durumda bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-15 08:26:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Welding Cylinder Cart for Oxygen & Acetylene - 440 lbs Capacity ...",
+      "page_url": "https://www.walmart.com/ip/Dual-Welding-Cylinder-Cart-Oxygen-Acetylene-440-lbs-Capacity-Carbon-Steel-Safety-Chains-10-Wheels-Handle-Gas-Cylinder-Push-Cart-Cutting-Welding/19884568250",
+      "candidate_image_url": "https://i5.walmartimages.com/seo/Dual-Welding-Cylinder-Cart-Oxygen-Acetylene-440-lbs-Capacity-Carbon-Steel-Safety-Chains-10-Wheels-Handle-Gas-Cylinder-Push-Cart-Cutting-Welding_298e4b8a-cf9a-4a68-95b6-c9265129e4aa.23586522842b55842fcc34e2a2b687f0.jpeg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2'deki ürün tüp arabası işlevini yerine getiren farklı tasarımlı bir versiyonudur.",
+      "discovered_at": "2026-10-15 08:27:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Cylinder Gas Welding Cart 3D Model $33 - .3ds .blend .c4d .fbx ...",
+      "page_url": "https://free3d.com/3d-model/dual-cylinder-gas-welding-cart-3113.html",
+      "candidate_image_url": "https://preview.free3d.com/img/2020/09/2408261022482695248/szx42j2n.jpg",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görüntüdeki model, gaz tüpü taşıma arabası işlevini gören 3D bir CAD tasarımıdır ancak yapısal olarak referans üründen farklı bir taşıma sistemine sahiptir.",
+      "discovered_at": "2026-10-15 08:30:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Hand Truck D-4WS-CYKO – Dutro",
+      "page_url": "https://dutro.com/dutro-store/cylinder-hand-truck-d-4ws-cyko/",
+      "candidate_image_url": "https://dutro.com/wp-content/uploads/2023/05/D4WS-CYKO-2.png",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabası tasarımına çok benzeyen ancak iki adet büyük gaz silindirini taşıyabilecek şekilde çift gövdeli olarak üretilmiş işlevsel bir varyasyondur.",
+      "discovered_at": "2026-10-15 08:33:43"
     }
   ]
 }
