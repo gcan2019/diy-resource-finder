@@ -86,13 +86,30 @@ def get_api_key() -> str:
 def load_knowledge_base() -> dict:
     if KNOWLEDGE_BASE_JSON.exists():
         try:
-            return json.loads(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"))
+            raw = KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8")
+            if "<<<<<<<" in raw or "=======" in raw or ">>>>>>>" in raw:
+                import re
+                raw = "\n".join([l for l in raw.splitlines() if not re.match(r'^[<>=]{7}', l)])
+            return json.loads(raw)
         except Exception:
-            pass
+            # Otomatik kurtarma: Yedek dosyayı dene
+            backup_file = KNOWLEDGE_BASE_JSON.with_suffix(".backup.json")
+            if backup_file.exists():
+                try:
+                    return json.loads(backup_file.read_text(encoding="utf-8"))
+                except Exception:
+                    pass
     return {"targets": {}, "discoveries": []}
 
 def save_knowledge_base(kb: dict):
-    KNOWLEDGE_BASE_JSON.write_text(json.dumps(kb, indent=2, ensure_ascii=False), encoding="utf-8")
+    content = json.dumps(kb, indent=2, ensure_ascii=False)
+    backup_file = KNOWLEDGE_BASE_JSON.with_suffix(".backup.json")
+    if KNOWLEDGE_BASE_JSON.exists():
+        try:
+            backup_file.write_text(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"), encoding="utf-8")
+        except Exception:
+            pass
+    KNOWLEDGE_BASE_JSON.write_text(content, encoding="utf-8")
 
 CATEGORIES = {
     "technical_drawing": ("📐 Teknik Çizimler, Ölçüler & Kesit Planları", "2D teknik resimler, ölçü tabloları ve montaj kesitleri"),

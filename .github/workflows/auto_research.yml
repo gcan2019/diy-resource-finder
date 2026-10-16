@@ -48,11 +48,11 @@ jobs:
         run: |
           git config --global user.name "Otonom Bulut Nobetcisi"
           git config --global user.email "actions@github.com"
-          git add data/knowledge_base.json DISCOVERIES.md
+          python safe_cloud_sync.py
+          git add data/knowledge_base.json data/knowledge_base.backup.json DISCOVERIES.md catalogs/
           if git diff --staged --quiet; then
             echo "Yeni kesif yok, commit atlanıyor."
           else
             git commit -m "🌙 Bulut Nobetcisi: PC kapaliyken yeni kaynaklar bulundu [skip ci]"
-            git pull --rebase origin main || true
             git push origin main
           fi

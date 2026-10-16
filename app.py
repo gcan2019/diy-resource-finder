@@ -596,10 +596,20 @@ def load_knowledge_base_data(target_filter: str = None) -> tuple[dict, int, list
     discoveries = []
     if KNOWLEDGE_BASE_JSON.exists():
         try:
-            kb = json.loads(KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8"))
+            raw = KNOWLEDGE_BASE_JSON.read_text(encoding="utf-8")
+            if "<<<<<<<" in raw or "=======" in raw or ">>>>>>>" in raw:
+                import re
+                raw = "\n".join([l for l in raw.splitlines() if not re.match(r'^[<>=]{7}', l)])
+            kb = json.loads(raw)
             discoveries = kb.get("discoveries", [])
         except Exception:
-            pass
+            backup_file = KNOWLEDGE_BASE_JSON.with_suffix(".backup.json")
+            if backup_file.exists():
+                try:
+                    kb = json.loads(backup_file.read_text(encoding="utf-8"))
+                    discoveries = kb.get("discoveries", [])
+                except Exception:
+                    pass
 
     # Keşiflerdeki hedef isimlerini temizle
     for item in discoveries:
