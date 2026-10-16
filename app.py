@@ -718,6 +718,19 @@ with tab_dashboard:
     target_options = ["Tüm Ürünler"] + all_targets
 
     # Session state ile temiz seçim yönetimi (çift tetiklemeyi ve donmayı önler)
+    if "target_product_to_select" in st.session_state:
+        desired = st.session_state.pop("target_product_to_select")
+        if desired in target_options:
+            st.session_state["dash_selected_product_sel"] = desired
+        else:
+            matched_opt = None
+            for opt in target_options:
+                if is_matching_target_name(opt, desired):
+                    matched_opt = opt
+                    break
+            if matched_opt:
+                st.session_state["dash_selected_product_sel"] = matched_opt
+
     if "dash_selected_product_sel" not in st.session_state:
         init_idx = 0
         if running and active_info:
@@ -750,7 +763,7 @@ with tab_dashboard:
                     st.warning(f"**'{selected_product}'** ürün arşivini ve tüm keşiflerini kalıcı olarak silmek istediğinize emin misiniz?")
                     if st.button("❌ Onayla ve Kalıcı Sil", type="primary", use_container_width=True, key=f"btn_pop_del_{abs(hash(str(selected_product))) % 100000}"):
                         res = delete_product_archive(selected_product)
-                        st.session_state["dash_selected_product_sel"] = "Tüm Ürünler"
+                        st.session_state["target_product_to_select"] = "Tüm Ürünler"
                         st.toast(f"✅ '{selected_product}' ve {res['discoveries']} adet keşfi silindi!", icon="🗑️")
                         st.rerun()
 
@@ -820,7 +833,7 @@ with tab_dashboard:
                         save_target_description(clean_fn, p_desc.strip(), also_alias=saved_file_name)
                     
                     st.cache_data.clear()
-                    st.session_state["dash_selected_product_sel"] = clean_fn
+                    st.session_state["target_product_to_select"] = clean_fn
                     
                     if scan_clicked and save_path.exists():
                         start_agent(save_path)
@@ -861,7 +874,7 @@ with tab_dashboard:
                         if st.button("Kalıcı Olarak Sil", type="primary", use_container_width=True, key=f"tbl_del_{t_idx}_{abs(hash(str(t_name))) % 10000}"):
                             res = delete_product_archive(t_name)
                             if st.session_state.get("dash_selected_product_sel") == t_name:
-                                st.session_state["dash_selected_product_sel"] = "Tüm Ürünler"
+                                st.session_state["target_product_to_select"] = "Tüm Ürünler"
                             st.toast(f"'{t_name}' arşivi silindi!", icon="🗑️")
                             st.rerun()
 
