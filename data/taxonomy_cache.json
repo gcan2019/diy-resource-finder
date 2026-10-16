@@ -1,0 +1,145 @@
+{
+  "Delikli 3D kaynak ve fikstür masaları (D28 / D16)": {
+    "primary_english_terms": [
+      "Modular Welding Fixture Table",
+      "3D Welding Table",
+      "Precision Welding Platen"
+    ],
+    "industry_standard_brands_and_systems": [
+      "Siegmund",
+      "Demmeler",
+      "BuildPro (Strong Hand Tools)",
+      "Bluco",
+      "Kemper"
+    ],
+    "technical_standards_and_jargon": [
+      "D28 (28mm bore system)",
+      "D16 (16mm bore system)",
+      "50x50mm grid pattern",
+      "100x100mm grid pattern",
+      "H7 hole tolerance",
+      "Plasma-nitrided surface",
+      "5-sided modular clamping",
+      "Torsion-box frame construction",
+      "Cast iron vs S355J2+N steel"
+    ],
+    "diy_and_fabrication_terms": [
+      "Fixturing table",
+      "Welding jig station",
+      "Fabrication table",
+      "CNC drilled welding bench"
+    ],
+    "key_subassemblies": [
+      "Modular clamping squares",
+      "Stop blocks and positioning bolts",
+      "Ball lock pins (Quick-release pins)",
+      "Eccentric clamping bolts",
+      "Leg leveling and height adjustment systems"
+    ]
+  },
+  "Gas cylinder truck / Tüp arabası": {
+    "primary_english_terms": [
+      "Gas cylinder hand truck",
+      "Gas bottle trolley",
+      "Cylinder transport cart"
+    ],
+    "industry_standard_brands_and_systems": [
+      "Wescon",
+      "Magliner",
+      "BOC Industrial",
+      "Linde Gas Solutions",
+      "Morse Manufacturing"
+    ],
+    "technical_standards_and_jargon": [
+      "EN 1089-3 (Cylinder marking)",
+      "ISO 7225 (Safety labelling)",
+      "TIG/MIG welded tubular steel frame",
+      "Static load capacity certification",
+      "Powder-coated corrosion resistance",
+      "Non-sparking wheel assembly"
+    ],
+    "diy_and_fabrication_terms": [
+      "DIY welding cylinder rack",
+      "Custom gas bottle cart build",
+      "Shop floor gas storage fabrication",
+      "Welder's bottle caddy"
+    ],
+    "key_subassemblies": [
+      "Zinc-plated safety chain retention system",
+      "Anti-vibration pneumatic or puncture-proof wheels",
+      "Ergonomic C-channel handle",
+      "Reinforced steel base plate",
+      "Cylinder toe-plate retention lip"
+    ]
+  },
+  "Pipe and profile cutting machine / Boru ve profil kesme makinesi": {
+    "primary_english_terms": [
+      "Abrasive Cut-Off Saw",
+      "Cold Sawing Machine",
+      "Miter Saw for Metal"
+    ],
+    "industry_standard_brands_and_systems": [
+      "FMB",
+      "MEP Group",
+      "Eisele",
+      "Cosen Saws",
+      "Fein"
+    ],
+    "technical_standards_and_jargon": [
+      "Miter cut adjustment 0-45 degrees",
+      "Tungsten Carbide Tipped (TCT) blade",
+      "Quick-release cam-lock vise",
+      "Integrated coolant circulation system",
+      "Geared head transmission",
+      "Angular scale precision"
+    ],
+    "diy_and_fabrication_terms": [
+      "Metal chop saw",
+      "Benchtop metal miter saw",
+      "Steel profile cutter",
+      "Fabrication cutting station"
+    ],
+    "key_subassemblies": [
+      "Vise clamping mechanism",
+      "Spring-loaded swing arm pivot",
+      "Precision graduated miter scale",
+      "High-torque induction motor",
+      "Blade guard safety assembly",
+      "Swivel base locking pin"
+    ]
+  },
+  "Fuel cell system / Yakıt hücresi sistemi": {
+    "primary_english_terms": [
+      "Proton Exchange Membrane Fuel Cell System",
+      "Solid Oxide Fuel Cell Assembly",
+      "PEMFC and SOFC Stack Hardware"
+    ],
+    "industry_standard_brands_and_systems": [
+      "Ballard Power Systems",
+      "Plug Power",
+      "Bosch Fuel Cell",
+      "Bloom Energy",
+      "Freudenberg SE"
+    ],
+    "technical_standards_and_jargon": [
+      "bipolar plate flow field channel",
+      "membrane electrode assembly",
+      "MEAs compression hardware",
+      "gas diffusion layer gdl",
+      "sub-gasket sealing tolerance"
+    ],
+    "diy_and_fabrication_terms": [
+      "hydrogen fuel cell stack DIY",
+      "homebrew PEM fuel cell",
+      "graphite bipolar plate machining",
+      "fuel cell compression end plates"
+    ],
+    "key_subassemblies": [
+      "bipolar plates",
+      "membrane electrode assembly MEA",
+      "gas diffusion layers GDL",
+      "current collector plates",
+      "end plates and tie rods"
+    ]
+  }
+}

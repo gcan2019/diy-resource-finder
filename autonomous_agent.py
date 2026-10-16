@@ -39,6 +39,7 @@ CATALOGS_DIR = BASE_DIR / "catalogs"
 DISCOVERIES_MD = BASE_DIR / "DISCOVERIES.md"
 KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
 TARGET_DESCRIPTIONS_JSON = DATA_DIR / "target_descriptions.json"
+TAXONOMY_CACHE_JSON = DATA_DIR / "taxonomy_cache.json"
 
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
@@ -278,14 +279,98 @@ def safe_generate_content(client: genai.Client, contents: list, config: types.Ge
     raise last_err
 
 # ──────────────────────────────────────────────
+# Otonom Küresel Terminoloji & Endüstriyel Akıl Yürütme Motoru
+# ──────────────────────────────────────────────
+def get_taxonomy_cache() -> dict:
+    if TAXONOMY_CACHE_JSON.exists():
+        try:
+            return json.loads(TAXONOMY_CACHE_JSON.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+def save_taxonomy_cache(cache: dict):
+    TAXONOMY_CACHE_JSON.write_text(json.dumps(cache, indent=2, ensure_ascii=False), encoding="utf-8")
+
+def deduce_global_engineering_taxonomy(client: genai.Client, target_name: str, target_desc: str = "") -> dict:
+    """
+    Kullanıcının girdiği ürün adı ve açıklamasına göre yapay zekanın 
+    küresel endüstri terimlerini, patent/standart sistem isimlerini,
+    dünya çapındaki öncü üretici/sistem markalarını ve imalat jargonunu
+    OTONOM OLARAK AKIL ETMESİNİ (reasoning) sağlar.
+    """
+    clean_key = clean_product_name(target_name)
+    cache = get_taxonomy_cache()
+    if clean_key in cache:
+        return cache[clean_key]
+
+    search_base = clean_search_target(target_name)
+    desc_section = f'\nUser Technical Description & Requirements:\n"{target_desc}"\n' if target_desc else ''
+    prompt = f"""You are a Principal Mechanical Engineer & Global Industrial Sourcing Specialist.
+Analyze this product and autonomously deduce its COMPLETE GLOBAL INDUSTRY TAXONOMY.
+Think through what this mechanism is known as globally in German, US, and international engineering standards, pioneer patented brand systems (e.g. Siegmund, Demmeler, Festo, Bosch Rexroth, Haas, BuildPro), technical specifications, and maker/machinist communities.
+
+Target: "{search_base}"{desc_section}
+
+Return ONLY valid JSON:
+{{
+  "primary_english_terms": [
+    "universal mechanical term 1",
+    "universal mechanical term 2",
+    "universal mechanical term 3"
+  ],
+  "industry_standard_brands_and_systems": [
+    "global pioneer brand or system 1",
+    "global pioneer brand or system 2",
+    "global pioneer brand or system 3"
+  ],
+  "technical_standards_and_jargon": [
+    "standard spec term 1 (e.g. D28, D16, torsion box, 50x50 grid, H7 tolerance)",
+    "standard spec term 2"
+  ],
+  "diy_and_fabrication_terms": [
+    "workshop fabrication search phrase 1",
+    "workshop fabrication search phrase 2"
+  ],
+  "key_subassemblies": [
+    "critical subassembly or tooling 1",
+    "critical subassembly or tooling 2"
+  ]
+}}"""
+
+    try:
+        res = safe_generate_content(
+            client,
+            contents=[types.Part.from_text(text=prompt)],
+            config=types.GenerateContentConfig(response_mime_type="application/json")
+        )
+        data = json.loads(strip_md_json(res.text))
+        if data and isinstance(data, dict):
+            cache[clean_key] = data
+            save_taxonomy_cache(cache)
+            return data
+    except Exception as e:
+        print(f"⚠️ Küresel terminoloji çıkarım hatası: {e}")
+
+    eng = search_base.split("/")[0].strip()
+    fallback = {
+        "primary_english_terms": [eng, f"{eng} mechanism", f"{eng} assembly"],
+        "industry_standard_brands_and_systems": [],
+        "technical_standards_and_jargon": [],
+        "diy_and_fabrication_terms": [f"DIY {eng}", f"homemade {eng} build"],
+        "key_subassemblies": []
+    }
+    return fallback
+
+# ──────────────────────────────────────────────
 # Dinamik & Sürekli Derinleşen Arama Terimleri
 # ──────────────────────────────────────────────
 FOCUS_ANGLES = [
-    ("📐 Teknik Resim & Kesit Planları", "technical drawing cross section dimension blueprint CAD diagram"),
-    ("🖨️ 3D CAD, GrabCAD & STL Modeller", "GrabCAD 3D model STEP STL Thingiverse free download"),
-    ("🎥 İmalat, Torna & Yapım Videoları", "machining fabrication lathe build DIY assembly tutorial youtube"),
-    ("🔧 Montaj Detayları, Keçe & Miller", "shaft mounting seal arrangement tolerance exploded assembly view"),
-    ("📌 Alternatif Mekanizmalar & Tasarımlar", "alternative design mechanism variations DIY project ideas")
+    ("📐 Teknik Resim, Lazer Kesim & Kesit Planları", "technical drawing cross section dimension blueprint CAD diagram laser cut DXF"),
+    ("🖨️ 3D CAD, GrabCAD & STL Modeller", "GrabCAD 3D model STEP STL Thingiverse free download solidworks"),
+    ("🎥 İmalat, Torna, Kaynak & Yapım Videoları", "machining fabrication build DIY assembly tutorial fixture welding youtube"),
+    ("🔧 Montaj Detayları, Fikstür & Bağlama Aparatları", "clamping tooling fixture accessories exploded assembly view mounting"),
+    ("📌 Alternatif Mekanizmalar, Torsion Box & Projeler", "alternative design mechanism variations DIY project ideas torsion box")
 ]
 
 def clean_search_target(target_name: str) -> str:
@@ -298,26 +383,48 @@ def clean_search_target(target_name: str) -> str:
         return "Pipe and tube expander stretcher tool mechanism / Boru şişirme genişletme aparatı"
     return cleaned or target_name
 
-def generate_adaptive_queries(client: genai.Client, target_name: str, round_num: int, recent_titles: list[str], target_desc: str = "") -> list[str]:
+def generate_adaptive_queries(client: genai.Client, target_name: str, round_num: int, recent_titles: list[str], target_desc: str = "", taxonomy: dict = None) -> list[str]:
     focus_title, focus_keywords = FOCUS_ANGLES[round_num % len(FOCUS_ANGLES)]
     search_base = clean_search_target(target_name)
     eng_part = search_base.split("/")[0].strip()
 
+    if not taxonomy:
+        taxonomy = {}
+
+    primary_terms = taxonomy.get("primary_english_terms", [eng_part])
+    benchmark_systems = taxonomy.get("industry_standard_brands_and_systems", [])
+    specs_jargon = taxonomy.get("technical_standards_and_jargon", [])
+    diy_terms = taxonomy.get("diy_and_fabrication_terms", [])
+    subassemblies = taxonomy.get("key_subassemblies", [])
+
+    taxonomy_context = f"""
+AUTONOMOUSLY DEDUCED GLOBAL INDUSTRY TAXONOMY:
+- Universal Terms: {', '.join(primary_terms[:4])}
+- Global Pioneer Brands & Standard Systems: {', '.join(benchmark_systems[:5]) if benchmark_systems else 'General standard'}
+- Technical Specs & Jargon: {', '.join(specs_jargon[:5]) if specs_jargon else 'Standard workshop'}
+- Workshop & DIY Phrases: {', '.join(diy_terms[:4]) if diy_terms else 'Fabrication build'}
+- Key Subassemblies: {', '.join(subassemblies[:4]) if subassemblies else 'Main tooling'}
+"""
+
     desc_section = f'\nUser Technical Description & Requirements:\n"{target_desc}"\n' if target_desc else ''
     prompt = f"""Target mechanism: "{search_base}".{desc_section}
+{taxonomy_context}
 Current Research Round: #{round_num} (Focus: {focus_title}).
-Recent findings we already have: {recent_titles[-4:] if recent_titles else 'None yet'}.
+Recent findings we already have: {recent_titles[-5:] if recent_titles else 'None yet'}.
 
-Generate 3 NEW, highly specific, diverse search queries in English targeting this round's focus: "{focus_keywords}".
-If user description/requirements are provided above, leverage specific mechanical parts, dimensions, and manufacturing methods described to make queries hyper-focused.
-Do NOT include fictional brand names like 'Mekanikya'. Use universal mechanical engineering terms.
-Ensure queries find real CAD blueprints, DIY build videos, or technical diagrams on the web.
-Return ONLY valid JSON:
+TASK: Generate 5 HIGHLY EFFECTIVE, diverse, real-world search queries in English targeting this round's focus: "{focus_keywords}".
+INTELLIGENT QUERY RULES:
+1. Proactively leverage the deduced global terminology, pioneer systems (e.g. {benchmark_systems[:2] if benchmark_systems else 'global standard'}), and technical specs.
+2. Mix broad universal engineering terms with laser-focused fabrication keywords (e.g. STEP, DXF, blueprint dimensions, GrabCAD, DIY build).
+3. Ensure queries find actual downloadable CAD models, 2D technical blueprints, or workshop fabrication plans.
+4. Return ONLY valid JSON:
 {{
   "queries": [
     "query 1",
     "query 2",
-    "query 3"
+    "query 3",
+    "query 4",
+    "query 5"
   ]
 }}"""
 
@@ -329,15 +436,18 @@ Return ONLY valid JSON:
         )
         data = json.loads(strip_md_json(res.text))
         qs = data.get("queries", [])
-        if qs:
-            return qs
+        if qs and len(qs) >= 2:
+            return qs[:5]
     except Exception:
         pass
 
+    fallback_base = primary_terms[0] if primary_terms else eng_part
     return [
-        f"{eng_part} {focus_keywords}",
-        f"{eng_part} blueprint dimensions drawing",
-        f"{eng_part} DIY fabrication CAD 3D model"
+        f"{fallback_base} {focus_keywords}",
+        f"{fallback_base} blueprint dimensions drawing",
+        f"{fallback_base} DIY fabrication CAD 3D model",
+        f"{fallback_base} STEP STL GrabCAD free",
+        f"{fallback_base} laser cut DXF plans"
     ]
 
 # ──────────────────────────────────────────────
@@ -447,7 +557,7 @@ def analyze_image_visually(ref_bytes: bytes, cand_bytes: bytes) -> dict:
 # ──────────────────────────────────────────────
 # Gemini Vision + Piksel Tabanlı Görsel Doğrulama
 # ──────────────────────────────────────────────
-def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: bytes, target_name: str, cand_meta: dict = None, target_desc: str = "") -> dict:
+def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: bytes, target_name: str, cand_meta: dict = None, target_desc: str = "", taxonomy: dict = None) -> dict:
     # Önce aday görselin bozuk veya ikon olmadığını piksel düzeyinde denetle
     vis = analyze_image_visually(ref_bytes, candidate_bytes)
     if not vis.get("valid"):
@@ -455,16 +565,22 @@ def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: by
 
     search_base = clean_search_target(target_name)
     desc_note = f"\nUser Requirements / Notes: \"{target_desc}\"" if target_desc else ""
+    tax_note = ""
+    if taxonomy:
+        p_terms = ", ".join(taxonomy.get("primary_english_terms", [])[:3])
+        b_brands = ", ".join(taxonomy.get("industry_standard_brands_and_systems", [])[:4])
+        tax_note = f"\nEquivalent Global Terminology: {p_terms}.\nRelevant Industry Benchmark Brands/Systems: {b_brands}."
+
     prompt = f"""You are a mechanical/product verification inspector.
-Compare these two images or evaluate Candidate for Target: "{search_base}".{desc_note}
+Compare these two images or evaluate Candidate for Target: "{search_base}".{desc_note}{tax_note}
 - Image 1 is the REFERENCE product/mechanism.
 - Image 2 is a CANDIDATE found on the web (could be a CAD model, technical drawing, finished build, or irrelevant junk).
 
-Does Image 2 represent the SAME mechanism, a related mechanical tool/part, a technical blueprint of it, or a working DIY variant (matching the user requirements if stated)?
+Does Image 2 represent the SAME mechanism, an equivalent international standard system (e.g. {taxonomy.get('industry_standard_brands_and_systems', ['standard design']) if taxonomy else 'standard design'}), a technical blueprint/CAD model of it, or a working DIY variant (matching the user requirements if stated)?
 
 Return ONLY valid JSON:
 {{
-  "verified": true/false (true if similarity score >= 75),
+  "verified": true/false (true if similarity score >= 70),
   "score": integer between 0 and 100,
   "category": "technical_drawing" OR "cad_model" OR "diy_video" OR "diy_project",
   "variant_type": "exact_match" OR "technical_drawing" OR "working_variation" OR "irrelevant",
@@ -573,9 +689,20 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
     target_desc = get_target_description(target_name, target_img_path.name)
     print(f"🎯 Hedef Tanımlandı: {target_name}")
     if target_desc:
-        print(f"📝 Kullanıcı Açıklaması & Notları: {target_desc}\n")
-    else:
-        print("")
+        print(f"📝 Kullanıcı Açıklaması & Notları: {target_desc}")
+
+    # 0. Küresel Endüstri Terminolojisi & Mühendislik Akıl Yürütme (Autonomous Taxonomy)
+    print(f"\n🧠 Küresel Endüstri Terminolojisi ve Standartları Analiz Ediliyor...")
+    taxonomy = deduce_global_engineering_taxonomy(client, target_name, target_desc)
+    p_terms = taxonomy.get("primary_english_terms", [])
+    b_brands = taxonomy.get("industry_standard_brands_and_systems", [])
+    s_specs = taxonomy.get("technical_standards_and_jargon", [])
+    if p_terms:
+        print(f"   🌐 Evrensel Terimler: {', '.join(p_terms[:4])}")
+    if b_brands:
+        print(f"   🏭 Öncü Küresel Sistemler / Markalar: {', '.join(b_brands[:4])}")
+    if s_specs:
+        print(f"   📐 Teknik Standartlar & Jargon: {', '.join(s_specs[:4])}\n")
 
     kb = load_knowledge_base()
     known_urls = {item.get("page_url") for item in kb.get("discoveries", [])}
@@ -587,11 +714,13 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
         focus_title, _ = FOCUS_ANGLES[round_num % len(FOCUS_ANGLES)]
         print(f"\n--- [TUR #{round_num}] Odak: {focus_title} ---")
 
-        # Yeni sorgular üret
-        queries = generate_adaptive_queries(client, target_name, round_num, past_titles, target_desc=target_desc)
-        print(f"🔍 Yeni Arama Sorguları: {queries}")
+        # Yeni sorgular üret (Küresel akıl yürütme verileriyle zenginleştirilmiş)
+        queries = generate_adaptive_queries(client, target_name, round_num, past_titles, target_desc=target_desc, taxonomy=taxonomy)
+        print(f"🔍 Yeni Arama Sorguları ({len(queries)} adet):")
+        for q in queries:
+            print(f"   • {q}")
 
-        candidates = harvest_candidates(queries, max_per_term=5)
+        candidates = harvest_candidates(queries, max_per_term=8)
         print(f"📦 {len(candidates)} potansiyel aday toplandı. Doğrulama başlıyor...")
 
         new_in_this_round = 0
@@ -615,12 +744,12 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
             if not cand_bytes:
                 continue
 
-            # Gemini Vision + Akıllı Mühendislik Hakemliği
-            verdict = verify_candidate(client, ref_bytes, cand_bytes, target_name, cand_meta=cand, target_desc=target_desc)
+            # Gemini Vision + Küresel Standart Hakemliği
+            verdict = verify_candidate(client, ref_bytes, cand_bytes, target_name, cand_meta=cand, target_desc=target_desc, taxonomy=taxonomy)
             score = verdict.get("score", 0)
             verified = verdict.get("verified", False)
 
-            if verified and score >= 75:
+            if verified and score >= 70:
                 print(f"   ✅ DOĞRULANDI (%{score}) -> {cand.get('title')[:45]}...")
                 print(f"      Gerekçe: {verdict.get('reason')}")
                 

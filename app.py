@@ -71,6 +71,7 @@ KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
 CURRENT_TARGET_JSON = DATA_DIR / "current_target.json"
 TARGET_MAP_JSON = DATA_DIR / "target_map.json"
 TARGET_DESCRIPTIONS_JSON = DATA_DIR / "target_descriptions.json"
+TAXONOMY_CACHE_JSON = DATA_DIR / "taxonomy_cache.json"
 REGIONAL_GAPS_JSON = DATA_DIR / "regional_gaps.json"
 REGIONAL_REPORT_MD = BASE_DIR / "REGIONAL_OPPORTUNITIES.md"
 REGIONAL_PID_FILE = DATA_DIR / "regional_agent.pid"
@@ -182,6 +183,21 @@ def get_target_description(product_name: str, file_name: str = "") -> str:
         if k and v and (k in clean_p or clean_p in k):
             return v
     return ""
+
+def get_taxonomy_for_product(product_name: str) -> dict | None:
+    if not TAXONOMY_CACHE_JSON.exists():
+        return None
+    try:
+        cache = json.loads(TAXONOMY_CACHE_JSON.read_text(encoding="utf-8"))
+        clean_p = clean_product_name(product_name)
+        if clean_p in cache:
+            return cache[clean_p]
+        for k, v in cache.items():
+            if is_matching_target_name(clean_p, k):
+                return v
+    except Exception:
+        pass
+    return None
 
 def find_target_file_for_product(product_name: str) -> Path | None:
     if not product_name or product_name == "Tüm Ürünler":
@@ -937,6 +953,27 @@ with tab_dashboard:
                         save_target_description(selected_product, new_val)
                         st.toast("Ürün açıklaması güncellendi!", icon="✅")
                         st.rerun()
+
+        # 2.3 YAPAY ZEKANIN AKIL ETTİĞİ KÜRESEL TERMİNOLOJİ VE EŞDEĞER SİSTEMLER
+        tax_info = get_taxonomy_for_product(selected_product)
+        if tax_info:
+            with st.expander("🧠 Yapay Zekanın Akıl Ettiği Küresel Terminoloji & Eşdeğer Sistemler", expanded=False):
+                st.caption("Arama robotu bu ürün için dünyadaki standart sistemleri, öncü markaları ve teknik tolerans terimlerini otonom olarak çıkardı:")
+                c_tax1, c_tax2 = st.columns(2)
+                with c_tax1:
+                    p_terms = tax_info.get("primary_english_terms", [])
+                    if p_terms:
+                        st.markdown(f"**🌐 Evrensel Terimler:** `{', '.join(p_terms)}`")
+                    b_brands = tax_info.get("industry_standard_brands_and_systems", [])
+                    if b_brands:
+                        st.markdown(f"**🏭 Öncü Küresel Marka & Sistemler:** `{', '.join(b_brands)}`")
+                with c_tax2:
+                    s_specs = tax_info.get("technical_standards_and_jargon", [])
+                    if s_specs:
+                        st.markdown(f"**📐 Teknik Standartlar & Jargon:** `{', '.join(s_specs)}`")
+                    d_terms = tax_info.get("diy_and_fabrication_terms", [])
+                    if d_terms:
+                        st.markdown(f"**🛠️ İmalat & Yapım Aramaları:** `{', '.join(d_terms)}`")
 
     # 3. İSTATİSTİKLER (SADECE SEÇİLEN ÜRÜNE AİT)
     st.subheader(f"📊 {selected_product} İstatistikleri")
