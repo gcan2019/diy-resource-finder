@@ -6049,6 +6049,28 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, sanayi tipi gaz tüpü taşıma arabasının teknik bir CAD modelidir ve kullanıcı gereksinimlerindeki temel yapısal özellikleri karşılamaktadır.",
       "discovered_at": "2026-10-16 20:27:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Stylized vector illustrations of blueprints of welding cart Stock ...",
+      "page_url": "https://www.alamy.com/stylized-vector-illustrations-of-blueprints-of-welding-cart-image473585034.html",
+      "candidate_image_url": "https://c8.alamy.com/comp/2JEDJF6/stylized-vector-illustrations-of-blueprints-of-welding-cart-2JEDJF6.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, sanayi tipi gaz tüplerinin güvenli taşınması için tasarlanmış tekerlekli ve emniyet zincirli bir taşıma arabasının detaylı teknik çizimlerini ve izometrik görünüşlerini içermektedir.",
+      "discovered_at": "2026-10-16 22:21:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Gas Cylinder Tips & Tricks the Pros Use to SAVE BIG ! - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=LkBajnQdr-w",
+      "candidate_image_url": "https://i.ytimg.com/vi/LkBajnQdr-w/maxresdefault.jpg",
+      "score": 93,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 22:23:49"
     }
   ]
 }
