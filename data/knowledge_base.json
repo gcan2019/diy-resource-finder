@@ -6027,6 +6027,28 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini güvenle taşımak için tasarlanmış farklı renk ve aparatlara sahip alternatif bir tüp arabası modelidir.",
       "discovered_at": "2026-10-16 18:27:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "How its made gas cylinders | Amazed How These Workers Made Gas Cylinder ...",
+      "page_url": "https://www.youtube.com/watch?v=7Qp-29hYZ6Y",
+      "candidate_image_url": "https://i.ytimg.com/vi/7Qp-29hYZ6Y/maxresdefault.jpg",
+      "score": 90,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 20:24:20"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/convertible-hand-truck-1",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/70800e3e411c50015f845b498ccf537a/large.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, sanayi tipi gaz tüpü taşıma arabasının teknik bir CAD modelidir ve kullanıcı gereksinimlerindeki temel yapısal özellikleri karşılamaktadır.",
+      "discovered_at": "2026-10-16 20:27:49"
     }
   ]
 }
