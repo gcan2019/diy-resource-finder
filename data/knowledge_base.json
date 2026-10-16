@@ -5027,6 +5027,50 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-16 04:37:09"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/lpg-gas-cylinder-4",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/6cb8e8d0b73a420c7d45f13d1676c3d2/large.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 06:25:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding trolley project - Metal Shop - My Old Machine",
+      "page_url": "https://myoldmachine.com/topic/6301-welding-trolley-project/",
+      "candidate_image_url": "https://myoldmachine.com/uploads/monthly_2020_02/IMG_5711.jpeg.ecef19b0608b2efefc4e58cf0d39ac98.jpeg",
+      "score": 82,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabasıyla aynı fonksiyona sahip, atölye ortamında kutu profillerden imal edilmiş ev yapımı bir gaz tüpü taşıma arabasıdır.",
+      "discovered_at": "2026-10-16 06:26:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Super DIY Idea From an Old Gas Cylinder You Have to See! NOH Tricky ...",
+      "page_url": "https://www.youtube.com/watch?v=TNpcmBjp4zI",
+      "candidate_image_url": "https://i.ytimg.com/vi/TNpcmBjp4zI/maxresdefault.jpg",
+      "score": 93,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 06:30:16"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/gas-cylinder-2",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/fa110bbbafb0edbd820b9de22853b4ee/large.JPG",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (960x540px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 06:32:54"
     }
   ]
 }
