@@ -1,5 +1,4 @@
 {
-  "targets": {},
   "discoveries": [
     {
       "target_name": "Gas cylinder truck / Tüp arabası",
@@ -2246,7 +2245,6 @@
       "discovered_at": "2026-10-13 21:52:16"
     },
     {
-<<<<<<< Updated upstream
       "target_name": "Gas cylinder truck / Tüp arabası",
       "title": "🛒 Industrial Welding Cart CAD Files | STEP DXF Gas Cylinder Trolley Plans・ 3D File for 3D ...",
       "page_url": "https://cults3d.com/en/3d-model/tool/industrial-gas-cylinder-trolley-ergonomic-heavy-duty-design",
@@ -5072,7 +5070,8 @@
       "variant_type": "working_variation",
       "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (960x540px)) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-16 06:32:54"
-=======
+    },
+    {
       "target_name": "Fuel cell system / Yakıt hücresi sistemi",
       "title": "Figure 1 from 3D-printed fuel-cell bipolar plates for evaluating flow ...",
       "page_url": "https://www.semanticscholar.org/paper/3D-printed-fuel-cell-bipolar-plates-for-evaluating-Piri-Bi/70a5c7eb05727f22633c695e5bb5c6d41e09e2b6/figure/0",
@@ -5379,7 +5378,6 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, yakıt hücresi sistemlerinin önemli bir bileşeni olan akış alanı geometrilerini gösteren teknik çizimler içermektedir.",
       "discovered_at": "2026-10-13 22:32:35"
->>>>>>> Stashed changes
     }
   ]
 }

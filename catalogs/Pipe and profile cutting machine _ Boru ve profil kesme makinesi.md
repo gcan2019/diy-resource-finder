@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 **Doğrulanmış Kaynak Sayısı:** 31 adet
-**Son Güncelleme:** 2026-10-13 22:32:35
+**Son Güncelleme:** 2026-10-16 10:21:37
 
 ---
 
