@@ -70,6 +70,7 @@ PID_FILE = DATA_DIR / "agent.pid"
 KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
 CURRENT_TARGET_JSON = DATA_DIR / "current_target.json"
 TARGET_MAP_JSON = DATA_DIR / "target_map.json"
+TARGET_DESCRIPTIONS_JSON = DATA_DIR / "target_descriptions.json"
 REGIONAL_GAPS_JSON = DATA_DIR / "regional_gaps.json"
 REGIONAL_REPORT_MD = BASE_DIR / "REGIONAL_OPPORTUNITIES.md"
 REGIONAL_PID_FILE = DATA_DIR / "regional_agent.pid"
@@ -143,6 +144,44 @@ def get_target_map() -> dict:
 
 def save_target_map(mapping: dict):
     TARGET_MAP_JSON.write_text(json.dumps(mapping, indent=2, ensure_ascii=False), encoding="utf-8")
+
+def get_target_descriptions() -> dict:
+    if TARGET_DESCRIPTIONS_JSON.exists():
+        try:
+            return json.loads(TARGET_DESCRIPTIONS_JSON.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+def save_target_description(key: str, description: str, also_alias: str = ""):
+    descs = get_target_descriptions()
+    clean_k = clean_product_name(key)
+    val = description.strip()
+    descs[key] = val
+    if clean_k:
+        descs[clean_k] = val
+    if also_alias:
+        descs[also_alias] = val
+        clean_alias = clean_product_name(also_alias)
+        if clean_alias:
+            descs[clean_alias] = val
+    TARGET_DESCRIPTIONS_JSON.write_text(json.dumps(descs, indent=2, ensure_ascii=False), encoding="utf-8")
+
+def get_target_description(product_name: str, file_name: str = "") -> str:
+    descs = get_target_descriptions()
+    if not descs:
+        return ""
+    if product_name and product_name in descs and descs[product_name]:
+        return descs[product_name]
+    clean_p = clean_product_name(product_name)
+    if clean_p and clean_p in descs and descs[clean_p]:
+        return descs[clean_p]
+    if file_name and file_name in descs and descs[file_name]:
+        return descs[file_name]
+    for k, v in descs.items():
+        if k and v and (k in clean_p or clean_p in k):
+            return v
+    return ""
 
 def find_target_file_for_product(product_name: str) -> Path | None:
     if not product_name or product_name == "Tüm Ürünler":
@@ -314,7 +353,16 @@ def delete_product_archive(product_name: str) -> dict:
                 except Exception:
                     pass
 
-    # 5. Cache temizliği
+    # 5. target_descriptions.json temizliği
+    if TARGET_DESCRIPTIONS_JSON.exists():
+        try:
+            td = json.loads(TARGET_DESCRIPTIONS_JSON.read_text(encoding="utf-8"))
+            new_td = {k: v for k, v in td.items() if not is_matching_target_name(clean_target, k)}
+            TARGET_DESCRIPTIONS_JSON.write_text(json.dumps(new_td, indent=2, ensure_ascii=False), encoding="utf-8")
+        except Exception:
+            pass
+
+    # 6. Cache temizliği
     st.cache_data.clear()
     return deleted_counts
 
@@ -707,19 +755,79 @@ with tab_dashboard:
                         st.rerun()
 
     with col_add:
-        st.write("➕ **Yeni Ürün Dosyası Aç (Fotoğraf Yükle):**")
-        new_target = st.file_uploader(
-            "Yeni bir ürün fotoğrafı yükleyin:",
-            type=["jpg", "png", "jpeg"],
-            label_visibility="collapsed",
-            key="dashboard_new_target_uploader"
-        )
-        if new_target:
-            save_path = TARGETS_DIR / new_target.name
-            save_path.write_bytes(new_target.read())
-            st.cache_data.clear()
-            st.success(f"✅ '{new_target.name}' yeni hedef olarak kaydedildi!")
-            st.rerun()
+        st.write("➕ **Yeni Ürün & Makine Tanımla:**")
+        with st.popover("✨ Yeni Ürün Ekle (Fotoğraf + Kısa Açıklama)", use_container_width=True):
+            st.markdown("##### 📦 Yeni Ürün & Makine Dosyası Aç")
+            st.caption("Arama robotunun doğru teknik çizim ve CAD modellerini bulabilmesi için ürünü kısaca tarif edebilirsiniz.")
+            
+            p_img = st.file_uploader(
+                "📸 Ürün Fotoğrafı veya Taslak Görseli (İsteğe Bağlı):",
+                type=["jpg", "png", "jpeg"],
+                key="modal_new_prod_img"
+            )
+            p_name = st.text_input(
+                "🏷️ Ürün Adı (Türkçe / İngilizce):",
+                placeholder="Örn: Manuel Boru Bükme Aparatı / Pipe Bender",
+                key="modal_new_prod_name"
+            )
+            p_desc = st.text_area(
+                "📝 Ürünü Kısaca Anlatan Yazı / Teknik Notlar:",
+                placeholder="Örn: Bu ürün atölyede 25 mm'ye kadar boruları 180 derece bükmek içindir. Makaralı kalıp sistemi, hidrolik piston bağlantısı veya pimli mafsal montaj kesit çizimleri aranmalı.",
+                height=110,
+                key="modal_new_prod_desc"
+            )
+            
+            col_save_btn, col_scan_btn = st.columns(2)
+            with col_save_btn:
+                save_clicked = st.button("💾 Yalnızca Kaydet", type="secondary", use_container_width=True, key="btn_save_prod_only")
+            with col_scan_btn:
+                scan_clicked = st.button("🚀 Kaydet & Hemen Tara", type="primary", use_container_width=True, key="btn_save_and_scan")
+
+            if save_clicked or scan_clicked:
+                if not p_img and not p_name.strip():
+                    st.error("Lütfen en azından bir ürün adı yazın veya fotoğraf yükleyin.")
+                else:
+                    final_name = p_name.strip()
+                    saved_file_name = ""
+                    
+                    if p_img:
+                        saved_file_name = p_img.name
+                        save_path = TARGETS_DIR / saved_file_name
+                        save_path.write_bytes(p_img.read())
+                        if not final_name:
+                            final_name = Path(saved_file_name).stem
+                    else:
+                        safe_stem = "".join(c for c in final_name if c.isalnum() or c in (" ", "_", "-")).strip()[:40]
+                        saved_file_name = f"{safe_stem}.png"
+                        save_path = TARGETS_DIR / saved_file_name
+                        if not save_path.exists():
+                            try:
+                                from PIL import Image, ImageDraw
+                                img = Image.new("RGB", (600, 400), color=(30, 41, 59))
+                                d = ImageDraw.Draw(img)
+                                d.text((30, 180), final_name[:50], fill=(248, 250, 252))
+                                img.save(save_path)
+                            except Exception:
+                                pass
+
+                    clean_fn = clean_product_name(final_name)
+                    if saved_file_name:
+                        tmap = get_target_map()
+                        tmap[saved_file_name] = clean_fn
+                        save_target_map(tmap)
+                    
+                    if p_desc.strip():
+                        save_target_description(clean_fn, p_desc.strip(), also_alias=saved_file_name)
+                    
+                    st.cache_data.clear()
+                    st.session_state["dash_selected_product_sel"] = clean_fn
+                    
+                    if scan_clicked and save_path.exists():
+                        start_agent(save_path)
+                        st.toast(f"'{clean_fn}' kaydedildi ve tarama başlatıldı!", icon="🚀")
+                    else:
+                        st.toast(f"'{clean_fn}' başarıyla kaydedildi!", icon="💾")
+                    st.rerun()
 
     # 2.1 GEÇMİŞ ARAMALARI VE ÜRÜN ARŞİVLERİNİ YÖNETME & TEMİZLEME MASASI
     with st.expander("🧹 Kayıtlı Ürün Arşivlerini Yönet & Eski Aramaları Temizle", expanded=False):
@@ -790,6 +898,32 @@ with tab_dashboard:
                     st.rerun()
 
     st.markdown("---")
+
+    # 2.2 ÜRÜN AÇIKLAMASI & TEKNİK NOTLAR
+    if selected_product != "Tüm Ürünler":
+        current_desc = get_target_description(selected_product)
+        with st.container(border=True):
+            col_d_text, col_d_action = st.columns([4.2, 1.2])
+            with col_d_text:
+                if current_desc:
+                    st.markdown("📝 **Ürün Açıklaması & Teknik Notlar:**")
+                    st.info(f"💡 *{current_desc}*")
+                else:
+                    st.markdown("📝 **Ürün Açıklaması & Notlar:** _Henüz açıklama eklenmedi. Açıklama eklemek robotun daha nokta atışı teknik kaynaklar bulmasını sağlar._")
+            with col_d_action:
+                st.write("")
+                with st.popover("✏️ Notu Düzenle", use_container_width=True):
+                    st.markdown(f"**'{selected_product}' Açıklamasını Düzenle:**")
+                    new_val = st.text_area(
+                        "Açıklama / Teknik Notlar:",
+                        value=current_desc,
+                        height=120,
+                        key=f"edit_desc_input_{abs(hash(str(selected_product))) % 100000}"
+                    )
+                    if st.button("💾 Açıklamayı Güncelle", type="primary", use_container_width=True, key=f"edit_desc_btn_{abs(hash(str(selected_product))) % 100000}"):
+                        save_target_description(selected_product, new_val)
+                        st.toast("Ürün açıklaması güncellendi!", icon="✅")
+                        st.rerun()
 
     # 3. İSTATİSTİKLER (SADECE SEÇİLEN ÜRÜNE AİT)
     st.subheader(f"📊 {selected_product} İstatistikleri")

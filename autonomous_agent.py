@@ -38,10 +38,35 @@ TARGETS_DIR = BASE_DIR / "targets"
 CATALOGS_DIR = BASE_DIR / "catalogs"
 DISCOVERIES_MD = BASE_DIR / "DISCOVERIES.md"
 KNOWLEDGE_BASE_JSON = DATA_DIR / "knowledge_base.json"
+TARGET_DESCRIPTIONS_JSON = DATA_DIR / "target_descriptions.json"
 
 DATA_DIR.mkdir(exist_ok=True)
 TARGETS_DIR.mkdir(exist_ok=True)
 CATALOGS_DIR.mkdir(exist_ok=True)
+
+def get_target_descriptions() -> dict:
+    if TARGET_DESCRIPTIONS_JSON.exists():
+        try:
+            return json.loads(TARGET_DESCRIPTIONS_JSON.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {}
+
+def get_target_description(target_name: str, file_name: str = "") -> str:
+    descs = get_target_descriptions()
+    if not descs:
+        return ""
+    if target_name and target_name in descs and descs[target_name]:
+        return descs[target_name]
+    clean_p = clean_product_name(target_name)
+    if clean_p and clean_p in descs and descs[clean_p]:
+        return descs[clean_p]
+    if file_name and file_name in descs and descs[file_name]:
+        return descs[file_name]
+    for k, v in descs.items():
+        if k and v and (k in clean_p or clean_p in k):
+            return v
+    return ""
 
 # ──────────────────────────────────────────────
 # Yardımcılar: API Key & Veritabanı
@@ -118,10 +143,17 @@ def generate_catalog_markdown(target_title: str, discoveries: list[dict]) -> str
         f"**Hedef Ürün:** `{target_title}`",
         f"**Doğrulanmış Kaynak Sayısı:** {total_count} adet",
         f"**Son Güncelleme:** {time.strftime('%Y-%m-%d %H:%M:%S')}",
+    ]
+
+    p_desc = get_target_description(target_title)
+    if p_desc:
+        lines.append(f"> 💡 **Ürün Tanımı / Notlar:** {p_desc}")
+
+    lines.extend([
         "",
         "---",
         ""
-    ]
+    ])
 
     if not discoveries:
         lines.append("_Bu ürün için henüz doğrulanmış keşif bulunamadı._\n")
@@ -266,16 +298,18 @@ def clean_search_target(target_name: str) -> str:
         return "Pipe and tube expander stretcher tool mechanism / Boru şişirme genişletme aparatı"
     return cleaned or target_name
 
-def generate_adaptive_queries(client: genai.Client, target_name: str, round_num: int, recent_titles: list[str]) -> list[str]:
+def generate_adaptive_queries(client: genai.Client, target_name: str, round_num: int, recent_titles: list[str], target_desc: str = "") -> list[str]:
     focus_title, focus_keywords = FOCUS_ANGLES[round_num % len(FOCUS_ANGLES)]
     search_base = clean_search_target(target_name)
     eng_part = search_base.split("/")[0].strip()
 
-    prompt = f"""Target mechanism: "{search_base}".
+    desc_section = f'\nUser Technical Description & Requirements:\n"{target_desc}"\n' if target_desc else ''
+    prompt = f"""Target mechanism: "{search_base}".{desc_section}
 Current Research Round: #{round_num} (Focus: {focus_title}).
 Recent findings we already have: {recent_titles[-4:] if recent_titles else 'None yet'}.
 
 Generate 3 NEW, highly specific, diverse search queries in English targeting this round's focus: "{focus_keywords}".
+If user description/requirements are provided above, leverage specific mechanical parts, dimensions, and manufacturing methods described to make queries hyper-focused.
 Do NOT include fictional brand names like 'Mekanikya'. Use universal mechanical engineering terms.
 Ensure queries find real CAD blueprints, DIY build videos, or technical diagrams on the web.
 Return ONLY valid JSON:
@@ -413,19 +447,20 @@ def analyze_image_visually(ref_bytes: bytes, cand_bytes: bytes) -> dict:
 # ──────────────────────────────────────────────
 # Gemini Vision + Piksel Tabanlı Görsel Doğrulama
 # ──────────────────────────────────────────────
-def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: bytes, target_name: str, cand_meta: dict = None) -> dict:
+def verify_candidate(client: genai.Client, ref_bytes: bytes, candidate_bytes: bytes, target_name: str, cand_meta: dict = None, target_desc: str = "") -> dict:
     # Önce aday görselin bozuk veya ikon olmadığını piksel düzeyinde denetle
     vis = analyze_image_visually(ref_bytes, candidate_bytes)
     if not vis.get("valid"):
         return {"verified": False, "score": 0, "reason": vis.get("note", "Geçersiz görsel")}
 
     search_base = clean_search_target(target_name)
+    desc_note = f"\nUser Requirements / Notes: \"{target_desc}\"" if target_desc else ""
     prompt = f"""You are a mechanical/product verification inspector.
-Compare these two images or evaluate Candidate for Target: "{search_base}".
+Compare these two images or evaluate Candidate for Target: "{search_base}".{desc_note}
 - Image 1 is the REFERENCE product/mechanism.
 - Image 2 is a CANDIDATE found on the web (could be a CAD model, technical drawing, finished build, or irrelevant junk).
 
-Does Image 2 represent the SAME mechanism, a related mechanical tool/part, a technical blueprint of it, or a working DIY variant?
+Does Image 2 represent the SAME mechanism, a related mechanical tool/part, a technical blueprint of it, or a working DIY variant (matching the user requirements if stated)?
 
 Return ONLY valid JSON:
 {{
@@ -535,7 +570,12 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
     except Exception:
         pass
 
-    print(f"🎯 Hedef Tanımlandı: {target_name}\n")
+    target_desc = get_target_description(target_name, target_img_path.name)
+    print(f"🎯 Hedef Tanımlandı: {target_name}")
+    if target_desc:
+        print(f"📝 Kullanıcı Açıklaması & Notları: {target_desc}\n")
+    else:
+        print("")
 
     kb = load_knowledge_base()
     known_urls = {item.get("page_url") for item in kb.get("discoveries", [])}
@@ -548,7 +588,7 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
         print(f"\n--- [TUR #{round_num}] Odak: {focus_title} ---")
 
         # Yeni sorgular üret
-        queries = generate_adaptive_queries(client, target_name, round_num, past_titles)
+        queries = generate_adaptive_queries(client, target_name, round_num, past_titles, target_desc=target_desc)
         print(f"🔍 Yeni Arama Sorguları: {queries}")
 
         candidates = harvest_candidates(queries, max_per_term=5)
@@ -576,7 +616,7 @@ def run_continuous_discovery(client: genai.Client, target_img_path: Path, max_ro
                 continue
 
             # Gemini Vision + Akıllı Mühendislik Hakemliği
-            verdict = verify_candidate(client, ref_bytes, cand_bytes, target_name, cand_meta=cand)
+            verdict = verify_candidate(client, ref_bytes, cand_bytes, target_name, cand_meta=cand, target_desc=target_desc)
             score = verdict.get("score", 0)
             verified = verdict.get("verified", False)
 
