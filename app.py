@@ -129,6 +129,13 @@ def _load_api_key() -> str:
 def _save_api_key(key: str) -> None:
     _ENV_FILE.write_text(f'GEMINI_API_KEY={key}\n', encoding="utf-8")
 
+def _get_subprocess_env() -> dict:
+    env = os.environ.copy()
+    key = _load_api_key()
+    if key:
+        env["GEMINI_API_KEY"] = key
+    return env
+
 # ──────────────────────────────────────────────
 # Otonom Ajan Süreç Kontrolü (Başlat / Durdur)
 # ──────────────────────────────────────────────
@@ -431,7 +438,7 @@ def start_agent(target_file: Path | str = None):
         target_name = tmap.get(file_name, tf_path.stem)
 
     log_fp = open(AGENT_LOG_FILE, "a", encoding="utf-8")
-    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp)
+    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp, env=_get_subprocess_env())
     PID_FILE.write_text(str(proc.pid))
     CURRENT_TARGET_JSON.write_text(json.dumps({
         "target_file": file_name,
@@ -486,7 +493,7 @@ def start_regional_agent(region: str = "Tümü", continuous: bool = True):
     else:
         cmd.extend(["--rounds", "1"])
     log_fp = open(REGIONAL_LOG_FILE, "a", encoding="utf-8")
-    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp)
+    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp, env=_get_subprocess_env())
     REGIONAL_PID_FILE.write_text(str(proc.pid))
 
 def stop_regional_agent():
@@ -541,7 +548,7 @@ def start_sellable_agent(category: str = "all"):
         time.sleep(1)
     cmd = [sys.executable, "-u", "sellable_machines_agent.py", "--category", category, "--continuous"]
     log_fp = open(SELLABLE_LOG_FILE, "a", encoding="utf-8")
-    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp)
+    proc = subprocess.Popen(cmd, stdout=log_fp, stderr=log_fp, env=_get_subprocess_env())
     SELLABLE_PID_FILE.write_text(str(proc.pid))
 
 def stop_sellable_agent():
@@ -1411,7 +1418,8 @@ with tab_regional:
                             res = subprocess.run(
                                 [sys.executable, "-u", "regional_agent.py", "--region", clean_focus, "--rounds", "1"],
                                 stdout=log_fp,
-                                stderr=log_fp
+                                stderr=log_fp,
+                                env=_get_subprocess_env()
                             )
                         st.toast("1 Tur Makine Avı Tamamlandı! Yeni makineler eklendi.", icon="✅")
                         st.rerun()
