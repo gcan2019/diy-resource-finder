@@ -5719,6 +5719,215 @@
       "variant_type": "exact_match",
       "reason": "Görüntü 2, referans verilen delikli 3D kaynak ve fikstür masası sistemini ve uyumlu modüler aksesuarlarını tam olarak doğrulamaktadır.",
       "discovered_at": "2026-10-16 12:12:39"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Plans & DXF Plasma Cut Files DIY Kit - Etsy",
+      "page_url": "https://www.etsy.com/listing/1338070236/welding-cart-plans-dxf-plasma-cut-files",
+      "candidate_image_url": "https://i.etsystatic.com/38581335/r/il/267489/4585793282/il_fullxfull.4585793282_njsx.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, endüstriyel tüp taşıma gereksinimlerini karşılayan, kaynaklı çelik yapılı bir gaz tüpü taşıma arabasının teknik planlarını ve CAD modelini temsil etmektedir.",
+      "discovered_at": "2026-10-16 14:24:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Cylinder Cart / Dolly 3D Model $10 - .3ds .c4d .fbx .obj - Free3D",
+      "page_url": "https://free3d.com/3d-model/dual-cylinder-cart-dolly-3208.html",
+      "candidate_image_url": "https://preview.free3d.com/img/2015/01/2272844010957571112/zeyjjw8c.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, üzerinde gaz tüpleri bulunan farklı bir şasi tasarımına sahip olsa da, aynı işlevi gören endüstriyel tüp taşıma arabasını temsil etmektedir.",
+      "discovered_at": "2026-10-16 14:25:09"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D Cylinder Trolley - TurboSquid 2331246",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-cylinder-trolley-2331246",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/62/4uWfVy/jH/wireframe_001/png/1735384193/1920x1080/fit_q87/1a9f48be0970dbc0e14e7d4f85e96cf29b2360fe/wireframe_001.jpg",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşımak için kullanılan endüstriyel el arabasının 3 boyutlu CAD modelini göstermektedir ve temel taşıma mekanizmasını yansıtmaktadır.",
+      "discovered_at": "2026-10-16 14:25:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen Acetylene Cart | PDF | Forklift | Equipment",
+      "page_url": "https://www.scribd.com/document/538049251/Oxygen-acetylene-cart",
+      "candidate_image_url": "https://imgv2-2-f.scribdassets.com/img/document/538049251/original/17faf34de3/1711441935?v=1",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, endüstriyel oksijen ve asetilen tüplerini taşımak için tasarlanmış farklı bir gaz tüpü arabası modeli ve teknik özellik tablosunu içermektedir.",
+      "discovered_at": "2026-10-16 14:26:27"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen acetylene Tank Cart, Commercial & Industrial, Construction Tools ...",
+      "page_url": "https://www.carousell.ph/p/oxygen-acetylene-tank-cart-1272486770/",
+      "candidate_image_url": "https://media.karousell.com/media/photos/products/2023/12/19/oxygen_acetylene_tank_cart_1702957702_ac1280a0_progressive.jpg",
+      "score": 90,
+      "category": "exact_match",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, endüstriyel standartlara uygun, oksijen ve asetilen tüplerini taşımak için tasarlanmış fonksiyonel bir gaz tüpü arabasıdır.",
+      "discovered_at": "2026-10-16 14:26:52"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "CNC Plasma-cut DXF File | Oxy-acetylene Dolly | Digital Download - Etsy",
+      "page_url": "https://www.etsy.com/listing/4476769733/cnc-plasma-cut-dxf-file-oxy-acetylene",
+      "candidate_image_url": "https://i.etsystatic.com/64898932/r/il/994cee/7836686200/il_794xN.7836686200_5pbn.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir konfigürasyona sahip eşdeğer bir tüp arabası CAD modelidir.",
+      "discovered_at": "2026-10-16 14:27:39"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen Acetylene Cylinder Trolley | 200kg | BiGDUG",
+      "page_url": "https://www.bigdug.co.uk/oxygen-acetylene-cylinder-trolley/v/BSOACTRW_1/",
+      "candidate_image_url": "https://images.kkeu.de/is/image/BEG/Handling_Access/Handling/Drum_Handling/Oxygen_Acetylene_Cylinder_Trolley_pdplarge-mrd--bd-BSOACTRW_web.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüp taşıma kapasitesine sahip, üç tekerlekli ve emniyet zincirli yapısıyla hedef gaz tüpü arabası gereksinimlerini karşılayan işlevsel bir varyasyondur.",
+      "discovered_at": "2026-10-16 14:28:59"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Build your own Magliner Truck Select from a list of standard parts ...",
+      "page_url": "https://www.handtrucksdirect.co.uk/build-your-own-magliner-truck-select-from-a-list-of-standard-parts-prices-start-from-16-p.asp",
+      "candidate_image_url": "https://files.ekmcdn.com/lomartltd/images/build-your-own-magliner-truck-select-from-a-list-of-standard-parts-prices-start-from-16-p.jpg?v=4FE27A28-B12F-4B85-8F6B-87620D00014F",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, Magliner marka gaz tüpü taşıma arabasının montaj şemasını (patlatılmış görünüm) göstermektedir ve kullanıcı gereksinimlerini teknik düzeyde karşılamaktadır.",
+      "discovered_at": "2026-10-16 14:30:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Justrite Double Gas-Cylinder Hand Trucks 2 Cylinders | Buy Online ...",
+      "page_url": "https://www.fishersci.com/shop/products/double-gas-cylinder-hand-trucks/19085761",
+      "candidate_image_url": "https://assets.fishersci.com/TFS-Assets/CCG/product-images/HighRes_JPG_300-35032.jpg-650.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, çift tüp kapasiteli ve benzer tekerlek/tutamak düzenine sahip eşdeğer bir gaz tüpü taşıma arabasıdır.",
+      "discovered_at": "2026-10-16 14:31:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Hand Truck - Little Giant",
+      "page_url": "https://www.littlegiant-usa.com/product/gas-cylinder-hand-truck/",
+      "candidate_image_url": "https://www.littlegiant-usa.com/wp-content/uploads/2022/08/TWF-42-10-scaled.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun zincirli emniyet kilitli ve iki tekerlekli çelik gaz tüpü taşıma arabası gereksinimini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-10-16 14:31:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner Aluminium Hand Truck 115AAM1010V",
+      "page_url": "https://www.doverco.ca/product/D01_MatHand/D01_MatHand_Mglnr/D401929",
+      "candidate_image_url": "https://s3.amazonaws.com/doverco/product/2119_MD-D401929.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir markaya ait (Magliner) endüstriyel tip tüp arabası olup temel işlev ve gereksinimleri karşılamaktadır.",
+      "discovered_at": "2026-10-16 14:31:34"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxyacetylene Welding Cart with Pressure Gauges and Hoses",
+      "page_url": "https://www.pinterest.com/pin/oxyacetylene-welding-cart-with-pressure-gauges-and-hoses--486740672237082519/",
+      "candidate_image_url": "https://i.pinimg.com/736x/2c/01/6c/2c016c64299e6caaba70cbacab7d3b65.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, oksijen ve asetilen tüplerini taşımak için kullanılan çift tüplü bir gaz tüpü arabasını (bottle cart) göstermektedir.",
+      "discovered_at": "2026-10-16 14:32:06"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Gas Cylinder Dimensions – DKCICX",
+      "page_url": "https://services.adventistdaily.com/welding-gas-cylinder-dimensions/",
+      "candidate_image_url": "https://pwent.eu/wp-content/uploads/2023/02/DIN-S-gas-cylinder-protection-cap-dimensions.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 14:43:23"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/gas-cylinder-28",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/87ac949df8b88084a1600284562e2196/large.JPG",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (960x446px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 14:43:58"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "12.5kg/15kg LPG Gas Cylinder Manufacturing Equipments Body ...",
+      "page_url": "https://kelly-huang71.en.made-in-china.com/product/UFDtpKrPVYAR/China-12-5kg-15kg-LPG-Gas-Cylinder-Manufacturing-Equipments-Body-Manufacturing-Line-Handle-Guard-Enclosure-Welding-Machine.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00MqrWHJlIAhUn/12-5kg-15kg-LPG-Gas-Cylinder-Manufacturing-Equipments-Body-Manufacturing-Line-Handle-Guard-Enclosure-Welding-Machine.webp",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1000x1000px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 14:47:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/gas-cylinder-29",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/da544f5ac476e711988fdff5a8ad3feb/large.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 14:48:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Strong Hand Tools GCH160 Adjustable Gas Cylinder Hook",
+      "page_url": "https://www.easternweldingsupply.com/products/strong-hand-tools-gch160-adjustable-gas-cylinder-hook",
+      "candidate_image_url": "https://www.easternweldingsupply.com/cdn/shop/products/GCH160-lock.jpg?v=1695412516&width=1024",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1024x1024px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 14:51:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Clamp Solution - L. Ronning",
+      "page_url": "https://www.lronning.com/products/ronning-clamping-device-self-centering",
+      "candidate_image_url": "https://www.lronning.com/cdn/shop/products/M644_KL_dubbel_1_rensad_2_frilagd_580x.jpg?v=1628065665",
+      "score": 91,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 14:51:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "HVAC Blue Hand Truck - Valley Craft",
+      "page_url": "https://valleycraft.com/product/hvac-hand-truck-blue/",
+      "candidate_image_url": "https://valleycraft.com/wp-content/uploads/2023/10/F80233U5_11.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, birinci görseldeki gaz silindiri taşıma arabasının teknik çizim ve ölçülendirme şemasıdır.",
+      "discovered_at": "2026-10-16 14:55:01"
     }
   ]
 }
