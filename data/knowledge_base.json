@@ -4840,6 +4840,72 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, üzerinde tüpler bulunan benzer bir tüp arabası mekanizmasını göstermektedir ancak tasarım detayları ve tekerlek yapıları farklıdır.",
       "discovered_at": "2026-10-16 00:26:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen/Acetylene Cylinder Trucks | Seton",
+      "page_url": "https://www.seton.co.uk/oxygen-acetylene-cylinder-trucks-1.html",
+      "candidate_image_url": "https://cdn-01-artemis.media-brady.com/Assets/ImageRoot/DMEU_WebPipeline/0~/01/DMEU_Y501890~01_std.lang.all.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referans ürünle aynı işlevi gören iki tüplü bir gaz silindiri arabasını göstermektedir ancak yapısı ve renkleri farklıdır.",
+      "discovered_at": "2026-10-16 02:23:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen And Acetylene Tanks For Cutting Metal Vector Image, 58% OFF",
+      "page_url": "https://www.oceanproperty.co.th/en/News/?q=oxygen-and-acetylene-tanks-for-cutting-metal-vector-image-ee-NPrExGuN",
+      "candidate_image_url": "https://o.quizlet.com/pP-LycWX5xGl6X2X29FWbg_b.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, kaynak ekipmanı kurulumu şeması içinde bir tüp arabası (gas cylinder truck) teknik çizimini ve bileşenlerini göstermektedir.",
+      "discovered_at": "2026-10-16 02:23:31"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Hand Trucks | Secure & Efficient Cylinder Transport ...",
+      "page_url": "https://www.denios-us.com/shop/handling-equipment-and-accessories/gas-cylinder-handling/gas-cylinder-hand-trucks/",
+      "candidate_image_url": "https://a.storyblok.com/f/80031/1052x1294/62507f2ae8/gas-bottle-trolley-denios.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görseldeki tüp arabası, referans ürünle aynı tasarıma sahip olup, pratik kullanımda gaz silindirleriyle birlikte gösterilmektedir.",
+      "discovered_at": "2026-10-16 02:23:34"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Cart Welding at Madeline Thomas blog",
+      "page_url": "https://storage.googleapis.com/dfiljskoovczoe/gas-cylinder-cart-welding.html",
+      "candidate_image_url": "https://i.pinimg.com/originals/34/ef/3d/34ef3dc1bff1ae587082cdcd54bfa8d9.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabası mekanizmasını ve yapısını kullanan, kaynak makinesiyle entegre edilmiş işlevsel bir tüp taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-10-16 02:23:37"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "(S2) Welding Cylinder Hand Truck w/ Tanks - Oahu Auctions",
+      "page_url": "https://bid.oahuauctions.com/Welding-Cylinder-Hand-Truck-w-Tanks_i49435007",
+      "candidate_image_url": "https://dygtyjqp7pi0m.cloudfront.net/i/61698/49435007_1.jpg?v=8DB86440428AD90",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de tüp taşımak için tasarlanmış el arabalarını göstermekle birlikte, aday görsel daha eski ve farklı tekerlek tasarımına sahip pratik bir versiyondur.",
+      "discovered_at": "2026-10-16 02:23:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas cylinder trolleys for Safe transportation",
+      "page_url": "https://www.lronning.com/collections/gas-cylinder-trolley",
+      "candidate_image_url": "https://www.lronning.com/cdn/shop/files/Pneumatic_clamp_trolley_for_cylinders_2_799x824.jpg?v=1740677982",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabası tasarımıyla aynı işlevsel kategoriye ait, üzerinde tüplerin taşındığı çalışan bir tüp arabası varyasyonudur.",
+      "discovered_at": "2026-10-16 02:24:25"
     }
   ]
 }
