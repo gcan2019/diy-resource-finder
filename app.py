@@ -101,9 +101,19 @@ def get_recent_log_lines(log_path: Path, max_lines: int = 25) -> str:
 # API Key Yönetimi
 # ──────────────────────────────────────────────
 def _load_api_key() -> str:
+    # 1. Streamlit Cloud Secrets
+    try:
+        if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
+            sec_key = str(st.secrets["GEMINI_API_KEY"]).strip()
+            if sec_key:
+                return sec_key
+    except Exception:
+        pass
+    # 2. Ortam Değişkeni
     key = os.environ.get("GEMINI_API_KEY", "")
     if key:
         return key
+    # 3. Yerel .env Dosyası
     if _ENV_FILE.exists():
         try:
             for line in _ENV_FILE.read_text(encoding="utf-8").splitlines():
