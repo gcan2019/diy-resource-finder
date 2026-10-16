@@ -5994,6 +5994,39 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış benzer bir tüp arabasının CAD modelidir.",
       "discovered_at": "2026-10-16 16:43:53"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🛒 HandTruck・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/tool/handtruck",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/40846037/illustration-file/555ff75a-3e63-44b4-a02e-4626e806c46f/image_5539.png",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü 2, referans üründeki 4 tekerlekli destek yapısını, ergonomik tutamağı ve tüp sabitleme özelliklerini içeren profesyonel bir CAD modelidir.",
+      "discovered_at": "2026-10-16 18:24:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Argonlifter to lift heavy gas cylinders onto your welding machine - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=dXnCWSI3hXs",
+      "candidate_image_url": "https://i.ytimg.com/vi/dXnCWSI3hXs/maxresdefault.jpg",
+      "score": 95,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-16 18:25:51"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Handling Kit – Strong Hand Tools",
+      "page_url": "https://www.stronghandtools.com/products/gas-cylinder-handling-kit",
+      "candidate_image_url": "http://www.stronghandtools.com/cdn/shop/files/May-Bundle-1.png?v=1776273373",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini güvenle taşımak için tasarlanmış farklı renk ve aparatlara sahip alternatif bir tüp arabası modelidir.",
+      "discovered_at": "2026-10-16 18:27:43"
     }
   ]
 }
