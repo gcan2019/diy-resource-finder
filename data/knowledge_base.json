@@ -4785,6 +4785,61 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, referans ürün gibi bir tüp arabası olmasına rağmen farklı bir tasarım ve konstrüksiyona sahip el yapımı bir atölye ürünüdür.",
       "discovered_at": "2026-10-15 22:24:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "collapsible gas cylinder hand trucks 3D Models | Page 1 | STLFinder",
+      "page_url": "https://www.stlfinder.com/3dmodels/collapsible-gas-cylinder-hand-trucks/",
+      "candidate_image_url": "https://bamax.es/php/files/uploads/462/gas-cylinder-hand-truck-pbr-game-ready-low-poly-3d-model-HhJPp7zS_200.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans tüp arabasıyla aynı amaca hizmet eden farklı bir 3D CAD/oyun modeli varyasyonudur.",
+      "discovered_at": "2026-10-16 00:25:15"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding gas cylinder cart | Welding projects, Welding cart, Welding gas",
+      "page_url": "https://www.pinterest.com/pin/welding-gas-cylinder-cart--680465824966561535/",
+      "candidate_image_url": "https://i.pinimg.com/originals/e7/51/16/e7511695183a58fb4db46a41d6b7a385.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz silindirini taşımak için kullanılan tüp arabasının kullanımda olan farklı bir renk ve üretici varyasyonudur.",
+      "discovered_at": "2026-10-16 00:25:45"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Gas Cylinder Hand Truck w/Firewall, 20\" Steel Wheels",
+      "page_url": "https://www.thecarycompany.com/double-gas-cylinder-hand-truck-with-firewall-20-inch-steel-wheels",
+      "candidate_image_url": "https://www.thecarycompany.com/media/catalog/product/d/o/double-gas-cylinder-hand-truck_firewall_20-inch-steel-wheels_37bf82_2.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de gaz silindirlerini taşımak için tasarlanmış benzer işlevli tüp arabası mekanizmalarını göstermektedir.",
+      "discovered_at": "2026-10-16 00:25:52"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Gas Cylinder Hand Truck w/Firewall, 16: Pneumatic Wheels, Rear Casters",
+      "page_url": "https://www.thecarycompany.com/double-gas-cylinder-hand-truck-with-firewall-16-inch-pneumatic-wheels-rear-casters",
+      "candidate_image_url": "https://www.thecarycompany.com/media/catalog/product/d/o/double-gas-cylinder-hand-truck_firewall_16-inch-pneumatic-wheels_rear-casters_37bf81_2.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referans tüp arabasıyla aynı fonksiyona sahip ancak çift tüp taşıma kapasitesi ve farklı gövde yapısı içeren alternatif bir üründür.",
+      "discovered_at": "2026-10-16 00:25:55"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "TRUCK HD CYL 1000LB 2 PNEU 47IN 34IN STL",
+      "page_url": "https://www.emergentsafety.com/justrite-35036-cylinder-hand-truck-1000-lb-load-2-cylinder",
+      "candidate_image_url": "https://us.evocdn.io/dealer/1230/catalog/product/images/Justrite_35036_1.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, üzerinde tüpler bulunan benzer bir tüp arabası mekanizmasını göstermektedir ancak tasarım detayları ve tekerlek yapıları farklıdır.",
+      "discovered_at": "2026-10-16 00:26:00"
     }
   ]
 }
