@@ -6852,6 +6852,72 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-17 20:17:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Bottle gas trolley 3D - TurboSquid 1524501",
+      "page_url": "https://www.turbosquid.com/3d-models/bottle-gas-trolley-3d-1524501",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/46/6jxJai/HxqMz25s/botlle_gas_1_1/jpg/1426000075/1920x1080/fit_q87/19f103e69c9c00fa15ca663fa15ad9407fa33c56/botlle_gas_1_1.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, istenen teknik gereksinimleri karşılayan endüstriyel tip gaz tüpü taşıma arabasının 3D modellemesini ve tasarım geometrisini doğru bir şekilde yansıtmaktadır.",
+      "discovered_at": "2026-10-17 22:14:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Safely handle heavy Gas Cylinders with the Strong Hand Tools® Cylinder ...",
+      "page_url": "https://www.youtube.com/watch?v=w9eeBaNwzT4",
+      "candidate_image_url": "https://i.ytimg.com/vi/w9eeBaNwzT4/maxresdefault.jpg",
+      "score": 90,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüplerini taşımak için kullanılan üç tekerlekli tüp arabasını iş başında gösteren işlevsel bir varyasyondur.",
+      "discovered_at": "2026-10-17 22:14:41"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lifting Equipment Australia | East West Engineering. East West TGC2 Gas ...",
+      "page_url": "https://www.lifting-equipment.com.au/dual-gas-cylinder-welding-trolley-east-west-tgc2",
+      "candidate_image_url": "https://www.lifting-equipment.com.au/images/thumbs/0014836_east-west-tgc2-dual-gas-cylinder-welding-trolley_550.jpeg",
+      "score": 92,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 22:15:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Trucks | Hand Truck Dollies - Valley Craft",
+      "page_url": "https://valleycraft.com/hand-trucks/",
+      "candidate_image_url": "https://valleycraft.com/wp-content/uploads/2023/06/Cylinder-Hand-Trucks-product-photo.jpg",
+      "score": 94,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel gaz tüplerini emniyet zinciri ve kayışıyla güvenle taşımak üzere tasarlanmış standart sanayi tipi gaz tüpü taşıma arabalarını göstermektedir.",
+      "discovered_at": "2026-10-17 22:17:37"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lifting Equipment Perth - Stock ready in Perth | Gas Cylinder Storage ...",
+      "page_url": "https://www.liftingequipmentperth.com.au/cage-for-transporting-gas-cylinders-with-ramp-flat-packed-perth",
+      "candidate_image_url": "https://www.liftingequipmentperth.com.au/images/thumbs/0009260_cage-for-transporting-gas-cylinders-with-ramp-flat-packed-perth.jpeg",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 22:24:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "GAS CYLINDER CAGE (CRANE) #301350 | LIFT and SHIFT > CAGES & SKIPS ...",
+      "page_url": "https://www.hireexpress.com.au/product.view&pid=689",
+      "candidate_image_url": "https://www.hireexpress.com.au/product_pic/lpictures/301350.jpg",
+      "score": 92,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 22:25:19"
     }
   ]
 }
