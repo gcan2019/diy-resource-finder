@@ -6214,6 +6214,28 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, sadece tüp taşımakla kalmayıp kaynak ekipmanlarını da organize eden, kullanıcı gereksinimlerini karşılayan fonksiyonel bir atölye arabası varyasyonudur.",
       "discovered_at": "2026-10-17 02:22:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Project part 5 - Making Brackets for the Gas Cylinders ...",
+      "page_url": "https://www.youtube.com/watch?v=NtHg-45pZJw",
+      "candidate_image_url": "https://i.ytimg.com/vi/NtHg-45pZJw/maxresdefault.jpg",
+      "score": 93,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 04:27:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Wearing-resisting Usage Double Gas Cylinder Hand Trolley- Wuxi tongyang ...",
+      "page_url": "https://www.yinglift.com/product/HandT/46.html",
+      "candidate_image_url": "https://www.yinglift.com/upload/product/202202/09/2022020908582252543.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, çoklu tüp taşıma kapasitesine ve katlanabilir destek tekerleklerine sahip eşdeğer bir tüp arabası mekanizmasını göstermektedir.",
+      "discovered_at": "2026-10-17 04:32:26"
     }
   ]
 }
