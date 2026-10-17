@@ -6687,6 +6687,17 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, endüstriyel standartlara uygun, gaz tüplerini emniyetli şekilde taşımak için tasarlanmış profesyonel bir tüp arabası sistemi olup kullanıcı gereksinimlerini tam olarak karşılamaktadır.",
       "discovered_at": "2026-10-17 08:54:04"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Medical Cylinder Truck with Retractable Casters - 1 Gas Cylinder ...",
+      "page_url": "https://www.milwaukeehandtrucks.com/product/medical-cylinder-truck-with-retractable-casters-1-gas-cylinder/",
+      "candidate_image_url": "https://www.milwaukeehandtrucks.com/wp-content/uploads/2022/05/40767-Medical-Cylinder-Truck-with-Retractable-Casters-1-Gas-Cylinder.jpg",
+      "score": 93,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 12:28:20"
     }
   ]
 }
