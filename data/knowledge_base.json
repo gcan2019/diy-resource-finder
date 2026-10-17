@@ -6742,6 +6742,83 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-17 14:23:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🖼️ 4mm Scale Oxy-Acetylene Bottles and Frame・ STL File for ・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/game/4mm-scale-oxy-acetylene-bottles-and-frame",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/16068436/illustration-file/54b056f6-1927-4ce8-8b80-8134740b15f3/OxyAcetyleneBottles.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, emniyet çerçeveli ve tekerlekli, kullanıcı gereksinimlerini karşılayan bir 3D CAD modelidir.",
+      "discovered_at": "2026-10-17 16:16:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "YESWELDER Welding Cart HJC-02 Instruction Manual",
+      "page_url": "https://manuals.plus/asin/B0C6PPTP7W",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/717bU1DF7SL._AC_SL1500_.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, gaz tüpü taşımak için tasarlanmış farklı bir konfigürasyona sahip endüstriyel tüp taşıma arabasını (kaynak arabası varyasyonu) göstermektedir.",
+      "discovered_at": "2026-10-17 16:16:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Amazon.com: Holdwell S Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart with 440LBS Weight ...",
+      "page_url": "https://www.amazon.com/Holdwell-Cylinder-Acetylene-12-5-Inch-Cylinders/dp/B0GK8N5YFT",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/71q8BpFhcIL._AC_SL1500_.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, benzer zincirli emniyet kilidine ve çelik gövdeye sahip eşdeğer bir tüp arabası modelidir.",
+      "discovered_at": "2026-10-17 16:16:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxy Acetylene Bottles Trolley : Oxy Acetylene Welding Trolley : Oxy Acetylene Cylinder Trolley ...",
+      "page_url": "https://www.handlinggear.com.au/welding-trolley-for-oxy-acetylene-bottles",
+      "candidate_image_url": "https://www.handlinggear.com.au/images/thumbs/0001948_welding-trolley-for-oxy-acetylene-bottles_550.jpeg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, vinçle kaldırma halkasına ve kapalı koruma gövdesine sahip ağır hizmet tipi çiftli gaz tüpü taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-10-17 16:17:42"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "High Quality Oxygen Nitrogen Argon Acetylene Gas Cylinder Trolley Cylinder Cart - Cylinder ...",
+      "page_url": "https://gas-equipment.en.made-in-china.com/product/xQfYRbcMYFkq/China-High-Quality-Oxygen-Nitrogen-Argon-Acetylene-Gas-Cylinder-Trolley-Cylinder-Cart.html",
+      "candidate_image_url": "https://image.made-in-china.com/202f0j00VCWcglPMHiot/High-Quality-Oxygen-Nitrogen-Argon-Acetylene-Gas-Cylinder-Trolley-Cylinder-Cart.webp",
+      "score": 92,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referans ürüne mekanik ve işlevsel olarak denk, arka destek tekerleklerine ve emniyet zincirine sahip 4 tekerlekli çelik tüp taşıma arabasının çalışan bir versiyonudur.",
+      "discovered_at": "2026-10-17 16:17:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "WELDING A GAS TANK & NEW \"BUDGET FRIENDLY\" MAG DRILL! C5500 DUMP TRUCK BUILD - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=C7Zt6h_jQ9o",
+      "candidate_image_url": "https://i.ytimg.com/vi/C7Zt6h_jQ9o/maxresdefault.jpg",
+      "score": 95,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 16:33:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lpg Gas Cylinder Diameter _ Design & Materials of Domestic LPG Cylinders – DKKAB",
+      "page_url": "https://huxw.councilhousescandal.co.uk/lpg-gas-cylinder-diameter-design-materials-of-domestic-lpg-cylinders/",
+      "candidate_image_url": "https://pwent.eu/wp-content/uploads/2023/02/DIN-S-gas-cylinder-protection-cap-dimensions.png",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 16:34:17"
     }
   ]
 }
