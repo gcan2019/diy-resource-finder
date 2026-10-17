@@ -6698,6 +6698,50 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-17 12:28:20"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D Double Oxygen Bottle Trolley Model - TurboSquid 2293466",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-double-oxygen-bottle-trolley-model-2293466",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/8c/n6YzbG/iY/composite0012/jpg/1729083954/1920x1080/fit_q87/591d3a255822fbe9ef28268c5af995460f41762d/composite0012.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, iki adet basınçlı gaz tüpünü güvenle taşımak üzere tasarlanmış ergonomik tutamaklı ve tekerlekli bir tüp taşıma arabasının 3D CAD modelidir.",
+      "discovered_at": "2026-10-17 14:17:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Professional-Grade Acetylene Oxygen Cylinder Hand Truck for Contractors ...",
+      "page_url": "https://lylishan.en.made-in-china.com/product/EmMUKedrnChV/China-Professional-Grade-Acetylene-Oxygen-Cylinder-Hand-Truck-for-Contractors.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00ZCNkjafsMYqA/Professional-Grade-Acetylene-Oxygen-Cylinder-Hand-Truck-for-Contractors.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüplerini güvenli bir şekilde taşımak için zincirleme emniyet sistemine ve çelik konstrüksiyona sahip, istenen fonksiyonel gereksinimleri karşılayan benzer bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-17 14:18:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Custom Oxy/Acetylene Welding Cart Build | Princess Auto",
+      "page_url": "https://www.princessauto.com/en/project-showcases/oxy-cart",
+      "candidate_image_url": "https://images.ctfassets.net/xtat9n09ed4q/4PEYMbf9B7xpzEbHY42qzZ/8bde4e7502329794217c9fef80913a77/img_2123.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kullanıcı gereksinimlerine uygun olarak kaynaklı çelik boru şasiye, tekerleklere ve emniyet kilidine sahip çift tüplü endüstriyel gaz arabasını eksiksiz olarak göstermektedir.",
+      "discovered_at": "2026-10-17 14:18:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxy Acetylene - Gas Cylinder Restraint System | Safety Products Australia",
+      "page_url": "https://www.safetyproductsaustralia.com.au/gas-cylinder-restraints/p/oxy-acetylene-kit-gas-cylinder-restraint-holder-bottlechock",
+      "candidate_image_url": "https://images.squarespace-cdn.com/content/v1/6305cbb4b75de70035e41f1c/1661324547741-V4528OLT38MW2P5ALXUS/BG2L_Contents_Web_Mysite.jpg?format=1500w",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 14:23:30"
     }
   ]
 }
