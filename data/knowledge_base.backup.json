@@ -6819,6 +6819,39 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-17 16:34:17"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Machine Cart - Free CAD Drawings",
+      "page_url": "https://freecadfloorplans.com/welding-machine-cart/",
+      "candidate_image_url": "https://freecadfloorplans.com/wp-content/uploads/2022/02/welding-machine-cart-min-1024x663.jpg?v=1644598262",
+      "score": 82,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, arkasında gaz tüpü taşıma bölmesi bulunan mobil bir kaynak makinesi arabasının iki boyutlu teknik çizim görünümlerini içermektedir.",
+      "discovered_at": "2026-10-17 20:15:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Forklift Gas Cylinder Holder for Spare Gas Bottles | Safety Products ...",
+      "page_url": "https://www.safetyproductsaustralia.com.au/news-reviews-blog/2019/7/29/forklift-gas-cylinder-holder-for-spare-gas-bottles-6mkyp",
+      "candidate_image_url": "https://images.squarespace-cdn.com/content/v1/6305cbb4b75de70035e41f1c/1661324491969-QI9BNORQ1J0FOVT2L9BM/Bottlechock_Gas_Cylinder_Restraint_System_BG2L",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 20:16:45"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Part No. 240251, Hydraulic Large Liquid Gas Cylinder Cart with Brake On ...",
+      "page_url": "https://catalog.wescomfg.com/item/hand-trucks/cylinder-lifts-carts-and-trucks/240251",
+      "candidate_image_url": "https://catalog.wescomfg.com/Asset/240250_diagram.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 20:17:21"
     }
   ]
 }
