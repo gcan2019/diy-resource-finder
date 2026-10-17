@@ -6192,6 +6192,28 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-17 00:43:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Handtruck에 가스통 3D 모델 $15 - .3ds .blend .dae .fbx .obj - Free3D",
+      "page_url": "https://free3d.com/ko/3d-model/gas-cylinder-on-handtruck-1299.html",
+      "candidate_image_url": "https://preview.free3d.com/img/2016/03/2272865859078718523/xhomwejr.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz silindirlerini taşımak için tasarlanmış standart bir tüp arabasının 3 boyutlu CAD modelini göstermektedir.",
+      "discovered_at": "2026-10-17 02:21:23"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Gas Cylinder Cart at Nelson Shields blog",
+      "page_url": "https://storage.googleapis.com/dpzrlgnnmqovme/welding-gas-cylinder-cart.html",
+      "candidate_image_url": "https://i.etsystatic.com/23114076/r/il/85bf86/2755952405/il_fullxfull.2755952405_2n2l.jpg",
+      "score": 75,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, sadece tüp taşımakla kalmayıp kaynak ekipmanlarını da organize eden, kullanıcı gereksinimlerini karşılayan fonksiyonel bir atölye arabası varyasyonudur.",
+      "discovered_at": "2026-10-17 02:22:26"
     }
   ]
 }
