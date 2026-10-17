@@ -6236,6 +6236,50 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel standartlara uygun, çoklu tüp taşıma kapasitesine ve katlanabilir destek tekerleklerine sahip eşdeğer bir tüp arabası mekanizmasını göstermektedir.",
       "discovered_at": "2026-10-17 04:32:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Cylinder Lifting Trolley | Gas Cylinder Handling | Forklift",
+      "page_url": "https://www.forklift-attachments.co.uk/double-cylinder-lifting-trolley.html",
+      "candidate_image_url": "https://www.forklift-attachments.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/2/12_-_dlt27_photo_1_1_1.jpg",
+      "score": 94,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-17 06:21:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Lifter and Gas Cylinder Lifter Trolley.",
+      "page_url": "https://cylinderlifter.com/",
+      "candidate_image_url": "https://cylinderlifter.com/web/image/680-ace82e70/217713057_4107231022665724_7086503119400215241_n.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "İkinci görsel, referans ürünle aynı işlevi gören endüstriyel tip gaz tüpü taşıma arabasını ve kullanım şeklini eksiksiz olarak göstermektedir.",
+      "discovered_at": "2026-10-17 06:21:42"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Old welding cylinders with cart - Download Free 3D model by Miłosz ...",
+      "page_url": "https://sketchfab.com/3d-models/old-welding-cylinders-with-cart-6baaf9d0b81f44c0b213249996a5ba7a",
+      "candidate_image_url": "https://media.sketchfab.com/models/6baaf9d0b81f44c0b213249996a5ba7a/thumbnails/fc7ff7bd7d2145d0a04386078a262ef9/80b3f0c76f404d29aecb46f5f4a27b10.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir yapıda (iki tekerlekli) endüstriyel tüp arabası modelini göstermektedir.",
+      "discovered_at": "2026-10-17 06:23:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Stair Climber Handtruck with Two Gas Cylinder Capacity - 3D Model by surf3d",
+      "page_url": "https://www.renderhub.com/surf3d/stair-climber-handtruck-with-two-gas-cylinder-capacity",
+      "candidate_image_url": "https://cdn.renderhub.com/surf3d/stair-climber-handtruck-with-two-gas-cylinder-capacity/stair-climber-handtruck-with-two-gas-cylinder-capacity-04.jpg?v=3",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, merdiven çıkma tekerlek düzeneğine sahip ve çift tüp taşıyabilen profesyonel bir 3D CAD modelidir.",
+      "discovered_at": "2026-10-17 06:30:42"
     }
   ]
 }
