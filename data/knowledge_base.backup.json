@@ -6962,6 +6962,61 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-18 02:27:22"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🛤️ welder・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/art/welder-explorerpaydi",
+      "candidate_image_url": "https://images.cults3d.com/_RVz5s94TdVh8ZoHD_Sb1EGvoTA=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/14967516/illustration-file/b99cccef-f84a-430c-81cb-3a97bc378802/765434432.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görsel 2, sanayi tipi gaz tüplerini taşımak için tasarlanmış, zincir mekanizmalı ve tekerlekli taşıma arabasının 3D dijital modelini temsil etmektedir.",
+      "discovered_at": "2026-10-18 04:23:28"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3-Wheel Gas Cylinder Trolley (Tri-Truck) — Bluetrolley.com",
+      "page_url": "https://bluetrolley.com/products/three-wheel-gas-cylinder-tri-truck",
+      "candidate_image_url": "https://bluetrolley.com/cdn/shop/products/47kgThreeWayGasCylinderTrolley_700x700.png?v=1621246091",
+      "score": 95,
+      "category": "diy_project",
+      "variant_type": "exact_match",
+      "reason": "İkinci görsel, üzerinde gaz tüpü bulunan, tekerlekli ve zincirli emniyet kilidine sahip tam uyumlu bir tüp taşıma arabasını göstermektedir.",
+      "discovered_at": "2026-10-18 04:27:19"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "SAF T CART 920-6B Small Dual Cylinder Cart with 80 Oxygen & #3 ...",
+      "page_url": "https://weldfabulous.com/saf-t-cart-920-6b-small-dual-cylinder-cart-with-80-oxygen-3-acetylene-cylinders/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-u3hf7jh4/images/stencil/1920w/products/737278/1108797/saf-t-cart-950-10b-large-dual-cylinder-cart__51679.1697050058.jpg?c=2",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilidi, çelik yapı ve gaz tüpü taşıma fonksiyonlarını eksiksiz karşılayan sanayi tipi bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-18 04:27:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxyacetylene Double Cylinder Trolley with Optional Rear Wheels",
+      "page_url": "https://www.firstmats.co.uk/products/oxy-acetalyne-double-cylinder-trolleys-with-optional-rear-wheels",
+      "candidate_image_url": "https://www.firstmats.co.uk/cdn/shop/files/4-Wheel_Single_Double_Gas_Cylinder_Sack-Truck_Trolley.jpg?v=1740755255&width=720",
+      "score": 92,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referanstaki gibi arka destek tekerleklerine, emniyet zincirine ve yükleme tablasına sahip sanayi tipi gaz tüpü taşıma arabasının birebir işlevsel bir varyasyonudur.",
+      "discovered_at": "2026-10-18 04:31:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "HOHYN Dual Welding Cylinder Cart, torch cart, Oxygen Acetylene Tank ...",
+      "page_url": "https://www.walmart.com/ip/HOHYN-Dual-Welding-Cylinder-Cart-torch-cart-Oxygen-Acetylene-Tank-Cart-440LBS-Static-Weight-Capacity-10-Inch-Solid-Wheels-Tank-Storage-Safety-Chains/19186555967",
+      "candidate_image_url": "https://i5.walmartimages.com/seo/HOHYN-Dual-Welding-Cylinder-Cart-torch-cart-Oxygen-Acetylene-Tank-Cart-440LBS-Static-Weight-Capacity-10-Inch-Solid-Wheels-Tank-Storage-Safety-Chains_b57929a7-70c8-4679-8291-873817481050.e2c0c2213dc3b1ac405abbc8484b7517.jpeg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, güvenlik zinciri ve arka destek tekerleklerine sahip çiftli endüstriyel gaz tüpü taşıma arabasının işlevsel bir 3D/CAD modelidir.",
+      "discovered_at": "2026-10-18 04:33:11"
     }
   ]
 }
