@@ -7941,6 +7941,72 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-18 16:27:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Workshop Pack 2 3D Model $15 - .unknown .lwo .xsi .obj .max - Free3D",
+      "page_url": "https://free3d.com/3d-model/workshop-pack-2-9167.html",
+      "candidate_image_url": "https://preview.free3d.com/img/2019/02/2158647944750826702/guoaexjj.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel gaz tüplerini taşımak için zincir emniyet kilitli, tekerlekli ve kaynaklı çelik konstrüksiyona sahip farklı bir tüp arabası modelini göstermektedir.",
+      "discovered_at": "2026-10-18 18:15:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Premium 3D Model of Medical Oxygen Cylinder Transport Cart by 7DMax",
+      "page_url": "https://www.renderhub.com/7dmax/premium-3d-model-of-medical-oxygen-cylinder-transport-cart",
+      "candidate_image_url": "https://cdn.renderhub.com/7dmax/premium-3d-model-of-medical-oxygen-cylinder-transport-cart/premium-3d-model-of-medical-oxygen-cylinder-transport-cart-06.jpg?v=7",
+      "score": 80,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel gaz tüpünü emniyet zinciri ve yönlendirilebilir tekerleklerle taşımak üzere tasarlanmış dikey tip bir tüp arabasının 3D CAD modelidir.",
+      "discovered_at": "2026-10-18 18:16:04"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Mig Welding Trolley Plans at Edith Corlett blog",
+      "page_url": "https://storage.googleapis.com/dwqahiqyagodie/mig-welding-trolley-plans.html",
+      "candidate_image_url": "https://i.ytimg.com/vi/A8p-ZSOAhyU/maxresdefault.jpg",
+      "score": 75,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, bir kaynak makinesi arabası olsa da, kullanıcı gereksinimlerinde belirtilen gaz tüpü taşıma, zincirli emniyet ve tekerlekli şasi özelliklerini karşılayan fonksiyonel bir atölye varyantıdır.",
+      "discovered_at": "2026-10-18 18:16:32"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Electric High Lift Pallet Truck Double Cylinders Type with Sensor ...",
+      "page_url": "https://www.dqjdm.com/products/electric-high-lift-pallet-truck-double-cylinders-type-with-sensor-dgb1-y/",
+      "candidate_image_url": "https://www.dqjdm.com/wp-content/uploads/2024/04/DGB1Y-drawing.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 18:25:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Upgrade / Securing A Welding Gas Cylinder - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=q1TWfBw-jPA",
+      "candidate_image_url": "https://i.ytimg.com/vi/q1TWfBw-jPA/maxresdefault.jpg",
+      "score": 93,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 18:34:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cylinder Truck - Milwaukee Hand Trucks",
+      "page_url": "https://www.milwaukeehandtrucks.com/product/welding-cylinder-truck-40757/",
+      "candidate_image_url": "https://www.milwaukeehandtrucks.com/wp-content/uploads/2022/05/40757-Welding-Cylinder-Truck-1.jpg",
+      "score": 93,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 18:35:03"
     }
   ]
 }
