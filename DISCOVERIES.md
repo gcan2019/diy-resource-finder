@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Tüm Ürünler Genel Kataloğu`
 **Doğrulanmış Kaynak Sayısı:** 728 adet
-**Son Güncelleme:** 2026-10-18 18:37:24
+**Son Güncelleme:** 2026-10-18 20:49:45
 
 ---
 
