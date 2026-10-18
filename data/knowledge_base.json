@@ -6918,6 +6918,50 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-17 22:25:19"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder 3D model 3D printable | CGTrader",
+      "page_url": "https://www.cgtrader.com/3d-print-models/miniatures/other/gas-cylinder-4d2bf2b8-380c-48ab-96cc-361ef6b733c2",
+      "candidate_image_url": "https://img-new.cgtrader.com/items/2708565/71fd0e9532/gas-cylinder-3d-model-71fd0e9532.webp",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir 3 boyutlu CAD tüp arabası modelini göstermektedir.",
+      "discovered_at": "2026-10-18 02:23:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lifting & Handling Gas Cylinders | PDF",
+      "page_url": "https://www.slideshare.net/slideshow/lifting-handling-gas-cylinders/9529140",
+      "candidate_image_url": "https://cdn.slidesharecdn.com/ss_thumbnails/tailoredmadeliftingandhandlinggascylinderstrucks-111003151054-phpapp02-thumbnail.jpg?width=640&height=640&fit=bounds",
+      "score": 91,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 02:24:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Portable Gas Cylinder Trolley Wire Base - Everyday Kitchen Storage ...",
+      "page_url": "https://everyday-india.com/product/portable-gas-cylinder-trolley-wire-base/",
+      "candidate_image_url": "https://everyday-india.com/wp-content/uploads/2021/01/Portable-Cylinder-Trolley.jpg",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 02:27:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Trolley | Gas Cylinder Trolley | The Workplace Depot",
+      "page_url": "https://www.theworkplacedepot.co.uk/gas-trolley",
+      "candidate_image_url": "https://www.theworkplacedepot.co.uk/media/wysiwyg/GASTRUCK-BUDGET-DIMENSIONS.jpg",
+      "score": 88,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 02:27:22"
     }
   ]
 }
