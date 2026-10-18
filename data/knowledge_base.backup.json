@@ -8007,6 +8007,39 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-18 18:35:03"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Videos - Zero Hand Truck",
+      "page_url": "https://zerohandtruck.com/videos",
+      "candidate_image_url": "https://i.ytimg.com/vi/adlmeNoWotI/0.jpg",
+      "score": 80,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, gaz tüpünü güvenli şekilde kavramak ve taşımak üzere tasarlanmış iki pnömatik tekerlekli fonksiyonel bir tüp taşıma arabasını göstermektedir.",
+      "discovered_at": "2026-10-18 22:16:48"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "ZERO HAND TRUCK - GAS CYLINDER HAND TRUCK - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=IEAbPp-9eOA",
+      "candidate_image_url": "https://i.ytimg.com/vi/IEAbPp-9eOA/maxresdefault.jpg",
+      "score": 94,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 22:17:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Vertical Type Assembly Machine for Steel Cylinder Welding Production Line - LPG Gas Cylinder ...",
+      "page_url": "https://getweld.en.made-in-china.com/product/jBlxiuHGHDRK/China-Vertical-Type-Assembly-Machine-for-Steel-Cylinder-Welding-Production-Line.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00YAGagEyRTtpv/Vertical-Type-Assembly-Machine-for-Steel-Cylinder-Welding-Production-Line.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (909x825px)) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 22:26:33"
     }
   ]
 }
