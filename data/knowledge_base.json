@@ -7930,6 +7930,17 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, gaz tüplerini zincirle emniyete alarak taşıma özelliğine sahip, ancak ek olarak kaynak makineleri için raflar içeren çok fonksiyonlu bir atölye arabası CAD tasarımını göstermektedir.",
       "discovered_at": "2026-10-18 14:18:55"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Customized Heavy Duty Storage Gas Cylinder Pallet Rack",
+      "page_url": "https://www.alibaba.com/product-detail/Customized-Heavy-Duty-Storage-Gas-Cylinder_1600627298505.html",
+      "candidate_image_url": "https://sc04.alicdn.com/kf/Hc8ada52f36d14cbe9c20031612d76b56Q/220185833/Hc8ada52f36d14cbe9c20031612d76b56Q.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-18 16:27:47"
     }
   ]
 }
