@@ -8216,6 +8216,116 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-19 04:36:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Trolley - 3D model by bryden.armstrong [1fe118a] - Sketchfab",
+      "page_url": "https://sketchfab.com/3d-models/welding-trolley-1fe118a515e0499e995f1b2d94b3629a",
+      "candidate_image_url": "https://media.sketchfab.com/models/1fe118a515e0499e995f1b2d94b3629a/thumbnails/d29ccd83a4134cc9b125e2e2359669ec/b17691a7ad8c4d16aa0391626f6fb18f.jpeg",
+      "score": 72,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, arkasında korumalı gaz tüpü taşıma bölmesi ve önünde alet kutuları bulunan çok amaçlı bir atölye kaynak/tüp arabası CAD modelidir.",
+      "discovered_at": "2026-10-19 06:29:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "welding trolley 3D Models | Page 1 | STLFinder",
+      "page_url": "https://www.stlfinder.com/3dmodels/welding-trolley/",
+      "candidate_image_url": "https://bamax.es/php/files/uploads/292/welding-trolley-W6PSNoSl_200.webp",
+      "score": 74,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referanstaki standart el arabası yerine gaz tüpü sabitleme ünitesi ve kaynak makinesi platformu barındıran çok amaçlı bir atölye kaynak/tüp taşıma arabasının CAD modelidir.",
+      "discovered_at": "2026-10-19 06:29:58"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Large Liquid Gas Cylinder Cart with Power Drive",
+      "page_url": "https://uniquetruck.com/large-liquid-gas-cylinder-cart-with-power-drive/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-yqqhpuogqx/images/stencil/1280x1280/products/5642/9111/210131-PD-1__76907.1764102155.jpg?c=1",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel tip gaz tüpü taşıma gereksinimlerini karşılayan, güvenlik kilitli ve profesyonel kullanıma uygun mekanize bir taşıma arabası modelidir.",
+      "discovered_at": "2026-10-19 06:30:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Large Manual Liquid Gas Cylinder Cart",
+      "page_url": "https://uniquetruck.com/large-manual-liquid-gas-cylinder-cart/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-yqqhpuogqx/images/stencil/320w/products/5641/9108/210131_w_cylinder__59315.1764101185.jpg?c=1",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Her iki görsel de endüstriyel tip gaz tüplerini taşımak için tasarlanmış, zincir emniyet kilitli ve tekerlekli şasi yapısına sahip aynı mekanik taşıma arabası sistemini temsil etmektedir.",
+      "discovered_at": "2026-10-19 06:30:03"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Carts - Anthony Carts - Welding Carts & Cages",
+      "page_url": "https://www.anthonycarts.com/cylinder-carts-anthony-carts/",
+      "candidate_image_url": "https://www.anthonycarts.com/wp-content/uploads/2023/03/Liquid-Carts-Stands-480x705.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, çoklu tüp taşıma kapasitesine sahip alternatif bir gaz tüpü taşıma arabası modelidir.",
+      "discovered_at": "2026-10-19 06:30:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Heavy-Duty Acetylene Oxygen Cylinder Cart with Reinforced Construction - Gas Cylinder and ...",
+      "page_url": "https://lylishan.en.made-in-china.com/product/WQXpNUzAYCkG/China-Heavy-Duty-Acetylene-Oxygen-Cylinder-Cart-with-Reinforced-Construction.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00FCtbHEkKZpcv/Heavy-Duty-Acetylene-Oxygen-Cylinder-Cart-with-Reinforced-Construction.jpg",
+      "score": 88,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referanstaki tekli modelin aksine oksijen ve asetilen tüplerini bir arada güvenle taşımak için tasarlanmış kaynaklı çelik konstrüksiyonlu çiftli tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-19 06:30:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "I made my own trolley for Argon cylinder - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=S8FLZr-7Mm4",
+      "candidate_image_url": "https://i.ytimg.com/vi/S8FLZr-7Mm4/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, kullanıcı gereksinimlerini karşılayan zincirli emniyet sistemine ve ergonomik tutamaklara sahip işlevsel bir atölye tipi tüp taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-10-19 06:30:56"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen cylinder rack,Portable Oxygen Tank Holder Cart with Wheels - Heavy Duty Single Cylinder ...",
+      "page_url": "https://www.amazon.co.uk/Oxygen-cylinder-Portable-Holder-Wheels/dp/B0FR2ZBNJY",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/611kUwCFjfL._AC_SL1500_.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, gaz tüpünü güvenle sabitleyen emniyet zincirlerine, kaynaklı çelik gövdeye ve taşıma tekerleklerine sahip tekerlekli tüp arabası ve standı tasarımını temsil etmektedir.",
+      "discovered_at": "2026-10-19 06:31:17"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "A tilt cab truck in which the cab is partially supported by the tilting cylinders while in the ...",
+      "page_url": "https://data.epo.org/publication-server/rest/v1.0/publication-dates/19840314/patents/EP0102676NWA2/document.html",
+      "candidate_image_url": "https://data.epo.org/publication-server/image?imagePath=1984/11/DOC/EPNWA2/EP83201296NWA2/imgaf001",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-19 06:36:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "EWE 2 Cylinder Gas Bottle Trolley - Lifting Gear AU",
+      "page_url": "https://liftinggear.com.au/products/2-cylinder-gas-bottle-trolley?variant=39397947834567",
+      "candidate_image_url": "https://liftinggear.com.au/cdn/shop/products/2-cylinder-gas-bottle-trolley-600.jpg?v=1623386570",
+      "score": 93,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-19 06:36:31"
     }
   ]
 }
