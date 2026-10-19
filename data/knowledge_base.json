@@ -8095,6 +8095,50 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel standartlara uygun farklı bir marka ve tasarıma sahip tüp taşıma arabasıdır.",
       "discovered_at": "2026-10-19 00:32:31"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/hand-truck-2",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/99f9073e6d790ae700b8e1b35657d1f5/large.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüpü taşımak için tasarlanmış farklı bir 2 tekerlekli çelik taşıma arabasının CAD modelidir.",
+      "discovered_at": "2026-10-19 02:22:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Cart - 3D model by vUv (@vovaustimuk) [cd5be60] - Sketchfab",
+      "page_url": "https://sketchfab.com/3d-models/cylinder-cart-cd5be60f0f2641aa9eaf5c3287bec211",
+      "candidate_image_url": "https://media.sketchfab.com/models/cd5be60f0f2641aa9eaf5c3287bec211/thumbnails/451a15007cfd412f8d26fd66f67f539d/ac705228d66b4c8f934f205692cae1dd.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans üründeki 4 tekerlekli tasarımın 2 tekerlekli ve çemberli emniyet sistemine sahip bir CAD model varyasyonunu temsil etmektedir.",
+      "discovered_at": "2026-10-19 02:23:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Frame Holder With Equipment, Garage, Metric, Build Plans, Dwg, Pdf, Drawings - Etsy",
+      "page_url": "https://www.etsy.com/listing/1284333821/gas-cylinder-frame-holder-with-equipment",
+      "candidate_image_url": "https://i.etsystatic.com/37064516/r/il/713a45/4166105784/il_fullxfull.4166105784_octw.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-19 02:27:04"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "VEVOR Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart with 440LBS Static Weight Capacity ...",
+      "page_url": "https://www.amazon.ca/VEVOR-Cylinder-Acetylene-12-5-Inch-Cylinders/dp/B0DQY3FHQS",
+      "candidate_image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64ebf495-e827-4cb2-9b34-774b8ab85b6f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel standartlara uygun, çift tüp taşıma kapasiteli ve emniyet zincirli benzer bir gaz tüpü arabasını başarıyla temsil etmektedir.",
+      "discovered_at": "2026-10-19 02:29:37"
     }
   ]
 }
