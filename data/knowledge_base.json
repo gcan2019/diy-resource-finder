@@ -8810,6 +8810,17 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüpü taşımak için tasarlanmış farklı bir mekanik konfigürasyona sahip eşdeğer bir tüp arabasıdır.",
       "discovered_at": "2026-10-19 15:12:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygas Welding Trolley 3D Model - TurboSquid 2269465",
+      "page_url": "https://www.turbosquid.com/3d-models/oxygas-welding-trolley-3d-model-2269465",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/Tr/BHRvbW/KV/20kopya/jpg/1723986220/1920x1080/fit_q87/8c6e48ab198e45cad2285b3c8366592064e56a3b/20kopya.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir CAD model tüp arabasını göstermektedir.",
+      "discovered_at": "2026-10-19 16:25:44"
     }
   ]
 }
