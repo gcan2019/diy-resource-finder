@@ -8040,6 +8040,61 @@
       "variant_type": "working_variation",
       "reason": "Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (909x825px)) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-18 22:26:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas-cylinder 3D models - Sketchfab",
+      "page_url": "https://sketchfab.com/tags/gas-cylinder",
+      "candidate_image_url": "https://media.sketchfab.com/models/a1b6f1d02df04d56b9e74e1d1518db9c/thumbnails/1cbc4fd386734769b828ff2303a934cc/23bf55f62bb5485abf519fd40c5e5c1e.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel standartlara uygun gaz tüpü taşıma arabalarının 3D CAD modelidir ve talep edilen zincirli güvenlik sistemi ile fonksiyonel yapıyı başarıyla temsil etmektedir.",
+      "discovered_at": "2026-10-19 00:21:25"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Mig + Tig Welding CART Plans [inches + Metric Units] - Multipurpose ...",
+      "page_url": "https://www.etsy.com/uk/listing/1157014834/mig-tig-welding-cart-plans-inches-metric",
+      "candidate_image_url": "https://i.etsystatic.com/23114076/r/il/b97177/3637871342/il_300x300.3637871342_qvrr.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, endüstriyel tip gaz tüplerinin taşınması için gerekli olan teknik tasarım detaylarını, emniyet zinciri ve gövde yapısı dahil olmak üzere bir mühendislik çizimi formatında başarılı bir şekilde temsil etmektedir.",
+      "discovered_at": "2026-10-19 00:22:50"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Vergo Industrial Convertible Hand Truck AS7A2 User Manual",
+      "page_url": "https://manuals.plus/asin/B082VP6QHJ",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/51uXOmqUN-L._AC_.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, gaz tüpü taşıma arabasının demonte halini ve teknik montaj bileşenlerini gösteren bir dokümantasyon olup, kullanıcı gereksinimlerini karşılayan endüstriyel bir taşıma sistemi yapısını temsil etmektedir.",
+      "discovered_at": "2026-10-19 00:32:20"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lift Assist Cylinder 150 Kg : Lift Assist 150 Kg Cylinder : Lift Assist ...",
+      "page_url": "https://brickcages.com.au/rotatruck-sp-lift-assist-cylinder-load-capacity-150-kg",
+      "candidate_image_url": "https://brickcages.com.au/images/thumbs/0003224_rotatruck-sp-lift-assist-cylinder-load-capacity-150-kg_550.jpeg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşımak için tasarlanmış, tekerlekli ve emniyet elemanlarına sahip benzer bir endüstriyel tüp arabası mekanizmasını göstermektedir.",
+      "discovered_at": "2026-10-19 00:32:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Hand Truck With Lift Assist | Rotatruck",
+      "page_url": "https://www.rotacaster.com.au/shop-product/special-purpose-rotatruck/single-gas-cylinder-hand-trolley-lift-assist",
+      "candidate_image_url": "https://assets.cdn.thewebconsole.com/S3WEB707/product-item/64f7be56c4584.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun farklı bir marka ve tasarıma sahip tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-19 00:32:31"
     }
   ]
 }
