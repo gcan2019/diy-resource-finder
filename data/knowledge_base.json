@@ -9679,6 +9679,39 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, referansla aynı temel mekanizmaya sahip, zincir kilitli ve destek tekerlekli çalışan bir DIY tüp taşıma arabası varyantıdır.",
       "discovered_at": "2026-10-20 18:46:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Convenient Acetylene Oxygen Cylinder Transport Cart with Locking ...",
+      "page_url": "https://lylishan.en.made-in-china.com/product/eJYUHWFTgjcf/China-Convenient-Acetylene-Oxygen-Cylinder-Transport-Cart-with-Locking-Mechanism.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00RvEqsjSyZfba/Convenient-Acetylene-Oxygen-Cylinder-Transport-Cart-with-Locking-Mechanism.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüp taşıma kapasitesine sahip farklı bir yapıda olsa da temel işlev ve endüstriyel tüp arabası gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-20 23:03:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dropship Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart With ...",
+      "page_url": "https://www.doba.com/product/plKYDJNikeqf/dropshipping-dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-440lbs-static-weight-capacity-10-inch-solid-wheels-and-tank-storage-safety-chains-suitable-for-double-125-inch-dia-gas-cylinders.html",
+      "candidate_image_url": "https://image.doba.com/dg7-jTBRPwumEQcm/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-440lbs-static-weight-capacity-10-inch-solid-wheels-and-tank-storage-safety-chains-suitable-for-double-125-inch-dia-gas-cylinders.webp",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüp taşıma kapasitesine sahip alternatif bir gaz tüpü taşıma arabasını göstermektedir ve kullanıcı gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-20 23:03:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Transport - Trolleys and Bundles",
+      "page_url": "https://www.lronning.com/collections/gas-cylinder-transport",
+      "candidate_image_url": "https://www.lronning.com/cdn/shop/files/PT_840x840.jpg?v=1721922336",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-10-20 23:12:07"
     }
   ]
 }
