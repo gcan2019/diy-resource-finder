@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Pipe and profile cutting machine / Boru ve profil kesme makinesi`
 **Doğrulanmış Kaynak Sayısı:** 31 adet
-**Son Güncelleme:** 2026-10-20 02:38:54
+**Son Güncelleme:** 2026-10-20 04:45:09
 > 💡 **Ürün Tanımı / Notlar:** Atölye tipi hassas boru ve profil kesme makinesi. Mengene sabitleme, açılı kesim (0-45 derece) ve motor/testere mafsal mekanizması.
 
 ---
