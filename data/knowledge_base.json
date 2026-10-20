@@ -9008,6 +9008,61 @@
       "variant_type": "working_variation",
       "reason": "Görsel 2, sanayi tipi gaz tüpünü taşımak için tasarlanmış, tekerlekli, taşıma platformuna sahip ve kullanıcı gereksinimlerini tam olarak karşılayan standart bir endüstriyel tüp arabası modelidir.",
       "discovered_at": "2026-10-20 02:26:23"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "ZGCHT Zero Gas Cylinder Hand Truck - 3D model by Forest Master (@forest ...",
+      "page_url": "https://sketchfab.com/3d-models/zgcht-zero-gas-cylinder-hand-truck-cdc0607bd02b4ace966eefe518ab56d8",
+      "candidate_image_url": "https://media.sketchfab.com/models/cdc0607bd02b4ace966eefe518ab56d8/thumbnails/edc135407c6c48769641b7b6a65304e5/ab95dbd4f73c4e11a44d1c7d6951010a.jpeg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görsel, istenen sanayi tipi gaz tüpü taşıma arabasının tüm temel özelliklerini (zincirli emniyet kilidi, çelik iskelet ve ergonomik tutamak) içeren profesyonel bir 3D CAD modelidir.",
+      "discovered_at": "2026-10-20 06:25:15"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner C-Stand Cart - 247 Kit",
+      "page_url": "https://247kit.tv/hire/magliner-c-stand-cart/",
+      "candidate_image_url": "https://247kit.tv/wp-content/uploads/2025/01/magliner_c-stand.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Magliner marka bu ürün, kullanıcı gereksinimlerini karşılayan, sektör standardı olan ve ergonomik tutamağa sahip yüksek kaliteli bir gaz tüpü taşıma arabası varyantıdır.",
+      "discovered_at": "2026-10-20 06:27:39"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "YINGLIFT Stainless Steel Gas Cylinder Trolley TY120B – Durable ...",
+      "page_url": "https://www.proairductus.com/Gas-cylinder-trolley/1031033-yinglift-stainless-steel-gas-cylinder-trolley-ty120b-dimensions-1010430mm-diameter-140300mm-1-unit.html",
+      "candidate_image_url": "https://proairductus.com/img/cms/d2a21d0291be49debda33ae2a98a180a.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, birinci görseldeki gaz silindiri taşıma arabasının temel boyutlarını ve yapısal özelliklerini gösteren teknik bir çizimdir.",
+      "discovered_at": "2026-10-20 06:28:03"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "TIG+MIG/MAG Welding Cart/Trolley I Made for Myself : r/metalworking",
+      "page_url": "https://www.reddit.com/r/metalworking/comments/1brmbpy/tigmigmag_welding_carttrolley_i_made_for_myself/",
+      "candidate_image_url": "https://preview.redd.it/tig-mig-mag-welding-cart-trolley-i-made-for-myself-v0-giopow6i3irc1.jpg?width=2296&format=pjpg&auto=webp&s=8bebe56a0242ab0309a62b9d7b399a9d6fe9794a",
+      "score": 75,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, arkasında gaz tüpü taşıma bölmesi barındıran entegre ve fonksiyonel bir atölye kaynak arabası varyasyonudur.",
+      "discovered_at": "2026-10-20 06:28:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Aluminum Welding Cart Design",
+      "page_url": "https://ar.inspiredpencil.com/pictures-2023/aluminum-welding-cart-design",
+      "candidate_image_url": "https://i5.walmartimages.com/seo/Welding-Cart-Heavy-Duty-Mig-Tig-Welder-Cart-for-Plasma-Cutting-Machine-with-3-Tier-Shelf-Side-Hooks-and-Tank-Storage-Black_b822ce62-eb3c-4c4e-a4cc-cd76203c2a60.8c0b4e9dbea682d4b51b82a5b62441e8.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, temel gaz tüpü taşıma ve zincirle sabitleme mekanizmasını içeren ancak ek olarak kaynak makinesi ve alet tepsileri sunan çok fonksiyonlu bir atölye varyasyonudur.",
+      "discovered_at": "2026-10-20 06:28:20"
     }
   ]
 }
