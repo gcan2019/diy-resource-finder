@@ -2,8 +2,8 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Gas cylinder truck / Tüp arabası`
-**Doğrulanmış Kaynak Sayısı:** 596 adet
-**Son Güncelleme:** 2026-10-20 00:44:15
+**Doğrulanmış Kaynak Sayısı:** 597 adet
+**Son Güncelleme:** 2026-10-20 02:38:54
 > 💡 **Ürün Tanımı / Notlar:** Sanayi tipi oksijen, asetilen ve argon gaz tüplerini güvenle taşımak için 2 veya 3 tekerlekli, zincirli emniyet kilitli ve ergonomik tutamağa sahip kaynaklı çelik atölye taşıma arabası.
 
 ---
@@ -2112,10 +2112,21 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (212 adet)
+## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (213 adet)
 _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
-### 1. [UNI 4+3RD Wheel Gas Cylinder Trolley - Enhanced Maneuverability & Quick ...](https://www.theoxygenstore.com/uni-4-3rd-wheel-gas-cylinder-trolley.html)
+### 1. [3d 3ds gas cylinder handtruck](https://www.turbosquid.com/FullPreview/1019800)
+- **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Görsel 2, sanayi tipi gaz tüpünü taşımak için tasarlanmış, tekerlekli, taşıma platformuna sahip ve kullanıcı gereksinimlerini tam olarak karşılayan standart bir endüstriyel tüp arabası modelidir.
+- **Tarih:** 2026-10-20 02:26:23
+
+![Önizleme](https://p.turbosquid.com/ts-thumb/A9/UhauLv/EHdqKFs7/pic1/jpg/1458748157/1920x1080/fit_q87/35cf2ba15acbbdee3c0ea8ca31853444ae930641/pic1.jpg)
+
+
+---
+
+### 2. [UNI 4+3RD Wheel Gas Cylinder Trolley - Enhanced Maneuverability & Quick ...](https://www.theoxygenstore.com/uni-4-3rd-wheel-gas-cylinder-trolley.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış, üç tekerlekli dönüştürülebilir yapıya ve zincirli emniyet kilidine sahip eşdeğer bir tüp arabası modelidir.
@@ -2126,7 +2137,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 2. [Safety Cart CYLINDER CART, 213 25PB LF | Southwire](https://fity.club/lists/suggestions/Safety-Cart/)
+### 3. [Safety Cart CYLINDER CART, 213 25PB LF | Southwire](https://fity.club/lists/suggestions/Safety-Cart/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini güvenle taşımak ve yatay/eğik pozisyonda konumlandırmak için tasarlanmış, tekerlekli ve şasi yapısıyla benzer işlev gören farklı bir endüstriyel tüp arabası varyasyonudur.
@@ -2137,7 +2148,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 3. [3D model Gas Cylinder 3B VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/gas-cylinder-3b)
+### 4. [3D model Gas Cylinder 3B VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/gas-cylinder-3b)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, endüstriyel tüp taşıma gereksinimlerini karşılayan, çoklu tüp kapasitesine sahip profesyonel bir 3D modelleme/tasarım ürünüdür.
@@ -2148,7 +2159,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 4. [Oxygas Welding Trolley 3D Model - TurboSquid 2269465](https://www.turbosquid.com/3d-models/oxygas-welding-trolley-3d-model-2269465)
+### 5. [Oxygas Welding Trolley 3D Model - TurboSquid 2269465](https://www.turbosquid.com/3d-models/oxygas-welding-trolley-3d-model-2269465)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir CAD model tüp arabasını göstermektedir.
@@ -2159,7 +2170,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 5. [Material Handling Carts & Custom Solutions | National Cart](https://nationalcart.com/product-category/material-handling/)
+### 6. [Material Handling Carts & Custom Solutions | National Cart](https://nationalcart.com/product-category/material-handling/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış standart iki tekerlekli zincirli tüp arabası CAD modelidir.
@@ -2170,7 +2181,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 6. [Heavy-Duty Acetylene Oxygen Cylinder Cart for Workshop Applications ...](https://lylishan.en.made-in-china.com/product/KEBUzxQDHjWC/China-Heavy-Duty-Acetylene-Oxygen-Cylinder-Cart-for-Workshop-Applications.html)
+### 7. [Heavy-Duty Acetylene Oxygen Cylinder Cart for Workshop Applications ...](https://lylishan.en.made-in-china.com/product/KEBUzxQDHjWC/China-Heavy-Duty-Acetylene-Oxygen-Cylinder-Cart-for-Workshop-Applications.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, iki tüp taşıma kapasitesine sahip farklı bir yapıda olsa da temel işlevi ve kullanım amacı aynı olan bir gaz tüpü taşıma arabasıdır.
@@ -2181,7 +2192,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 7. [Steel Bottle Truck for 1 Gas Cylinder MAX. Ø 235 mm (50 l )](https://www.salesbridges.ae/steel-bottle-truck-for-1-gas-cylinder-max-o-235-mm.html)
+### 8. [Steel Bottle Truck for 1 Gas Cylinder MAX. Ø 235 mm (50 l )](https://www.salesbridges.ae/steel-bottle-truck-for-1-gas-cylinder-max-o-235-mm.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, aynı işlevselliğe ve güvenlik özelliklerine sahip farklı bir tüp arabası CAD modelini göstermektedir.
@@ -2192,7 +2203,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 8. [Trolleys | Metal Trolleys To Suit Your Business](https://nationalmetalfabricators.co.nz/metal-fabrication/trolleys/)
+### 9. [Trolleys | Metal Trolleys To Suit Your Business](https://nationalmetalfabricators.co.nz/metal-fabrication/trolleys/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, endüstriyel standartlara uygun, zincirli emniyet kilitli ve pnömatik tekerlekli tüp arabalarını gösteren işlevsel bir varyasyondur.
@@ -2203,7 +2214,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 9. [Miller Multimatic Dual Cylinder Rack and Cart for sale (951770) Buy at ...](https://www.weldingsuppliesfromioc.com/products/miller-multimatic-dual-cylinder-rack-and-cart-951770)
+### 10. [Miller Multimatic Dual Cylinder Rack and Cart for sale (951770) Buy at ...](https://www.weldingsuppliesfromioc.com/products/miller-multimatic-dual-cylinder-rack-and-cart-951770)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans ürünle aynı işlevi gören çok raflı ve zincirli emniyet kilidine sahip endüstriyel kaynak tüp arabasını temsil etmektedir.
@@ -2214,7 +2225,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 10. [Pneumatic clamp trolley for gas cylinders Ø440 - M822-288-001](https://www.lronning.com/products/pneumtic-clamp-trolley-for-gas-cylinders-400-kg-m822-288-001)
+### 11. [Pneumatic clamp trolley for gas cylinders Ø440 - M822-288-001](https://www.lronning.com/products/pneumtic-clamp-trolley-for-gas-cylinders-400-kg-m822-288-001)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir mekanik yapıya ve tekerlek düzenine sahip olsa da aynı fonksiyonel amacı taşımaktadır.
@@ -2225,7 +2236,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 11. [Factory Customized Heavy-duty Gas Cylinder Vertical Safety Bracket ...](https://www.alibaba.com/product-detail/Factory-Customized-Heavy-duty-Gas-Cylinder_1601403454001.html)
+### 12. [Factory Customized Heavy-duty Gas Cylinder Vertical Safety Bracket ...](https://www.alibaba.com/product-detail/Factory-Customized-Heavy-duty-Gas-Cylinder_1601403454001.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış çoklu tüp taşıma arabasının CAD modelidir ve benzer güvenlik zincirleri ile tekerlekli yapıya sahiptir.
@@ -2236,7 +2247,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 12. [Amazon.com: Hymula 3-Tier Heavy Duty Welding Cart with 360° Swivel ...](https://www.amazon.com/Hymula-3-Tier-Welding-Capacity-Storage/dp/B0DGX3FVTL)
+### 13. [Amazon.com: Hymula 3-Tier Heavy Duty Welding Cart with 360° Swivel ...](https://www.amazon.com/Hymula-3-Tier-Welding-Capacity-Storage/dp/B0DGX3FVTL)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, kaynak makinesi taşıma rafı eklenmiş çok katlı bir gaz tüpü arabası varyasyonu olup temel işlevini sağlamaktadır.
@@ -2247,7 +2258,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 13. [VEVOR Welding Cart, 3-Tier Welder Cart Heavy Duty with 400Lbs Static ...](https://www.vevor.ca/welding-cart-c_12105/vevor-welding-cart-3-tier-welder-cart-heavy-duty-with-400-lbs-weight-capacity-360-swivel-wheels-tank-storage-safety-chains-rolling-mig-welder-cart-for-tig-arc-mma-plasma-cutter-welding-machine-p_010860377269)
+### 14. [VEVOR Welding Cart, 3-Tier Welder Cart Heavy Duty with 400Lbs Static ...](https://www.vevor.ca/welding-cart-c_12105/vevor-welding-cart-3-tier-welder-cart-heavy-duty-with-400-lbs-weight-capacity-360-swivel-wheels-tank-storage-safety-chains-rolling-mig-welder-cart-for-tig-arc-mma-plasma-cutter-welding-machine-p_010860377269)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, kaynak makinesi ve ekipmanlar için ek raflar içeren, gaz tüpü taşımaya uygun alternatif bir çok katlı atölye taşıma arabasıdır.
@@ -2258,7 +2269,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 14. [VEVOR Welding Cart, 3 Tier Welder Cart Heavy Duty with 400 Lbs Weight ...](https://www.bestbuy.com/product/vevor-welding-cart-3-tier-welder-cart-heavy-duty-with-400-lbs-weight-capacity-360-swivel-wheels-tank-storage-safety-chains-black/JJGHK4K9KP)
+### 15. [VEVOR Welding Cart, 3 Tier Welder Cart Heavy Duty with 400 Lbs Weight ...](https://www.bestbuy.com/product/vevor-welding-cart-3-tier-welder-cart-heavy-duty-with-400-lbs-weight-capacity-360-swivel-wheels-tank-storage-safety-chains-black/JJGHK4K9KP)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış kaynakçı arabası ve zincirli emniyet kilitleri içermesi nedeniyle hedef ürünle yüksek oranda eşleşmektedir.
@@ -2269,7 +2280,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 15. [150kg Load Capacity Stainless Steel Industrial Tools Gas Cylinder Hand ...](https://www.alibaba.com/product-detail/Gas-Cylinder-Hand-Truck-Trolley-Cart_1601386507294.html)
+### 16. [150kg Load Capacity Stainless Steel Industrial Tools Gas Cylinder Hand ...](https://www.alibaba.com/product-detail/Gas-Cylinder-Hand-Truck-Trolley-Cart_1601386507294.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Görsel, sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, sağlam çelik gövde ve tekerlekli yapısıyla kullanıcı gereksinimlerini tam olarak karşılayan standart bir tüp taşıma arabasıdır.
@@ -2280,7 +2291,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 16. [Gas Cylinder Cart Canada](https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart-canada)
+### 17. [Gas Cylinder Cart Canada](https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart-canada)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, çift tüp taşıma kapasiteli ve emniyet zincirli farklı bir gaz tüpü arabası modelidir.
@@ -2291,7 +2302,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 17. [Metal Fab Oxygen Acetylene Cart 2 Wheel Propane Tank Dolly](https://www.metalfab-products.com/sale-36726537-metal-fab-oxygen-acetylene-cart-2-wheel-propane-tank-dolly.html)
+### 18. [Metal Fab Oxygen Acetylene Cart 2 Wheel Propane Tank Dolly](https://www.metalfab-products.com/sale-36726537-metal-fab-oxygen-acetylene-cart-2-wheel-propane-tank-dolly.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel standartlara uygun, zincirli emniyet kilitli ve iki tekerlekli çelik tüp taşıma arabasını başarıyla temsil etmektedir.
@@ -2302,7 +2313,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 18. [Oxygen Tank Cart Dolly With Retractable Wheels Stainless Steel Gas ...](https://www.desertcart.lk/products/593699979-oxygen-tank-cart-dolly-with-retractable-wheels-stainless-steel-gas)
+### 19. [Oxygen Tank Cart Dolly With Retractable Wheels Stainless Steel Gas ...](https://www.desertcart.lk/products/593699979-oxygen-tank-cart-dolly-with-retractable-wheels-stainless-steel-gas)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, referans gaz tüpü arabasıyla neredeyse birebir aynı tasarıma, şasi yapısına, tekerlek düzenine ve emniyet zincirine sahiptir.
@@ -2313,7 +2324,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 19. [Steel Gas Cylinder Two Wheel Hand Cart Trolley - Trolley and Hand Trolley](https://chinahandtrolley.en.made-in-china.com/product/TXzxqHmMVDYU/China-Steel-Gas-Cylinder-Two-Wheel-Hand-Cart-Trolley.html)
+### 20. [Steel Gas Cylinder Two Wheel Hand Cart Trolley - Trolley and Hand Trolley](https://chinahandtrolley.en.made-in-china.com/product/TXzxqHmMVDYU/China-Steel-Gas-Cylinder-Two-Wheel-Hand-Cart-Trolley.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday ürün, kaynaklı çelik konstrüksiyonu, tekerlekleri ve tüp sabitleme mekanizması ile gaz silindiri taşıma arabası gereksinimlerini başarıyla karşılamaktadır.
@@ -2324,7 +2335,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 20. [Welding Cart Design](https://ar.inspiredpencil.com/pictures-2023/welding-cart-design)
+### 21. [Welding Cart Design](https://ar.inspiredpencil.com/pictures-2023/welding-cart-design)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 75` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, kullanıcı gereksinimlerini karşılayan endüstriyel tip gaz tüpü taşıma mekanizmasını, kaynak makineleri için özelleştirilmiş bir kombine atölye arabası formunda sunmaktadır.
@@ -2335,7 +2346,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 21. [Oxygen cylinder rack,Portable Oxygen Tank Holder Cart with Wheels - Heavy Duty Single Cylinder ...](https://www.amazon.co.uk/Oxygen-cylinder-Portable-Holder-Wheels/dp/B0FR2ZBNJY)
+### 22. [Oxygen cylinder rack,Portable Oxygen Tank Holder Cart with Wheels - Heavy Duty Single Cylinder ...](https://www.amazon.co.uk/Oxygen-cylinder-Portable-Holder-Wheels/dp/B0FR2ZBNJY)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, gaz tüpünü güvenle sabitleyen emniyet zincirlerine, kaynaklı çelik gövdeye ve taşıma tekerleklerine sahip tekerlekli tüp arabası ve standı tasarımını temsil etmektedir.
@@ -2346,7 +2357,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 22. [Cylinder Carts - Anthony Carts - Welding Carts & Cages](https://www.anthonycarts.com/cylinder-carts-anthony-carts/)
+### 23. [Cylinder Carts - Anthony Carts - Welding Carts & Cages](https://www.anthonycarts.com/cylinder-carts-anthony-carts/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, çoklu tüp taşıma kapasitesine sahip alternatif bir gaz tüpü taşıma arabası modelidir.
@@ -2357,7 +2368,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 23. [Large Liquid Gas Cylinder Cart with Power Drive](https://uniquetruck.com/large-liquid-gas-cylinder-cart-with-power-drive/)
+### 24. [Large Liquid Gas Cylinder Cart with Power Drive](https://uniquetruck.com/large-liquid-gas-cylinder-cart-with-power-drive/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel tip gaz tüpü taşıma gereksinimlerini karşılayan, güvenlik kilitli ve profesyonel kullanıma uygun mekanize bir taşıma arabası modelidir.
@@ -2368,7 +2379,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 24. [welding trolley 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/welding-trolley/)
+### 25. [welding trolley 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/welding-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 74` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referanstaki standart el arabası yerine gaz tüpü sabitleme ünitesi ve kaynak makinesi platformu barındıran çok amaçlı bir atölye kaynak/tüp taşıma arabasının CAD modelidir.
@@ -2379,7 +2390,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 25. [Welding Trolley - 3D model by bryden.armstrong [1fe118a] - Sketchfab](https://sketchfab.com/3d-models/welding-trolley-1fe118a515e0499e995f1b2d94b3629a)
+### 26. [Welding Trolley - 3D model by bryden.armstrong [1fe118a] - Sketchfab](https://sketchfab.com/3d-models/welding-trolley-1fe118a515e0499e995f1b2d94b3629a)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 72` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, arkasında korumalı gaz tüpü taşıma bölmesi ve önünde alet kutuları bulunan çok amaçlı bir atölye kaynak/tüp arabası CAD modelidir.
@@ -2390,7 +2401,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 26. [Cylinder Cart - 3D model by vUv (@vovaustimuk) [cd5be60] - Sketchfab](https://sketchfab.com/3d-models/cylinder-cart-cd5be60f0f2641aa9eaf5c3287bec211)
+### 27. [Cylinder Cart - 3D model by vUv (@vovaustimuk) [cd5be60] - Sketchfab](https://sketchfab.com/3d-models/cylinder-cart-cd5be60f0f2641aa9eaf5c3287bec211)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans üründeki 4 tekerlekli tasarımın 2 tekerlekli ve çemberli emniyet sistemine sahip bir CAD model varyasyonunu temsil etmektedir.
@@ -2401,7 +2412,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 27. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hand-truck-2)
+### 28. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hand-truck-2)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel gaz tüpü taşımak için tasarlanmış farklı bir 2 tekerlekli çelik taşıma arabasının CAD modelidir.
@@ -2412,7 +2423,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 28. [Gas Cylinder Hand Truck With Lift Assist | Rotatruck](https://www.rotacaster.com.au/shop-product/special-purpose-rotatruck/single-gas-cylinder-hand-trolley-lift-assist)
+### 29. [Gas Cylinder Hand Truck With Lift Assist | Rotatruck](https://www.rotacaster.com.au/shop-product/special-purpose-rotatruck/single-gas-cylinder-hand-trolley-lift-assist)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun farklı bir marka ve tasarıma sahip tüp taşıma arabasıdır.
@@ -2423,7 +2434,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 29. [Lift Assist Cylinder 150 Kg : Lift Assist 150 Kg Cylinder : Lift Assist ...](https://brickcages.com.au/rotatruck-sp-lift-assist-cylinder-load-capacity-150-kg)
+### 30. [Lift Assist Cylinder 150 Kg : Lift Assist 150 Kg Cylinder : Lift Assist ...](https://brickcages.com.au/rotatruck-sp-lift-assist-cylinder-load-capacity-150-kg)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüpü taşımak için tasarlanmış, tekerlekli ve emniyet elemanlarına sahip benzer bir endüstriyel tüp arabası mekanizmasını göstermektedir.
@@ -2434,7 +2445,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 30. [Gas-cylinder 3D models - Sketchfab](https://sketchfab.com/tags/gas-cylinder)
+### 31. [Gas-cylinder 3D models - Sketchfab](https://sketchfab.com/tags/gas-cylinder)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel standartlara uygun gaz tüpü taşıma arabalarının 3D CAD modelidir ve talep edilen zincirli güvenlik sistemi ile fonksiyonel yapıyı başarıyla temsil etmektedir.
@@ -2445,7 +2456,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 31. [Premium 3D Model of Medical Oxygen Cylinder Transport Cart by 7DMax](https://www.renderhub.com/7dmax/premium-3d-model-of-medical-oxygen-cylinder-transport-cart)
+### 32. [Premium 3D Model of Medical Oxygen Cylinder Transport Cart by 7DMax](https://www.renderhub.com/7dmax/premium-3d-model-of-medical-oxygen-cylinder-transport-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüpünü emniyet zinciri ve yönlendirilebilir tekerleklerle taşımak üzere tasarlanmış dikey tip bir tüp arabasının 3D CAD modelidir.
@@ -2456,7 +2467,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 32. [Workshop Pack 2 3D Model $15 - .unknown .lwo .xsi .obj .max - Free3D](https://free3d.com/3d-model/workshop-pack-2-9167.html)
+### 33. [Workshop Pack 2 3D Model $15 - .unknown .lwo .xsi .obj .max - Free3D](https://free3d.com/3d-model/workshop-pack-2-9167.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüplerini taşımak için zincir emniyet kilitli, tekerlekli ve kaynaklı çelik konstrüksiyona sahip farklı bir tüp arabası modelini göstermektedir.
@@ -2467,7 +2478,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 33. [Mig Tig Welding CART Plans inches Metric Units - Etsy](https://www.etsy.com/listing/1157014834/mig-tig-welding-cart-plans-inches-metric)
+### 34. [Mig Tig Welding CART Plans inches Metric Units - Etsy](https://www.etsy.com/listing/1157014834/mig-tig-welding-cart-plans-inches-metric)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 75` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, gaz tüplerini zincirle emniyete alarak taşıma özelliğine sahip, ancak ek olarak kaynak makineleri için raflar içeren çok fonksiyonlu bir atölye arabası CAD tasarımını göstermektedir.
@@ -2478,7 +2489,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 34. [Gas bottle carrier - download free 3D model by Gr. WABIL - Cad Crowd](https://www.cadcrowd.com/3d-models/gas-bottle-carrier)
+### 35. [Gas bottle carrier - download free 3D model by Gr. WABIL - Cad Crowd](https://www.cadcrowd.com/3d-models/gas-bottle-carrier)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüplerini güvenle taşımak üzere tasarlanmış kayışlı emniyet kelepçesine ve iki tekerlekli şasiye sahip bir tüp taşıma arabasının 3B CAD modelidir.
@@ -2489,7 +2500,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 35. [Gas Welding Torch Bottle Cart - Welding Cart and Cabinet](https://yongshuntemetal.en.made-in-china.com/product/COVTDIEGqfRt/China-Gas-Welding-Torch-Bottle-Cart.html)
+### 36. [Gas Welding Torch Bottle Cart - Welding Cart and Cabinet](https://yongshuntemetal.en.made-in-china.com/product/COVTDIEGqfRt/China-Gas-Welding-Torch-Bottle-Cart.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, kaynak makinesi ve çift tüp taşıma kapasitesine sahip, endüstriyel gereksinimleri karşılayan profesyonel bir CAD tasarımını temsil etmektedir.
@@ -2500,7 +2511,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 36. [Professional Gas Welding Tank 3D Model - Download](https://artgraphic3d.com/3d-models/gas-welding-tank/994-3d-bottle-gas-trolley.html)
+### 37. [Professional Gas Welding Tank 3D Model - Download](https://artgraphic3d.com/3d-models/gas-welding-tank/994-3d-bottle-gas-trolley.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, tekerlekli ve tüp sabitleme yapısına sahip endüstriyel taşıma arabasının üç boyutlu CAD modelini temsil etmektedir.
@@ -2511,7 +2522,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 37. [STL file welding trolley 1/10・3D print design to download・Cults](https://cults3d.com/en/3d-model/game/welding-trolley-1-10)
+### 38. [STL file welding trolley 1/10・3D print design to download・Cults](https://cults3d.com/en/3d-model/game/welding-trolley-1-10)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 75` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, kullanıcı gereksinimlerinde belirtilen gaz tüpü taşıma işlevini yerine getiren, kaynak makinesi entegreli modifiye bir 3D CAD modelidir.
@@ -2522,7 +2533,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 38. [Three Wheeled LPG Gas Cylinder Trolley - Puncture Proof Wheels | Sack ...](https://www.pinterest.com/pin/three-wheeled-lpg-gas-cylinder-trolley-puncture-proof-wheels--1016617315858178482/)
+### 39. [Three Wheeled LPG Gas Cylinder Trolley - Puncture Proof Wheels | Sack ...](https://www.pinterest.com/pin/three-wheeled-lpg-gas-cylinder-trolley-puncture-proof-wheels--1016617315858178482/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Görseldeki ürün, kullanıcı gereksinimlerini karşılayan zincirli emniyet kilitli, tekerlekli ve gaz tüpü taşıma amacına uygun profesyonel bir çelik atölye arabasıdır.
@@ -2533,7 +2544,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 39. [Gas Cylinder Trolley with puncture proof Tyres - Arc-i Welding Industries](https://www.weld.com.au/product/gas-cylinder-trolley-with-pneumatic-tyres/)
+### 40. [Gas Cylinder Trolley with puncture proof Tyres - Arc-i Welding Industries](https://www.weld.com.au/product/gas-cylinder-trolley-with-pneumatic-tyres/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Görseldeki ürün, kullanıcı gereksinimlerinde belirtilen kaynaklı çelik konstrüksiyon, zincirli emniyet kilidi ve endüstriyel tüp taşıma standartlarına tam uyum sağlamaktadır.
@@ -2544,7 +2555,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 40. [Dropship Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart With ...](https://www.doba.com/product/plKYDJNikeqf/dropshipping-vevor-dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-440lbs-static-weight-capacity-10-inch-solid-wheels-and-tank-storage-safety-chains-suitable-for-double-125-inch-dia-gas-cylinders.html)
+### 41. [Dropship Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart With ...](https://www.doba.com/product/plKYDJNikeqf/dropshipping-vevor-dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-440lbs-static-weight-capacity-10-inch-solid-wheels-and-tank-storage-safety-chains-suitable-for-double-125-inch-dia-gas-cylinders.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, istenen sanayi tipi gaz tüplerini taşıma, zincirli emniyet kilidi ve çelik konstrüksiyon özelliklerini tam olarak karşılayan işlevsel bir taşıma arabasıdır.
@@ -2555,7 +2566,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 41. [Dual Welding Cylinder Cart,Gas Cylinder Hand Truck with Safety Chains ...](https://www.walmart.com/ip/Dual-Welding-Cylinder-Cart-Gas-Cylinder-Hand-Truck-with-Safety-Chains-and-8-Tires-Black/20083068446)
+### 42. [Dual Welding Cylinder Cart,Gas Cylinder Hand Truck with Safety Chains ...](https://www.walmart.com/ip/Dual-Welding-Cylinder-Cart-Gas-Cylinder-Hand-Truck-with-Safety-Chains-and-8-Tires-Black/20083068446)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Görsel, belirtilen endüstriyel standartlara uygun, emniyet zincirli ve çelik konstrüksiyonlu bir gaz tüpü taşıma arabasının tam bir eşleşmesidir.
@@ -2566,7 +2577,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 42. [Welding Cylinder Truck 3D - TurboSquid 1462319](https://www.turbosquid.com/3d-models/welding-cylinder-truck-3d-1462319)
+### 43. [Welding Cylinder Truck 3D - TurboSquid 1462319](https://www.turbosquid.com/3d-models/welding-cylinder-truck-3d-1462319)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntülenen aday ürün, endüstriyel gaz tüplerini taşımak için tasarlanmış, zincir emniyetli ve tekerlekli yapısıyla belirtilen teknik gereksinimleri karşılayan bir kaynaklı çelik taşıma arabası modelidir.
@@ -2577,7 +2588,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 43. [Oxygen Cylinder Welding](https://www.animalia-life.club/qa/pictures/oxygen-cylinder-welding.html)
+### 44. [Oxygen Cylinder Welding](https://www.animalia-life.club/qa/pictures/oxygen-cylinder-welding.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, kullanıcı gereksinimlerini karşılayan, çift tüp taşıma kapasitesine sahip endüstriyel tip bir gaz tüpü taşıma arabasının 3D modelidir.
@@ -2588,7 +2599,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 44. [Versatile Acetylene Oxygen Cylinder Cart with Foldable Design for ...](https://lylishan.en.made-in-china.com/product/ZmUYrtNchCWu/China-Versatile-Acetylene-Oxygen-Cylinder-Cart-with-Foldable-Design-for-Compact-Storage.html)
+### 45. [Versatile Acetylene Oxygen Cylinder Cart with Foldable Design for ...](https://lylishan.en.made-in-china.com/product/ZmUYrtNchCWu/China-Versatile-Acetylene-Oxygen-Cylinder-Cart-with-Foldable-Design-for-Compact-Storage.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, emniyet zinciri ve sağlam gövde yapısı ile kullanıcı gereksinimlerini karşılayan endüstriyel bir tüp taşıma arabasıdır.
@@ -2599,7 +2610,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 45. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/welding-cart-17)
+### 46. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/welding-cart-17)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 75` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel bir gaz tüpü taşıma arabasının CAD modelidir ve belirtilen güvenlik zinciri ve tekerlekli şasi gereksinimlerini teknik olarak karşılamaktadır.
@@ -2610,7 +2621,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 46. [DIY Welding CART Plans standard & Metric Multipurpose Cart Build Plans ...](https://www.pinterest.com/pin/190769734205998667/)
+### 47. [DIY Welding CART Plans standard & Metric Multipurpose Cart Build Plans ...](https://www.pinterest.com/pin/190769734205998667/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, endüstriyel tip gaz tüpü taşıma arabasının çok raflı ve modüler bir varyasyonuna ait teknik CAD modelidir; temel taşıma işlevini ve güvenlik gereksinimlerini karşılamaktadır.
@@ -2621,7 +2632,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 47. [Heavy Duty Gas Cylinder Trolley for Large Diameter Cylinders at ₹ 2000 ...](https://www.indiamart.com/proddetail/heavy-duty-gas-cylinder-trolley-for-large-diameter-cylinders-2859086869588.html)
+### 48. [Heavy Duty Gas Cylinder Trolley for Large Diameter Cylinders at ₹ 2000 ...](https://www.indiamart.com/proddetail/heavy-duty-gas-cylinder-trolley-for-large-diameter-cylinders-2859086869588.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, sağlam çelik iskelet ve ergonomik tutamak özelliklerini tam olarak karşılamaktadır.
@@ -2632,7 +2643,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 48. [Welding Cart Kits | All-a-cart](https://www.all-a-cart.com/welding-cart-kits)
+### 49. [Welding Cart Kits | All-a-cart](https://www.all-a-cart.com/welding-cart-kits)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüplerini güvenle taşımak için tasarlanmış, kaynaklı çelik konstrüksiyona ve sabitleme özelliklerine sahip işlevsel bir taşıma arabası CAD modelidir.
@@ -2643,7 +2654,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 49. [Welding Cart (Single and Double Gas Bottle Variations) – Canaweld](https://canaweld.com/products/welding-cart-single-and-double-gas-bottle-variations)
+### 50. [Welding Cart (Single and Double Gas Bottle Variations) – Canaweld](https://canaweld.com/products/welding-cart-single-and-double-gas-bottle-variations)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntülenen ürün, endüstriyel kaynak makineleri ile birlikte tüp taşımaya yönelik geliştirilmiş, çok fonksiyonlu ve ergonomik bir atölye taşıma arabası olup kullanıcı gereksinimlerini karşılamaktadır.
@@ -2654,7 +2665,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 50. [Cart for welding CO2 tank for easier transportation. - download free 3D ...](https://www.cadcrowd.com/3d-models/cart-for-welding-co2-tank-for-easier-transportatio)
+### 51. [Cart for welding CO2 tank for easier transportation. - download free 3D ...](https://www.cadcrowd.com/3d-models/cart-for-welding-co2-tank-for-easier-transportatio)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Görseldeki aday, kullanıcı gereksinimlerinde belirtilen sanayi tipi gaz tüpü taşıma arabasının temel mekanik yapısını ve tasarımını tam olarak karşılayan bir CAD modelidir.
@@ -2665,7 +2676,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 51. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/two-wheel-hand-truck-1)
+### 52. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/two-wheel-hand-truck-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel tüp taşıma arabasının temel fonksiyonlarını ve yapısını temsil eden 3D bir CAD modelidir.
@@ -2676,7 +2687,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 52. [Ergonomic Cylinder Trolley Capacity 80Kg Pneumatic Tyred Wheels - Hunt ...](https://huntoffice.co.uk/ergonomic-cylinder-trolley-sy373221.html)
+### 53. [Ergonomic Cylinder Trolley Capacity 80Kg Pneumatic Tyred Wheels - Hunt ...](https://huntoffice.co.uk/ergonomic-cylinder-trolley-sy373221.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Görsel, kullanıcı gereksinimlerini karşılayan zincirli emniyet kilidine, ergonomik tutamağa ve sanayi tipi tüp taşıma işlevine sahip profesyonel bir endüstriyel tüp taşıma arabası modelidir.
@@ -2687,7 +2698,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 53. [3-Tier Welding Cart Welder Trolley for Gas Bottles on Wheels with ...](https://www.diy.com/departments/3-tier-welding-cart-welder-trolley-for-gas-bottles-on-wheels-with-safety-chain/9313520299603_BQ.prd)
+### 54. [3-Tier Welding Cart Welder Trolley for Gas Bottles on Wheels with ...](https://www.diy.com/departments/3-tier-welding-cart-welder-trolley-for-gas-bottles-on-wheels-with-safety-chain/9313520299603_BQ.prd)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, talep edilen zincirli emniyet kilidi, gaz tüpü taşıma platformu ve ergonomik tasarım özelliklerini karşılayan kaynaklı çelik bir endüstriyel tüp taşıma arabasıdır.
@@ -2698,7 +2709,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 54. [Welding Bottle Trolley with Pneumatic Tyres - 2 Bottle - MDTools](https://www.mdtools.co.uk/product/welding-bottle-trolley-with-pneumatic-tyres-2-bottle/)
+### 55. [Welding Bottle Trolley with Pneumatic Tyres - 2 Bottle - MDTools](https://www.mdtools.co.uk/product/welding-bottle-trolley-with-pneumatic-tyres-2-bottle/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, kullanıcı gereksinimlerini karşılayan, çift tüp kapasiteli, emniyet zincirlerine ve ergonomik tutamaklara sahip endüstriyel tip çelik bir tüp taşıma arabasını temsil etmektedir.
@@ -2709,7 +2720,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 55. [Gas Cylinder Trolleys with Rear Castors | Welding table, Welding table ...](https://br.pinterest.com/pin/gas-cylinder-trolleys-with-rear-castors--784259722609836963/)
+### 56. [Gas Cylinder Trolleys with Rear Castors | Welding table, Welding table ...](https://br.pinterest.com/pin/gas-cylinder-trolleys-with-rear-castors--784259722609836963/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilitli, tekerlekli ve sanayi tipi gaz tüplerini taşımaya uygun endüstriyel tüp arabası tasarımıyla tam uyumludur.
@@ -2720,7 +2731,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 56. [Best Cylinder Dollies: Top Picks for Safe and Easy Transport](https://toptenreviewed.com/best-cylinder-dollies/)
+### 57. [Best Cylinder Dollies: Top Picks for Safe and Easy Transport](https://toptenreviewed.com/best-cylinder-dollies/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Aday görsel, kullanıcı gereksinimlerini tam olarak karşılayan, güvenlik zinciri, destek tekerlekleri ve tüp taşıma platformu özelliklerine sahip endüstriyel tip bir tüp taşıma arabasının doğrudan bir eşleşmesidir.
@@ -2731,7 +2742,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 57. [Welding Gas Cylinder Transportation at Brian Lazzaro blog](https://storage.googleapis.com/djrikvvkloywde/welding-gas-cylinder-transportation.html)
+### 58. [Welding Gas Cylinder Transportation at Brian Lazzaro blog](https://storage.googleapis.com/djrikvvkloywde/welding-gas-cylinder-transportation.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Her iki görsel de sanayi tipi ağır gaz tüplerini taşımak için tasarlanmış, ergonomik kollu ve destek tekerlekli profesyonel taşıma sistemlerini temsil etmektedir.
@@ -2742,7 +2753,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 58. [Free STL file Co2 gas bottles on trolley 60mm .stl・3D printable model ...](https://cults3d.com/en/3d-model/tool/co2-gas-bottles-on-trolley-60mm-stl)
+### 59. [Free STL file Co2 gas bottles on trolley 60mm .stl・3D printable model ...](https://cults3d.com/en/3d-model/tool/co2-gas-bottles-on-trolley-60mm-stl)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüpü taşıma arabasının 3 boyutlu yazıcıdan alınmış prototip/maket bir varyasyonunu göstermektedir ve temel gereksinimleri karşılamaktadır.
@@ -2753,7 +2764,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 59. [HOHYN Dual Welding Cylinder Cart, torch cart, Oxygen Acetylene Tank ...](https://www.walmart.com/ip/HOHYN-Dual-Welding-Cylinder-Cart-torch-cart-Oxygen-Acetylene-Tank-Cart-440LBS-Static-Weight-Capacity-10-Inch-Solid-Wheels-Tank-Storage-Safety-Chains/19186555967)
+### 60. [HOHYN Dual Welding Cylinder Cart, torch cart, Oxygen Acetylene Tank ...](https://www.walmart.com/ip/HOHYN-Dual-Welding-Cylinder-Cart-torch-cart-Oxygen-Acetylene-Tank-Cart-440LBS-Static-Weight-Capacity-10-Inch-Solid-Wheels-Tank-Storage-Safety-Chains/19186555967)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, güvenlik zinciri ve arka destek tekerleklerine sahip çiftli endüstriyel gaz tüpü taşıma arabasının işlevsel bir 3D/CAD modelidir.
@@ -2764,7 +2775,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 60. [🛤️ welder・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/art/welder-explorerpaydi)
+### 61. [🛤️ welder・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/art/welder-explorerpaydi)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** Görsel 2, sanayi tipi gaz tüplerini taşımak için tasarlanmış, zincir mekanizmalı ve tekerlekli taşıma arabasının 3D dijital modelini temsil etmektedir.
@@ -2775,7 +2786,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 61. [Gas Cylinder 3D model 3D printable | CGTrader](https://www.cgtrader.com/3d-print-models/miniatures/other/gas-cylinder-4d2bf2b8-380c-48ab-96cc-361ef6b733c2)
+### 62. [Gas Cylinder 3D model 3D printable | CGTrader](https://www.cgtrader.com/3d-print-models/miniatures/other/gas-cylinder-4d2bf2b8-380c-48ab-96cc-361ef6b733c2)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir 3 boyutlu CAD tüp arabası modelini göstermektedir.
@@ -2786,7 +2797,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 62. [Bottle gas trolley 3D - TurboSquid 1524501](https://www.turbosquid.com/3d-models/bottle-gas-trolley-3d-1524501)
+### 63. [Bottle gas trolley 3D - TurboSquid 1524501](https://www.turbosquid.com/3d-models/bottle-gas-trolley-3d-1524501)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Aday görsel, istenen teknik gereksinimleri karşılayan endüstriyel tip gaz tüpü taşıma arabasının 3D modellemesini ve tasarım geometrisini doğru bir şekilde yansıtmaktadır.
@@ -2797,7 +2808,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 63. [Amazon.com: Holdwell S Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart with 440LBS Weight ...](https://www.amazon.com/Holdwell-Cylinder-Acetylene-12-5-Inch-Cylinders/dp/B0GK8N5YFT)
+### 64. [Amazon.com: Holdwell S Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart with 440LBS Weight ...](https://www.amazon.com/Holdwell-Cylinder-Acetylene-12-5-Inch-Cylinders/dp/B0GK8N5YFT)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, benzer zincirli emniyet kilidine ve çelik gövdeye sahip eşdeğer bir tüp arabası modelidir.
@@ -2808,7 +2819,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 64. [YESWELDER Welding Cart HJC-02 Instruction Manual](https://manuals.plus/asin/B0C6PPTP7W)
+### 65. [YESWELDER Welding Cart HJC-02 Instruction Manual](https://manuals.plus/asin/B0C6PPTP7W)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, gaz tüpü taşımak için tasarlanmış farklı bir konfigürasyona sahip endüstriyel tüp taşıma arabasını (kaynak arabası varyasyonu) göstermektedir.
@@ -2819,7 +2830,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 65. [🖼️ 4mm Scale Oxy-Acetylene Bottles and Frame・ STL File for ・Cults](https://cults3d.com/en/3d-model/game/4mm-scale-oxy-acetylene-bottles-and-frame)
+### 66. [🖼️ 4mm Scale Oxy-Acetylene Bottles and Frame・ STL File for ・Cults](https://cults3d.com/en/3d-model/game/4mm-scale-oxy-acetylene-bottles-and-frame)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, emniyet çerçeveli ve tekerlekli, kullanıcı gereksinimlerini karşılayan bir 3D CAD modelidir.
@@ -2830,7 +2841,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 66. [3D Double Oxygen Bottle Trolley Model - TurboSquid 2293466](https://www.turbosquid.com/3d-models/3d-double-oxygen-bottle-trolley-model-2293466)
+### 67. [3D Double Oxygen Bottle Trolley Model - TurboSquid 2293466](https://www.turbosquid.com/3d-models/3d-double-oxygen-bottle-trolley-model-2293466)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, iki adet basınçlı gaz tüpünü güvenle taşımak üzere tasarlanmış ergonomik tutamaklı ve tekerlekli bir tüp taşıma arabasının 3D CAD modelidir.
@@ -2841,7 +2852,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 67. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library?page=1&time=all_time&query=trolley)
+### 68. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library?page=1&time=all_time&query=trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** Görsel 2, sanayi tipi gaz tüplerini taşımak için tasarlanmış standart bir çelik taşıma arabasının CAD modelidir ve kullanıcı gereksinimlerini tam olarak karşılamaktadır.
@@ -2852,7 +2863,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 68. [2 Cylinder Capacity, 1,000 lb Load Capacity, Firewall Welding Cylinder Hand Truck - 5WXF4|554 ...](https://www.grainger.com/product/SAFTCART-Firewall-Welding-Cylinder-5WXF4)
+### 69. [2 Cylinder Capacity, 1,000 lb Load Capacity, Firewall Welding Cylinder Hand Truck - 5WXF4|554 ...](https://www.grainger.com/product/SAFTCART-Firewall-Welding-Cylinder-5WXF4)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, sanayi tipi gaz tüplerini güvenli bir şekilde taşımak için gerekli olan çelik konstrüksiyon, tekerlekli sistem ve emniyet kilidi gereksinimlerini karşılayan endüstriyel bir taşıma arabasıdır.
@@ -2863,7 +2874,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 69. [Part 2 of building a small footprint welding cart - HomemadeTools.net](https://www.homemadetools.net/forum/part-2-building-small-footprint-welding-cart-103078)
+### 70. [Part 2 of building a small footprint welding cart - HomemadeTools.net](https://www.homemadetools.net/forum/part-2-building-small-footprint-welding-cart-103078)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, gaz tüpü taşıma fonksiyonuna ek olarak kaynak makinesi platformu da içeren entegre bir atölye taşıma arabasının teknik çizimlerini ve CAD modellerini göstermektedir.
@@ -2874,7 +2885,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 70. [Heavy Duty Welding Cart DXF CNC PDF - Plans for 5mm Sheet Metal, Reinforced Design, Diy Welding ...](https://www.etsy.com/listing/1855192114/heavy-duty-welding-cart-dxf-cnc-pdf)
+### 71. [Heavy Duty Welding Cart DXF CNC PDF - Plans for 5mm Sheet Metal, Reinforced Design, Diy Welding ...](https://www.etsy.com/listing/1855192114/heavy-duty-welding-cart-dxf-cnc-pdf)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, istenen sanayi tipi gaz tüpü taşıma arabasının fonksiyonel olarak geliştirilmiş, kaynak makinesi entegreli bir CAD tasarımını içermektedir.
@@ -2885,7 +2896,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 71. [Vestil Fork-Mounted Welding Cylinder Caddy - 6 Cylinder Capacity, Safety Chains, Powder-Coat ...](https://www.northerntool.com/products/vestil-cylinder-caddy-model-cyl-p-6-856430)
+### 72. [Vestil Fork-Mounted Welding Cylinder Caddy - 6 Cylinder Capacity, Safety Chains, Powder-Coat ...](https://www.northerntool.com/products/vestil-cylinder-caddy-model-cyl-p-6-856430)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, sanayi tipi gaz tüplerini sabitlemek ve taşımak için zincirli emniyet kilidine sahip, atölye kullanımına uygun profesyonel bir gaz tüp taşıma standı sistemidir.
@@ -2896,7 +2907,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 72. [Buy Welding Cart Plans & DXF Plasma Cut Files DIY Kit Online in India - Etsy](https://www.etsy.com/in-en/listing/1338070236/welding-cart-plans-dxf-plasma-cut-files)
+### 73. [Buy Welding Cart Plans & DXF Plasma Cut Files DIY Kit Online in India - Etsy](https://www.etsy.com/in-en/listing/1338070236/welding-cart-plans-dxf-plasma-cut-files)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel tip gaz tüpü taşıma arabasının tüm fonksiyonel gereksinimlerini (güçlendirilmiş şasi, tüp sabitleme mekanizması ve ergonomik tasarım) içeren profesyonel bir 3D CAD modelidir.
@@ -2907,7 +2918,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 73. [Gas Cylinder Trolley Cage | Troden Equipment](https://www.troden.com.au/gas-cylinder-trolley-cage)
+### 74. [Gas Cylinder Trolley Cage | Troden Equipment](https://www.troden.com.au/gas-cylinder-trolley-cage)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de endüstriyel gaz tüplerini güvenle taşımak üzere tasarlanmış, emniyet kilit mekanizmasına ve sağlam çelik yapıya sahip, kullanıcı gereksinimlerini karşılayan taşıma arabalarıdır.
@@ -2918,7 +2929,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 74. [Magliner Gemini XL Convertible Hand Truck, 4-Ply Pneumatic Wheels](https://www.digitalbuyer.com/magliner-gemini-xl-convertible-hand-truck-4-ply-pneumatic-wheels.html)
+### 75. [Magliner Gemini XL Convertible Hand Truck, 4-Ply Pneumatic Wheels](https://www.digitalbuyer.com/magliner-gemini-xl-convertible-hand-truck-4-ply-pneumatic-wheels.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** Magliner, gaz tüpü taşıma arabaları konusunda endüstri standardı olan bir markadır ve sunulan görsel, ergonomik tutamak sistemine sahip endüstriyel bir taşıma ekipmanı parçasıdır.
@@ -2929,7 +2940,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 75. [Ergonomic Acetylene Oxygen Cylinder Trolley for Easy Mobility - 2026 Gas Cylinder, Seamless ...](https://lylishan.en.made-in-china.com/product/rnKYBxdvAjVH/China-Ergonomic-Acetylene-Oxygen-Cylinder-Trolley-for-Easy-Mobility.html)
+### 76. [Ergonomic Acetylene Oxygen Cylinder Trolley for Easy Mobility - 2026 Gas Cylinder, Seamless ...](https://lylishan.en.made-in-china.com/product/rnKYBxdvAjVH/China-Ergonomic-Acetylene-Oxygen-Cylinder-Trolley-for-Easy-Mobility.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Görseldeki ürün, istenen sanayi tipi gaz tüplerini güvenli taşıma ve sabitleme zinciri gereksinimlerini karşılayan standart bir endüstriyel tüp taşıma arabasıdır.
@@ -2940,7 +2951,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 76. [Convenient Acetylene Oxygen Cylinder Transport Cart for Job Site Efficiency - Gas Cylinder and ...](https://lylishan.en.made-in-china.com/product/RmurocIPssWx/China-Convenient-Acetylene-Oxygen-Cylinder-Transport-Cart-for-Job-Site-Efficiency.html)
+### 77. [Convenient Acetylene Oxygen Cylinder Transport Cart for Job Site Efficiency - Gas Cylinder and ...](https://lylishan.en.made-in-china.com/product/RmurocIPssWx/China-Convenient-Acetylene-Oxygen-Cylinder-Transport-Cart-for-Job-Site-Efficiency.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, çift tüp taşıma kapasiteli benzer bir gaz tüpü arabası (tüp arabası) mekanizmasını göstermektedir.
@@ -2951,7 +2962,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 77. [Ergonomic Acetylene Oxygen Cylinder Trolley with Multi-Directional Wheels - Gas Cylinder and ...](https://lylishan.en.made-in-china.com/product/cEBRNraMZsVk/China-Ergonomic-Acetylene-Oxygen-Cylinder-Trolley-with-Multi-Directional-Wheels.html)
+### 78. [Ergonomic Acetylene Oxygen Cylinder Trolley with Multi-Directional Wheels - Gas Cylinder and ...](https://lylishan.en.made-in-china.com/product/cEBRNraMZsVk/China-Ergonomic-Acetylene-Oxygen-Cylinder-Trolley-with-Multi-Directional-Wheels.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, iki tüp taşıma kapasitesine sahip farklı bir yapıda olsa da temel işlevi ve kullanım amacı açısından gaz tüpü arabası gereksinimlerini karşılamaktadır.
@@ -2962,7 +2973,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 78. [Cylinder Hand Trucks - GasEquipmentCatalog.net](https://www.gasequipmentcatalog.net/product/118)
+### 79. [Cylinder Hand Trucks - GasEquipmentCatalog.net](https://www.gasequipmentcatalog.net/product/118)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış üç tekerlekli, zincirli emniyet kilitli ve ergonomik tutamağa sahip endüstriyel tüp arabasıyla birebir aynı mekanik yapıya ve özelliklere sahiptir.
@@ -2973,7 +2984,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 79. [Welding Gas Cylinders - Loss Control Academy](https://losscontrolacademy.com/resources/welding-gas-cylinders/)
+### 80. [Welding Gas Cylinders - Loss Control Academy](https://losscontrolacademy.com/resources/welding-gas-cylinders/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, sanayi tipi gaz tüplerinin taşınması için kullanılan standart bir el arabasını içermektedir ve kullanıcı gereksinimlerini tam olarak karşılamaktadır.
@@ -2984,7 +2995,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 80. [How to Assemble a Welding Cart: Quick & Easy Step-by-Step Guide - ToolsGearLab](https://toolsgearlab.com/how-to-assemble-a-welding-cart/)
+### 81. [How to Assemble a Welding Cart: Quick & Easy Step-by-Step Guide - ToolsGearLab](https://toolsgearlab.com/how-to-assemble-a-welding-cart/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüpü taşıma işlevini de içeren çok katlı ve raflı bir kaynak arabası CAD tasarımını göstermektedir.
@@ -2995,7 +3006,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 81. [Stair Climber Handtruck with Two Gas Cylinder Capacity - 3D Model by surf3d](https://www.renderhub.com/surf3d/stair-climber-handtruck-with-two-gas-cylinder-capacity)
+### 82. [Stair Climber Handtruck with Two Gas Cylinder Capacity - 3D Model by surf3d](https://www.renderhub.com/surf3d/stair-climber-handtruck-with-two-gas-cylinder-capacity)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, merdiven çıkma tekerlek düzeneğine sahip ve çift tüp taşıyabilen profesyonel bir 3D CAD modelidir.
@@ -3006,7 +3017,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 82. [Old welding cylinders with cart - Download Free 3D model by Miłosz ...](https://sketchfab.com/3d-models/old-welding-cylinders-with-cart-6baaf9d0b81f44c0b213249996a5ba7a)
+### 83. [Old welding cylinders with cart - Download Free 3D model by Miłosz ...](https://sketchfab.com/3d-models/old-welding-cylinders-with-cart-6baaf9d0b81f44c0b213249996a5ba7a)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir yapıda (iki tekerlekli) endüstriyel tüp arabası modelini göstermektedir.
@@ -3017,7 +3028,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 83. [Gas Cylinder Lifter and Gas Cylinder Lifter Trolley.](https://cylinderlifter.com/)
+### 84. [Gas Cylinder Lifter and Gas Cylinder Lifter Trolley.](https://cylinderlifter.com/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, referans ürünle aynı işlevi gören endüstriyel tip gaz tüpü taşıma arabasını ve kullanım şeklini eksiksiz olarak göstermektedir.
@@ -3028,7 +3039,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 84. [Wearing-resisting Usage Double Gas Cylinder Hand Trolley- Wuxi tongyang ...](https://www.yinglift.com/product/HandT/46.html)
+### 85. [Wearing-resisting Usage Double Gas Cylinder Hand Trolley- Wuxi tongyang ...](https://www.yinglift.com/product/HandT/46.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, çoklu tüp taşıma kapasitesine ve katlanabilir destek tekerleklerine sahip eşdeğer bir tüp arabası mekanizmasını göstermektedir.
@@ -3039,7 +3050,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 85. [Handtruck에 가스통 3D 모델 $15 - .3ds .blend .dae .fbx .obj - Free3D](https://free3d.com/ko/3d-model/gas-cylinder-on-handtruck-1299.html)
+### 86. [Handtruck에 가스통 3D 모델 $15 - .3ds .blend .dae .fbx .obj - Free3D](https://free3d.com/ko/3d-model/gas-cylinder-on-handtruck-1299.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz silindirlerini taşımak için tasarlanmış standart bir tüp arabasının 3 boyutlu CAD modelini göstermektedir.
@@ -3050,7 +3061,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 86. [3D model Welding cart VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-machine/welding-cart)
+### 87. [3D model Welding cart VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-machine/welding-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel tip gaz tüplerini taşımak için tasarlanmış, emniyetli ve işlevsel bir kaynaklı çelik tüp taşıma arabasının 3D modelini temsil etmektedir.
@@ -3061,7 +3072,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 87. [Welding Cart - 3D model by Chamod1999 (@Chamodp) [ba489cb] - Sketchfab](https://sketchfab.com/3d-models/welding-cart-ba489cb57a8749eeb767001075656f48)
+### 88. [Welding Cart - 3D model by Chamod1999 (@Chamodp) [ba489cb] - Sketchfab](https://sketchfab.com/3d-models/welding-cart-ba489cb57a8749eeb767001075656f48)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, üzerinde oksijen ve asetilen tüpleri bulunan farklı bir tasarrufa sahip olsa da aynı endüstriyel tüp arabası mekanizmasını ve işlevini temsil etmektedir.
@@ -3072,7 +3083,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 88. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bottle-welding-cart-design-economical-1)
+### 89. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bottle-welding-cart-design-economical-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 75` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, kaynak makinesi ile birlikte argon/gaz tüpü taşımak üzere mafsallı tüp haznesine ve tekerlekli şasiye sahip bir atölye kaynak/tüp arabası CAD modelidir.
@@ -3083,7 +3094,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 89. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/convertible-hand-truck-1)
+### 90. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/convertible-hand-truck-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, sanayi tipi gaz tüpü taşıma arabasının teknik bir CAD modelidir ve kullanıcı gereksinimlerindeki temel yapısal özellikleri karşılamaktadır.
@@ -3094,7 +3105,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 90. [Gas Cylinder Handling Kit – Strong Hand Tools](https://www.stronghandtools.com/products/gas-cylinder-handling-kit)
+### 91. [Gas Cylinder Handling Kit – Strong Hand Tools](https://www.stronghandtools.com/products/gas-cylinder-handling-kit)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini güvenle taşımak için tasarlanmış farklı renk ve aparatlara sahip alternatif bir tüp arabası modelidir.
@@ -3105,7 +3116,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 91. [🛒 HandTruck・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/tool/handtruck)
+### 92. [🛒 HandTruck・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/tool/handtruck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü 2, referans üründeki 4 tekerlekli destek yapısını, ergonomik tutamağı ve tüp sabitleme özelliklerini içeren profesyonel bir CAD modelidir.
@@ -3116,7 +3127,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 92. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hand-truck-13)
+### 93. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hand-truck-13)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış benzer bir tüp arabasının CAD modelidir.
@@ -3127,7 +3138,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 93. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-17)
+### 94. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-17)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.
@@ -3138,7 +3149,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 94. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-29)
+### 95. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-29)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.
@@ -3149,7 +3160,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 95. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-28)
+### 96. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-28)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (960x446px)) + Teknik Kaynak Doğrulaması.
@@ -3160,7 +3171,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 96. [Magliner Aluminium Hand Truck 115AAM1010V](https://www.doverco.ca/product/D01_MatHand/D01_MatHand_Mglnr/D401929)
+### 97. [Magliner Aluminium Hand Truck 115AAM1010V](https://www.doverco.ca/product/D01_MatHand/D01_MatHand_Mglnr/D401929)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir markaya ait (Magliner) endüstriyel tip tüp arabası olup temel işlev ve gereksinimleri karşılamaktadır.
@@ -3171,7 +3182,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 97. [Gas Cylinder Hand Truck - Little Giant](https://www.littlegiant-usa.com/product/gas-cylinder-hand-truck/)
+### 98. [Gas Cylinder Hand Truck - Little Giant](https://www.littlegiant-usa.com/product/gas-cylinder-hand-truck/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun zincirli emniyet kilitli ve iki tekerlekli çelik gaz tüpü taşıma arabası gereksinimini tam olarak karşılamaktadır.
@@ -3182,7 +3193,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 98. [Justrite Double Gas-Cylinder Hand Trucks 2 Cylinders | Buy Online ...](https://www.fishersci.com/shop/products/double-gas-cylinder-hand-trucks/19085761)
+### 99. [Justrite Double Gas-Cylinder Hand Trucks 2 Cylinders | Buy Online ...](https://www.fishersci.com/shop/products/double-gas-cylinder-hand-trucks/19085761)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel standartlara uygun, çift tüp kapasiteli ve benzer tekerlek/tutamak düzenine sahip eşdeğer bir gaz tüpü taşıma arabasıdır.
@@ -3193,7 +3204,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 99. [Build your own Magliner Truck Select from a list of standard parts ...](https://www.handtrucksdirect.co.uk/build-your-own-magliner-truck-select-from-a-list-of-standard-parts-prices-start-from-16-p.asp)
+### 100. [Build your own Magliner Truck Select from a list of standard parts ...](https://www.handtrucksdirect.co.uk/build-your-own-magliner-truck-select-from-a-list-of-standard-parts-prices-start-from-16-p.asp)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, Magliner marka gaz tüpü taşıma arabasının montaj şemasını (patlatılmış görünüm) göstermektedir ve kullanıcı gereksinimlerini teknik düzeyde karşılamaktadır.
@@ -3204,7 +3215,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 100. [CNC Plasma-cut DXF File | Oxy-acetylene Dolly | Digital Download - Etsy](https://www.etsy.com/listing/4476769733/cnc-plasma-cut-dxf-file-oxy-acetylene)
+### 101. [CNC Plasma-cut DXF File | Oxy-acetylene Dolly | Digital Download - Etsy](https://www.etsy.com/listing/4476769733/cnc-plasma-cut-dxf-file-oxy-acetylene)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir konfigürasyona sahip eşdeğer bir tüp arabası CAD modelidir.
@@ -3215,7 +3226,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 101. [3D Cylinder Trolley - TurboSquid 2331246](https://www.turbosquid.com/3d-models/3d-cylinder-trolley-2331246)
+### 102. [3D Cylinder Trolley - TurboSquid 2331246](https://www.turbosquid.com/3d-models/3d-cylinder-trolley-2331246)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüpü taşımak için kullanılan endüstriyel el arabasının 3 boyutlu CAD modelini göstermektedir ve temel taşıma mekanizmasını yansıtmaktadır.
@@ -3226,7 +3237,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 102. [Dual Cylinder Cart / Dolly 3D Model $10 - .3ds .c4d .fbx .obj - Free3D](https://free3d.com/3d-model/dual-cylinder-cart-dolly-3208.html)
+### 103. [Dual Cylinder Cart / Dolly 3D Model $10 - .3ds .c4d .fbx .obj - Free3D](https://free3d.com/3d-model/dual-cylinder-cart-dolly-3208.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, üzerinde gaz tüpleri bulunan farklı bir şasi tasarımına sahip olsa da, aynı işlevi gören endüstriyel tüp taşıma arabasını temsil etmektedir.
@@ -3237,7 +3248,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 103. [Welding Cart Plans & DXF Plasma Cut Files DIY Kit - Etsy](https://www.etsy.com/listing/1338070236/welding-cart-plans-dxf-plasma-cut-files)
+### 104. [Welding Cart Plans & DXF Plasma Cut Files DIY Kit - Etsy](https://www.etsy.com/listing/1338070236/welding-cart-plans-dxf-plasma-cut-files)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Aday görsel, endüstriyel tüp taşıma gereksinimlerini karşılayan, kaynaklı çelik yapılı bir gaz tüpü taşıma arabasının teknik planlarını ve CAD modelini temsil etmektedir.
@@ -3248,7 +3259,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 104. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-2)
+### 105. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-2)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (960x540px)) + Teknik Kaynak Doğrulaması.
@@ -3259,7 +3270,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 105. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/lpg-gas-cylinder-4)
+### 106. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/lpg-gas-cylinder-4)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (640x480px)) + Teknik Kaynak Doğrulaması.
@@ -3270,7 +3281,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 106. [Gas Cylinder on Handtruck 3D Model $15 - .3ds .blend .dae .fbx .obj - Free3D](https://free3d.com/3d-model/gas-cylinder-on-handtruck-1299.html)
+### 107. [Gas Cylinder on Handtruck 3D Model $15 - .3ds .blend .dae .fbx .obj - Free3D](https://free3d.com/3d-model/gas-cylinder-on-handtruck-1299.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görseldeki aday, referans ürünle aynı işlevsel amacı taşıyan bir gaz tüpü taşıma arabasının 3D modelidir.
@@ -3281,7 +3292,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 107. [Gas Cylinder Hand Trucks | Secure & Efficient Cylinder Transport ...](https://www.denios-us.com/shop/handling-equipment-and-accessories/gas-cylinder-handling/gas-cylinder-hand-trucks/)
+### 108. [Gas Cylinder Hand Trucks | Secure & Efficient Cylinder Transport ...](https://www.denios-us.com/shop/handling-equipment-and-accessories/gas-cylinder-handling/gas-cylinder-hand-trucks/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görseldeki tüp arabası, referans ürünle aynı tasarıma sahip olup, pratik kullanımda gaz silindirleriyle birlikte gösterilmektedir.
@@ -3292,7 +3303,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 108. [Double Gas Cylinder Hand Truck w/Firewall, 20" Steel Wheels](https://www.thecarycompany.com/double-gas-cylinder-hand-truck-with-firewall-20-inch-steel-wheels)
+### 109. [Double Gas Cylinder Hand Truck w/Firewall, 20" Steel Wheels](https://www.thecarycompany.com/double-gas-cylinder-hand-truck-with-firewall-20-inch-steel-wheels)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz silindirlerini taşımak için tasarlanmış benzer işlevli tüp arabası mekanizmalarını göstermektedir.
@@ -3303,7 +3314,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 109. [collapsible gas cylinder hand trucks 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/collapsible-gas-cylinder-hand-trucks/)
+### 110. [collapsible gas cylinder hand trucks 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/collapsible-gas-cylinder-hand-trucks/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabasıyla aynı amaca hizmet eden farklı bir 3D CAD/oyun modeli varyasyonudur.
@@ -3314,7 +3325,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 110. [Mild Steel Gas Cylinder Trolley at ₹ 7060/piece in Coimbatore | ID ...](https://www.indiamart.com/proddetail/gas-cylinder-trolley-10468679030.html)
+### 111. [Mild Steel Gas Cylinder Trolley at ₹ 7060/piece in Coimbatore | ID ...](https://www.indiamart.com/proddetail/gas-cylinder-trolley-10468679030.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 88` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki tüp arabası, referans ürünle aynı fonksiyona sahip olup, farklı renk ve ufak yapısal detay farklılıkları içeren benzer bir çalışma varyasyonudur.
@@ -3325,7 +3336,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 111. [Portable Oxygen Tank Trolley 3D Model – Low-Poly Medical Asset](https://www.coohom.com/3d-models/Medical-Machinery/portable-oxygen-tank-trolley-3d-model-mdtl~3FO3WYLUPRFR)
+### 112. [Portable Oxygen Tank Trolley 3D Model – Low-Poly Medical Asset](https://www.coohom.com/3d-models/Medical-Machinery/portable-oxygen-tank-trolley-3d-model-mdtl~3FO3WYLUPRFR)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki aday ürün, tüp taşıma arabası işlevini yerine getiren farklı bir tasarıma sahip modeldir.
@@ -3336,7 +3347,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 112. [Amazon.com: Datanly Oxygen Tank Cart Dolly with Retractable Wheels ...](https://www.amazon.com/Datanly-Retractable-Cylinder-Stainless-Acetylene/dp/B0CMXPCYLT)
+### 113. [Amazon.com: Datanly Oxygen Tank Cart Dolly with Retractable Wheels ...](https://www.amazon.com/Datanly-Retractable-Cylinder-Stainless-Acetylene/dp/B0CMXPCYLT)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 92` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görseldeki tüp arabası, referans ürünle neredeyse tamamen aynı yapısal özelliklere ve tekerlek düzenine sahiptir.
@@ -3347,7 +3358,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 113. [🫡 soldier car with oxygen and acetylene tank scale 1-87 H0・ STL File for ・Cults](https://cults3d.com/en/3d-model/various/soldier-car-with-oxygen-and-acetylene-tank-scale-1-87-h0)
+### 114. [🫡 soldier car with oxygen and acetylene tank scale 1-87 H0・ STL File for ・Cults](https://cults3d.com/en/3d-model/various/soldier-car-with-oxygen-and-acetylene-tank-scale-1-87-h0)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans ürünle aynı amaca hizmet eden iki tüplü bir tüp arabasının CAD modelidir ancak yapısal detayları farklılık göstermektedir.
@@ -3358,7 +3369,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 114. [Archivo STL soldier car with oxygen and acetylene tank scale 1-87 H0 🫡 ・Diseño para descargar y ...](https://cults3d.com/es/modelo-3d/variado/soldier-car-with-oxygen-and-acetylene-tank-scale-1-87-h0)
+### 115. [Archivo STL soldier car with oxygen and acetylene tank scale 1-87 H0 🫡 ・Diseño para descargar y ...](https://cults3d.com/es/modelo-3d/variado/soldier-car-with-oxygen-and-acetylene-tank-scale-1-87-h0)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans tüp arabasıyla aynı fonksiyona sahip bir tüp taşıma arabasını 3 boyutlu CAD modeli olarak göstermektedir.
@@ -3369,7 +3380,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 115. [Cylinder Cart - Non-Sparking Poly Construction - for 2 Cylinders up to 15" - 7302-BK](https://www.denios-us.com/cylinder-cart-non-sparking-poly-construction-for-2-cylinders-up-to-15-7302-bk-K521250/K521250)
+### 116. [Cylinder Cart - Non-Sparking Poly Construction - for 2 Cylinders up to 15" - 7302-BK](https://www.denios-us.com/cylinder-cart-non-sparking-poly-construction-for-2-cylinders-up-to-15-7302-bk-K521250/K521250)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp taşıma arabası işlevini yerine getirse de, referans ürün metal boru şasiye sahipken aday görsel plastik gövdeli çiftli bir modeldir.
@@ -3380,7 +3391,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 116. [Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10" Solid Wheels | eBay](https://www.ebay.com/itm/235895690891)
+### 117. [Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10" Solid Wheels | eBay](https://www.ebay.com/itm/235895690891)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, iki tüp taşıma kapasiteli ve farklı bir şasi tasarımına sahip olsa da temel işlevi ve yapısı aynı olan bir gaz tüpü arabasıdır.
@@ -3391,7 +3402,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 117. [Gas Cylinder Trolley wholesale heavy duty metal gravu gas Oxygen ...](https://www.alibaba.com/product-detail/Gas-Cylinder-Trolley-wholesale-heavy-duty_62245642238.html)
+### 118. [Gas Cylinder Trolley wholesale heavy duty metal gravu gas Oxygen ...](https://www.alibaba.com/product-detail/Gas-Cylinder-Trolley-wholesale-heavy-duty_62245642238.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görseldeki tüp arabası, referans ürünle aynı fonksiyona ve benzer tekerlek/şasi düzenine sahip çalışan bir varyasyondur.
@@ -3402,7 +3413,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 118. [SUWAS TROLLEYSTRORE](https://www.suwastrolleystore.com/oxygen-cylinder-handling-trolley.html)
+### 119. [SUWAS TROLLEYSTRORE](https://www.suwastrolleystore.com/oxygen-cylinder-handling-trolley.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, tüp taşıma arabasının farklı tekerlek ve tutamak detaylarına sahip işlevsel bir varyasyonudur.
@@ -3413,7 +3424,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 119. [Cylinder 3D Models for Free Download and Print | Tripo AI](https://studio.tripo3d.ai/3d-model-gallery/cylinder)
+### 120. [Cylinder 3D Models for Free Download and Print | Tripo AI](https://studio.tripo3d.ai/3d-model-gallery/cylinder)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz silindirlerini yatay ve dikey olarak taşımak üzere tasarlanmış farklı bir konfigürasyona sahip bir tüp arabası CAD modelidir.
@@ -3424,7 +3435,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 120. [Fork Hand Truck Cart Stair Climber for Climbing and Lift - 3D Model by surf3d](https://www.renderhub.com/surf3d/stair-climber-climbing-forklift-hand-truck-cart-pallet-tilt)
+### 121. [Fork Hand Truck Cart Stair Climber for Climbing and Lift - 3D Model by surf3d](https://www.renderhub.com/surf3d/stair-climber-climbing-forklift-hand-truck-cart-pallet-tilt)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabası ürününün üç boyutlu bilgisayar destekli tasarım (CAD) modelidir.
@@ -3435,7 +3446,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 121. [Electric Hand Truck with Stair Climbing Motor Powered - 3D Model by surf3d](https://www.renderhub.com/surf3d/electric-hand-truck-with-stair-climbing-motor-powered)
+### 122. [Electric Hand Truck with Stair Climbing Motor Powered - 3D Model by surf3d](https://www.renderhub.com/surf3d/electric-hand-truck-with-stair-climbing-motor-powered)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp veya silindirik yük taşımaya uygun taşıma arabası mekanizmalarını temsil etmektedir, ancak yapısal tasarım ve tekerlek dizilimi açısından farklı varyasyonlardır.
@@ -3446,7 +3457,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 122. [Hand Truck Stair Climbing with Adjustable Plate Toe Position - 3D Model by surf3d](https://www.renderhub.com/surf3d/hand-truck-stair-climbing-with-adjustable-plate-toe-position)
+### 123. [Hand Truck Stair Climbing with Adjustable Plate Toe Position - 3D Model by surf3d](https://www.renderhub.com/surf3d/hand-truck-stair-climbing-with-adjustable-plate-toe-position)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, referans üründeki temel işlevselliğe sahip ancak farklı konfigürasyonlara ve daha karmaşık bir yapıya sahip 3D bir CAD modelidir.
@@ -3457,7 +3468,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 123. [Transport Trolley 3D Models - Download](https://artgraphic3d.com/3d-models/207-transport-trolley)
+### 124. [Transport Trolley 3D Models - Download](https://artgraphic3d.com/3d-models/207-transport-trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** Görüntüdeki aday, gaz tüpü taşıma arabasının üç boyutlu bir CAD modellemesidir ve referans ürünle aynı mekanik işlevselliğe sahiptir.
@@ -3468,7 +3479,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 124. [Industrial Gas Cylinder Trolley](https://qaqooking.wiki/all/how-to/industrial-gas-cylinder-trolley)
+### 125. [Industrial Gas Cylinder Trolley](https://qaqooking.wiki/all/how-to/industrial-gas-cylinder-trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki ürün de gaz silindiri taşıma işlevini gören endüstriyel taşıma arabalarıdır, ancak aday görsel daha karmaşık ve çift silindirli bir yapıya sahip farklı bir mekanik tasarımdır.
@@ -3479,7 +3490,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 125. [How to Ensure Safety When Using Cylinder Carts? - Challenging Skills](https://elzn.net/2024/how-to-ensure-safety-when-using-cylinder-carts.html)
+### 126. [How to Ensure Safety When Using Cylinder Carts? - Challenging Skills](https://elzn.net/2024/how-to-ensure-safety-when-using-cylinder-carts.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Görseldeki ürün, referans ürünü ile aynı mekanik tasarıma sahip bir tüp taşıma arabasıdır.
@@ -3490,7 +3501,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 126. [Types of Trolleys: 16 Industrial & Warehouse Varieties](https://gujratsteel.com/blog/types-of-trolley/)
+### 127. [Types of Trolleys: 16 Industrial & Warehouse Varieties](https://gujratsteel.com/blog/types-of-trolley/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki ürün de endüstriyel tüp taşıma arabası işlevini görmektedir, ancak tasarım detayları ve yapısal mekanizmaları farklılıklar göstermektedir.
@@ -3501,7 +3512,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 127. [Platform Heavy Duty Cylinder Trolley, Capacity: 100-500 kg at ₹ 3000 ...](https://www.indiamart.com/proddetail/heavy-duty-cylinder-trolley-25496886130.html)
+### 128. [Platform Heavy Duty Cylinder Trolley, Capacity: 100-500 kg at ₹ 3000 ...](https://www.indiamart.com/proddetail/heavy-duty-cylinder-trolley-25496886130.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de aynı çalışma prensibine sahip, tüp taşımaya yarayan benzer bir mekanik gövde yapısı ve tekerlekli şasi tasarımına sahip tüp taşıma arabalarıdır.
@@ -3512,7 +3523,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 128. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-lifting-stand-solid-works-modelling-1)
+### 129. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/gas-cylinder-lifting-stand-solid-works-modelling-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, referans ürünle aynı işlevselliğe sahip, farklı bir yapısal tasarıma sahip tüp taşıma arabasının CAD modelleme görüntüsünü içermektedir.
@@ -3523,7 +3534,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 129. [Horizontal Cylinder Cart - Made in the USA - Ergo Safe Inc.](https://ergosafeinc.com/horizontal-cylinder-cart/)
+### 130. [Horizontal Cylinder Cart - Made in the USA - Ergo Safe Inc.](https://ergosafeinc.com/horizontal-cylinder-cart/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki mekanizma da gaz silindirlerini güvenli bir şekilde taşımak için tasarlanmış endüstriyel taşıma arabalarıdır, ancak görseldeki model farklı bir konfigürasyona ve yük sabitleme yöntemine sahiptir.
@@ -3534,7 +3545,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 130. [Hand Truck・ OBJ File for 3D printing・Cults](https://cults3d.com/en/3d-model/tool/hand-truck)
+### 131. [Hand Truck・ OBJ File for 3D printing・Cults](https://cults3d.com/en/3d-model/tool/hand-truck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüplerini taşımak için tasarlanmış benzer tekerlekli taşıma mekanizmalarını temsil etmektedir.
@@ -3545,7 +3556,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 131. [Archivo OBJ Hand Truck (STEP)・Modelo para descargar e imprimir en 3D・Cults](https://cults3d.com/es/modelo-3d/herramientas/hand-truck)
+### 132. [Archivo OBJ Hand Truck (STEP)・Modelo para descargar e imprimir en 3D・Cults](https://cults3d.com/es/modelo-3d/herramientas/hand-truck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntülenen CAD modeli, tüp taşıma arabasının taban ve tekerlek mekanizmasını temsil eden benzer bir işlevsel yapıya sahiptir.
@@ -3556,7 +3567,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 132. [Hand Truck 3D model - Download Tools on 3DModels.org](https://3dmodels.org/3d-models/hand-truck/)
+### 133. [Hand Truck 3D model - Download Tools on 3DModels.org](https://3dmodels.org/3d-models/hand-truck/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, tüp taşıma arabasının tekerlek ve taban yapısını detaylandıran bir CAD modelidir, referans ürünle aynı fonksiyonel amaca hizmet etmektedir.
@@ -3567,7 +3578,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 133. [3D GAS Cylinder Trolley - TurboSquid 2330262](https://www.turbosquid.com/3d-models/3d-gas-cylinder-trolley-2330262)
+### 134. [3D GAS Cylinder Trolley - TurboSquid 2330262](https://www.turbosquid.com/3d-models/3d-gas-cylinder-trolley-2330262)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de silindirik nesneleri taşımak için tasarlanmış benzer tekerlekli taşıma mekanizmalarını temsil etmektedir, ancak aday görsel yangın tüpü taşımaya yönelik modifiye edilmiş bir CAD modelidir.
@@ -3578,7 +3589,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 134. [Dual Cylinder Gas Welding Cart 3D Model $33 - .3ds .blend .c4d .fbx ...](https://free3d.com/3d-model/dual-cylinder-gas-welding-cart-3113.html)
+### 135. [Dual Cylinder Gas Welding Cart 3D Model $33 - .3ds .blend .c4d .fbx ...](https://free3d.com/3d-model/dual-cylinder-gas-welding-cart-3113.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki model, gaz tüpü taşıma arabası işlevini gören 3D bir CAD tasarımıdır ancak yapısal olarak referans üründen farklı bir taşıma sistemine sahiptir.
@@ -3589,7 +3600,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 135. [ArtStation - STAIR CLIMBER GAS CYLINDER HAND TRUCK CART TROLLEY SINGLE ...](https://www.artstation.com/marketplace/p/j72XY/stair-climber-gas-cylinder-hand-truck-cart-trolley-single-handle)
+### 136. [ArtStation - STAIR CLIMBER GAS CYLINDER HAND TRUCK CART TROLLEY SINGLE ...](https://www.artstation.com/marketplace/p/j72XY/stair-climber-gas-cylinder-hand-truck-cart-trolley-single-handle)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referanstaki gaz tüpü taşıma arabasının merdiven çıkabilen üçlü yıldız tekerlek sistemine sahip bir CAD tel kafes model varyasyonudur.
@@ -3600,7 +3611,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 136. [Gas Cylinder Cart 3d model](https://3dmdb.com/en/3d-model/gas-cylinder-cart/13139244/)
+### 137. [Gas Cylinder Cart 3d model](https://3dmdb.com/en/3d-model/gas-cylinder-cart/13139244/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, üzerinde gaz tüpü bulunan farklı renkte ve yıpranmış kaplamaya sahip üç tekerlekli bir tüp arabası 3D modelidir.
@@ -3611,7 +3622,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 137. [Double Gas Cylinder Trolley - Material: Steel at 7500.00 INR in Boisar ...](https://www.tradeindia.com/products/double-gas-cylinder-trolley-with-3-4-wheels-c8760280.html)
+### 138. [Double Gas Cylinder Trolley - Material: Steel at 7500.00 INR in Boisar ...](https://www.tradeindia.com/products/double-gas-cylinder-trolley-with-3-4-wheels-c8760280.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans ürünle aynı amaca hizmet eden iki tüp kapasiteli farklı bir tüp arabası varyasyonudur.
@@ -3622,7 +3633,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 138. [Oxygen/Propane Double Gas Bottle Trolley with Rare Wheels | PARRS](https://www.parrs.co.uk/oxygen-propane-double-gas-bottle-trolley-with-rear-wheels-200kg-p13636)
+### 139. [Oxygen/Propane Double Gas Bottle Trolley with Rare Wheels | PARRS](https://www.parrs.co.uk/oxygen-propane-double-gas-bottle-trolley-with-rear-wheels-200kg-p13636)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp arabası olmasına rağmen, aday görsel üçlü tüp taşıma kapasitesine sahip farklı bir varyanttır.
@@ -3633,7 +3644,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 139. [Portable Acetylene Oxygen Cylinder Cart with Caster Wheels - Gas ...](https://lylishan.en.made-in-china.com/product/yESYXpdrfChL/China-Portable-Acetylene-Oxygen-Cylinder-Cart-with-Caster-Wheels.html)
+### 140. [Portable Acetylene Oxygen Cylinder Cart with Caster Wheels - Gas ...](https://lylishan.en.made-in-china.com/product/yESYXpdrfChL/China-Portable-Acetylene-Oxygen-Cylinder-Cart-with-Caster-Wheels.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüplerini taşımak için tasarlanmış benzer bir tüp arabası mekanizmasını temsil etmektedir.
@@ -3644,7 +3655,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 140. [Oxy Acetylene Trolley | Double Cylinder Trolley | STOREMASTA](https://shop.storemasta.com.au/collections/crane-liftable-gas-trolley)
+### 141. [Oxy Acetylene Trolley | Double Cylinder Trolley | STOREMASTA](https://shop.storemasta.com.au/collections/crane-liftable-gas-trolley)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki ürün de gaz silindirlerini taşımak için tasarlanmış tekerlekli tüp arabalarıdır, ancak aday görsel koruyucu dolaplı ve kaynak ekipmanlı farklı bir varyanttır.
@@ -3655,7 +3666,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 141. [🦸 Diorama 1:72 Scale Oxy Acetylene Welding Kit・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/game/diorama-1-72-scale-oxy-acetylene-welding-kit)
+### 142. [🦸 Diorama 1:72 Scale Oxy Acetylene Welding Kit・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/game/diorama-1-72-scale-oxy-acetylene-welding-kit)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referanstaki tek tüp taşımaya yönelik destek tekerli tasarımın çift tüp taşımaya uygun 2 tekerlekli çalışan bir CAD varyasyonudur.
@@ -3666,7 +3677,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 142. [STL file Mig Welder and cart・3D printable model to download・Cults](https://cults3d.com/en/3d-model/various/mig-welder-and-cart)
+### 143. [STL file Mig Welder and cart・3D printable model to download・Cults](https://cults3d.com/en/3d-model/various/mig-welder-and-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüplerini taşımak için tasarlanmış mekanik arabaları göstermektedir; ikinci görsel aynı işlevi gören iki tüp kapasiteli bir CAD modelidir.
@@ -3677,7 +3688,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 143. [Industrial Stainless Steel Oxygen Cylinder Trolley 3D Model - TurboSquid 2371406](https://www.turbosquid.com/3d-models/industrial-stainless-steel-oxygen-cylinder-trolley-3d-model-2371406)
+### 144. [Industrial Stainless Steel Oxygen Cylinder Trolley 3D Model - TurboSquid 2371406](https://www.turbosquid.com/3d-models/industrial-stainless-steel-oxygen-cylinder-trolley-3d-model-2371406)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, birinci görseldeki gaz silindiri arabasının (tüp arabası) CAD ortamında modellenmiş üstten görünümüdür.
@@ -3688,7 +3699,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 144. [Enhanced gas cylinder trolley range delivers improved safety ...](https://fueloilnews.co.uk/2023/07/enhanced-gas-cylinder-trolley-range-delivers-improved-safety-efficiency/)
+### 145. [Enhanced gas cylinder trolley range delivers improved safety ...](https://fueloilnews.co.uk/2023/07/enhanced-gas-cylinder-trolley-range-delivers-improved-safety-efficiency/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görseldeki tüp arabaları, referans ürünle aynı amaca hizmet eden ve benzer tekerlek ile taşıma mekanizmalarına sahip varyasyonlar içermektedir.
@@ -3699,7 +3710,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 145. [Acetylene 3D Models download - Free3D](https://free3d.com/premium-3d-models/acetylene)
+### 146. [Acetylene 3D Models download - Free3D](https://free3d.com/premium-3d-models/acetylene)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp taşıma arabasını temsil etmekte olup, ikinci görsel çift tüplü farklı bir tasarım varyasyonudur.
@@ -3710,7 +3721,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 146. [Dual Cylinder Gas Welding Cart Old 3D Model $39 - .3ds .blend .c4d .fbx ...](https://free3d.com/3d-model/dual-cylinder-gas-welding-cart-old-9142.html)
+### 147. [Dual Cylinder Gas Welding Cart Old 3D Model $39 - .3ds .blend .c4d .fbx ...](https://free3d.com/3d-model/dual-cylinder-gas-welding-cart-old-9142.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans ürünle aynı amaca hizmet eden farklı bir tipte gaz tüpü taşıma arabasının CAD modelidir.
@@ -3721,7 +3732,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 147. [ArtStation - BLUE GREEN GAS CYLINDER TANK STAIR CLIMBER HAND TRUCK DOLLY CART | Resources](https://www.artstation.com/marketplace/p/6eGv3/blue-green-gas-cylinder-tank-stair-climber-hand-truck-dolly-cart)
+### 148. [ArtStation - BLUE GREEN GAS CYLINDER TANK STAIR CLIMBER HAND TRUCK DOLLY CART | Resources](https://www.artstation.com/marketplace/p/6eGv3/blue-green-gas-cylinder-tank-stair-climber-hand-truck-dolly-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabasının tasarımıyla eşleşen üç boyutlu bir CAD modelini göstermektedir.
@@ -3732,7 +3743,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 148. [Rotatruck Gas Cylinder Hand Trucks](https://www.rotacaster.com.au/rotatruck-gas-cylinder-hand-trucks.html)
+### 149. [Rotatruck Gas Cylinder Hand Trucks](https://www.rotacaster.com.au/rotatruck-gas-cylinder-hand-trucks.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, tüp taşıma arabasının üzerinde tüplerin bulunduğu, farklı bir üreticiye ait benzer bir çalışma varyasyonunu göstermektedir.
@@ -3743,7 +3754,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 149. [3D model Gas Cylinder Cart VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/gas-cylinder-cart)
+### 150. [3D model Gas Cylinder Cart VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/industrial/industrial-part/gas-cylinder-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabası mekanizmasının üzerinde bir gaz tüpü bulunan üç boyutlu CAD modelini göstermektedir.
@@ -3754,7 +3765,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 150. [Stair Climber Hand Truck Dolly Cart Hold a Gas Cylinder Tank - 3D Model by surf3d](https://www.renderhub.com/surf3d/stair-climber-hand-truck-dolly-cart-hold-a-gas-cylinder-tank)
+### 151. [Stair Climber Hand Truck Dolly Cart Hold a Gas Cylinder Tank - 3D Model by surf3d](https://www.renderhub.com/surf3d/stair-climber-hand-truck-dolly-cart-hold-a-gas-cylinder-tank)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans gaz silindiri arabasının CAD modelidir ve üzerinde tüp ile birlikte aynı işlevsel mekanik tasarımı sergilemektedir.
@@ -3765,7 +3776,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 151. [Gas Cylinder Cart - Buy Royalty Free 3D model by Vanessa Araújo (@vanessa3d) [ce4f761 ...](https://sketchfab.com/3d-models/gas-cylinder-cart-ce4f761c16874849adc517bd26e52db2)
+### 152. [Gas Cylinder Cart - Buy Royalty Free 3D model by Vanessa Araújo (@vanessa3d) [ce4f761 ...](https://sketchfab.com/3d-models/gas-cylinder-cart-ce4f761c16874849adc517bd26e52db2)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, üzerinde gaz tüpü bulunan üç tekerlekli tüp arabasının 3 boyutlu CAD veya render modelini göstermektedir.
@@ -3776,7 +3787,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 152. [Gas cylinders with the cart - Buy Royalty Free 3D model by irs1182 [71ab43e] - Sketchfab Store](https://sketchfab.com/3d-models/gas-cylinders-with-the-cart-71ab43e9b46544a8a41cba4211206d10)
+### 153. [Gas cylinders with the cart - Buy Royalty Free 3D model by irs1182 [71ab43e] - Sketchfab Store](https://sketchfab.com/3d-models/gas-cylinders-with-the-cart-71ab43e9b46544a8a41cba4211206d10)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir tüp arabası modeli göstermektedir.
@@ -3787,7 +3798,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 153. [From Storage to Transport: The ABCs of Gas Cylinder Safety Equipment](https://www.absorbentsonline.com/spill-containment-blog/from-storage-to-transport-the-abcs-of-gas-cylinder-safety-equipment/)
+### 154. [From Storage to Transport: The ABCs of Gas Cylinder Safety Equipment](https://www.absorbentsonline.com/spill-containment-blog/from-storage-to-transport-the-abcs-of-gas-cylinder-safety-equipment/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabasının gerçek kullanım ortamındaki bitmiş halini göstermektedir.
@@ -3798,7 +3809,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 154. [3D Oxy-acetylene Cart - TurboSquid 1379988](https://www.turbosquid.com/3d-models/3d-oxy-acetylene-cart-1379988)
+### 155. [3D Oxy-acetylene Cart - TurboSquid 1379988](https://www.turbosquid.com/3d-models/3d-oxy-acetylene-cart-1379988)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans tüp arabası mekanizmasını ve ek olarak üzerindeki gaz silindirlerini gösteren bir CAD tel kafes (wireframe) modelidir.
@@ -3809,7 +3820,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 155. [🪖 Diorama Oxygen Acetylene Torch tank and cart set・ STL File for ・Cults](https://cults3d.com/en/3d-model/various/diorama-oxygen-acetylene-torch-tank-and-cart-set)
+### 156. [🪖 Diorama Oxygen Acetylene Torch tank and cart set・ STL File for ・Cults](https://cults3d.com/en/3d-model/various/diorama-oxygen-acetylene-torch-tank-and-cart-set)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, tüp arabasının üzerine gaz tüpleri yerleştirilmiş üç boyutlu bir CAD modelidir ve aynı amaca hizmet eden alternatif bir varyasyonu temsil etmektedir.
@@ -3820,7 +3831,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 156. [3d Oxygen Model](https://ar.inspiredpencil.com/pictures-2023/3d-oxygen-model)
+### 157. [3d Oxygen Model](https://ar.inspiredpencil.com/pictures-2023/3d-oxygen-model)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, üzerinde gaz silindiri bulunan farklı bir tasarımda bir tüp arabası CAD modelini göstermektedir.
@@ -3831,7 +3842,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 157. [folding trolley with two gas cylinder 3d model](https://3dmdb.com/en/3d-model/folding-trolley-with-two-gas-cylinder/12506163/)
+### 158. [folding trolley with two gas cylinder 3d model](https://3dmdb.com/en/3d-model/folding-trolley-with-two-gas-cylinder/12506163/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görseli, referans tüp arabasıyla aynı amaca hizmet eden iki tekerlekli tüp taşıma arabasının CAD modelidir.
@@ -3842,7 +3853,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 158. [Gas Cylinder Cart](https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart)
+### 159. [Gas Cylinder Cart](https://ar.inspiredpencil.com/pictures-2023/gas-cylinder-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, farklı gaz silindiri boyutlarını taşıyabilen alternatif bir tüp arabası CAD modelidir.
@@ -3853,7 +3864,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 159. [Trolley For Oxygen Tank Dia 10 Inc 3D CAD Model Library, 49% OFF](https://www.pinnaxis.com/?k=trolley-for-oxygen-tank-dia-10-inc-3d-cad-ee-EXWy25I2)
+### 160. [Trolley For Oxygen Tank Dia 10 Inc 3D CAD Model Library, 49% OFF](https://www.pinnaxis.com/?k=trolley-for-oxygen-tank-dia-10-inc-3d-cad-ee-EXWy25I2)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabası mekanizmasının iki tüp taşıma kapasitesine sahip bir CAD modelidir.
@@ -3864,7 +3875,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 160. [3d Model Airport Gas Cylinder Cart](https://www.turbosquid.com/3d-models/3d-model-airport-gas-cylinder-cart/480895)
+### 161. [3d Model Airport Gas Cylinder Cart](https://www.turbosquid.com/3d-models/3d-model-airport-gas-cylinder-cart/480895)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, üzerinde gaz tüpü bulunan farklı bir tasarıma sahip ancak aynı amaçla kullanılan 3D CAD tüp arabası modelidir.
@@ -3875,7 +3886,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 161. [Pin on Fichier stl](https://www.pinterest.com/pin/fichier-stl--433119689182293712/)
+### 162. [Pin on Fichier stl](https://www.pinterest.com/pin/fichier-stl--433119689182293712/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, tüp taşıma arabasının üzerinde gaz tüpleriyle birlikte dijital ortamda modellenmiş 3 boyutlu bir CAD versiyonunu göstermektedir.
@@ -3886,7 +3897,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 162. [3D Oxy-Acetylene Cart Model - TurboSquid 2269460](https://www.turbosquid.com/3d-models/3d-oxyacetylene-cart-model-2269460)
+### 163. [3D Oxy-Acetylene Cart Model - TurboSquid 2269460](https://www.turbosquid.com/3d-models/3d-oxyacetylene-cart-model-2269460)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki ürün de gaz tüplerini taşımak için tasarlanmış mekanik sistemlerdir; ancak aday görsel, daha gelişmiş bir endüstriyel kaynak arabası varyasyonunu temsil eden bir CAD modelidir.
@@ -3897,7 +3908,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 163. [Professional Gas Welding Tank 3D Model - Download](https://artgraphic3d.com/3d-models/industrial-tank/994-3d-bottle-gas-trolley.html)
+### 164. [Professional Gas Welding Tank 3D Model - Download](https://artgraphic3d.com/3d-models/industrial-tank/994-3d-bottle-gas-trolley.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntülenen ürün her ne kadar 3D modelleme çalışması olsa da, referans görseldeki tüp taşıma arabasının mekanik konstrüksiyonu ve temel fonksiyonel yapısıyla birebir örtüşmektedir.
@@ -3908,7 +3919,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 164. [3d oxy-acetylene cart](https://www.turbosquid.com/3d-models/3d-oxy-acetylene-cart/888378)
+### 165. [3d oxy-acetylene cart](https://www.turbosquid.com/3d-models/3d-oxy-acetylene-cart/888378)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüplerini taşımak için tasarlanmış mekanik tekerlekli taşıma arabalarıdır ancak yapısal tasarım ve tekerlek tipi açısından farklılık göstermektedir.
@@ -3919,7 +3930,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 165. [🍽️ 27wxx 135 scale gas cylinder trolley, miniature scene accessory ...](https://cults3d.com/en/3d-model/home/27wxx-135-scale-gas-cylinder-trolley-miniature-scene-accessory-model)
+### 166. [🍽️ 27wxx 135 scale gas cylinder trolley, miniature scene accessory ...](https://cults3d.com/en/3d-model/home/27wxx-135-scale-gas-cylinder-trolley-miniature-scene-accessory-model)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki aday, gaz tüpü taşıma arabası ile aynı temel mekanik işleve sahip bir taşıma arabası modelidir.
@@ -3930,7 +3941,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 166. [🎠 H0 TT Gas cylinder wagon・Free STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/game/h-tt-gasflaschenwagen-bimbolunic)
+### 167. [🎠 H0 TT Gas cylinder wagon・Free STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/game/h-tt-gasflaschenwagen-bimbolunic)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki modeller, her ikisi de gaz tüpü taşıma işlevine sahip farklı mekanik tasarımlar sunan 3B CAD çalışmalarıdır.
@@ -3941,7 +3952,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 167. [Oxygas Welding Trolley 3D Model $29 - .max .fbx .obj - Free3D](https://free3d.com/3d-model/oxygas-welding-trolley-7783.html)
+### 168. [Oxygas Welding Trolley 3D Model $29 - .max .fbx .obj - Free3D](https://free3d.com/3d-model/oxygas-welding-trolley-7783.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, referans üründeki temel işlevsel taşıyıcı mekanizmayı (tüp arabası) içeren, ancak üzerinde oksijen-asetilen gibi endüstriyel tüplerin ve regülatörlerin monte edilmiş olduğu 3 boyutlu bir tasarım modelidir.
@@ -3952,7 +3963,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 168. [Welding Gast Tanks - Trolley - UE Ready - Buy Royalty Free 3D model by ...](https://sketchfab.com/3d-models/welding-gast-tanks-trolley-ue-ready-8aa5ab5d13ce49ff9c5645b35bef3a0d)
+### 169. [Welding Gast Tanks - Trolley - UE Ready - Buy Royalty Free 3D model by ...](https://sketchfab.com/3d-models/welding-gast-tanks-trolley-ue-ready-8aa5ab5d13ce49ff9c5645b35bef3a0d)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış benzer bir endüstriyel taşıma arabasının 3D dijital modelidir.
@@ -3963,7 +3974,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 169. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/carrinho-de-gas-1)
+### 170. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/carrinho-de-gas-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz silindirlerini taşımak için tasarlanmış benzer mekanik yapıya sahip tüp arabalarını temsil etmektedir.
@@ -3974,7 +3985,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 170. [welding cart miller 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/welding-cart-miller/)
+### 171. [welding cart miller 3D Models | Page 1 | STLFinder](https://www.stlfinder.com/3dmodels/welding-cart-miller/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp taşıma amacıyla tasarlanmış tekerlekli mekanizmaları temsil etmektedir, ancak aday görsel ek ekipman taşıma modülleriyle modifiye edilmiş bir CAD modelidir.
@@ -3985,7 +3996,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 171. [Welding cart 1:14 with gas cylinders and torch - Free 3D Print Model ...](https://makerworld.com/en/models/2365063-welding-cart-1-14-with-gas-cylinders-and-torch)
+### 172. [Welding cart 1:14 with gas cylinders and torch - Free 3D Print Model ...](https://makerworld.com/en/models/2365063-welding-cart-1-14-with-gas-cylinders-and-torch)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Görüntülenen CAD modeli, referans üründeki gibi tüp taşıma işlevine sahip ancak yapısal tasarım ve tekerlek yerleşimi bakımından farklılık gösteren bir varyasyondur.
@@ -3996,7 +4007,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 172. [3d 3ds gas cylinder handtruck](https://www.turbosquid.com/3d-models/3d-3ds-gas-cylinder-handtruck/1019800)
+### 173. [3d 3ds gas cylinder handtruck](https://www.turbosquid.com/3d-models/3d-3ds-gas-cylinder-handtruck/1019800)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans ürünle aynı işlevsel amaca hizmet eden temel bir gaz tüpü taşıma arabası modelidir.
@@ -4007,7 +4018,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 173. [SX Gas Cylinder Trolley Model A Single with Bracket, Blue - STC03 ...](https://www.proairductus.com/Gas-cylinder-trolley/1030975-sx-gas-cylinder-trolley-model-a-single-with-bracket-blue-stc03-2235138cm-1-unit.html)
+### 174. [SX Gas Cylinder Trolley Model A Single with Bracket, Blue - STC03 ...](https://www.proairductus.com/Gas-cylinder-trolley/1030975-sx-gas-cylinder-trolley-model-a-single-with-bracket-blue-stc03-2235138cm-1-unit.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (exact_match)
 - **AI Teknik İncelemesi:** Her iki görsel de aynı tasarım prensibine, tekerlek dizilimine ve güvenlik zinciri mekanizmasına sahip tüp taşıma arabasını göstermektedir.
@@ -4018,7 +4029,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 174. [Workshop welding trolley with space for a gas cylinder with 3 shelves ...](https://www.wasserman.eu/en/p/workshop-welding-trolley-with-space-for-a-gas-cylinder-with-3-shelves-handle-up-to-80-kg-331535)
+### 175. [Workshop welding trolley with space for a gas cylinder with 3 shelves ...](https://www.wasserman.eu/en/p/workshop-welding-trolley-with-space-for-a-gas-cylinder-with-3-shelves-handle-up-to-80-kg-331535)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İki ürün de gaz silindiri taşıma fonksiyonuna sahip olsa da, aday ürün daha kapsamlı bir kaynak arabası tasarımı olup tüp sabitleme ve taşıma işlevini içeren bir varyasyondur.
@@ -4029,7 +4040,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 175. [Welding Cart DXF CNC PDF - Project for Welding Station, Gas Tank Holder ...](https://www.etsy.com/au/listing/1808311082/welding-cart-dxf-cnc-pdf-project-for)
+### 176. [Welding Cart DXF CNC PDF - Project for Welding Station, Gas Tank Holder ...](https://www.etsy.com/au/listing/1808311082/welding-cart-dxf-cnc-pdf-project-for)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp taşıma amacıyla tasarlanmış tekerlekli mekanizmalardır, ancak yapısal tasarım ve gövde konstrüksiyonu bakımından farklılıklar içermektedir.
@@ -4040,7 +4051,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 176. [Archivo STL welding gas 🧑🔧 ・Modelo imprimible en 3D para descargar・Cults](https://cults3d.com/es/modelo-3d/herramientas/welding-gas-metatrons)
+### 177. [Archivo STL welding gas 🧑🔧 ・Modelo imprimible en 3D para descargar・Cults](https://cults3d.com/es/modelo-3d/herramientas/welding-gas-metatrons)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, referans üründeki temel işlevselliğe ve gövde tasarımına sahip, iki tüp kapasiteli 3D bir tüp taşıma arabası modelidir.
@@ -4051,7 +4062,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 177. [3d model welding tanks](https://www.turbosquid.com/3d-models/3d-model-welding-tanks/503496)
+### 178. [3d model welding tanks](https://www.turbosquid.com/3d-models/3d-model-welding-tanks/503496)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görseldeki ürün, gaz tüplerini taşımak için tasarlanmış mekanik bir el arabasıdır ve referans ürünle aynı işlevsel kategoride yer almaktadır.
@@ -4062,7 +4073,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 178. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/trolley-cylinders-1)
+### 179. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/trolley-cylinders-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (exact_match)
 - **AI Teknik İncelemesi:** Görüntülenen aday, referans üründeki gaz tüpü taşıma arabasının benzer bir konfigürasyona sahip üç boyutlu CAD modelidir.
@@ -4073,7 +4084,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 179. [🛒 HandTruck・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/tool/handtruck-hardstone)
+### 180. [🛒 HandTruck・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/tool/handtruck-hardstone)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüpü taşıma arabası formundadır, ancak aday görsel standart bir el arabası tasarımına sahipken referans görsel daha spesifik bir endüstriyel taşıma mekanizmasıdır.
@@ -4084,7 +4095,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 180. [Hand Truck DWG Block for AutoCAD • Designs CAD](https://designscad.com/downloads/hand-truck-dwg-block-autocad/)
+### 181. [Hand Truck DWG Block for AutoCAD • Designs CAD](https://designscad.com/downloads/hand-truck-dwg-block-autocad/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (exact_match)
 - **AI Teknik İncelemesi:** Görüntülenen CAD modeli, referans görseldeki tüp taşıma arabası ile aynı mekanik yapıya ve temel şasi tasarımına sahiptir.
@@ -4095,7 +4106,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 181. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/design-and-assembly-of-hand-truck-1)
+### 182. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/design-and-assembly-of-hand-truck-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp veya silindirik yüklerin taşınması için tasarlanmış benzer tekerlekli taşıma mekanizmalarını temsil etmektedir.
@@ -4106,7 +4117,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 182. [Trolley and Gas Cylinder - Single Asset free VR / AR / low-poly 3D model | CGTrader](https://www.cgtrader.com/free-3d-models/science/laboratory/gas-cylinder-with-trolley-pbr-game-ready)
+### 183. [Trolley and Gas Cylinder - Single Asset free VR / AR / low-poly 3D model | CGTrader](https://www.cgtrader.com/free-3d-models/science/laboratory/gas-cylinder-with-trolley-pbr-game-ready)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, referans üründen farklı bir şasi tasarımına sahip olsa da, aynı amaçla kullanılan endüstriyel bir tüp taşıma arabası modelidir.
@@ -4117,7 +4128,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 183. [3ds max trolley gas](https://www.turbosquid.com/3d-models/3ds-max-trolley-gas/840990)
+### 184. [3ds max trolley gas](https://www.turbosquid.com/3d-models/3ds-max-trolley-gas/840990)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntülenen ürün, tekli tüp taşıma yerine çiftli kaynak tüpü taşıma arabası konfigürasyonunda olsa da, temel mekanik çalışma prensibi ve tüp sabitleme sistemi açısından referans ürünle aynı kategoridedir.
@@ -4128,7 +4139,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 184. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hi-power-24volt-powered-handtruck-1)
+### 185. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hi-power-24volt-powered-handtruck-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntü, tüp taşıma arabasının benzer fonksiyonel özelliklere sahip üç boyutlu bir CAD modelini göstermektedir.
@@ -4139,7 +4150,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 185. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/welding-trolley-for-a-gas-cylinder-of-40-liters-and-the-aurora-apparatus-1)
+### 186. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/welding-trolley-for-a-gas-cylinder-of-40-liters-and-the-aurora-apparatus-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki ürün de gaz silindirlerini taşımak için tasarlanmış tekerlekli taşıma arabalarıdır, ancak aday görsel çoklu ekipman taşıyan bir CAD tasarımıdır.
@@ -4150,7 +4161,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 186. [👽 Welding tanks on a dolly 1/10 scale・ STL File for ・Cults](https://cults3d.com/en/3d-model/various/welding-tanks-on-a-dolly-1-10-scale)
+### 187. [👽 Welding tanks on a dolly 1/10 scale・ STL File for ・Cults](https://cults3d.com/en/3d-model/various/welding-tanks-on-a-dolly-1-10-scale)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış benzer bir mekanizmanın üç boyutlu dijital modelidir.
@@ -4161,7 +4172,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 187. [Welding Cart Plans DXF PDF | DIY Laser Cut Gas Cylinder Trolley ...](https://www.etsy.com/listing/4487353566/welding-cart-plans-dxf-pdf-diy-laser-cut)
+### 188. [Welding Cart Plans DXF PDF | DIY Laser Cut Gas Cylinder Trolley ...](https://www.etsy.com/listing/4487353566/welding-cart-plans-dxf-pdf-diy-laser-cut)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, tüp taşıma amacıyla tasarlanmış farklı bir CAD tüp arabası modelini göstermektedir.
@@ -4172,7 +4183,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 188. [Gas Cylinder Trolleys - Buy Royalty Free 3D model by ...](https://sketchfab.com/3d-models/gas-cylinder-trolleys-a1b6f1d02df04d56b9e74e1d1518db9c)
+### 189. [Gas Cylinder Trolleys - Buy Royalty Free 3D model by ...](https://sketchfab.com/3d-models/gas-cylinder-trolleys-a1b6f1d02df04d56b9e74e1d1518db9c)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, tüp taşıma arabası işlevini yerine getiren farklı bir tasarıma sahip 3 boyutlu CAD modelidir.
@@ -4183,7 +4194,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 189. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/cylinder-transport-trolley-1)
+### 190. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/cylinder-transport-trolley-1)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans ürüne benzer bir tüp arabasının 3 boyutlu CAD modelini göstermektedir, ancak tasarım detayları ve tekerlek yapıları farklılık arz etmektedir.
@@ -4194,7 +4205,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 190. [Welding Cart DXF CNC PDF - Plans for Welder and Gas Tank, Mobile ...](https://www.etsy.com/listing/1338070236/welding-cart-dxf-cnc-pdf-plans-for)
+### 191. [Welding Cart DXF CNC PDF - Plans for Welder and Gas Tank, Mobile ...](https://www.etsy.com/listing/1338070236/welding-cart-dxf-cnc-pdf-plans-for)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, tüp taşıma işlevini yerine getiren farklı bir tasarıma sahip bir CAD modelidir.
@@ -4205,7 +4216,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 191. [Hand Truck For Gas Cylinder at Jonathan Whelchel blog](https://storage.googleapis.com/dnsqdcsduqouye/hand-truck-for-gas-cylinder.html)
+### 192. [Hand Truck For Gas Cylinder at Jonathan Whelchel blog](https://storage.googleapis.com/dnsqdcsduqouye/hand-truck-for-gas-cylinder.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görüntü de tüp taşıma arabasını temsil eder, ancak aday görsel farklı bir CAD model tasarımıdır.
@@ -4216,7 +4227,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 192. [ArtStation - Gas Cylinder on Handtruck | Game Assets](https://www.artstation.com/marketplace/p/Ywjva/gas-cylinder-on-handtruck)
+### 193. [ArtStation - Gas Cylinder on Handtruck | Game Assets](https://www.artstation.com/marketplace/p/Ywjva/gas-cylinder-on-handtruck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz silindiri taşıma amacına hizmet eden farklı bir tüp arabası CAD modelini göstermektedir.
@@ -4227,7 +4238,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 193. [Gas Cylinder Hand Truck with Hoist | Bottle Trolley — Safe Drum Handling Company](https://www.safedrumhandling.com/gas-cylinder-hand-truck-with-lifting-hoist)
+### 194. [Gas Cylinder Hand Truck with Hoist | Bottle Trolley — Safe Drum Handling Company](https://www.safedrumhandling.com/gas-cylinder-hand-truck-with-lifting-hoist)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabası tasarımıyla büyük ölçüde eşleşen ve gaz silindiri taşıyan gerçek bir üründür.
@@ -4238,7 +4249,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 194. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/welding-trolley-2)
+### 195. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/welding-trolley-2)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** Görüntü 2, gaz silindiri taşıma amacına hizmet eden ancak ek ekipman rafı içeren farklı bir CAD model varyasyonudur.
@@ -4249,7 +4260,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 195. [Gas Welder Bottles at Neta Humphrey blog](https://storage.googleapis.com/dnljfctaoejwqe/gas-welder-bottles.html)
+### 196. [Gas Welder Bottles at Neta Humphrey blog](https://storage.googleapis.com/dnljfctaoejwqe/gas-welder-bottles.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüpü taşımak için tasarlanmış tüp arabası mekanizmasını temsil etmektedir ancak taşıma kapasitesi ve tekerlek yapıları farklılık göstermektedir.
@@ -4260,7 +4271,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 196. [Dual Oxygen Cylinder Cart With Cylinder - Download Free 3D model by DJ DIAKA (@djdiaka) [063660b ...](https://sketchfab.com/3d-models/dual-oxygen-cylinder-cart-with-cylinder-063660bfa9b442e3b1d88be4d68b991f)
+### 197. [Dual Oxygen Cylinder Cart With Cylinder - Download Free 3D model by DJ DIAKA (@djdiaka) [063660b ...](https://sketchfab.com/3d-models/dual-oxygen-cylinder-cart-with-cylinder-063660bfa9b442e3b1d88be4d68b991f)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de tüp taşıma arabasını temsil etmektedir, ancak ikinci görsel üzerindeki gaz silindirleri ile birlikte bir CAD modelidir.
@@ -4271,7 +4282,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 197. [🪖 1/10 DUAL TANK WELDERS CART・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/various/1-10-dual-tank-welders-cart)
+### 198. [🪖 1/10 DUAL TANK WELDERS CART・ STL File for 3D printing・Cults](https://cults3d.com/en/3d-model/various/1-10-dual-tank-welders-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, tüp taşıma arabasının (gas cylinder truck) çift tüp taşıma kapasitesine sahip bir CAD modelidir.
@@ -4282,7 +4293,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 198. [Gas Cylinder Trolley Kuwait at Shirley Gonzalez blog](https://storage.googleapis.com/daqgyprcesitje/gas-cylinder-trolley-kuwait.html)
+### 199. [Gas Cylinder Trolley Kuwait at Shirley Gonzalez blog](https://storage.googleapis.com/daqgyprcesitje/gas-cylinder-trolley-kuwait.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir tüp arabası modeli ve 3D CAD render görseli içermektedir.
@@ -4293,7 +4304,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 199. [Tig Welding Cart Plans](https://ar.inspiredpencil.com/pictures-2023/tig-welding-cart-plans)
+### 200. [Tig Welding Cart Plans](https://ar.inspiredpencil.com/pictures-2023/tig-welding-cart-plans)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, kaynak tüpü taşıma arabası (tüp arabası) için tasarlanmış bir CAD modelidir ve hedef ürünle aynı işlevsel kategoriye aittir.
@@ -4304,7 +4315,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 200. [Trolley Gas 3d Model](https://www.turbosquid.com/3d-models/trolley-gas-3d-model/966799)
+### 201. [Trolley Gas 3d Model](https://www.turbosquid.com/3d-models/trolley-gas-3d-model/966799)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de gaz tüpü taşıma amacı taşıyan benzer mekanik şasili el arabalarıdır, ancak ikinci görsel çift tüp kapasiteli bir kaynak arabası varyasyonudur.
@@ -4315,7 +4326,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 201. [🛒 Industrial Welding Cart CAD Files | STEP DXF Gas Cylinder Trolley Plans・ 3D File for 3D ...](https://cults3d.com/en/3d-model/tool/industrial-gas-cylinder-trolley-ergonomic-heavy-duty-design)
+### 202. [🛒 Industrial Welding Cart CAD Files | STEP DXF Gas Cylinder Trolley Plans・ 3D File for 3D ...](https://cults3d.com/en/3d-model/tool/industrial-gas-cylinder-trolley-ergonomic-heavy-duty-design)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, tüp taşıma mekanizmasının benzer fonksiyonel yapısını gösteren, endüstriyel tasarıma uygun bir tüp arabası modellemesidir.
@@ -4326,7 +4337,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 202. [3d gas cart in AutoCAD | Download CAD free (141.76 KB) | Bibliocad](https://www.bibliocad.com/en/library/3d-gas-cart_70833/)
+### 203. [3d gas cart in AutoCAD | Download CAD free (141.76 KB) | Bibliocad](https://www.bibliocad.com/en/library/3d-gas-cart_70833/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 presents a CAD model of a gas cylinder truck with dimensions, matching the general structural concept and purpose of the reference product in Image 1.
@@ -4337,7 +4348,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 203. [Oxygen and Acetylene Torch Welding Cart Set Old 3D Model $79 - .3ds ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-old-5290.html)
+### 204. [Oxygen and Acetylene Torch Welding Cart Set Old 3D Model $79 - .3ds ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-old-5290.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images represent gas cylinder trucks designed for transporting pressurized tanks, though the candidate features a dual-cylinder welding cart configuration with a central support spine rather than the folding single-cylinder frame of the reference.
@@ -4348,7 +4359,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 204. [Industrial Welding Cylinder Cart CAD Files | STEP DXF Plans for ...](https://www.etsy.com/listing/4510220069/ndustrial-gas-cylinder-cart-cad-files)
+### 205. [Industrial Welding Cylinder Cart CAD Files | STEP DXF Plans for ...](https://www.etsy.com/listing/4510220069/ndustrial-gas-cylinder-cart-cad-files)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD assembly of components (base plate, axle, and wheels) that correspond directly to the lower base and wheel assembly of the gas cylinder truck in Image 1.
@@ -4359,7 +4370,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 205. [Gas Bottle Cylinder Tank Mounted on Single Handle Hand Truck - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-mounted-on-single-handle-hand-truck)
+### 206. [Gas Bottle Cylinder Tank Mounted on Single Handle Hand Truck - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-mounted-on-single-handle-hand-truck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 78` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 is a 3D CAD model of a two-wheel gas cylinder hand truck, representing a common working variation of the four-wheel cylinder cart shown in Image 1.
@@ -4370,7 +4381,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 206. [Manual Cart with Mono Handle for Dual Gas Cylinder Capacity - 3D Model ...](https://www.renderhub.com/surf3d/manual-mono-handle-hand-truck-with-two-gas-cylinder-capacity)
+### 207. [Manual Cart with Mono Handle for Dual Gas Cylinder Capacity - 3D Model ...](https://www.renderhub.com/surf3d/manual-mono-handle-hand-truck-with-two-gas-cylinder-capacity)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a CAD model of a gas cylinder truck designed for dual cylinders, sharing the core structural concept and function of the reference product.
@@ -4381,7 +4392,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 207. [Oxygen and Acetylene Torch Welding Cart Set 3D Model $69 - .3ds .blend ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-6008.html)
+### 208. [Oxygen and Acetylene Torch Welding Cart Set 3D Model $69 - .3ds .blend ...](https://free3d.com/3d-model/oxygen-and-acetylene-torch-welding-cart-set-6008.html)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a dual-cylinder welding cart with similar structural frame geometry and safety chain, representing a functional variation of the reference gas cylinder truck.
@@ -4392,7 +4403,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 208. [Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10" Solid ...](https://www.vevor.com/welding-cart-c_12105/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-10-solid-wheels-p_010647925665)
+### 209. [Dual Welding Cylinder Cart Oxygen Acetylene Tank Cart with 10" Solid ...](https://www.vevor.com/welding-cart-c_12105/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-10-solid-wheels-p_010647925665)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a dual-cylinder welding cart which serves the same functional purpose as the single-cylinder truck in Image 1, though with a modified frame and dual platform layout.
@@ -4403,7 +4414,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 209. [ArtStation - GAS BOTTLE CYLINDER TANK HAND TRUCK TROLLEY DOLLY BARROW ...](https://www.artstation.com/marketplace/p/0aGJ3/gas-bottle-cylinder-tank-hand-truck-trolley-dolly-barrow-cart)
+### 210. [ArtStation - GAS BOTTLE CYLINDER TANK HAND TRUCK TROLLEY DOLLY BARROW ...](https://www.artstation.com/marketplace/p/0aGJ3/gas-bottle-cylinder-tank-hand-truck-trolley-dolly-barrow-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a CAD model of a similar gas cylinder truck mechanism with dual wheels and a loading plate, though featuring a different structural frame configuration.
@@ -4414,7 +4425,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 210. [Gas Bottle Trolley 3d Obj](https://www.turbosquid.com/3d-models/gas-bottle-trolley-3d-obj/668194)
+### 211. [Gas Bottle Trolley 3d Obj](https://www.turbosquid.com/3d-models/gas-bottle-trolley-3d-obj/668194)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict gas cylinder trucks designed for transporting pressurized gas bottles, though Image 2 features a two-cylinder platform cart design rather than the single-cylinder leaning frame shown in Image 1.
@@ -4425,7 +4436,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 211. [Gas Bottle Cylinder Tank on Hand Truck Trolley Barrow Cart - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart)
+### 212. [Gas Bottle Cylinder Tank on Hand Truck Trolley Barrow Cart - 3D Model ...](https://www.renderhub.com/surf3d/gas-bottle-cylinder-tank-hand-set-truck-trolley-barrow-cart)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD model of a gas cylinder truck with the same functional design, layout, and securing chain as the reference, though rendered in yellow with loaded cylinders.
@@ -4436,7 +4447,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 212. [Gas Cylinder on Handtruck - 3D Model by firdz3d](https://www.renderhub.com/firdz3d/gas-cylinder-on-handtruck)
+### 213. [Gas Cylinder on Handtruck - 3D Model by firdz3d](https://www.renderhub.com/firdz3d/gas-cylinder-on-handtruck)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a 3D CAD model of a gas cylinder truck holding a gas tank, which serves the same functional purpose as the reference product despite minor design variations.
