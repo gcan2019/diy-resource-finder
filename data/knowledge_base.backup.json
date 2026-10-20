@@ -9063,6 +9063,116 @@
       "variant_type": "working_variation",
       "reason": "Aday ürün, temel gaz tüpü taşıma ve zincirle sabitleme mekanizmasını içeren ancak ek olarak kaynak makinesi ve alet tepsileri sunan çok fonksiyonlu bir atölye varyasyonudur.",
       "discovered_at": "2026-10-20 06:28:20"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Custom Cylinder Truck | Unitran Manufacturers LTD",
+      "page_url": "https://www.unitran.ca/product/custom-products/hand-trucks-custom-products/custom-cylinder-truck/",
+      "candidate_image_url": "https://www.unitran.ca/wp-content/uploads/2025/05/ZZ-Template.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, sanayi tipi gaz tüplerini sabitlemek için zincir düzeneğine ve ergonomik tutamağa sahip standart bir taşıma arabasının teknik çizimidir.",
+      "discovered_at": "2026-10-20 08:26:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Universal Welder Trolley WTU 500 - Hare & Forbes Machineryhouse",
+      "page_url": "https://www.machineryhouse.com.au/w241",
+      "candidate_image_url": "https://images.machineryhouse.com.au/products/W241/700/1-Rear-Gas-Bottle-Holder-With-Chains_1720400728.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilitli, tekerlekli ve kaynaklı çelik konstrüksiyonlu sanayi tipi gaz tüp taşıma arabası standartlarını tam olarak karşılamaktadır.",
+      "discovered_at": "2026-10-20 08:26:13"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner Cart - Utopia",
+      "page_url": "https://utopiacam.com/shop/magliner-cart/",
+      "candidate_image_url": "https://utopiacam.com/wp-content/uploads/2016/09/MAGLNR.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun dönüştürülebilir el arabası formunda olup gaz tüpü taşıma gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-20 08:55:56"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "27 Gas Bottle Holder ideas | welding trailer, welding rigs, welding cart",
+      "page_url": "https://www.pinterest.com/frankdewell/gas-bottle-holder/",
+      "candidate_image_url": "https://i.pinimg.com/originals/cd/88/78/cd88786a413cde5bed3cc6fbd1cfbc75.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görseldeki aday, standart bir el arabasından dönüştürülmüş ve üzerinde gaz tüpleri bulunan fonksiyonel bir tüp taşıma aracıdır.",
+      "discovered_at": "2026-10-20 08:56:15"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "welding trolley bottle bracket - Free 3D Print Model - MakerWorld",
+      "page_url": "https://makerworld.com/en/models/1877835-welding-trolley-bottle-bracket",
+      "candidate_image_url": "https://makerworld.bblmw.com/makerworld/model/US1368054d68617c/design/2025-10-11_7a49a4b02f0bf8.jpg?x-oss-process=image/resize,w_1000/format,webp",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, bir sanayi tipi gaz tüpünün güvenlik zinciri ile taşıma arabasına sabitlenmiş halini göstererek kullanıcı gereksinimlerini tam olarak karşılayan bir uygulama örneğidir.",
+      "discovered_at": "2026-10-20 08:59:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "OSHA compliant cylinder storage Archives - Anthony Carts - Welding Carts & Cages",
+      "page_url": "https://www.anthonycarts.com/news/tag/osha-compliant-cylinder-storage/",
+      "candidate_image_url": "https://www.anthonycarts.com/wp-content/uploads/2023/03/Firewall-Carts-1.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel, sanayi tipi gaz tüplerini güvenli bir şekilde taşımak için gerekli olan sağlam çelik gövde, tekerlekli sistem ve tüp sabitleme mekanizmasına sahip endüstriyel bir taşıma arabasıdır.",
+      "discovered_at": "2026-10-20 08:59:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DIY Welding Cart Files to Make | Custom Cart With Hose and Cord Hanger | Unique Welding Cart ...",
+      "page_url": "https://www.etsy.com/listing/1560770206/diy-welding-cart-files-to-make-custom",
+      "candidate_image_url": "https://i.etsystatic.com/26079730/r/il/982999/5338002700/il_fullxfull.5338002700_iyox.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, kaynak makinesi taşıma ile entegre edilmiş bir gaz tüpü taşıma arabası için hazırlanmış profesyonel bir CAD tasarım dosyasıdır ve gereksinimleri karşılayan işlevsel bir varyasyondur.",
+      "discovered_at": "2026-10-20 08:59:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "How To Make An Electric Hand Truck at Ebony Butters blog",
+      "page_url": "https://storage.googleapis.com/dfevzgdamvqwve/how-to-make-an-electric-hand-truck.html",
+      "candidate_image_url": "https://handtrucks2go.com/images/D/electric-dolly2.JPG",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, sanayi tipi gaz tüplerini taşımak için tasarlanmış, emniyetli ve ergonomik yapıya sahip teknik bir gaz tüpü taşıma arabası çizimidir.",
+      "discovered_at": "2026-10-20 09:02:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Solved Hand truckA hand truck is used to move a compressed | Chegg.com",
+      "page_url": "https://www.chegg.com/homework-help/questions-and-answers/hand-truck-hand-truck-used-move-compressed-air-cylinder-knowing-combined-weight-truck-cyli-q201972522",
+      "candidate_image_url": "https://media.cheggcdn.com/media/d3f/d3fc9432-0781-454a-9c30-025ad23c03c3/q2.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, endüstriyel bir gaz tüpü taşıma arabasının fiziksel prensiplerini ve statik analizini gösteren teknik bir mühendislik çizimidir.",
+      "discovered_at": "2026-10-20 09:02:53"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Design and Assembly of Hand Truck in Solidworks - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=ph3qGA23DLw",
+      "candidate_image_url": "https://i.ytimg.com/vi/ph3qGA23DLw/maxresdefault.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış standart bir tüp arabasının teknik çizimini ve parçalarını göstermektedir.",
+      "discovered_at": "2026-10-20 09:02:56"
     }
   ]
 }
