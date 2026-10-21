@@ -9712,6 +9712,28 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-10-20 23:12:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "10 Best Welding Carts | 2025",
+      "page_url": "https://bestchoice.guide/welding-carts/",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/4123PT7xL4L.jpg",
+      "score": 82,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, arka tarafında zincirli emniyet sistemiyle gaz tüpü bölmesi barındıran kaynak makinesi taşıma arabası olup, tüp taşıma işlevini karşılayan çalışma varyasyonudur.",
+      "discovered_at": "2026-10-21 03:26:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Amazon.com: Goplus 3-Tier Welding Cart, Heavy Duty Welder Cart w/2 Safety Chains, 360° Swivel ...",
+      "page_url": "https://www.amazon.com/Goplus-Welding-Storage-Rolling-Machine/dp/B0D3HK2B2Q",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/61qJ7hrgtxL._AC_SL1500_.jpg",
+      "score": 72,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşıma bölmesine sahip çok amaçlı bir kaynak ekipman arabası olup teknik gereksinimleri karşılayan bir varyasyondur.",
+      "discovered_at": "2026-10-21 03:26:36"
     }
   ]
 }
