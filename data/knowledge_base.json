@@ -11285,6 +11285,61 @@
       "variant_type": "working_variation",
       "reason": "Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için tasarlanmış, tekerlekli ve emniyet mekanizmasına sahip, belirtilen endüstriyel gereksinimleri karşılayan bir taşıma arabasıdır.",
       "discovered_at": "2026-10-23 09:24:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DIY Dual Bottle MIG and TIG Welding Cart | Welding machines, Welding ...",
+      "page_url": "https://www.pinterest.com/pin/diy-dual-bottle-mig-and-tig-welding-cart--469078117454341873/",
+      "candidate_image_url": "https://i.pinimg.com/736x/23/93/59/23935944c51f43f506be9972b00aa1f6.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, sanayi tipi gaz tüplerini ve kaynak makinesini taşımak için üretilmiş özel yapım (DIY) fonksiyonel bir kaynak arabasıdır.",
+      "discovered_at": "2026-10-23 19:50:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Roller three Tray Design with Safety Tank Chain - VoyagerTools",
+      "page_url": "https://www.voyagertools.com/products/sf-voy-2014-55118",
+      "candidate_image_url": "https://www.voyagertools.com/cdn/shop/products/61YM9dI3ZRL._AC_SL1000_2000x.jpg?v=1683909005",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak ve sabitlemek için zincir mekanizmasına sahip, kaynaklı çelik konstrüksiyonlu farklı bir tüp arabası varyasyonunu göstermektedir.",
+      "discovered_at": "2026-10-23 19:50:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "VEVOR VEVOR Welding Cart, 3-Tier Welder Cart Heavy Duty with 400 Lbs ...",
+      "page_url": "https://www.vevor.com.au/welding-cart-c_12105/vevor-welding-cart-3-tier-welder-cart-heavy-duty-with-400-lbs-weight-capacity-360-swivel-wheels-tank-storage-safety-chains-rolling-mig-welder-cart-for-tig-arc-mma-plasma-cutter-welding-machine-p_010860377269",
+      "candidate_image_url": "https://img.vevorstatic.com/us/SCHJTC400LB18XD9NV0/original_img-v1/welding-cart-m100-1.2.jpg?timestamp=1686119076000",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, ana gaz tüpü taşıma işlevini yerine getiren ancak ek kaynak ekipmanları için raflar içeren farklı bir endüstriyel tüp arabası varyasyonudur.",
+      "discovered_at": "2026-10-23 19:50:32"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Safety & Carts – Welding Store",
+      "page_url": "https://www.weldingstore.com/collections/cylinder-safety",
+      "candidate_image_url": "https://www.weldingstore.com/cdn/shop/collections/FC_Cylinder-Safety.jpg?v=1571345374",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, çift tekerlekli ve zincirli emniyet kilit mekanizmasına sahip işlevsel bir tüp arabası varyasyonudur.",
+      "discovered_at": "2026-10-23 19:50:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Gas Bottle Holder at Susan Burke blog",
+      "page_url": "https://storage.googleapis.com/djyancrdewdyie/welding-gas-bottle-holder.html",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/61IxQDbQivL._AC_SL1222_.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, kaynak makinesi için entegre raflara sahip ancak arka tüp taşıma platformu ve zincir mekanizmasıyla gaz tüpü arabası gereksinimlerini tam olarak karşılayan alternatif bir endüstriyel tasarımdır.",
+      "discovered_at": "2026-10-23 19:58:10"
     }
   ]
 }
