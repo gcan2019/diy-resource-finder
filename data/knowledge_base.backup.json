@@ -12154,6 +12154,105 @@
       "variant_type": "exact_match",
       "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini taşımak için tasarlanmış zincirli emniyet kilitli ve iki tekerlekli bir tüp arabasıdır.",
       "discovered_at": "2026-10-25 00:07:42"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Cylinder Trolley Attachment for 242/270 MIG – Weld Shop Supply",
+      "page_url": "https://www.weldshopsupply.com/products/dual-cylinder-trolley-attachment-for-242-270-mig",
+      "candidate_image_url": "https://www.weldshopsupply.com/cdn/shop/files/FOR-328_01.jpg?v=1775057761&width=1946",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, hedef ile aynı işlevi gören farklı bir gaz tüpü taşıma arabası tasarımıdır.",
+      "discovered_at": "2026-10-25 04:17:15"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Cylinder Trolleys at Best Price in Pune, Maharashtra | De-luxe Trading Co.",
+      "page_url": "https://www.tradeindia.com/products/double-cylinder-trolleys-c7886358.html",
+      "candidate_image_url": "https://cpimg.tistatic.com/07886358/b/4/Double-Cylinder-Trolleys.jpg",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, sanayi tipi tüpleri taşımak için tasarlanmış zincirli emniyet kilitli, tekerlekli tüp arabasının çalışır durumdaki eşdeğer bir varyasyonunu göstermektedir.",
+      "discovered_at": "2026-10-25 04:17:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Single gas bottle trolley B20 - B40 - B50 with pneumatic tires | Bottle trolleys | Autogenous ...",
+      "page_url": "https://www.welda.be/en/single-gas-bottle-trolley-b20---small-bottles-20-litres---pneumatic-tyres",
+      "candidate_image_url": "https://www.welda.be/images/photolib/865x615/167342/aw-b201.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, ana hedef ürün ile aynı işlevi gören endüstriyel tip gaz tüpü taşıma arabasıdır, ancak tekerlek sayısı ve destek yapısı bakımından hafif tasarım farklılıkları içermektedir.",
+      "discovered_at": "2026-10-25 04:17:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "GasCaddy Single G-Size Cylinder Trolley - Cigweld",
+      "page_url": "https://www.cigweld.com.au/products/gas-caddy-single-g-size-cylinder-trolley/",
+      "candidate_image_url": "https://www.cigweld.com.au/wp-content/uploads/elementor/forms/208571_Side-2-600x600.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans ürüne kıyasla farklı tekerlek ve destek düzenine sahip olsa da, aynı temel amaca hizmet eden endüstriyel tip tüp arabası gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-25 04:17:41"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual High Pressure Cylinder Transportation Cart 750-20 - First Industrial Supplies",
+      "page_url": "https://www.firstindustrialsupplies.com/dual-high-pressure-cylinder-transportation-cart-750-20/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-9l966chvx4/images/stencil/608x608/products/29247/31150/SFT-750-20__08264.1597708535.jpg?c=2",
+      "score": 88,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki adet gaz silindirini taşıyan farklı bir tekerlek ve şasi konfigürasyonuna sahip eşdeğer bir tüp arabasıdır.",
+      "discovered_at": "2026-10-25 04:17:54"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Medium Dual Cylinder Cart",
+      "page_url": "https://www.kmstools.com/medium-dual-cylinder-cart-cyt-6sh.html",
+      "candidate_image_url": "https://www.kmstools.com/media/catalog/product/cache/566b47ff56cd86a3e207e84e7af45cf2/T/E/TEC-CYT6SH_LRG.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış zincirli emniyet kilitli ve tekerlekli tüp arabası gereksinimini karşılayan eşdeğer bir üründür.",
+      "discovered_at": "2026-10-25 04:21:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Trolley - Double Canister - 24 x 55 x 110 cm - Load Capacity 200kg - AF12-WSR ...",
+      "page_url": "https://safetyboot4u.co.za/?product=heavy-duty-trolley",
+      "candidate_image_url": "https://safetyboot4u.co.za/wp-content/uploads/2025/12/0049929_gas-bottle-trolley-double-canister-24-x-55-x-110-cm-load-capacity-200kg-af12-wsr_650-1.jpeg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, farklı bir tekerlek ve şasi konfigürasyonuna sahip olsa da aynı işlevi gören endüstriyel tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-25 04:21:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Wesco Industrial Products - Gas Cylinder Cart: 1000.000 lb Capacity, 29-3/4\" Wide, 44-3/4\" Long ...",
+      "page_url": "https://www.mscdirect.com/product/details/79931002",
+      "candidate_image_url": "https://cdn.mscdirect.com/global/images/ProductImages/7993100-21.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, büyük kriyojenik/oksijen tüplerini taşımak için tasarlanmış hidrolik kaldırma mekanizmasına sahip endüstriyel tip bir tüp arabasıdır ve hedef ürünle benzer amaca hizmet etmektedir.",
+      "discovered_at": "2026-10-25 04:21:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Cart - Non-Sparking Poly Construction - for 2 Cylinders up to 15\" - 7302-BK",
+      "page_url": "https://www.denios.ca/cylinder-cart-non-sparking-poly-construction-for-2-cylinders-up-to-15-7302-bk-K521250/K521250",
+      "candidate_image_url": "https://assets.production.denios.io/article/182608_20190521-153354.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini taşımak için tasarlanmış polimer gövdeli farklı bir tüp arabası varyasyonudur.",
+      "discovered_at": "2026-10-25 04:21:50"
     }
   ]
 }
