@@ -12253,6 +12253,61 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini taşımak için tasarlanmış polimer gövdeli farklı bir tüp arabası varyasyonudur.",
       "discovered_at": "2026-10-25 04:21:50"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner Motorised Handtruck - Warequip : Warequip",
+      "page_url": "https://warequip.com.au/product/magliner-motorised-handtruck/",
+      "candidate_image_url": "https://warequip.com.au/wp-content/uploads/2023/01/318753899_887457088917218_3526231009335353857_n-700x700.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, sanayi tipi tüplerin güvenli taşınması için gerekli olan emniyet kemeri, tekerlekli şasi ve ergonomik tutamak özelliklerine sahip, Magliner markalı endüstriyel bir tüp taşıma sistemidir.",
+      "discovered_at": "2026-10-25 15:33:14"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "JUSTRITE 2 Wide by 2 Deep, Gas Cylinder Storage Rack, 4 Cylinder ...",
+      "page_url": "https://www.ensafeco.com/justrite-2-wide-by-2-deep-gas-cylinder-storage-rack-4-cylinder-capacity-steel-35106/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-521ruvu/images/stencil/1280x1280/products/7113/16175/_3_5_35106-app2-lg__38871.1664961513.jpg?c=2",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir konfigürasyona sahip çelik tüp arabası (çerçeve tipi) göstermektedir.",
+      "discovered_at": "2026-10-25 15:33:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Another Day Another Project: Making a MIG Welder Cart",
+      "page_url": "https://chris-eigenheer.blogspot.com/2016/08/making-mig-welder-cart.html",
+      "candidate_image_url": "https://2.bp.blogspot.com/-FtgbQ2PcIN8/V8MumufU_rI/AAAAAAAAGU0/3V0Jgxe5wiANADfL_Ic937agra1kIOpiQCLcB/s1600/IMG_20160827_125019.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, kaynak makinesi taşıma sehpası ve gaz tüpünü entegre eden farklı bir tasarım olsa da, temel tüp taşıma ve emniyet fonksiyonlarını karşılayan işlevsel bir varyasyondur.",
+      "discovered_at": "2026-10-25 15:49:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Portable Acetylene Oxygen Cylinder Cart with Locking Mechanism - Gas ...",
+      "page_url": "https://lylishan.en.made-in-china.com/product/MmgrYLIDJChz/China-Portable-Acetylene-Oxygen-Cylinder-Cart-with-Locking-Mechanism.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00PvcbLqGCaUka/Portable-Acetylene-Oxygen-Cylinder-Cart-with-Locking-Mechanism.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüp taşıma kapasitesine sahip farklı bir yapıda olsa da temel işlev ve kullanım amacı olarak gaz tüpü taşıma arabası gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-25 15:50:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Ergonomic Acetylene Oxygen Cylinder Carrier with Non-Slip Base - Gas ...",
+      "page_url": "https://lylishan.en.made-in-china.com/product/kmuUbZIPbsht/China-Ergonomic-Acetylene-Oxygen-Cylinder-Carrier-with-Non-Slip-Base.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00nBbqALRcAYoG/Ergonomic-Acetylene-Oxygen-Cylinder-Carrier-with-Non-Slip-Base.jpg",
+      "score": 85,
+      "category": "exact_match",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüp taşıma kapasitesine sahip alternatif bir gaz tüpü arabası tasarımı sunmakta olup temel işlev ve gereksinimleri karşılamaktadır.",
+      "discovered_at": "2026-10-25 15:50:23"
     }
   ]
 }
