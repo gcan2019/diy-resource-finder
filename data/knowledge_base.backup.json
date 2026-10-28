@@ -13859,6 +13859,61 @@
       "variant_type": "exact_match",
       "reason": "Aday görsel, endüstriyel tip gaz tüplerini güvenle taşımak için tasarlanmış, zincirli emniyet kilidi ve uygun gövde yapısına sahip standart bir gaz tüpü taşıma arabasıdır.",
       "discovered_at": "2026-10-27 20:35:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Design – Physics Anonymous",
+      "page_url": "http://www.physanon.com/welding-cart/",
+      "candidate_image_url": "http://www.physanon.com/wp-content/uploads/2018/07/weldingcart-958x765.png",
+      "score": 75,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşıma bölmesine sahip profesyonel bir kaynak arabasının teknik çizimidir ve temel tüp taşıma fonksiyonunu karşılayan bir çalışma varyasyonudur.",
+      "discovered_at": "2026-10-28 01:13:54"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "4 Drawer Cabinet Welding Cart Heavy Duty Rolling Welder Carts Drawers Cable Hook Tank Storage ...",
+      "page_url": "https://www.alibaba.com/product-detail/4-Drawer-Cabinet-Welding-Cart-Heavy_1601067436622.html",
+      "candidate_image_url": "https://sc04.alicdn.com/kf/H01af6ffc0b5948e9920150c32113f7eaH/268142391/H01af6ffc0b5948e9920150c32113f7eaH.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, talep edilen gaz tüpü taşıma işlevine ek olarak kaynak makinesi ve ekipmanlarını da entegre eden çok amaçlı, endüstriyel bir atölye taşıma arabasıdır.",
+      "discovered_at": "2026-10-28 01:14:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart, Welding Carts with 4 Drawers for MIG TIG ARC Welding Plasma Cutter Tank Storage ...",
+      "page_url": "https://www.amazon.com/Welding-Drawers-Plasma-Cutter-Storage/dp/B0B6FYGT5D",
+      "candidate_image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/00c94efa-cf7b-4941-b557-193f1c51c2d3.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşıma işlevini barındıran ancak kaynak makineleri ve ekipmanları için entegre depolama alanları ve çekmeceler sunan çok fonksiyonlu endüstriyel bir taşıma arabasıdır.",
+      "discovered_at": "2026-10-28 01:14:13"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Alumnium Cylinder Cart - Pneumatic Wheels - Lightweight - 2 Cylinder Capacity",
+      "page_url": "https://www.denios-us.com/alumnium-cylinder-cart-pneumatic-wheels-lightweight-2-cylinder-capacity-K521162/K521162",
+      "candidate_image_url": "https://assets.production.denios.io/article/186398_20190613-155110.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görsel, belirtilen sanayi tipi gaz tüplerini güvenle taşımak için gerekli olan çelik gövde, güvenlik kayışı ve tekerlekli taşıma sistemini endüstriyel standartlara tam uygun olarak yansıtmaktadır.",
+      "discovered_at": "2026-10-28 01:18:39"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Welding Trolley : Double Gas Cylinder Trolley : Cylinder Welding Trolley : Dual ...",
+      "page_url": "https://handlinggear.com.au/gas-cylinder-welding-trolley",
+      "candidate_image_url": "https://handlinggear.com.au/images/thumbs/0013257_gas-cylinder-welding-trolley_550.jpeg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, farklı bir yapıya sahip (kafes tipi) olmasına rağmen aynı işlevi gören endüstriyel tip bir gaz silindiri taşıma arabasıdır.",
+      "discovered_at": "2026-10-28 01:21:10"
     }
   ]
 }
