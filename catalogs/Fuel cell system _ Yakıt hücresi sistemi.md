@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Fuel cell system / Yakıt hücresi sistemi`
 **Doğrulanmış Kaynak Sayısı:** 160 adet
-**Son Güncelleme:** 2026-10-28 20:56:35
+**Son Güncelleme:** 2026-10-29 01:48:33
 > 💡 **Ürün Tanımı / Notlar:** PEM ve katı oksit yakıt hücresi sistemleri, bipolar plaka akış kanalları, membran elektrot takımı ve montaj sıkıştırma plakaları teknik çizimleri.
 
 ---

@@ -14310,6 +14310,50 @@
       "variant_type": "working_variation",
       "reason": "Aday görseldeki ürün, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilitli, tekerlekli ve sanayi tipi gaz tüplerini taşımaya uygun ergonomik yapıdaki endüstriyel tüp taşıma arabası ile teknik olarak birebir aynı işlevi gören profesyonel bir modeldir.",
       "discovered_at": "2026-10-28 20:55:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Amazon.com: Dual Welding Cylinder Cart, Oxygen Acetylene Tank Hand Truck with 440 lbs Capacity ...",
+      "page_url": "https://www.amazon.com/Welding-Cylinder-Acetylene-Capacity-Storage/dp/B0FN7T6QJV",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/51HMrORZmVL._AC_SY355_.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, istenen sanayi tipi gaz tüpü taşıma arabasının tüm fonksiyonel gereksinimlerini (zincirli emniyet kilidi, sağlam çelik gövde ve ergonomik tutamak) karşılayan endüstriyel bir üründür.",
+      "discovered_at": "2026-10-29 01:32:37"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Customized Four-wheel Oxygen Acetylene Cylinder Trolley Gas Cylinder Liquid Oxygen Cylinder ...",
+      "page_url": "https://www.aliexpress.com/item/1005009074848287.html",
+      "candidate_image_url": "https://ae01.alicdn.com/kf/Sc9b8bedb1db14a26831fd6a4013dbf6ag.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görüntülenen ürün, sanayi tipi gaz tüplerini güvenli bir şekilde taşımak için tasarlanmış, tekerlekli ve kilit mekanizmalı endüstriyel bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-29 01:32:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Rotatruck: Single Aluminium Gas Cylinder Bottle Trolley – Custom Trolleys Australia",
+      "page_url": "https://www.customtrolleys.com.au/product/single-aluminium-gas-cylinder-bottle-trolley-rotatruck/",
+      "candidate_image_url": "https://www.customtrolleys.com.au/wp-content/uploads/2017/12/Rotatruck-Single-Gas-Bottle-Aluminium-Hand-Truck-01-Custom-Trolleys-Australia-Brisbane.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel, sanayi tipi gaz tüplerinin taşınması için tasarlanmış, emniyet kemerli, tekerlekli ve ergonomik tutamağa sahip profesyonel bir tüp taşıma arabasını tam olarak karşılamaktadır.",
+      "discovered_at": "2026-10-29 01:36:27"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "If you want to build a welding cart for MIG, TIG, or ARC welding then this tutorial and ...",
+      "page_url": "https://www.pinterest.com/pin/454441418631811180/",
+      "candidate_image_url": "https://i.pinimg.com/236x/7a/9c/42/7a9c42fb451cffc96dd8047ca2f0b639--welding-cart-plans-welding-ideas.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, sanayi tipi gaz tüplerinin taşınması için gerekli olan emniyet mekanizmalarına, tekerlek yapısına ve taşıma gövdesine sahip teknik bir tasarım çizimini temsil etmektedir.",
+      "discovered_at": "2026-10-29 01:44:20"
     }
   ]
 }
