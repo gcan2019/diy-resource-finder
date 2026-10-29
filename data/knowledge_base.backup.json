@@ -14464,6 +14464,50 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, gaz tüpü taşıma arabasının (trolley) teknik bir şematik çizimini ve sistem bileşenlerini başarıyla temsil etmektedir.",
       "discovered_at": "2026-10-29 15:22:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "oxygen cylinder 3d models | Page 1 | STLFinder",
+      "page_url": "https://www.stlfinder.com/3dmodels/oxygen-cylinder-3d-models/",
+      "candidate_image_url": "https://bamax.es/php/files/uploads/41/trolley-oxygen-cylinder-3d-model-qoHDtmHI_200.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, sanayi tipi gaz tüplerinin taşınması için gerekli olan emniyet kemeri/çemberi, taşıma platformu ve ergonomik tutamak özelliklerine sahip bir tüp arabasının 3D CAD modelidir.",
+      "discovered_at": "2026-10-29 20:51:56"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Trucks",
+      "page_url": "https://www.doverco.ca/category/D01_MatHand/D01_MatHand_Mglnr/D01_MatHand_Mglnr_Hndtrcks",
+      "candidate_image_url": "https://s3.amazonaws.com/doverco/category/463_MD-image001.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşımaya uygun endüstriyel tip bir el arabası (Magliner sistem) göstermektedir ancak referanstaki özel üç tekerlekli şasi tasarımından farklıdır.",
+      "discovered_at": "2026-10-29 20:55:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Trucks R Us - Vestil Welding Cylinder Torch Cart w/ Flat Free ...",
+      "page_url": "https://www.handtrucksrus.com/product-details.aspx?id=1309",
+      "candidate_image_url": "https://www.handtrucksrus.com/trucks/gas/vest2_lg.gif",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüp taşıma kapasiteli ve emniyet kemerli farklı bir endüstriyel gaz tüpü taşıma arabası tasarımı sunmaktadır.",
+      "discovered_at": "2026-10-29 20:56:15"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Sulfur hexafluoride gas cylinder transportation trolley - Eureka | Patsnap",
+      "page_url": "https://eureka.patsnap.com/patent-CN103640600A",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/64bcef6c-97d7-4512-954e-628cf19686c7/HDA0000415217700000011.PNG",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, gaz tüpü arabasının bileşen numaralandırılmış teknik çizimidir ve ana ürün özelliklerini doğrulamaktadır.",
+      "discovered_at": "2026-10-29 21:02:02"
     }
   ]
 }
