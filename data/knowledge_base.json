@@ -14508,6 +14508,105 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, gaz tüpü arabasının bileşen numaralandırılmış teknik çizimidir ve ana ürün özelliklerini doğrulamaktadır.",
       "discovered_at": "2026-10-29 21:02:02"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Trolleys | Products tagged with 'welding trolley'",
+      "page_url": "https://www.gasbottletrolleys.com.au/welding-trolley",
+      "candidate_image_url": "https://www.gasbottletrolleys.com.au/images/thumbs/0015376_gas-cylinder-welding-trolley-4-wheel_415.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel tüpleri taşımak için tasarlanmış farklı bir yapıda olsa da temel işlev ve kullanım amacı açısından aynı kategoriye (tüp arabası) aittir.",
+      "discovered_at": "2026-10-30 01:41:51"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Dual Cylinder Cart w/ Welding Kit & Hoses",
+      "page_url": "https://www.bidspotter.com/en-us/auction-catalogues/machinery-network-auctions/catalogue-id-bscmac110230/lot-50c38c6f-7ddd-4bed-8881-b16200036da5",
+      "candidate_image_url": "https://portal-images.azureedge.net/auctions-2024/bscmac110230/images/612201c5-6142-400b-a0ab-b16200067db9.jpg?w=1920&h=1920&mode=max",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel tip gaz tüplerini taşımak için tasarlanmış, iki tekerlekli ve emniyet kayışlı farklı bir konfigürasyona sahip endüstriyel tüp arabasını göstermektedir.",
+      "discovered_at": "2026-10-30 01:42:17"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Justrite 35048 Gas Cylinder Hand Truck, Double Cylinder Hand Truck with Firewall and Hoist Ring ...",
+      "page_url": "https://industrialcabinets.com/justrite-35048-double-cylinder-hand-truck-with-firewall-and-hoist-ring-20-inch-steel-wheels-tool-box.html",
+      "candidate_image_url": "https://industrialcabinets.com/media/catalog/product/cache/99dc5e1dc90eb9727970ba1a904a05a5/3/5/35048.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, çift tüp taşıma kapasiteli ve emniyet zincirli farklı bir gaz tüpü arabası varyasyonunu göstermektedir.",
+      "discovered_at": "2026-10-30 01:45:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cylinder Truck - Milwaukee Hand Trucks",
+      "page_url": "https://www.milwaukeehandtrucks.com/product/welding-cylinder-truck-40501/",
+      "candidate_image_url": "https://www.milwaukeehandtrucks.com/wp-content/uploads/2022/05/40501-Welding-Cylinder-Truck.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, iki büyük tekerlekli ve zincirli emniyet kilitli farklı bir gaz tüpü taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-10-30 01:45:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Justrite Double Gas-Cylinder Hand Trucks 2 Cylinders | Buy Online | Justrite | Fisher Scientific",
+      "page_url": "https://www.fishersci.ca/shop/products/double-gas-cylinder-hand-trucks/19085761",
+      "candidate_image_url": "https://assets.fishersci.com/TFS-Assets/CCG/product-images/HighRes_JPG_300-35032.jpg-650.jpg",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara uygun, çift tüp taşıma kapasiteli ve üç tekerlekli yapısıyla ilk görseldeki gaz tüpü arabası ile işlevsel olarak birebir eşleşmektedir.",
+      "discovered_at": "2026-10-30 01:45:48"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Justrite 35046 Gas Cylinder Hand Truck, Double Cylinder Hand Truck with Firewall, 20 Inch Steel ...",
+      "page_url": "https://industrialcabinets.com/justrite-35046-double-cylinder-hand-truck-with-firewall-20-inch-steel-wheels.html",
+      "candidate_image_url": "https://industrialcabinets.com/media/catalog/product/cache/99dc5e1dc90eb9727970ba1a904a05a5/3/5/35046.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüpü aynı anda taşımak için tasarlanmış farklı bir bölme ve tekerlek yapılandırmasına sahip benzer bir endüstriyel tüp arabasıdır.",
+      "discovered_at": "2026-10-30 01:45:53"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "STS 47kg LPG Gas Bottle Trolley — Ballinphellic Lifting Solutions",
+      "page_url": "https://www.liftingsolutions.ie/products/sts-47kg-lpg-gas-bottle-trolley",
+      "candidate_image_url": "https://www.liftingsolutions.ie/cdn/shop/files/CTS03-47kg-LPG-Gas-Cylinder-Trolley-03_644x429.jpg?v=1731428644",
+      "score": 95,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüplerini taşımak için kullanılan katlanabilir destek ayaklı ve çok tekerlekli tüp arabasını (gaz silindir el arabası) başarılı bir şekilde göstermektedir.",
+      "discovered_at": "2026-10-30 01:45:58"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "2 CYLINDER GAS BOTTLE TROLLEY - LiftQuip Australia",
+      "page_url": "https://www.liftquip.com.au/product/2-cylinder-gas-bottle-trolley/",
+      "candidate_image_url": "https://www.liftquip.com.au/wp-content/uploads/2-CYLINDER-GAS-BOTTLE-TROLLEY-01-367x459-1-300x300.jpg",
+      "score": 82,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir konstrüksiyona sahip bir CAD modelidir ancak işlevsel olarak aynı amacı karşılar.",
+      "discovered_at": "2026-10-30 01:46:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Assembly Tips. Some things you may miss in the instructions Ep.2018-28 - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=ILyBiarnKi4",
+      "candidate_image_url": "https://i.ytimg.com/vi/ILyBiarnKi4/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, kaynak makinesi taşıma ve gaz tüpü depolama amaçlı çok raflı bir DIY kaynak arabası gösterse de, tüp taşıma ve emniyet zinciri gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-30 01:46:12"
     }
   ]
 }
