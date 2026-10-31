@@ -15113,6 +15113,72 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen sanayi tipi gaz tüplerini taşıma, zincirli emniyet kilidi ve tekerlekli şasi özelliklerini karşılayan işlevsel bir atölye taşıma arabasıdır.",
       "discovered_at": "2026-10-31 01:30:19"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Northern Industrial Welders Heavy-Duty Cylinder Cart - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=Gq0o87RUL9w",
+      "candidate_image_url": "https://i.ytimg.com/vi/Gq0o87RUL9w/maxresdefault.jpg",
+      "score": 90,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görseldeki ürün, sanayi tipi gaz tüplerinin güvenle taşınması için zincirli emniyet kilidi, sağlam çelik iskelet ve ergonomik tutamak gibi temel gereksinimleri karşılayan, işlevsel bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-31 08:00:31"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "CT10 Steel Bottle Trolley Single Steel Cylinder Handling Trolley With ...",
+      "page_url": "https://www.drumhandlingequipments.com/sale-12957548-ct10-steel-bottle-trolley-single-steel-cylinder-handling-trolley-with-chain-protection-device-load-c.html",
+      "candidate_image_url": "https://www.drumhandlingequipments.com/photo/ps29997945-ct10_steel_bottle_trolley_single_steel_cylinder_handling_trolley_with_chain_protection_device_load_capacity_40_50l.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday ürün, sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, çelik konstrüksiyon gövde ve ergonomik tutamak özelliklerine sahip, hedeflenen tüp taşıma arabası ile tam uyumlu bir endüstriyel ekipmandır.",
+      "discovered_at": "2026-10-31 08:00:34"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Strong Hand Tools Gas Cylinder Cart - GCC200 | Heavy duty gas lift ...",
+      "page_url": "https://www.pinterest.com/pin/576953402300116267/",
+      "candidate_image_url": "https://i.pinimg.com/736x/c4/69/db/c469dbcf2fdc24054783ae0a378326ab.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki ürün, belirtilen sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, çelik yapı ve tekerlekli sistem özelliklerini tam olarak karşılayan bir taşıma arabasıdır.",
+      "discovered_at": "2026-10-31 08:02:45"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen Cylinder Transport Cart for 60 D/E (4.38\" DIA) Style Cylinders ...",
+      "page_url": "https://www.fwfmedicalproducts.com/oxygen-cylinder-transport-cart-for-60-d-or-e-4-38-dia-style-oxygen-cylinders/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-kzmtw9prmv/images/stencil/1280x1280/products/502/704/60_Cyl_E_Cart_Wcylinders__27312.1471459890.JPG?c=2",
+      "score": 75,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki sistem de sanayi tipi gaz tüplerinin güvenle taşınması için tasarlanmış çelik konstrüksiyonlu endüstriyel taşıma ekipmanlarıdır.",
+      "discovered_at": "2026-10-31 08:04:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Gas Cylinder Trolley at Rs 5600 | Industrial Trolley in Indore ...",
+      "page_url": "https://www.indiamart.com/proddetail/double-gas-cylinder-trolley-12532865591.html",
+      "candidate_image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2023/9/341807912/TV/RS/FA/4292916/double-gas-cylinder-trolley-1000x1000.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel, kullanıcının talep ettiği sanayi tipi gaz tüpü taşıma arabalarının çeşitli konfigürasyonlarını içeren teknik bir ürün kataloğudur ve beklenen işlevselliği tam olarak karşılamaktadır.",
+      "discovered_at": "2026-10-31 08:05:34"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "TRACTOR-TRUCK: A SMALL, BUT VALIANT | DIY | HOBBY | DESIGN",
+      "page_url": "https://modelist-konstruktor.org/small-scale-mechanization/tractor-truck-a-small-but-valiant",
+      "candidate_image_url": "https://modelist-konstruktor.com/img/2190/4.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, birinci görseldeki gaz silindiri taşıma arabasının detaylı teknik resim ve ölçülendirme şemasını sunmaktadır.",
+      "discovered_at": "2026-10-31 08:06:45"
     }
   ]
 }
