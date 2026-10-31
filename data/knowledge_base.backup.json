@@ -15179,6 +15179,50 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, birinci görseldeki gaz silindiri taşıma arabasının detaylı teknik resim ve ölçülendirme şemasını sunmaktadır.",
       "discovered_at": "2026-10-31 08:06:45"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Steel Dolly Frame - Arran Access International",
+      "page_url": "https://www.arranaccess.com/product/steel-dolly-frame-trolley/",
+      "candidate_image_url": "https://www.arranaccess.com/wp-content/uploads/2016/06/double-gas-trolley-500x500.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel standartlara tam uygun, çift tüp kapasiteli ve emniyet zincirli benzer bir çelik gaz silindiri taşıma arabasıdır.",
+      "discovered_at": "2026-10-31 14:26:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Major Parts of an Oxyacetylene Welding and Cutting Unit Diagram | Quizlet",
+      "page_url": "https://quizlet.com/363890698/major-parts-of-an-oxyacetylene-welding-and-cutting-unit-diagram/",
+      "candidate_image_url": "https://o.quizlet.com/zkgKnRU0scRPb.XxpJkBdA_b.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüplerini taşımak için tasarlanmış farklı bir gaz tüpü arabası şemasını göstermektedir.",
+      "discovered_at": "2026-10-31 14:28:10"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Equipment - 3D model by GP Strategies (@ckaplan) [0cb0ff5] - Sketchfab",
+      "page_url": "https://sketchfab.com/3d-models/welding-equipment-0cb0ff5f048948319e73255ad0464fab",
+      "candidate_image_url": "https://media.sketchfab.com/models/0cb0ff5f048948319e73255ad0464fab/thumbnails/add8f972de0d494399b4202c05bdb738/0bfe807f20b14b1da18c93e296f901cb.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel gaz tüpleri ve kaynak makinesi taşıma kapasitesine sahip 3 boyutlu bir tüp arabası modeli sunmaktadır.",
+      "discovered_at": "2026-10-31 14:31:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Custom Built Oxy-Acetylene Cart! - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=uQTmbZXzbnY",
+      "candidate_image_url": "https://i.ytimg.com/vi/uQTmbZXzbnY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXShUMA8=&rs=AOn4CLA5wlZbIMFSs9AbfSJAF3S_V0674Q",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için kullanılan endüstriyel tip bir tüp arabasını ve ekipmanlarını göstermektedir ancak tasarım referans ürüne kıyasla farklılıklar içermektedir.",
+      "discovered_at": "2026-10-31 14:34:01"
     }
   ]
 }
