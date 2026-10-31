@@ -15047,6 +15047,72 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, referans üründeki temel gaz tüpü taşıma fonksiyonunu, güvenlik zincirini ve tekerlekli yapıyı kaynak makinesi taşıma platformu ile birleştiren endüstriyel bir atölye arabasıdır.",
       "discovered_at": "2026-10-30 22:06:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "HOW TO WELD WITH A MIG WELDER — ALL ABOUT THE BUILD",
+      "page_url": "https://www.allaboutthebuild.com/blog/2024/8/how-to-weld-with-a-mig-welder",
+      "candidate_image_url": "https://images.squarespace-cdn.com/content/v1/6306c4806c80590480b4281c/88a11acf-d39c-4303-8c4d-5355d2b39a50/40cf-welding-gas-tank.jpg?format=2500w",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpünü güvenli bir şekilde sabitleyen zincir mekanizmasına sahip, kaynak makinesiyle entegre bir taşıma ünitesini göstermektedir ve belirtilen gereksinimleri karşılamaktadır.",
+      "discovered_at": "2026-10-31 01:26:46"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "GCC200, StrongHand Gas Cylinder Cart | Welding projects, Welding cart ...",
+      "page_url": "https://www.pinterest.com/pin/gcc200-stronghand-gas-cylinder-cart--582864376758504696/",
+      "candidate_image_url": "https://i.pinimg.com/736x/ec/82/83/ec82830e7e6094dde187d996d41310e8.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için tasarlanmış, zincir emniyet sistemi ve ergonomik tutamağa sahip, kullanıcı gereksinimlerini karşılayan fonksiyonel bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-10-31 01:27:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🍾 Propane Gas Bottle 3D Model – High-Poly Game Ready・ STL File for 3D ...",
+      "page_url": "https://cults3d.com/en/3d-model/various/propane-gas-bottle-3d-model-high-poly-game-ready",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/29992336/illustration-file/7ec048e2-6216-4aa7-ae2b-b886d62f82a9/rendu-04.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, endüstriyel standartlara uygun bir gaz tüpü taşıma arabasının 3D modellemesini temsil etmektedir ve talep edilen güvenlik donanımlarıyla tam uyumludur.",
+      "discovered_at": "2026-10-31 01:29:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lifting Equipment Perth - Stock ready in Perth | Gas Cylinder Welding ...",
+      "page_url": "https://www.liftingequipmentperth.com.au/gas-cylinder-welding-trolley-perth",
+      "candidate_image_url": "https://www.liftingequipmentperth.com.au/images/thumbs/0013198_dual-gas-cylinder-welding-trolley-perth_550.jpeg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görüntülenen ürün, endüstriyel tip gaz tüplerini sabitlemek için kullanılan emniyet kemeri mekanizmasına sahip, kaynaklı çelik konstrüksiyonlu bir taşıma arabası parçasıdır ve kullanıcı gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-10-31 01:30:10"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cylinder Trolley | Hilco Global APAC",
+      "page_url": "https://auctions.hilcoapac.com/lot-details/index/catalog/2073/lot/192266/21-2839-Welding-Cylinder-Trolley",
+      "candidate_image_url": "https://auctions.hilcoapac.com/images/lot/5755/575507_xl.jpg?ts=1738910417",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de sanayi tipi gaz tüplerini güvenle taşımak üzere tasarlanmış, zincirli emniyet mekanizmasına ve sağlam şasi yapısına sahip endüstriyel taşıma arabalarıdır.",
+      "discovered_at": "2026-10-31 01:30:16"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cylinder Trolley | Hilco Global APAC",
+      "page_url": "https://auctions.hilcoapac.com/lot-details/index/catalog/2073/lot/192267/22-2839-Welding-Cylinder-Trolley",
+      "candidate_image_url": "https://auctions.hilcoapac.com/images/lot/5755/575513_xl.jpg?ts=1738910418",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen sanayi tipi gaz tüplerini taşıma, zincirli emniyet kilidi ve tekerlekli şasi özelliklerini karşılayan işlevsel bir atölye taşıma arabasıdır.",
+      "discovered_at": "2026-10-31 01:30:19"
     }
   ]
 }
