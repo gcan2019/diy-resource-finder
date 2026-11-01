@@ -15267,6 +15267,83 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, kullanıcı gereksinimlerini karşılayan, kaynak makinesi ve gaz tüpünü aynı anda taşıyabilen işlevsel ve geliştirilmiş bir DIY kaynak arabası sistemidir.",
       "discovered_at": "2026-10-31 19:52:28"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Millermatic®/Multimatic®/Diversion™ Cart Dual Cylinder Rack Conversion ...",
+      "page_url": "https://www.millerwelds.com/en-us/accessories-consumables/carts-and-cylinder-racks/carts-cylinder-racks-and-running-gear-m00108/millermatic-multimatic-diversion-cart-dual-cylinder-rack-conversion-kit-301454",
+      "candidate_image_url": "https://contenthub.itwwelding.com/api/public/content/miller-electric-mfg-llc/PIM/493a27-dual-cylinder-rack-and-tool-holder-kit-loaded-301454.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, endüstriyel kaynak tüpleri ve ekipmanları taşımak için tasarlanmış, çok raflı ve tekerlekli farklı bir tüp arabası konfigürasyonunu göstermektedir.",
+      "discovered_at": "2026-11-01 04:16:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Trolley - T100 Weldclass WC-06235",
+      "page_url": "https://www.nationalwelding.com.au/welding-trolley-t100-weldclass-wc-06235",
+      "candidate_image_url": "https://www.nationalwelding.com.au/assets/full/WC-06235.jpg?20220402201350",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de gaz tüplerini taşımak için tasarlanmış endüstriyel taşıma arabalarıdır, ancak aday ürün kaynak makinesi sehpası olarak da kullanılabilen çok raflı bir varyasyondur.",
+      "discovered_at": "2026-11-01 04:17:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Vestil Welding Cylinder Torch Carts – Safe Gas Transport — Landboss",
+      "page_url": "https://landbossequipment.com/products/vestil-welding-cylinder-torch-carts",
+      "candidate_image_url": "https://landbossequipment.com/cdn/shop/files/vestil-welding-cylinder-torch-carts-3864542.jpg?crop=center&height=1500&v=1781370015&width=859",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel tüp taşıma amacına hizmet eden, emniyet kayışlı ve benzer ergonomik yapıda farklı tasarıma sahip eşdeğer bir gaz tüpü arabasıdır.",
+      "discovered_at": "2026-11-01 04:17:55"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Mounting Brackets at Carolyn Bey blog",
+      "page_url": "https://storage.googleapis.com/dsldnanqvowjye/gas-cylinder-mounting-brackets.html",
+      "candidate_image_url": "https://i.ytimg.com/vi/vqKaB2ND9Sw/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, referans gaz tüpü arabasının üretim veya yapım aşamasını gösteren bir DIY projesidir.",
+      "discovered_at": "2026-11-01 04:20:25"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Solved A hand truck is used to move an oxygen cylinder. | Chegg.com",
+      "page_url": "https://www.chegg.com/homework-help/questions-and-answers/hand-truck-used-move-oxygen-cylinder-knowing-combined-weight-truck-cylinder-180-mathrm-lbs-q104455389",
+      "candidate_image_url": "https://media.cheggcdn.com/media/5f6/5f6e2980-6d4d-4860-bc29-f2352712a473/phpuCZeUw",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, gaz tüpü taşıma arabasının statik analizini gösteren teknik bir çizim ve problem şemasıdır.",
+      "discovered_at": "2026-11-01 04:21:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Aluminum alloy industrial gas cylinder trolley",
+      "page_url": "https://www.trolleymanufacturers.com/aluminum-alloy-industrial-gas-cylinder-trolley/",
+      "candidate_image_url": "https://www.trolleymanufacturers.com/wp-content/uploads/2021/08/Aluminum-alloy-industrial-gas-cylinder-trolley-4-1024x1024.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini sabitlemek için halkalı kafes yapısına sahip benzer bir endüstriyel tüp taşıma arabası varyasyonunu göstermektedir.",
+      "discovered_at": "2026-11-01 04:21:16"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Gas Cylinder Trolley at ₹ 7200/piece | Double Gas Cylinder ...",
+      "page_url": "https://www.indiamart.com/proddetail/double-gas-cylinder-trolley-2854331081148.html",
+      "candidate_image_url": "https://5.imimg.com/data5/SELLER/Default/2024/6/429913759/CW/JB/JS/223643684/c4-1000x1000.png",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, endüstriyel tüpleri taşımak için tasarlanmış farklı bir tekerlek ve platform düzenine sahip işlevsel bir gaz tüpü taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-11-01 04:21:20"
     }
   ]
 }
