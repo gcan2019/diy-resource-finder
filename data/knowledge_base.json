@@ -15894,6 +15894,72 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, Magliner markasına ait endüstriyel standartlarda farklı bir gaz tüpü taşıma arabası modelini göstermektedir ve temel işlevleri karşılamaktadır.",
       "discovered_at": "2026-11-03 05:25:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "150 Kg Double Cylinder Trolley at ₹ 3800/piece | Double Gas Cylinder ...",
+      "page_url": "https://www.indiamart.com/proddetail/150-kg-double-cylinder-trolley-12299960012.html",
+      "candidate_image_url": "https://5.imimg.com/data5/GLADMIN/Default/2023/4/300902331/TB/FU/BF/4473172/double-cylinder-trolley-1000x1000.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, talep edilen gaz tüpü taşıma arabası özelliklerini (çelik gövde, zincirli emniyet kilitleri ve endüstriyel tekerlek yapısı) tam olarak karşılayan profesyonel bir endüstriyel ekipmandır.",
+      "discovered_at": "2026-11-03 13:36:45"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Holder with Clamps | Secure & Convenient Storage",
+      "page_url": "https://cookout.com.au/product/gas-bottle-holder-with-clamps/",
+      "candidate_image_url": "https://cookout.com.au/wp-content/uploads/2017/10/Gas-Bottle-Holder-270mm-Drawing-SS022-scaled.png",
+      "score": 75,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, tüp arabalarında kullanılan emniyet sabitleme mekanizmasının teknik detayını (kelepçe ve halka sistemi) yansıtan bir mühendislik çizimi olduğu için kabul edilmiştir.",
+      "discovered_at": "2026-11-03 13:37:58"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "The Workplace Depot Propane Cylinder Trolley, For 47 kg Bottles ...",
+      "page_url": "https://www.amazon.co.uk/Workplace-Depot-Propane-Cylinder-Trolley/dp/B0FJFWSTSP",
+      "candidate_image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/162826f2-0a6d-4dbe-a86a-52cb7f7d7dfb.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel, kullanıcı gereksinimlerini karşılayan, zincirli emniyet kilitlerine, ergonomik tutamağa ve sanayi tipi tüplerin taşınması için gerekli yapısal özelliklere sahip profesyonel bir gaz tüpü taşıma arabasının teknik detaylarını içermektedir.",
+      "discovered_at": "2026-11-03 13:38:33"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "D-TYPE Medical Oxygen Gas Cylinder Trolley / Industrial Gas Cylinder ...",
+      "page_url": "https://www.indiamart.com/proddetail/d-type-medical-oxygen-gas-cylinder-trolley-industrial-gas-cylinder-trolley-2850571500673.html",
+      "candidate_image_url": "https://5.imimg.com/data5/SELLER/PDFImage/2025/1/482708129/FN/BB/KN/4873321/d-type-medical-oxygen-gas-cylinder-trolley-industrial-gas-cylinder-trolley-1000x1000.png",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel, istenen teknik özelliklere (çelik gövde, tekerlekler, emniyet zinciri ve tüp taşıma mekanizması) sahip endüstriyel tip bir gaz tüpü taşıma arabasının kullanım talimatlarını ve yapısını eksiksiz olarak karşılamaktadır.",
+      "discovered_at": "2026-11-03 13:43:57"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Loading Cart – Strong Hand Europe",
+      "page_url": "https://stronghand.eu/products/cylinder-loading-cart",
+      "candidate_image_url": "https://stronghand.eu/cdn/shop/files/GCR50011.webp?v=1769669458&width=900",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de sanayi tipi gaz tüplerini güvenle taşımak üzere tasarlanmış, zincirli veya kemerli emniyet kilitli, tekerlekli profesyonel tüp taşıma arabalarıdır.",
+      "discovered_at": "2026-11-03 13:45:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "PERT Engineering Ltd | Material Handling Systems specialist",
+      "page_url": "https://www.pert.com.hk/productdetail.php?ID=136&subcat=Magliner+Trolley+鋁質手推車&desc2=3Bottled+Watertray+Truck+運水車",
+      "candidate_image_url": "https://www.pert.com.hk/userfiles/P2-20181121164351.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday ürün, endüstriyel standartlara sahip Magliner marka bir tüp taşıma arabası olup, talep edilen zincirli emniyet kilidi ve sağlam taşıma yapısı gereksinimlerini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-03 13:46:05"
     }
   ]
 }
