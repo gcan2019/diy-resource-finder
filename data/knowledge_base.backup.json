@@ -16323,6 +16323,50 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
       "discovered_at": "2026-11-04 18:19:10"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxy Acetylene Bottles Trolley : Oxy Acetylene Welding Trolley : Oxy ...",
+      "page_url": "https://equipment-warehouse.com.au/welding-trolley-for-oxy-acetylene-bottles",
+      "candidate_image_url": "https://equipment-warehouse.com.au/images/thumbs/0004186_welding-trolley-for-oxy-acetylene-bottles_550.jpeg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir gövde tipine sahip bir tüp arabası varyasyonudur.",
+      "discovered_at": "2026-11-04 23:12:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Jh-mech Gas Cylinder Cart - Durable, High-Capacity Trolley",
+      "page_url": "https://www.alibaba.com/product-detail/JH-Mech-Gas-Cylinder-Cart-With_1601061568037.html",
+      "candidate_image_url": "https://sc04.alicdn.com/kf/H0c55f52e6e51417c9dc7a1d4006e74c79/221550967/H0c55f52e6e51417c9dc7a1d4006e74c79.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görseldeki aday ürün, referans gaz tüpü arabasıyla aynı fonksiyona, tekerlek konfigürasyonuna ve emniyet kilidi tasarımına sahip endüstriyel tip bir taşıma arabasıdır.",
+      "discovered_at": "2026-11-04 23:12:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Trolley I Gas Cylinder Trolley – Storemasta",
+      "page_url": "https://shop.storemasta.com.au/collections/gas-bottle-trolley",
+      "candidate_image_url": "https://shop.storemasta.com.au/cdn/shop/products/Storemasta2-22.png?v=1536519008&width=554",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referans ürünle aynı işlevi gören ancak dolaplı ve kapaklı güvenlik korumasına sahip farklı bir endüstriyel gaz tüpü taşıma arabasıdır.",
+      "discovered_at": "2026-11-04 23:15:22"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Produkte zum Gasflaschenhandling online kaufen | DENIOS",
+      "page_url": "https://www.denios.de/shop/gefahrstoffhandling/gasflaschenhandling/",
+      "candidate_image_url": "https://a.storyblok.com/f/80031/1000x787/fdc169e343/gas-cylinders-handling-1000xx.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görseldeki ürün, referans gaz silindiri taşıma arabasıyla aynı mekanik tasarıma sahip olup, endüstriyel tüp taşıma amaçlı tam uyumlu bir varyasyondur.",
+      "discovered_at": "2026-11-04 23:17:24"
     }
   ]
 }
