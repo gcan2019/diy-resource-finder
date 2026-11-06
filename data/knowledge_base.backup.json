@@ -16719,6 +16719,72 @@
       "variant_type": "exact_match",
       "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilidi, kaynaklı çelik gövde ve ergonomik tutamak özelliklerine sahip endüstriyel tip bir tüp taşıma arabasıdır.",
       "discovered_at": "2026-11-06 17:14:39"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "SolidWorks tutorial | Design And Assembly of Hand Trolley in SolidWorks | SolidWorks - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=z0wEeEimktc",
+      "candidate_image_url": "https://i.ytimg.com/vi/z0wEeEimktc/maxresdefault.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, SolidWorks ortamında tasarlanmış, temel gaz tüpü taşıma arabası mekanizmasını ve konstrüksiyonunu içeren bir CAD modelidir.",
+      "discovered_at": "2026-11-06 22:42:27"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen Tank Holder Acetylene Tank Storage Rack with Singapore | Ubuy",
+      "page_url": "https://www.ubuy.com.sg/product/MP5B4UIGW-oxygen-tank-holder-acetylene-tank-storage-rack-with-2-hinges-oxygen-tank-cylinder-holder-rack-stand-mount-floor-e-cylinder-carrier-w-powder-coated",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/41RGl914EUL._AC_US750_.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir konfigürasyona sahip benzer bir endüstriyel tüp arabasını göstermektedir.",
+      "discovered_at": "2026-11-06 22:43:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hot works training welding cutting and working with acetylene.pptx",
+      "page_url": "https://www.slideshare.net/slideshow/hot-works-training-welding-cutting-and-working-with-acetylene-pptx/279461054",
+      "candidate_image_url": "https://image.slidesharecdn.com/hotworkstraining-250521114842-98f5610e/85/Hot-works-training-welding-cutting-and-working-with-acetylene-pptx-11-320.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, iki tüpü yan yana taşıma kapasitesine sahip, zincirli emniyet kilitli farklı bir endüstriyel gaz tüpü arabası konfigürasyonunu göstermektedir.",
+      "discovered_at": "2026-11-06 22:43:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Gas Cylinder Trolley Manufacturers, Suppliers & Exporters in India",
+      "page_url": "https://www.laboratoryinstrumentindia.com/welding-gas-cylinder-trolley",
+      "candidate_image_url": "https://www.laboratoryinstrumentindia.com/images/product/WeldingGasCylinderTrolley-lab-1392411042.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, istenen özelliklere uygun şekilde tasarlanmış, çoklu tüp taşıma kapasitesine sahip endüstriyel tip bir gaz tüpü taşıma arabasıdır.",
+      "discovered_at": "2026-11-06 22:44:06"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Steel Heavy Duty Single Cylinder Hand Truck - China Hand Truck and Tool Trolley",
+      "page_url": "https://chinahandtrolley.en.made-in-china.com/product/gXPQkNbMEZru/China-Steel-Heavy-Duty-Single-Cylinder-Hand-Truck.html",
+      "candidate_image_url": "https://image.made-in-china.com/2f0j00yYdUfJeRLwpv/Steel-Heavy-Duty-Single-Cylinder-Hand-Truck.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görüntülenen ürün, sanayi tipi gaz tüplerini taşımak için gerekli olan çelik gövde, tekerlekli yapı ve emniyet kilitleme mekanizmasına sahip endüstriyel standartta bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-06 22:47:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "STL file 1:64 Welding Machine - Ver#1・3D printing design to download・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/various/1-64-welding-machine-ver-1",
+      "candidate_image_url": "https://files.cults3d.com/uploaders/24679021/illustration-file/1bf32268-d4a9-4c2c-81d2-3166c963f286/Main1.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kaynak makinesi ve gaz tüpünü entegre taşıyan bir düzenek olup, temel işlev ve gereksinimleri karşılayan 3D bir tasarım modelidir.",
+      "discovered_at": "2026-11-06 22:54:10"
     }
   ]
 }
