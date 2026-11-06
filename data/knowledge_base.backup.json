@@ -16664,6 +16664,61 @@
       "variant_type": "technical_drawing",
       "reason": "Aday görsel, endüstriyel standartlarda bir taşıma arabası olan Magliner Gemini modeline ait teknik montaj kılavuzudur ve talep edilen gaz tüpü taşıma arabası fonksiyonel gereksinimlerini karşılayan profesyonel bir sistemdir.",
       "discovered_at": "2026-11-06 02:05:24"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Gas Cylinder Trolley at ₹ 6800/piece | Double Gas Cylinder ...",
+      "page_url": "https://www.indiamart.com/proddetail/double-gas-cylinder-trolley-2856403510348.html",
+      "candidate_image_url": "https://5.imimg.com/data5/SELLER/Default/2025/4/504869100/RJ/LK/TJ/4990267/cylinder-trolley-1000x1000.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, emniyet zinciri ve tekerlekli mekanizmaya sahip, talep edilen teknik gereksinimleri karşılayan endüstriyel taşıma arabası varyasyonlarını içermektedir.",
+      "discovered_at": "2026-11-06 17:11:54"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxy Propane Twin Cylinder Trolley",
+      "page_url": "https://www.migtigarc.co.uk/oxy-propane--twin-cylinder-trolley",
+      "candidate_image_url": "https://cdn.ecommercedns.uk/files/8/269528/3/54985443/oxy-propane-twin-cylinder-trolley-644-p.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, istenen sanayi tipi gaz tüplerini taşıma, zincirli emniyet kilidi ve tekerlekli şasi gereksinimlerini tam olarak karşılayan endüstriyel bir tüp arabasıdır.",
+      "discovered_at": "2026-11-06 17:11:56"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Twin Gas Cylinder Trolley (WGA019) – My Store",
+      "page_url": "https://mehireuk.com/products/twin-gas-cylinder-trolley-wga019",
+      "candidate_image_url": "https://cdn.shopify.com/s/files/1/0680/0913/2319/files/Twin_Gas_Cylinder_Trolley_1.jpg?v=1718881071",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki ürün, sanayi tipi gaz tüplerinin güvenli taşınması için gerekli olan emniyet zinciri, sağlam metal gövde ve tekerlek düzeneği ile teknik gereksinimleri tam olarak karşılayan bir taşıma arabasıdır.",
+      "discovered_at": "2026-11-06 17:12:02"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner 1,000 lb. Motorized Hand Truck with 13\" Aggressive Tread ...",
+      "page_url": "https://www.webstaurantstore.com/magline-mht75cb-1000-lb-motorized-hand-truck-with-aggressive-tread-pneumatic-wheels-and-cylinder-inflatables-plate-36v-800w/546MGMHT75CB.html",
+      "candidate_image_url": "https://cdnimg.webstaurantstore.com/images/products/large/492598/1840412.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki taşıma arabası, sanayi tipi tüplerin güvenle taşınması için gerekli zincirli emniyet kilidi, sağlam çelik yapı ve ergonomik tutamak özelliklerini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-06 17:14:36"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Hand Trucks - Milwaukee Hand Trucks",
+      "page_url": "https://www.milwaukeehandtrucks.com/cylinder-hand-trucks/",
+      "candidate_image_url": "https://www.milwaukeehandtrucks.com/wp-content/uploads/2022/05/40501-Welding-Cylinder-Truck-300x300.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilidi, kaynaklı çelik gövde ve ergonomik tutamak özelliklerine sahip endüstriyel tip bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-06 17:14:39"
     }
   ]
 }
