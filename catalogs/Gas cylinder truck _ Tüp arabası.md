@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Gas cylinder truck / Tüp arabası`
 **Doğrulanmış Kaynak Sayısı:** 1293 adet
-**Son Güncelleme:** 2026-11-06 02:08:10
+**Son Güncelleme:** 2026-11-06 09:24:02
 > 💡 **Ürün Tanımı / Notlar:** Sanayi tipi oksijen, asetilen ve argon gaz tüplerini güvenle taşımak için 2 veya 3 tekerlekli, zincirli emniyet kilitli ve ergonomik tutamağa sahip kaynaklı çelik atölye taşıma arabası.
 
 ---
