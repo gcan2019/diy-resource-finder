@@ -16785,6 +16785,72 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, kaynak makinesi ve gaz tüpünü entegre taşıyan bir düzenek olup, temel işlev ve gereksinimleri karşılayan 3D bir tasarım modelidir.",
       "discovered_at": "2026-11-06 22:54:10"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Assemble welding trolley | patungan ng makina - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=nBgffFyYHCg",
+      "candidate_image_url": "https://i.ytimg.com/vi/nBgffFyYHCg/maxresdefault.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görseldeki ürün, sanayi tipi gaz tüplerini taşımak üzere tasarlanmış, tekerlekli ve şasili bir kaynak atölyesi taşıma arabasıdır; her ne kadar form faktörü referanstan farklı olsa da temel kullanım amacına uygundur.",
+      "discovered_at": "2026-11-07 04:35:48"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Heavy-Duty Universal Trolley for Portable MIG Welders with Gas Bottle Support",
+      "page_url": "https://www.diy.com/departments/heavy-duty-universal-trolley-for-portable-mig-welders-with-gas-bottle-support/5056524265338_BQ.prd",
+      "candidate_image_url": "https://media.diy.com/is/image/KingfisherDigital/heavy-duty-universal-trolley-for-portable-mig-welders-with-gas-bottle-support~5056524265338_02c_MP?$MOB_PREV$&$width=600&$height=600",
+      "score": 75,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, kaynak makinesi taşıma kapasitesine sahip entegre bir kaynak arabası olsa da, tüp taşıma işlevini zincirli emniyet kilidi ve tekerlekli yapısıyla gereksinimlere uygun şekilde karşılamaktadır.",
+      "discovered_at": "2026-11-07 04:36:16"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Bottle Trolley | Hand Trucks | Astrolift",
+      "page_url": "https://www.astrolift.co.nz/product/407-Gas-Bottle-Trolley",
+      "candidate_image_url": "https://www.astrolift.co.nz/images/products/large/407_407.1.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, sanayi tipi gaz tüplerini güvenli bir şekilde taşımak, sabitlemek ve desteklemek için tasarlanmış, talep edilen zincirli/kemerli emniyet kilit sistemine sahip işlevsel bir taşıma arabasıdır.",
+      "discovered_at": "2026-11-07 04:36:27"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Contenedores SketchUp Modelos para Descargar | TurboSquid",
+      "page_url": "https://www.turbosquid.com/es/3d-model/industrial-container/skp",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/oq/WVnXdZ/eL/01_1433_portablegasbottlecylindertankhandtrolleytruckdollycart/jpg/1775817576/300x300/sharp_fit_q85/d87dc13026c2057a3c2079e23d1a25ad964e6ea7/01_1433_portablegasbottlecylindertankhandtrolleytruckdollycart.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki aday ürün, sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, çelik iskelet ve tekerlekli yapısı ile talep edilen teknik gereksinimleri tam olarak karşılayan bir endüstriyel tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-07 04:39:11"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "2-Wheel Pallet Hand Truck, Steel, Pneumatic Wheels, Hand Brake - Valley Craft",
+      "page_url": "https://valleycraft.com/product/2-wheel-pallet-hand-truck-steel-pneumatic-wheels-hand-brake/",
+      "candidate_image_url": "https://valleycraft.com/wp-content/uploads/2023/10/F84879A7_6.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü, talep edilen sanayi tipi gaz tüpü taşıma arabasının teknik çizimini ve ölçülendirilmiş tasarım detaylarını tam olarak temsil etmektedir.",
+      "discovered_at": "2026-11-07 04:41:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "2-Wheel Commercial Hand Truck, Hand Brake - Valley Craft",
+      "page_url": "https://valleycraft.com/product/2-wheel-commercial-hand-truck-hand-brake/",
+      "candidate_image_url": "https://valleycraft.com/wp-content/uploads/2023/10/F84009A0_7.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü 2, sanayi tipi gaz tüplerinin taşınması için tasarlanmış standart bir tüp taşıma arabasının teknik çizimini yansıtmaktadır ve kullanıcı gereksinimleriyle tam uyumludur.",
+      "discovered_at": "2026-11-07 04:41:38"
     }
   ]
 }
