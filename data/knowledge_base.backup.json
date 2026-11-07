@@ -16851,6 +16851,61 @@
       "variant_type": "technical_drawing",
       "reason": "Görüntü 2, sanayi tipi gaz tüplerinin taşınması için tasarlanmış standart bir tüp taşıma arabasının teknik çizimini yansıtmaktadır ve kullanıcı gereksinimleriyle tam uyumludur.",
       "discovered_at": "2026-11-07 04:41:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Justrite Double Cylinder Hand Truck with Hoist Ring 10.5 in. Pneumatic ...",
+      "page_url": "https://www.fishersci.com/shop/products/double-cylinder-hand-truck-hoist-ring-5/19085756",
+      "candidate_image_url": "https://assets.fishersci.com/TFS-Assets/CCG/Justrite-Manufacturing-Co/product-images/35022-app2.jpg-650.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki ürün, kullanıcının talep ettiği sanayi tipi gaz tüplerini güvenle taşımak için tasarlanmış, emniyet kemerli, çok tekerlekli ve kaynaklı çelik konstrüksiyona sahip profesyonel bir taşıma arabasıdır.",
+      "discovered_at": "2026-11-07 12:27:04"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Tilt-Back Cylinder Hand Truck, Holds 1 Cylinder, 20 in dia, 12 in ...",
+      "page_url": "https://www.serieswrench.com/product/tilt-back-cylinder-hand-truck-holds-1-cylinder-20-in-dia-12-in-pneumatic-wheels/",
+      "candidate_image_url": "https://www.serieswrench.com/wp-content/uploads/2026/3/1773288844/tilt-back-cylinder-hand-truck-holds-1-cylinder-20-in-dia-12-in-pneumatic-wheels-1773288854.webp",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, üzerinde büyük bir kriyojenik/gaz tankı bulunan ve benzer üç tekerlekli şasi tasarımına sahip işlevsel bir tüp taşıma arabasını göstermektedir.",
+      "discovered_at": "2026-11-07 12:27:22"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cart Plans DXF PDF | DIY Laser Cut Gas Cylinder Trolley ...",
+      "page_url": "https://www.etsy.com/au/listing/4487353566/welding-cart-plans-dxf-pdf-diy-laser-cut",
+      "candidate_image_url": "https://i.etsystatic.com/36923629/r/il/84336f/7951905639/il_fullxfull.7951905639_788h.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görsel 2, sanayi tipi gaz tüpü taşımaya yönelik, tekerlekli ve tüp sabitleme mekanizması içeren endüstriyel bir taşıma arabasının CAD modelidir ve belirtilen gereksinimleri tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-07 12:27:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck Cart 1/64・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/art/hand-truck-cart-1-64",
+      "candidate_image_url": "https://images.cults3d.com/aQkcvdLuPuf_ABhXyeZ-OgaTVfI=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/29272665/illustration-file/edeee979-33fd-4bb0-915f-ae8038f7afcc/2.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, sanayi tipi tüp taşıma gereksinimlerini karşılayan standart bir el arabasının CAD modelidir ve referans ürünle aynı işlevsel amacı taşımaktadır.",
+      "discovered_at": "2026-11-07 12:28:09"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner Handle Latch and Lock Assembly for Gemini Sr./Jr. Convertible ...",
+      "page_url": "https://www.digitalbuyer.com/magliner-handle-latch-and-lock-assembly-for-gemini-sr-jr-convertible-hand-trucks.html",
+      "candidate_image_url": "https://www.digitalbuyer.com/media/catalog/product/cache/42a538a79b64af49396fa30caccb964e/m/a/mag-302016-1.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüpü taşıma arabalarında kullanılan profesyonel bir sabitleme ve kilitleme mekanizması detayını göstermektedir; teknik gereksinimlerle tam uyumludur.",
+      "discovered_at": "2026-11-07 12:29:06"
     }
   ]
 }
