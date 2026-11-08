@@ -17357,6 +17357,72 @@
       "variant_type": "technical_drawing",
       "reason": "Aday görsel, sanayi tipi tüp taşıma sisteminin işlevsel gereksinimlerini karşılayan üç boyutlu bir CAD modelidir.",
       "discovered_at": "2026-11-08 18:49:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D Cylinder Carts - TurboSquid 1309402",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-cylinder-carts-1309402",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/TL/i8wLSU/IGKC5YIk/wf1/png/1532200403/1920x1080/fit_q87/fb29a275bbbcadbfeed9bbc1fea2a200d800c723/wf1.jpg",
+      "score": 75,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görüntü, sanayi tipi gaz tüplerini taşımak için tasarlanmış çoklu tüp taşıma arabasının bir CAD modelidir; referans ürüne kıyasla daha büyük kapasiteli ve farklı bir konfigürasyona sahip olsa da endüstriyel taşıma amacı aynıdır.",
+      "discovered_at": "2026-11-08 23:25:43"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Building a gas cylinder rack with my new Omnipro 220!!! - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=xkNTVDCqEEE",
+      "candidate_image_url": "https://i.ytimg.com/vi/xkNTVDCqEEE/hqdefault.jpg",
+      "score": 85,
+      "category": "diy_video",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için kullanılan emniyet zincirli ve tekerlekli yapısıyla kullanıcı gereksinimlerini karşılayan işlevsel bir taşıma arabasıdır.",
+      "discovered_at": "2026-11-08 23:27:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Multiple Magliner Hand Truck Frames, Accessories & Hardware (parts - may be incomplete) - Oahu ...",
+      "page_url": "https://bid.oahuauctions.com/Multiple-Magliner-Hand-Truck-Frames-Accessories-Hardware-parts-may-be-incomplete_i60119525",
+      "candidate_image_url": "https://dygtyjqp7pi0m.cloudfront.net/i/78486/60119525_1.jpg?v=8DECC3B3D4AACF0",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Magliner marka profesyonel endüstriyel tüp taşıma sistemleri parçaları, talep edilen zincirli emniyet kilitli ve yüksek mukavemetli çelik/alüminyum taşıma arabası gereksinimlerini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-08 23:28:09"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner 301046 Hardware Pack for Magliner Hand Trucks (Single Pack) - Amazon.com",
+      "page_url": "https://www.amazon.com/Magliner-301046-Hardware-Trucks-Single/dp/B079BBZNXJ",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/61Il2hcth-S._AC_.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görüntüdeki parça, Magliner markasına ait bir tüp taşıma arabasının yükleme platformu (nose plate) bileşenidir ve sistemin tamamlayıcı bir parçasıdır.",
+      "discovered_at": "2026-11-08 23:28:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "METAL MAN Heavy Duty Single/Dual Bottle Welding Cart w/ Handle – Welding Equipment Plus LLC",
+      "page_url": "https://weldingequipmentplus.com/products/metal-man-heavy-duty-single-dual-bottle-welding-cart-w-handle",
+      "candidate_image_url": "https://weldingequipmentplus.com/cdn/shop/files/Metal-Man-UWC4-Product-Information-05_2020.pdf_1445x.png?v=1705729752",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, sanayi tipi gaz tüplerini zincir emniyet sistemi ve tekerlekli yapısı ile taşıma gereksinimlerini karşılayan, kaynak atölyeleri için tasarlanmış fonksiyonel bir taşıma arabasıdır.",
+      "discovered_at": "2026-11-08 23:29:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "METAL MAN Steel Single/Dual Bottle Heavy Duty Universal Welding Cart with Fold Down Handle UWC4 ...",
+      "page_url": "https://www.homedepot.com/p/METAL-MAN-Steel-Single-Dual-Bottle-Heavy-Duty-Universal-Welding-Cart-with-Fold-Down-Handle-UWC4/302905713",
+      "candidate_image_url": "https://images.thdstatic.com/productImages/86b6aa46-00d1-4af2-920c-74afa9d0bcd0/svn/metal-man-welding-carts-uwc4-64_1000.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de sanayi tipi gaz tüplerini zincirli emniyet kilit sistemiyle güvenli taşıma işlevini yerine getiren çelik konstrüksiyonlu taşıma arabalarıdır.",
+      "discovered_at": "2026-11-08 23:29:13"
     }
   ]
 }
