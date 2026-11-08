@@ -17302,6 +17302,61 @@
       "variant_type": "exact_match",
       "reason": "Aday görsel, kullanıcı gereksinimlerini karşılayan, çift tüp kapasiteli, emniyet zincirli ve kaynaklı çelik konstrüksiyona sahip profesyonel bir gaz tüpü taşıma arabasıdır.",
       "discovered_at": "2026-11-08 12:50:13"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D Hand Truck 09 Model - TurboSquid 2242938",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-hand-truck-09-model-2242938",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/SW/sDFTjO/1W/wire0006/jpg/1718562079/1920x1080/fit_q87/458a1ed3d703e865db31ceead5f73d9f1d668abb/wire0006.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, gaz tüpü taşıma arabasının tekerlek ve taban detaylarını gösteren yüksek kaliteli bir CAD tel kafes (wireframe) modelidir.",
+      "discovered_at": "2026-11-08 18:40:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck 03 3D Model - TurboSquid 2186862",
+      "page_url": "https://www.turbosquid.com/3d-models/hand-truck-03-3d-model-2186862",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/fZ/6PCD4E/xF/wire0006/jpg/1707304009/1920x1080/fit_q87/47d5c4f44987e3b35202c240e19192bac0a9f252/wire0006.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, endüstriyel tip gaz tüpü taşıma arabasının yapısal iskeletini ve tekerlek mekanizmasını detaylandıran profesyonel bir CAD modelidir.",
+      "discovered_at": "2026-11-08 18:40:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DE-12 Heavy Duty Oxygen Cylinder Cart - FREE Shipping",
+      "page_url": "https://www.rehabmart.com/product/de12-heavy-duty-oxygen-cylinder-cart-33726.html",
+      "candidate_image_url": "https://www.rehabmart.com/include-mt/img-resize.asp?path=/imagesfromrd/fwf-1075hd-de-cylinder-cart-de-12hd.jpg&newwidth=650&product_name=DE-12+Heavy+Duty+Oxygen+Cylinder+Cart",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, sanayi tipi gaz tüplerini güvenle taşımak için tasarlanmış, tekerlekli ve yapısal olarak uygun bir taşıma arabasının CAD modelidir.",
+      "discovered_at": "2026-11-08 18:42:37"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Nitrogen Bottle Racks at Francis Manley blog",
+      "page_url": "https://storage.googleapis.com/depqxoxgbnpwae/nitrogen-bottle-racks.html",
+      "candidate_image_url": "https://www.metalfab-products.com/photo/pl144701996-metal_fab_gas_cylinder_rack_2_wide_by_2_deep_4_nitrogen_bottle_storage_rack.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel 1 ve 2, her ikisi de endüstriyel gaz tüplerini güvenli bir şekilde taşımak veya depolamak için zincirli emniyet kilidine sahip, çelik konstrüksiyonlu aynı tip taşıma ve sabitleme ekipmanını temsil etmektedir.",
+      "discovered_at": "2026-11-08 18:42:56"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Fairbanks Morse Engine Internship June-August 2018 - Joe Dziekan",
+      "page_url": "https://joedziekan.github.io/FairbanksMorseEngine3/",
+      "candidate_image_url": "https://joedziekan.github.io/images/cart.png",
+      "score": 75,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, sanayi tipi tüp taşıma sisteminin işlevsel gereksinimlerini karşılayan üç boyutlu bir CAD modelidir.",
+      "discovered_at": "2026-11-08 18:49:44"
     }
   ]
 }
