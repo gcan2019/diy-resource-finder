@@ -17423,6 +17423,61 @@
       "variant_type": "working_variation",
       "reason": "Her iki ürün de sanayi tipi gaz tüplerini zincirli emniyet kilit sistemiyle güvenli taşıma işlevini yerine getiren çelik konstrüksiyonlu taşıma arabalarıdır.",
       "discovered_at": "2026-11-08 23:29:13"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Why the DEM CGT1002N Stainless Steel Double Gas Cylinder Trolley Is My ...",
+      "page_url": "https://www.aliexpress.com/p/wiki/article.html?keywords=double-gas-cylinder-trolley",
+      "candidate_image_url": "https://ae01.alicdn.com/kf/S9379dc2ade614b599f22ee7485fefe30z.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki ürün, talep edilen sanayi tipi tüp taşıma arabası gereksinimlerini (zincirli emniyet kilidi, çelik kaynaklı gövde ve ergonomik tutamak) tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-09 04:36:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Trolley – Magliner - Aluminium - Box n' Crate Hire Perth",
+      "page_url": "https://boxncratehire.com.au/product/hand-trolley-magliner-aluminium/",
+      "candidate_image_url": "https://boxncratehire.com.au/wp-content/uploads/2017/09/Magliner-Hand-Trolley-Aluminium.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, sanayi tipi tüplerin taşınması için gerekli olan çelik gövde, tekerlekli yapı ve tutamak özelliklerini taşıyan endüstriyel bir gaz tüpü taşıma arabasıdır.",
+      "discovered_at": "2026-11-09 04:38:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🛒 WWII Welding Equipment Set – Gas Cylinders, Cart, Torch and Hoses ...",
+      "page_url": "https://cults3d.com/en/3d-model/game/wwii-welding-equipment-set-gas-cylinders-cart-torch-and-hoses",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/33768827/illustration-file/3628cd56-8c48-4e48-bd63-4750975e4fde/welder_set_3.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, sanayi tipi gaz tüplerinin taşınması için tasarlanmış, emniyet kilitli ve tekerlekli yapısıyla talep edilen teknik gereksinimleri karşılayan 3D bir CAD modelidir.",
+      "discovered_at": "2026-11-09 04:39:13"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Trolley Ergonomic – Kongamek - Firespect Marine Safety Service",
+      "page_url": "https://firespect.se/product/gas-cylinder-trolley-ergonomic-kongamek/",
+      "candidate_image_url": "https://firespect.se/wp-content/uploads/2026/02/AIG5185078.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel, kullanıcı gereksinimlerini tam olarak karşılayan, zincirli emniyet kilidine ve ergonomik tasarıma sahip endüstriyel tip bir gaz tüpü taşıma arabasını temsil etmektedir.",
+      "discovered_at": "2026-11-09 04:39:42"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "STS Gas Cylinder Trolley — Ballinphellic Lifting Solutions",
+      "page_url": "https://www.liftingsolutions.ie/products/sts-gas-cylinder-trolley",
+      "candidate_image_url": "https://www.liftingsolutions.ie/cdn/shop/files/CTS01-Gas-Cylinder-Trolley-05_644x429.jpg?v=1731427184",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "İkinci görsel, birinci görseldeki endüstriyel gaz tüpü taşıma arabasının çalışma prensibini ve uygulama alanını tam olarak karşılayan, zincirli emniyet kilidine sahip, profesyonel bir tüp taşıma sistemidir.",
+      "discovered_at": "2026-11-09 04:39:44"
     }
   ]
 }
