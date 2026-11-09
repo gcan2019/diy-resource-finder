@@ -17478,6 +17478,50 @@
       "variant_type": "exact_match",
       "reason": "İkinci görsel, birinci görseldeki endüstriyel gaz tüpü taşıma arabasının çalışma prensibini ve uygulama alanını tam olarak karşılayan, zincirli emniyet kilidine sahip, profesyonel bir tüp taşıma sistemidir.",
       "discovered_at": "2026-11-09 04:39:44"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Tilt-back Gas Cylinder Hand Truck - Little Giant",
+      "page_url": "https://www.littlegiant-usa.com/product/tilt-back-gas-cylinder-hand-truck/",
+      "candidate_image_url": "https://www.littlegiant-usa.com/wp-content/uploads/2022/08/TW-70-8SR-3R-scaled.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, sağlam çelik gövde yapısı ve yardımcı tekerlek sistemi ile kullanıcı gereksinimlerini tam olarak karşılayan profesyonel bir endüstriyel tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-09 15:16:28"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder Hand Trucks | Enhance Cleanliness & Safety | DENIOS",
+      "page_url": "https://www.denios.ca/shop/handling-equipment-and-accessories/gas-cylinder-handling/gas-cylinder-hand-trucks/",
+      "candidate_image_url": "https://a.storyblok.com/f/80031/1052x1294/62507f2ae8/gas-bottle-trolley-denios.png",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilidi, çelik kaynaklı yapı ve ergonomik tutamak özelliklerine sahip endüstriyel tip gaz tüpü taşıma arabası ile tam uyum sağlamaktadır.",
+      "discovered_at": "2026-11-09 15:16:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "AC10 AC10A Steel Bottle Trolley With Safety Chain Capacity 10-50L",
+      "page_url": "https://www.drumhandlingequipments.com/sale-12522899-ac10-ac10a-steel-bottle-trolley-with-safety-chain-capacity-10-50l.html",
+      "candidate_image_url": "https://www.drumhandlingequipments.com/photo/pl26219530-ac10_ac10a_steel_bottle_trolley_with_safety_chain_capacity_10_50l.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday ürün, talep edilen zincirli emniyet kilitli, sanayi tipi gaz tüpü taşıma arabası gereksinimlerini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-09 15:16:47"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Safe Handling of Gas Cylinders Trolleys | PDF",
+      "page_url": "https://www.scribd.com/document/587485366/UNITOR-Trolleys",
+      "candidate_image_url": "https://imgv2-2-f.scribdassets.com/img/document/587485366/original/a91b580fbc/1?v=1",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görseldeki Unitor gaz tüpü arabaları, endüstriyel tüp taşıma gereksinimlerini ve kullanıcı ihtiyaçlarını tam olarak karşılayan eşdeğer bir sistemdir.",
+      "discovered_at": "2026-11-09 15:25:42"
     }
   ]
 }
