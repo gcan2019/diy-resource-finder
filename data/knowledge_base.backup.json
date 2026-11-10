@@ -17621,6 +17621,39 @@
       "variant_type": "technical_drawing",
       "reason": "Aday görsel, endüstriyel tip gaz tüpü taşıma arabasının üç boyutlu CAD modelidir ve talep edilen güvenlik çemberi ve taşıma mekanizması özelliklerini teknik olarak karşılamaktadır.",
       "discovered_at": "2026-11-10 00:10:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D Medical Cart with Oxygen Cylinder E Tank - TurboSquid 2148458",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-medical-cart-with-oxygen-cylinder-e-tank-2148458",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/oz/8qDIlG/9b/medicalcartwithoxygencylinderetank3dmodel008/jpg/1699058466/1920x1080/fit_q87/9c3c3d81a18785fc4cd845fcf086f6c3e341559b/medicalcartwithoxygencylinderetank3dmodel008.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel tip gaz tüplerini güvenle taşımak için tasarlanmış, zincirli emniyet kilidi ve tekerlekli yapısıyla talep edilen teknik gereksinimleri karşılayan bir 3D CAD modelidir.",
+      "discovered_at": "2026-11-10 16:05:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Twin Cylinder Oxy Acetylene Gas Cylinder Trolley",
+      "page_url": "https://www.migtigarc.co.uk/twin-cylinder-oxy-acetylene-gas-cylinder-trolley",
+      "candidate_image_url": "https://cdn.ecommercedns.uk/files/8/269528/2/54985422/twin-cylinder-oxy-acetylene-gas-cylinder-trolley-639-p.png",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel, belirtilen sanayi tipi gaz tüplerini taşımak için gerekli olan çelik konstrüksiyon, zincirli emniyet kilidi ve ergonomik tutamak özelliklerine sahip endüstriyel bir tüp arabasıdır.",
+      "discovered_at": "2026-11-10 16:17:27"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Twin Cylinder Oxy/Acetylene Trolley 3 Wheel – Advanced Welding Supplies",
+      "page_url": "https://advancedweldingsupplies.com/products/twin-cylinder-oxy-acetylene-trolley-3-wheel",
+      "candidate_image_url": "https://cdn.shopify.com/s/files/1/0074/3309/3235/products/oxy-acetylene-twin-cylinder-3-wheel-trolley_1200x1200.jpg?v=1531642287",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, iki silindir taşıma kapasiteli, emniyet zincirli ve üç tekerlekli şasesiyle referans gaz tüpü arabasıyla tam uyumludur.",
+      "discovered_at": "2026-11-10 16:33:23"
     }
   ]
 }
