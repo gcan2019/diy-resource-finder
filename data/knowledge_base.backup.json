@@ -17654,6 +17654,39 @@
       "variant_type": "working_variation",
       "reason": "Aday ürün, iki silindir taşıma kapasiteli, emniyet zincirli ve üç tekerlekli şasesiyle referans gaz tüpü arabasıyla tam uyumludur.",
       "discovered_at": "2026-11-10 16:33:23"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "2743 Oxy-Acetylene Trolley – Modelu",
+      "page_url": "https://www.modelu3d.co.uk/products/2743-oxy-acetylene-trolley",
+      "candidate_image_url": "https://www.modelu3d.co.uk/cdn/shop/files/2743-oxy-acetylene-trolley-small-detail-pack-457.webp?v=1767792115&width=1946",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel gaz tüpleri için tasarlanmış farklı bir tekerlek ve bağlantı konfigürasyonuna sahip benzer bir tüp arabası CAD modelidir.",
+      "discovered_at": "2026-11-10 22:49:06"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Oxygen Acetylene Twin Cylinder Trolley | Cylinder, Industrial design ...",
+      "page_url": "https://www.pinterest.com/pin/oxygen-acetylene-twin-cylinder-trolley--374572894011122529/",
+      "candidate_image_url": "https://i.pinimg.com/736x/cf/7d/20/cf7d20b423537f39122081602158b930.jpg",
+      "score": 88,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, emniyet zincirine ve dayanıklı çelik gövdeye sahip iki adet sanayi gaz tüpü taşıyan çalışan bir atölye arabası varyasyonudur.",
+      "discovered_at": "2026-11-10 22:51:06"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Medium-Duty M7, M9, C, D, and E Size Cylinders Transport Cart, Holds 12 ...",
+      "page_url": "https://advancedsafetysupply.com/cylinder-carts-and-trucks/heavy-duty-frame-cylinder-carts-holds-12-cylinders-10-in-rubber-steel-wheels",
+      "candidate_image_url": "https://us.evocdn.io/supplier/catalog/1002/10021/021-6124.jpg",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, gaz tüplerini taşımak için tasarlanmış farklı bir konfigürasyona sahip olsa da endüstriyel tüp arabası gereksinimlerini karşılamaktadır.",
+      "discovered_at": "2026-11-10 22:55:34"
     }
   ]
 }
