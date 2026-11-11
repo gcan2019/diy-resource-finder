@@ -17698,6 +17698,61 @@
       "variant_type": "technical_drawing",
       "reason": "Görüntü 2, bir CAD yazılımı içerisinde tüp taşıma arabasına ait teknik tasarım modellemesini yansıtmaktadır ve kullanıcı gereksinimlerine uygun bir mekanizmanın geliştirilme sürecini temsil eder.",
       "discovered_at": "2026-11-11 14:05:50"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand Truck 3D Model",
+      "page_url": "https://3dfree.org/hand-truck",
+      "candidate_image_url": "https://3dfree.org/wp-content/uploads/2023/02/wire-73-scaled.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, istenilen sanayi tipi gaz tüpü taşıma arabasının temel mekanik yapısına ve tasarım özelliklerine sahip bir 3D CAD modelidir.",
+      "discovered_at": "2026-11-11 21:02:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Single Gas Cylinder Trolley | 200kg Capacity Gas Bottle Carrier",
+      "page_url": "https://avertec.com.my/products/material-handling-equipment/hand-trolley/single-gas-cylinder-trolley-ct01-series/",
+      "candidate_image_url": "https://avertec.com.my/wp-content/uploads/2023/05/57201712326AMGCT-01-Cylinder-Trolley-2.jpg",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görsel, istenen sanayi tipi gaz tüpü taşıma arabasının tüm temel gereksinimlerini (zincirli emniyet kilidi, çelik kaynaklı gövde ve ergonomik tutamak) tam olarak karşılayan endüstriyel bir üründür.",
+      "discovered_at": "2026-11-11 21:03:53"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Lifting Equipment Perth - Stock ready in Perth | Welding Trolley For ...",
+      "page_url": "https://www.liftingequipmentperth.com.au/welding-trolley-for-oxy-acetylene-bottles-perth",
+      "candidate_image_url": "https://www.liftingequipmentperth.com.au/images/thumbs/0004467_welding-trolley-for-oxy-acetylene-bottles-perth_550.jpeg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de sanayi tipi gaz tüplerini güvenli bir şekilde taşımak üzere tasarlanmış, zincirli emniyet mekanizmasına ve çelik konstrüksiyon yapıya sahip endüstriyel taşıma arabalarıdır.",
+      "discovered_at": "2026-11-11 21:05:07"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Download STL file Hand Truck Trolley for 20 Liter Bottles • 3D printing ...",
+      "page_url": "https://cults3d.com/en/3d-model/tool/hand-truck-trolley-for-20-liter-bottles",
+      "candidate_image_url": "https://images.cults3d.com/7IMkTOA6iPsapBUiWSutZ0eqht8=/https://files.cults3d.com/uploaders/18252840/illustration-file/93c26c47-4fa7-437a-9278-7e5c9debaa15/Gallon-Stand-ASM-V0201.jpg",
+      "score": 75,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, tekerlekli ve şasi yapısı gereksinimleri karşılayan teknik bir CAD tasarımıdır.",
+      "discovered_at": "2026-11-11 21:06:01"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "🚚 STL CARGO TROLLEY ( ANY SCALE )・ STL File for 3D printing・Cults",
+      "page_url": "https://cults3d.com/en/3d-model/various/stl-cargo-trolley",
+      "candidate_image_url": "https://fbi.cults3d.com/uploaders/26747682/illustration-file/182c370e-caca-4e2a-aa62-4c81fb52bc4d/22.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel tip tüp taşıma gereksinimlerini karşılayan, kaynaklı çelik konstrüksiyonlu ve tekerlekli bir tüp arabasının 3D tasarım modelidir.",
+      "discovered_at": "2026-11-11 21:06:06"
     }
   ]
 }
