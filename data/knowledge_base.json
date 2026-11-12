@@ -17841,6 +17841,17 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, iki gaz tüpünü taşıyabilen ve üç tekerlekli şasi tasarımına sahip benzer bir endüstriyel tüp arabasını göstermektedir.",
       "discovered_at": "2026-11-12 02:55:18"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3 Wheeled Double Gas Cylinder Trolley at Best Price in Surat | Skega Engineering Co. Pvt. Ltd.",
+      "page_url": "https://www.tradeindia.com/products/3-wheeled-double-gas-cylinder-trolley-1646349.html",
+      "candidate_image_url": "https://tiimg.tistatic.com/fp/1/001/646/3-wheeled-double-gas-cylinder-trolley-349.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "İkinci görsel, sanayi tipi tüplerin güvenli taşınması için zincir kilidi ve tekerlek sistemi ile donatılmış, referans ürünle aynı işlevsel özelliklere sahip endüstriyel tip bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-12 12:20:31"
     }
   ]
 }
