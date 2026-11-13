@@ -18765,6 +18765,17 @@
       "variant_type": "exact_match",
       "reason": "İkinci görsel, delikli grid sistemi, yan yanaklar ve modüler yapısıyla 3D kaynak ve fikstür masası gereksinimlerini tam olarak karşılamaktadır.",
       "discovered_at": "2026-11-13 02:45:16"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Tig Welder Cart Plans",
+      "page_url": "https://www.all-about-moose.com/tig-welder-cart.html",
+      "candidate_image_url": "https://www.all-about-moose.com/images/tig-welder-cart-thumbnail.jpg",
+      "score": 75,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, gaz tüpü taşıma özelliklerini de içeren çok katlı bir kaynak arabasının teknik çizimidir ve gereksinimleri karşılar.",
+      "discovered_at": "2026-11-13 19:13:07"
     }
   ]
 }

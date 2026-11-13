@@ -3,7 +3,7 @@
 
 **Hedef Ürün:** `Delikli 3D kaynak ve fikstür masaları (D28 / D16)`
 **Doğrulanmış Kaynak Sayısı:** 114 adet
-**Son Güncelleme:** 2026-11-13 12:25:01
+**Son Güncelleme:** 2026-11-13 19:17:48
 > 💡 **Ürün Tanımı / Notlar:** D28 veya D16 lazer/CNC delik aralığı (50x50 veya 100x100 mm), hassas frezelenmiş düzlemsel yüzey ve yan yanaklar, ağır hizmet rijit şasi ve yükseklik ayarlı ayaklar.
 
 ---
