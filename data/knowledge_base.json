@@ -18908,6 +18908,72 @@
       "variant_type": "exact_match",
       "reason": "Aday görsel, talep edilen sanayi tipi tüp taşıma arabasının tüm temel gereksinimlerini (zincirli emniyet kilidi, kaynaklı çelik gövde ve ergonomik tutamak) birebir karşılayan endüstriyel bir üründür.",
       "discovered_at": "2026-11-14 08:43:03"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "The Workplace Depot Gas Bottle Trolley, Heavy Duty Blue Steel, Wheel ...",
+      "page_url": "https://www.amazon.co.uk/Trolley-Cylinder-Support-Ergonomic-Transporting/dp/B0DTPXKTM7",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/61xUkbJrLmL._AC_SL1500_.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday ürün, sanayi tipi tüp taşıma arabası gereksinimlerini karşılayan, zincirli emniyet kilidi, 3 tekerlekli yapısı ve çelik gövdesiyle referans ürünle aynı endüstriyel standartlara ve fonksiyona sahiptir.",
+      "discovered_at": "2026-11-14 16:22:31"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Amazon.com: 40L Gas Cylinder Trolley,Propane Cylinder Cart with 4 ...",
+      "page_url": "https://www.amazon.com/Cylinder-Trolley-Propane-Factory-Laboratory/dp/B0DYSQLYBM",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/61PC83K88FL._AC_SL1500_.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görsel, belirtilen sanayi tipi gaz tüpü taşıma arabası gereksinimlerini, zincirli emniyet kilidi, ergonomik tutamak ve tekerlekli yapısı ile tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-14 16:22:38"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Trolley Clinic - Trolley maintenance, and cleaning services",
+      "page_url": "https://www.trolleyclinic.co.za/",
+      "candidate_image_url": "https://www.trolleyclinic.co.za/wp-content/uploads/elementor/thumbs/water-bottle-trolley-ror5vi9x2kuku2ke2w4fxm3sn2q1g120kwdz7pqbb8.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel, istenen sanayi tipi gaz tüpü taşıma arabasının çoklu tüp kapasitesine sahip bir CAD modelidir ve gerekli ergonomik yapı ile tekerlekli şasi tasarımını içermektedir.",
+      "discovered_at": "2026-11-14 16:30:56"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "ANTHONY WELDED PRODUCTS 214-3N1 Cylinder Cart Large Cart 14 inch Solid ...",
+      "page_url": "https://voomisupply.com/products/214-3n1-anthony-carts-cylinder-cart-large-cart-14-solid",
+      "candidate_image_url": "https://voomisupply.com/cdn/shop/files/ANT2143N1-media-01_223454ab-1fd7-4716-bbd0-cf4666682b57.jpg?v=1721102637",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için gerekli olan zincirli emniyet kilidi, kaynaklı çelik gövde ve ergonomik tutamak özelliklerine sahip endüstriyel bir tüp arabasıdır.",
+      "discovered_at": "2026-11-14 16:31:22"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Klutch Welding Cylinder Torch Cart w/ Fork Pockets, 440-Lb. Capacity ...",
+      "page_url": "https://www.northerntool.com/products/klutch-cylinder-torch-cart-with-fork-pockets-440-lb-capacity-foam-filled-wheels-powder-coat-finish-25479",
+      "candidate_image_url": "https://assets.northerntool.com/cdn-cgi/image/fit=scale-down,width=2000/products/254/images/25479.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel standartlara uygun, iki tekerlekli ve zincirli emniyet mekanizmasına sahip farklı bir tip çelik gaz tüpü taşıma arabasını göstermektedir.",
+      "discovered_at": "2026-11-14 16:31:40"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Cylinder Cart",
+      "page_url": "https://www.strongarmstore.com/products/welding-cylinder-cart",
+      "candidate_image_url": "https://www.strongarmstore.com/cdn/shop/files/VestilGasHandTruck1_771x1000.png?v=1709853354",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, sanayi tipi gaz tüplerini güvenle taşımak için gerekli olan çelik gövde, güvenlik zinciri ve ergonomik tutamak özelliklerine sahip endüstriyel standartta bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-14 16:31:53"
     }
   ]
 }
