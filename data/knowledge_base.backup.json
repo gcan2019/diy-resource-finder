@@ -18853,6 +18853,61 @@
       "variant_type": "exact_match",
       "reason": "Aday ürün, talep edilen teknik gereksinimleri (zincirli emniyet kilidi, çelik kaynaklı yapı ve endüstriyel tüp taşıma işlevi) tam olarak karşılayan standart bir endüstriyel tüp taşıma arabasıdır.",
       "discovered_at": "2026-11-14 00:48:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Welding Machine Carts — Weldready",
+      "page_url": "https://weld-ready.com/collections/welding-machine-carts",
+      "candidate_image_url": "https://weld-ready.com/cdn/shop/products/Running_Gear_with_Dual_Cylinder_Rack_and_Tool_Holder_951770_2048x2048.jpg?v=1668003932",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, kaynak istasyonları için özelleştirilmiş, zincirli emniyet kilitlerine ve çoklu tüp taşıma kapasitesine sahip profesyonel bir endüstriyel taşıma arabasıdır.",
+      "discovered_at": "2026-11-14 08:34:45"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Heavy Duty 2-Tier Welding Cart with Dual Cylinder Rack | Portable & Mobile",
+      "page_url": "https://www.retailmarket.net/products/2-tier-welding-cart-welder-portable-heavy-duty-dual-cylinder-rack-welding-cart-for-plasma-cutter-arc-mobile-design-welder-stand-storage-with-tank-storage-trolley-workshop-organizer/",
+      "candidate_image_url": "https://trm-objects.exceptionalcdn.com/retailmarket/dam/1/objects/18221434/58/29/29/fc/d2/e0/48/44/51WkzSPY1uL.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, sanayi tipi gaz tüplerini güvenli şekilde taşımak için gerekli olan zincirli emniyet kilidi, sağlam çelik gövde ve ergonomik tutamak özelliklerine sahip, işlevsel bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-14 08:34:48"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Fold-down Cylinder Hand Truck London, United Kingdom | Roll Forming…",
+      "page_url": "https://machinematcher.com/machines/fold-down-cylinder-hand-truck-london-united-kingdom",
+      "candidate_image_url": "https://machinematcher.com/cdn-cgi/image/fit=crop,format=auto,width=707,height=707/https://machinematcher.com/filesystems/assets/machines/fold-down-cylinder-hand-truck-london-united-kingdom/Screenshot-2025-09-28-at-11.08.30.png?v=1773532413",
+      "score": 95,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki ürün, talep edilen teknik özelliklere (zincirli emniyet kilidi, ergonomik tutamak ve çok tekerlekli yapı) tam uyum sağlayan ve katlanabilir mekanizmasıyla fonksiyonel bir varyasyon sunan sanayi tipi gaz tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-14 08:35:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Cylinder Hand Truck D-LCA126N – Dutro",
+      "page_url": "https://dutro.com/dutro-store/cylinder-hand-truck-d-lca126n/",
+      "candidate_image_url": "https://dutro.com/wp-content/uploads/2024/04/D-LCA126-Halo-Hook-Hand-Truck-conv-1-791x1024.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, kullanıcı gereksinimlerini karşılayan endüstriyel tip, çelik konstrüksiyonlu ve güvenlik kilitli bir gaz tüpü taşıma arabasının teknik dokümantasyonunu ve özelliklerini sunmaktadır.",
+      "discovered_at": "2026-11-14 08:37:57"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Handling cart / gas bottle - RITM Industry",
+      "page_url": "https://ritmindustry.com/catalog/platform-carts/handling-cart-gas-bottle/",
+      "candidate_image_url": "https://ritmindustry.com/upload/items/108/108769.jpg",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, talep edilen sanayi tipi tüp taşıma arabasının tüm temel gereksinimlerini (zincirli emniyet kilidi, kaynaklı çelik gövde ve ergonomik tutamak) birebir karşılayan endüstriyel bir üründür.",
+      "discovered_at": "2026-11-14 08:43:03"
     }
   ]
 }
