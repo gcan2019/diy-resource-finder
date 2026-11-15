@@ -19040,6 +19040,61 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilidi, tüp taşıma platformu ve atölye tipi kullanım özelliklerini karşılayan fonksiyonel bir kaynaklı çelik taşıma arabasıdır.",
       "discovered_at": "2026-11-14 22:02:57"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Saf-T-Cart Firewall and Oxy-Acetylene Cylinder Carts",
+      "page_url": "https://usmadesupply.com/companies/saf-t-cart",
+      "candidate_image_url": "https://cdn.shopify.com/s/files/1/0529/5269/4961/files/0_5b9c2ba3-1761-415d-8e6e-d654bd121b7a.webp?v=1776136308&width=500&quality=70",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, kullanıcının belirttiği zincirli emniyet kilidi, çelik konstrüksiyon ve tüp taşıma fonksiyonlarını başarıyla karşılayan endüstriyel bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-15 08:48:23"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Large Oxygen and Medium Acetylene Cylinder Transport Cart, Semin ...",
+      "page_url": "https://www.firstindustrialsupplies.com/large-oxygen-and-medium-acetylene-cylinder-transport-cart-semin-pneumatic-wheels-with-chain-860-14/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-9l966chvx4/images/stencil/1280x1280/products/29260/31159/SFT-860-14__30208.1597708536.jpg?c=2?imbypass=on",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen zincirli emniyet kilidi, çelik konstrüksiyon ve tüp taşıma işlevini tam olarak karşılayan standart bir endüstriyel tüp arabasıdır.",
+      "discovered_at": "2026-11-15 08:48:27"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Amazon.com: FHUKMZOI Heavy Duty Welding Gas Cylinder Cart - 440 LBS ...",
+      "page_url": "https://www.amazon.com/FHUKMZOI-Welding-Gas-Cylinder-Cart/dp/B0GS5HLQ2F",
+      "candidate_image_url": "https://m.media-amazon.com/images/I/61eEcWwQRLL._AC_SL1500_.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, sanayi tipi tüplerin taşınması için gerekli olan çelik konstrüksiyon, emniyet zinciri ve ergonomik taşıma standartlarını tam olarak karşılayan bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-15 08:48:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "504-30 Oxy/Acetylene Cart – Lawson Products",
+      "page_url": "https://www.lawsonproducts.com/products/504-30-oxy-acetylene-cart-1327279",
+      "candidate_image_url": "https://www.lawsonproducts.com/cdn/shop/files/DV_ZoomOriginal_P_MH1337.jpg?v=1741874262",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, kullanıcı gereksinimlerini karşılayan, çelik konstrüksiyonlu, emniyet sistemli ve sanayi tipi gaz tüplerini taşımaya uygun endüstriyel bir gaz tüpü arabasıdır.",
+      "discovered_at": "2026-11-15 08:50:34"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3D Single Oxygen Bottle Trolley Model - TurboSquid 2293471",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-single-oxygen-bottle-trolley-model-2293471",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/Pd/mqSk2b/II/composite00135/jpg/1729084961/1920x1080/fit_q87/5dc57c309105c0ec4dd4f2267cf07a4c56010271/composite00135.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, sanayi tipi gaz tüpünü taşımak için tasarlanmış, tekerlekli ve tutamak yapısına sahip, teknik gereksinimleri karşılayan 3D bir taşıma sistemidir.",
+      "discovered_at": "2026-11-15 08:51:03"
     }
   ]
 }
