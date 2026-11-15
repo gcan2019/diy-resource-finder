@@ -19095,6 +19095,50 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, sanayi tipi gaz tüpünü taşımak için tasarlanmış, tekerlekli ve tutamak yapısına sahip, teknik gereksinimleri karşılayan 3D bir taşıma sistemidir.",
       "discovered_at": "2026-11-15 08:51:03"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DURHAND Three-Tier Welding Cart Welder Trolley for Gas Bottles w/ Wheels, Black",
+      "page_url": "https://www.diy.com/departments/durhand-three-tier-welding-cart-welder-trolley-for-gas-bottles-w-wheels-black/5056534579876_BQ.prd",
+      "candidate_image_url": "https://media.diy.com/is/image/KingfisherDigital/durhand-three-tier-welding-cart-welder-trolley-for-gas-bottles-w-wheels-black~5056534579876_05c_MP?$MOB_PREV$&$width=600&$height=600",
+      "score": 85,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel de gaz tüplerini taşımak için tasarlanmış benzer bir endüstriyel taşıma arabasıdır, ancak farklı bir gövde formuna sahiptir.",
+      "discovered_at": "2026-11-15 16:47:30"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Double Gas Cylinder Trolley at ₹ 10000/piece | Bengaluru | ID: 2854146616362",
+      "page_url": "https://www.indiamart.com/proddetail/double-gas-cylinder-trolley-2854146616362.html",
+      "candidate_image_url": "https://5.imimg.com/data5/SELLER/Default/2026/5/608838861/GG/ZI/JT/1124369/double-gas-cylinder-trolley-1000x1000.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, referans tüp arabasına oldukça benzer 3 tekerlekli ve şasi yapısına sahip endüstriyel tip bir gaz tüpü taşıma arabasını göstermektedir.",
+      "discovered_at": "2026-11-15 16:48:37"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/trolley-156",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f972ccf605758b92651ed7a79da51671/large.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, sanayi tipi tüp taşıma arabasının temel mekanik yapısını ve şasisini temsil eden bir CAD modelidir.",
+      "discovered_at": "2026-11-15 16:50:19"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "VEVOR Dual Welding Cylinder Cart, Oxygen Acetylene Tank Cart with 440LBS Static Weight Capacity ...",
+      "page_url": "https://www.vevor.co.uk/welding-cart-c_12105/dual-welding-cylinder-cart-oxygen-acetylene-tank-cart-with-10-solid-wheels-p_010647925665",
+      "candidate_image_url": "https://vevor-goods.vevor.net/product/SGC440LBS10ICQ7EU/welding-cart-a100-1.11-pt.jpg?x-oss-process=image/format,webp",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, istenen teknik özelliklere sahip, emniyet zincirli ve sanayi tipi tüp taşıma arabasının tüm işlevsel gereksinimlerini karşılayan standart bir endüstriyel taşıma ekipmanıdır.",
+      "discovered_at": "2026-11-15 16:57:08"
     }
   ]
 }
