@@ -19139,6 +19139,50 @@
       "variant_type": "exact_match",
       "reason": "Aday görsel, istenen teknik özelliklere sahip, emniyet zincirli ve sanayi tipi tüp taşıma arabasının tüm işlevsel gereksinimlerini karşılayan standart bir endüstriyel taşıma ekipmanıdır.",
       "discovered_at": "2026-11-15 16:57:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DIY Mobile MIG Welding Cart Plans (plasma Cut Ready Files and Welding Instructions) - Etsy",
+      "page_url": "https://www.etsy.com/listing/1234291053/diy-mobile-mig-welding-cart-plans-plasma",
+      "candidate_image_url": "https://i.etsystatic.com/38581335/r/il/267489/4585793282/il_340x270.4585793282_njsx.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, talep edilen gaz tüpü taşıma arabasının fonksiyonel özelliklerini (tüp sabitleme, tekerlekli şasi) karşılayan bir teknik proje/CAD çizimidir.",
+      "discovered_at": "2026-11-15 22:32:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Basic Magliner Hand Truck | Liftruck UK | Durable & Lightweight Material Handling",
+      "page_url": "https://www.liftruck.co.uk/sack-trucks/basic-magliner-hand-truck.html",
+      "candidate_image_url": "https://www.liftruck.co.uk/media/iopt/catalog/product/cache/f8004b36c2e883fd749097a815531666/b/a/basic-magliner-hand-truck.webp",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, endüstriyel bir gaz tüpü taşıma arabası olup, talep edilen güvenlik zinciri, ergonomik tutamak ve çelik konstrüksiyon özelliklerini Magliner marka standartlarında karşılamaktadır.",
+      "discovered_at": "2026-11-15 22:32:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Adjustable and collapsible hand truck with lifting apparatus - Eureka | Patsnap develop ...",
+      "page_url": "https://eureka.patsnap.com/patent-US9321471B1",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/b01feab1-2168-45cd-83a3-327c5e64a99a/US09321471-20160426-D00001.PNG",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, referans ürünle aynı mekanik işlevselliğe ve temel yapısal bileşenlere (tüplü taşıma arabası geometrisi) sahip teknik bir patent çizimidir.",
+      "discovered_at": "2026-11-15 22:34:25"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner carretillas de mano aluminio plegable - Handle-iT SL",
+      "page_url": "https://handle-it.es/magliner-carretillas-de-mano-aluminio-plegable/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-g07r8li6ks/images/stencil/700x700/products/1505/943/HIR0185_HI-MS_Folding__55733.1703084884.386.513__95177.1709657257.png?c=1",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Magliner marka ürün, gaz tüpü taşıma gereksinimlerini karşılayan endüstriyel standartta bir taşıma sistemidir; görseldeki model, zincir tertibatı bulunmasa da tasarım amacı ve işlevsellik olarak tüp taşıma arabası kategorisiyle tam uyumludur.",
+      "discovered_at": "2026-11-15 22:35:18"
     }
   ]
 }
