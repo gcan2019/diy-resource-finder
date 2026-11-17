@@ -19348,6 +19348,50 @@
       "variant_type": "working_variation",
       "reason": "Görüntülenen aday, talep edilen gaz tüpü taşıma arabasının temel fonksiyonlarını karşılayan bir CAD modelidir, ancak emniyet zinciri gibi detaylar eksiktir.",
       "discovered_at": "2026-11-16 04:52:08"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Mild Steel Gas Cylinder Trolley at ₹ 8500/piece in New Delhi | ID ...",
+      "page_url": "https://www.indiamart.com/proddetail/gas-cylinder-trolley-2854438044373.html",
+      "candidate_image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440338194/BY/CI/XP/2384500/gas-cylinder-trolley-1000x1000.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen sanayi tipi gaz tüpü taşıma arabası özelliklerini (zincirli emniyet, çelik yapı, tekerlekli sistem) karşılayan endüstriyel bir çözümdür.",
+      "discovered_at": "2026-11-16 23:58:54"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "AJD Gas Cylinder Trolley TY120 – Durable, Compact, Ergonomic Gas ...",
+      "page_url": "https://www.zayani-store.com/Gas-cylinder-trolley/1031028-ajd-gas-cylinder-trolley-ty120-size-910430mm-1-unit.html",
+      "candidate_image_url": "https://proairductus.com/img/cms/4861d48f99d879016509f2b32126b4a2.png",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday ürün, talep edilen teknik gereksinimleri (zincirli emniyet kilidi, ergonomik tutamak ve çelik konstrüksiyon) tam olarak karşılayan endüstriyel tip bir gaz tüp taşıma arabasının teknik dokümantasyonudur.",
+      "discovered_at": "2026-11-17 00:02:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "AJD Gas Cylinder Trolley TY120B – Durable, Compact, and Ergonomic ...",
+      "page_url": "https://www.zayani-store.com/Gas-cylinder-trolley/1031029-ajd-gas-cylinder-trolley-ty120b-dimensions-910430mm-1-unit.html",
+      "candidate_image_url": "https://proairductus.com/img/cms/e91aa46c5dcb2c86e22c7af9d65e7f54.png",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "exact_match",
+      "reason": "Aday görsel, referans ürünle aynı mekanik yapıya, güvenlik zinciri ve tekerlek konfigürasyonuna sahip endüstriyel tip gaz tüpü taşıma arabasının teknik dokümantasyonudur.",
+      "discovered_at": "2026-11-17 00:02:39"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Industrial hand truck - Download Free 3D model by Mouad Hsaine ...",
+      "page_url": "https://sketchfab.com/3d-models/industrial-hand-truck-a7b424b174ba456f9d84624c1835a2f5",
+      "candidate_image_url": "https://media.sketchfab.com/models/a7b424b174ba456f9d84624c1835a2f5/thumbnails/0fcac48cb48246bd882e9caa4610fd20/c31be32c797a4e81bc9ae58a2a8ea5e3.jpeg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel tüp taşıma arabasının temel konstrüksiyonuna ve işlevsel tasarımına sahip üç boyutlu bir modeldir.",
+      "discovered_at": "2026-11-17 00:02:49"
     }
   ]
 }
