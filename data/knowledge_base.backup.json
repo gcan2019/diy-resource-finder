@@ -19392,6 +19392,50 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, endüstriyel tüp taşıma arabasının temel konstrüksiyonuna ve işlevsel tasarımına sahip üç boyutlu bir modeldir.",
       "discovered_at": "2026-11-17 00:02:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Hand truck | 3D Warehouse",
+      "page_url": "https://embed-3dwarehouse-classic.sketchup.com/model/1af5502f6d7ef00e60a047befc829353/Hand-truck",
+      "candidate_image_url": "https://download-warehouse.sketchup.com/warehouse/v1.0/content/public/6f231830-c791-49f1-85fd-62ba025322a4",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, sanayi tipi tüp taşıma arabasının 3D CAD modelini temsil etmekte olup, kullanıcı gereksinimlerindeki temel mekanik fonksiyonlarla uyumludur.",
+      "discovered_at": "2026-11-17 07:22:51"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "DIY LPG Gas Cylinder Carrying Trolley in 2025 | Metal working projects ...",
+      "page_url": "https://www.pinterest.com/pin/diy-lpg-gas-cylinder-carrying-trolley-in-2025--663929170102027619/",
+      "candidate_image_url": "https://i.pinimg.com/736x/53/66/c1/5366c14a441e6810d875de303682fae7.jpg",
+      "score": 75,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki aday ürün, sanayi tipi tüp taşıma gereksinimlerini karşılayan, kaynaklı metal konstrüksiyonlu ve tekerlekli mekanik bir taşıma arabası varyasyonudur.",
+      "discovered_at": "2026-11-17 07:23:12"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "3 wheel Single Cylinder Trolley",
+      "page_url": "https://sfsdxb.com/product/3-wheel-single-cylinder-trolley/",
+      "candidate_image_url": "http://sfsdxb.com/wp-content/uploads/2020/08/single-cylinder-trolley.jpeg",
+      "score": 95,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görseldeki ürün, kaynaklı çelik konstrüksiyon, üç tekerlekli tasarım ve zincirli emniyet kilidi ile talep edilen sanayi tipi tüp taşıma arabası gereksinimlerini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-17 07:25:49"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Fold Down Single Double Gas Cylinder Hand Truck Trolley With ...",
+      "page_url": "https://www.katypotaty.com/thai/sale-5081425-fold-down-single-double-gas-cylinder-hand-truck-trolley-with-restraining-strap.html",
+      "candidate_image_url": "https://img.katypotaty.com/photo/katypotaty/editor/20150620222415_22268.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, kullanıcı gereksinimlerini karşılayan endüstriyel tip gaz tüpü taşıma arabasının teknik çizimini yansıtmaktadır.",
+      "discovered_at": "2026-11-17 07:26:17"
     }
   ]
 }
