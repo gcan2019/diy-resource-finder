@@ -19524,6 +19524,39 @@
       "variant_type": "exact_match",
       "reason": "Görsel, belirtilen sanayi tipi tüp taşıma gereksinimlerini karşılayan, zincirli emniyet kilidi ve çok tekerlekli yapısı ile standart bir gaz tüpü taşıma arabasının teknik dokümantasyonunu içermektedir.",
       "discovered_at": "2026-11-17 17:39:51"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas Cylinder on Handtruck 3D model | CGTrader",
+      "page_url": "https://www.cgtrader.com/3d-models/industrial/other/gas-cylinder-on-handtruck",
+      "candidate_image_url": "https://img-new.cgtrader.com/items/304358/3d32072e4a/gas-cylinder-on-handtruck-3d-model-3d32072e4a.webp",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görsel, sanayi tipi gaz tüplerini taşımak için tasarlanmış, zincirli emniyet mekanizmasına sahip endüstriyel standartlarda bir tüp taşıma arabasının 3D modelidir.",
+      "discovered_at": "2026-11-18 00:29:52"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "12 Best Magliner Carts for Film Sets (June 2026)",
+      "page_url": "https://www.requiemforadream.com/best-magliner-carts-for-film-sets/",
+      "candidate_image_url": "https://www.requiemforadream.com/wp-content/uploads/2026/05/B002T0B8V4_customer_1.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Magliner marka ürün, kullanıcı gereksinimlerinde belirtilen sanayi tipi gaz tüpü taşıma arabası standartlarını, ergonomik yapısı ve sağlam çelik/alüminyum konstrüksiyonu ile tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-18 00:32:05"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Magliner Hand Truck (84285 KW) - 1 | GovDeals",
+      "page_url": "https://www.govdeals.com/asset/19952/357",
+      "candidate_image_url": "https://webassets.lqdt1.com/assets/photos/357/357_19952_1.jpg?cb=240627213707&h=480&webp=true",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "exact_match",
+      "reason": "Görseldeki ürün, talep edilen teknik özelliklere (zincirli emniyet kilidi, metal yapı, tüp taşıma kapasitesi) sahip endüstriyel tip bir Magliner gaz tüpü taşıma arabasıdır.",
+      "discovered_at": "2026-11-18 00:37:23"
     }
   ]
 }
