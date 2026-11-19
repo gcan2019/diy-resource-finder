@@ -19645,6 +19645,39 @@
       "variant_type": "working_variation",
       "reason": "Her iki ürün de sanayi tipi gaz tüplerini güvenli şekilde taşımak için tasarlanmış, zincirli veya sabitleme destekli, çelik konstrüksiyonlu endüstriyel taşıma ekipmanlarıdır.",
       "discovered_at": "2026-11-19 01:50:32"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Three Wheel Heavy Material Transport Cart – Wulfs Custom Welding",
+      "page_url": "https://wulfscustomwelding.com/product/three-wheel-heavy-material-transport-cart/",
+      "candidate_image_url": "https://wulfscustomwelding.com/wp-content/uploads/2017/05/Three-Wheel-Cart.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, sanayi tipi tüp taşıma gereksinimlerini karşılayan, kaynaklı çelik konstrüksiyonlu ve tekerlekli bir CAD modelidir.",
+      "discovered_at": "2026-11-19 10:12:29"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Liquid Cylinder Transport Cart with powered wheel drive - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=bPtQvy4bbCE",
+      "candidate_image_url": "https://i.ytimg.com/vi/bPtQvy4bbCE/maxresdefault.jpg",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Görsel, endüstriyel standartlara uygun, zincirli emniyet kilidi ve ergonomik taşıma yapısına sahip Wesco marka bir tüp taşıma arabasını göstermektedir.",
+      "discovered_at": "2026-11-19 10:12:35"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Pressurized Cylinder Transport Cart - Large, with Toolbox, Steel Wheels 503-20 - First ...",
+      "page_url": "https://www.firstindustrialsupplies.com/pressurized-cylinder-transport-cart-large-with-toolbox-steel-wheels-503-20/",
+      "candidate_image_url": "https://cdn11.bigcommerce.com/s-9l966chvx4/products/29220/images/31133/apiikiyfy__65093.1616117979.386.513.jpg?c=2",
+      "score": 90,
+      "category": "working_variation",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, kullanıcı gereksinimlerinde belirtilen gaz tüplerini güvenle taşıma, zincirli emniyet kilidi ve kaynaklı çelik gövde standartlarına tam uyum sağlayan endüstriyel bir tüp taşıma arabasıdır.",
+      "discovered_at": "2026-11-19 10:12:40"
     }
   ]
 }
