@@ -19612,6 +19612,39 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, endüstriyel standartlara uygun, gaz tüplerini taşımak için tasarlanmış farklı konfigürasyonlarda (iki ve üç tekerlekli) çalışan bir tüp arabası varyasyonunu göstermektedir.",
       "discovered_at": "2026-11-18 18:47:00"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Single Gas Cylinder Dolly",
+      "page_url": "https://www.bayteccontainers.com/single-and-dual-cylinder-dollies.html",
+      "candidate_image_url": "https://s.turbifycdn.com/aah/baytec/single-cylinder-dolly-66.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de sanayi tipi gaz tüplerini güvenli bir şekilde taşımak için tasarlanmış olup, tekerlekli şasi ve emniyet kilidi mekanizmaları ile kullanıcı gereksinimlerini tam olarak karşılamaktadır.",
+      "discovered_at": "2026-11-19 01:48:26"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Products Archive » D.O.T. Engineering",
+      "page_url": "https://dotengineering.com.au/products/",
+      "candidate_image_url": "https://dotengineering.com.au/wp-content/uploads/2013/11/200KG-OXY-ACET-GAS-BOTTLE-LIFTING-FRAME-300x300.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday ürün, sanayi tipi tüplerin taşınması için tasarlanmış, emniyet sistemli ve çelik konstrüksiyona sahip, endüstriyel gereksinimleri karşılayan bir gaz tüpü taşıma arabası modelidir.",
+      "discovered_at": "2026-11-19 01:50:21"
+    },
+    {
+      "target_name": "Gas cylinder truck / Tüp arabası",
+      "title": "Gas bottle frames",
+      "page_url": "https://theliftingcompany.com.au/collections/gas-bottle-cages-fab",
+      "candidate_image_url": "https://theliftingcompany.com.au/cdn/shop/files/TLC01417COLOURED.png?v=1753157699",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Her iki ürün de sanayi tipi gaz tüplerini güvenli şekilde taşımak için tasarlanmış, zincirli veya sabitleme destekli, çelik konstrüksiyonlu endüstriyel taşıma ekipmanlarıdır.",
+      "discovered_at": "2026-11-19 01:50:32"
     }
   ]
 }
