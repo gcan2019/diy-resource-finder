@@ -2,16 +2,467 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Fuel cell system / Yakıt hücresi sistemi`
-**Doğrulanmış Kaynak Sayısı:** 244 adet
-**Son Güncelleme:** 2026-11-21 01:19:33
+**Doğrulanmış Kaynak Sayısı:** 300 adet
+**Son Güncelleme:** 2026-11-21 09:23:58
 > 💡 **Ürün Tanımı / Notlar:** PEM ve katı oksit yakıt hücresi sistemleri, bipolar plaka akış kanalları, membran elektrot takımı ve montaj sıkıştırma plakaları teknik çizimleri.
 
 ---
 
-## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (155 adet)
+## 📐 Teknik Çizimler, Ölçüler & Kesit Planları (196 adet)
 _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
-### 1. [Top PEM Electrolyzer Manufacturers in China | Heletitanium hydrogen](https://heletitaniumhydrogen.com/pem-electrolyzer-manufacturers-china-heletitanium/)
+### 1. [Hydrogen Fuel Cell Stack Cutaway Energy Conversion Diagram with ...](https://www.dreamstime.com/hydrogen-fuel-cell-stack-cutaway-energy-conversion-diagram-technical-callouts-photorealistic-illustrating-air-flow-image461405790)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, PEM ve katı oksit yakıt hücresi yığın yapısını, bipolar plakalar ve anot/katot katmanlarını detaylandıran teknik bir şema olup kullanıcı gereksinimleriyle doğrudan uyumludur.
+- **Tarih:** 2026-11-21 09:23:52
+
+![Önizleme](https://thumbs.dreamstime.com/b/hydrogen-fuel-cell-stack-cutaway-energy-conversion-diagram-technical-callouts-photorealistic-illustrating-air-flow-461405790.jpg)
+
+
+---
+
+### 2. [Do manufacturing sheet metal design fabrication laser cutting bending ...](https://www.fiverr.com/njambians/do-sheet-metal-design-for-manufacturing-fabrication-laser-cutting-dxf-files)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin montajı için gerekli olan sac levha ve şasi parçalarının teknik çizimlerini (CAD modelleriyle birlikte) içermektedir, bu da sistemin mekanik donanım gereksinimleriyle doğrudan örtüşmektedir.
+- **Tarih:** 2026-11-21 09:23:39
+
+![Önizleme](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/478941631/original/fbc70e424f23ff0feaf00f727d3330c74b1c4f24/do-sheet-metal-design-for-manufacturing-fabrication-laser-cutting-dxf-files.jpg)
+
+
+---
+
+### 3. [Multi-Level Mathematical Modeling of Solid Oxide Fuel Cells | IntechOpen](https://www.intechopen.com/chapters/39364)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sisteminin temelini oluşturan bipolar plaka ve membran elektrot takımı (MEA) bileşenlerini teknik çizim seviyesinde detaylandırdığı için kullanıcı gereksinimleriyle uyumludur.
+- **Tarih:** 2026-11-21 09:22:32
+
+![Önizleme](https://cdnintech.com/media/chapter/39364/1512345123/media/fig010.jpg)
+
+
+---
+
+### 4. [Frontiers | Experimental Study and Comparison of Various Designs of Gas ...](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2014.00002/full)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bileşeni olan bipolar plaka akış kanalları için teknik bir çizimdir ve kullanıcı gereksinimlerinde belirtilen teknik tasarım standartları ile doğrudan örtüşmektedir.
+- **Tarih:** 2026-11-21 09:22:29
+
+![Önizleme](https://www.frontiersin.org/files/Articles/77429/xml-images/fenrg-02-00002-g003.webp)
+
+
+---
+
+### 5. [Ensuring Flawless Performance of Fuel Cell Separator Layers](https://www.azom.com/article.aspx?ArticleID=23257)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi sisteminin temel bileşenlerini, bipolar plakaları ve membran elektrot takımını gösteren teknik bir şema olup, kullanıcının talep ettiği yakıt hücresi sistemi mimarisiyle doğrudan uyumludur.
+- **Tarih:** 2026-11-21 09:22:10
+
+![Önizleme](https://www.azom.com/images/Article_Images/ImageForArticle_23257_17047752723855845.png)
+
+
+---
+
+### 6. [A flat lay of a hydrogen fuel cell with diagrams and technical ...](https://stock.adobe.com/images/a-flat-lay-of-a-hydrogen-fuel-cell-with-diagrams-and-technical-schematics-representing-the-components-of-hydrogen-energy-technology/1031090309)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi yığınına ait detaylı bir teknik çizim ve bileşen montaj yapısını temsil ederek, kullanıcı gereksinimlerinde belirtilen teknik dokümantasyon ve donanım standartları ile uyumludur.
+- **Tarih:** 2026-11-21 09:21:46
+
+![Önizleme](https://as2.ftcdn.net/jpg/10/31/09/03/1000_F_1031090309_AI3a1VNN2MZ5CMqGiEGY8VE7UeBxmmaW.jpg)
+
+
+---
+
+### 7. [(PDF) Review of bipolar plates in PEM fuel cells: Flow-field designs](https://www.academia.edu/27189334/Review_of_bipolar_plates_in_PEM_fuel_cells_Flow_field_designs)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görüntü, yakıt hücresi yığınlarında kullanılan tipik bir bipolar plaka akış kanalı teknik çizimidir ve kullanıcı gereksinimlerindeki teknik dokümantasyon kapsamı ile tam uyumludur.
+- **Tarih:** 2026-11-21 09:21:41
+
+![Önizleme](https://figures.academia-assets.com/47439557/figure_006.jpg)
+
+
+---
+
+### 8. [Top 10 Sheet Metal Fabrication Components for New Energy | Be-cu.com](https://be-cu.com/blog/top-10-sheet-metal-fabrication-components-for-new-energy/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bileşeni olan bipolar plaka ve montaj sıkıştırma düzeneğini gösteren endüstriyel bir teknik ekipmandır ve belirtilen PEM yakıt hücresi gereksinimleri ile doğrudan uyumludur.
+- **Tarih:** 2026-11-21 09:21:01
+
+![Önizleme](https://be-cu.com/storage-be-cu-prototpe/2024/11/Hydrogen-Fuel-Cell-Components-2048x1200.jpg)
+
+
+---
+
+### 9. [Mechanical Analysis of PEM Fuel Cell Stack Design – Cuvillier Verlag](https://cuvillier.de/de/shop/publications/7247-mechanical-analysis-of-pem-fuel-cell-stack-design)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** İkinci görsel, PEM yakıt hücresi yığınının mekanik analizini ve tasarımını gösteren bir akademik kaynak olup yakıt hücresi sistemi gereksinimini karşılamaktadır.
+- **Tarih:** 2026-11-21 09:20:34
+
+![Önizleme](https://cuvillier.de/uploads/publication/cover/7247/preview_9783736992573.jpg)
+
+
+---
+
+### 10. [High speed machining of aluminium end plate - Broxton](https://www.broxton.com/news/high-speed-machining-of-aluminium-end-plate/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinde kullanılan metal bipolar plakaların CNC ile işlenme sürecini gösteren teknik bir imalat aşamasıdır ve sistemin donanım bileşenleri ile doğrudan ilişkilidir.
+- **Tarih:** 2026-11-21 09:19:58
+
+![Önizleme](https://www.broxton.com/wp-content/uploads/2025/04/aluminium-end-plate.jpg)
+
+
+---
+
+### 11. [Hydrogen & EV Engineering](https://hydronixmobility.com/hydrogen-ev-engineering)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi yığınına ait montaj sıkıştırma plakaları ve akış kanallarını içeren endüstriyel bir sistem donanımını teknik bir uygulama bağlamında sergilemektedir.
+- **Tarih:** 2026-11-21 09:19:43
+
+![Önizleme](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=282,fit=crop/DlS0hEuuHl4rqoPT/v0iwqf-hkLhkp3TMISE9rkO.png)
+
+
+---
+
+### 12. [Optimization and design for additive manufacturing of a fuel cell end ...](https://pubs.aip.org/lia/jla/article/34/4/042027/2844042/Optimization-and-design-for-additive-manufacturing)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi yığınına ait montaj sıkıştırma plakaları ve akış kanalı bağlantılarını içeren, kullanıcı gereksinimleriyle uyumlu teknik bir çalışma prototipini temsil etmektedir.
+- **Tarih:** 2026-11-21 09:19:37
+
+![Önizleme](https://aipp.silverchair-cdn.com/aipp/content_public/journal/jla/34/4/10.2351_7.0000789/2/042027_1_highlight_f1.jpeg?Expires=1709047026&Signature=3BaYq59ka-yvkVjR57aDwMMIm-oJQHGN2Nswoz~MsjBLPpTtReS12PooinMUYa~GU2Jhx6OBbLvMDj2DC04nJxIVu4rGJ69hE~4GsbaPO5HoujrXz0o6QNWhMLcFcG0agmLh8kP3C-GUxnVamP6-Q1i8knRoqFhWoSQSIY6mdHoUfIQH-YEfgexrhoH8VPcmJhAjyOlE~Zn-B0FzRUBp2wk6Z0SZjzOzjnoVr1KJeGRvvV6gqy9jQM74ObCu6JWJxNbEZvADLNsI01rSKghJQasMjzxazwwiMw4AoIGC6yVu1yTKFMbSxDWUnO2RQy3kWtzlNZ50G9fmtaKRTOAxLA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+---
+
+### 13. [Transport Phenomena in a Banded Solid Oxide Fuel Cell Stack—Part 1 ...](https://www.mdpi.com/1996-1073/16/11/4511?type=check_update&version=3)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, katı oksit yakıt hücresi (SOFC) sisteminin teknik şemasını ve montaj detaylarını içerdiği için yakıt hücresi sistemi gereksinimleriyle doğrudan uyumludur.
+- **Tarih:** 2026-11-21 09:19:13
+
+![Önizleme](https://pub.mdpi-res.com/energies/energies-16-04511/article_deploy/html/images/energies-16-04511-g006.png?1686013579)
+
+
+---
+
+### 14. [Sealants - Solid Oxide Fuel Cells: From Fundamental Principles to ...](https://ebrary.net/203878/engineering/sealants)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 1 sistem düzeyinde bir yakıt hücresi tasarımı sunarken, Görsel 2 bu sistemin temelini oluşturan katı oksit yakıt hücresi (SOFC) yığınına ait teknik detayları ve bileşen yapısını şematik olarak doğrulamaktadır.
+- **Tarih:** 2026-11-21 09:19:02
+
+![Önizleme](https://ebrary.net/htm/img/39/2252/188.png)
+
+
+---
+
+### 15. [Bipolar Plate: Etching vs Stamping vs Hydroforming vs CNC](https://tmnetch.com/bipolar-plate-manufacturing-process-comparison/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemlerinin kritik bir bileşeni olan bipolar plakaların üretim süreçlerini ve teknik tasarım detaylarını başarıyla yansıtmaktadır.
+- **Tarih:** 2026-11-21 09:18:46
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2026/06/Bipolar-Plate-Manufacturing-process-comparision.webp)
+
+
+---
+
+### 16. [A Review of Sealing Systems for Proton Exchange Membrane Fuel Cells](https://www.mdpi.com/2032-6653/15/8/358)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi yığınının temel bileşenlerini (bipolar plaka, MEA, uç plakalar) teknik bir şema ile doğru şekilde temsil etmektedir.
+- **Tarih:** 2026-11-21 09:18:35
+
+![Önizleme](https://pub.mdpi-res.com/wevj/wevj-15-00358/article_deploy/html/images/wevj-15-00358-g002.png?1724140084)
+
+
+---
+
+### 17. [High-temperature PEM fuel cell stack](https://www.dlr.de/en/tt/latest/news/2025/high-temperature-pem-fuel-cell-stack)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemleri için gerekli olan bipolar plaka akış kanalları ve yakıt hücresi yığını donanımlarının teknik tasarım detaylarını başarıyla yansıtmaktadır.
+- **Tarih:** 2026-11-21 09:17:42
+
+![Önizleme](https://www.dlr.de/en/tt/latest/news/2025/high-temperature-pem-fuel-cell-stack/@@images/image-978-a92fad91135c21d5f883453f90c3b981.png)
+
+
+---
+
+### 18. [Continuous preparation method and equipment for graphite bipolar plate ...](https://eureka.patsnap.com/patent-CN114725417A)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 75` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 1 bir ticari yakıt hücresi sisteminin genel yapısını ve evrimini gösterirken, görsel 2 bu sistemlerin iç bileşenlerini (membran, elektrot, bipolar plakalar) oluşturan üretim hattına veya montaj aşamalarına ait teknik bir şemadır.
+- **Tarih:** 2026-11-21 09:17:00
+
+![Önizleme](https://images-eureka.patsnap.com/patent_img/6ee21504-6fc3-4a64-bd16-af228c0193e4/HDA0003582704510000011.png)
+
+
+---
+
+### 19. [Frontiers | Surrogate-assisted reliability-based design optimization of ...](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2024.1468702/full)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bir bileşeni olan bipolar plaka akış kanallarının teknik tasarımını detaylı bir şekilde göstermektedir ve kullanıcı gereksinimlerinde belirtilen teknik dokümantasyon kapsamı ile uyumludur.
+- **Tarih:** 2026-11-21 09:15:58
+
+![Önizleme](https://www.frontiersin.org/files/Articles/1468702/fenrg-12-1468702-HTML/image_m/fenrg-12-1468702-g003.jpg)
+
+
+---
+
+### 20. [Graphite bipolar plate - Gotrays Graphite](https://www.gotrayscarb.com/graphite-bipolar-plate)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel montajını gösterirken, Görsel 2 bu sistemlerin temel bileşeni olan bipolar plaka akış kanallarını teknik tasarım detaylarıyla sunmaktadır; her iki görsel de aynı yakıt hücresi teknolojisi ekosistemine aittir.
+- **Tarih:** 2026-11-21 09:15:38
+
+![Önizleme](https://www.gotrayscarb.com/media/posts/42/gallery/Graphite-Bipolar-Plate-for-Fuel-Cells.jpg)
+
+
+---
+
+### 21. [Graphite Bipolar Plate](https://www.hhgraphite.com/Graphite-for-the-Fuel-Cell.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemlerinde kritik bir bileşen olan bipolar plaka akış kanal tasarımını göstermektedir ve kullanıcı gereksinimlerinde belirtilen teknik detaylarla doğrudan örtüşmektedir.
+- **Tarih:** 2026-11-21 09:15:36
+
+![Önizleme](https://inrorwxhnjlmll5p.ldycdn.com/cloud/jjBprKlnlpSRjkmnompiip/Bipolar-Graphite-Plate-640-640.jpg)
+
+
+---
+
+### 22. [Bipolarplatte aus Graphit für Brennstoffzellen zu verkaufen | Stanford ...](https://www.samaterials.de/gr5615-fuel-cell-graphite-bipolar-plate.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bileşeni olan bipolar plakayı teknik çizim/üretim formuyla göstermekte olup, kullanıcı gereksinimlerindeki yakıt hücresi sistemi bileşenleri tanımıyla tam uyumludur.
+- **Tarih:** 2026-11-21 09:15:34
+
+![Önizleme](https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/sc/1712473526-normal-13-fuel-cell-graphite-bipolar-plate.png)
+
+
+---
+
+### 23. [Novel fuel cell graphite bipolar plate structure - Eureka | Patsnap ...](https://eureka.patsnap.com/patent-CN110323466A)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sistemleri için akış kanallarına sahip bipolar plakaların teknik çizimini göstermektedir ve kullanıcı gereksinimleriyle doğrudan uyumludur.
+- **Tarih:** 2026-11-21 09:15:33
+
+![Önizleme](https://images-eureka.patsnap.com/patent_img/1555dbaa-d77f-4156-b78a-ed9ec96b0bd5/HDA0002123543300000011.png)
+
+
+---
+
+### 24. [Metal bipolar plate of fuel cell variable cross-section step-shaped ...](https://eureka.patsnap.com/patent-CN111211336A)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bileşeni olan bipolar plaka akış kanallarını gösteren teknik bir çizimdir ve kullanıcı gereksinimlerinde belirtilen PEM yakıt hücresi donanım detayları ile tam uyumludur.
+- **Tarih:** 2026-11-21 09:14:58
+
+![Önizleme](https://images-eureka.patsnap.com/patent_img/fd1bff25-d0eb-49c0-9a55-2c2a7375a840/HDA0002388170790000011.png)
+
+
+---
+
+### 25. [An Overview of the Design and Optimized Operation of Vanadium Redox ...](https://www.mdpi.com/2313-0105/9/4/221)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görseller, yakıt hücresi sisteminin hem genel sistem mimarisini (kabin tasarımı) hem de temel bileşenleri olan membran elektrot takımı ve bipolar plaka konfigürasyonlarını teknik olarak doğrulamaktadır.
+- **Tarih:** 2026-11-21 09:14:23
+
+![Önizleme](https://pub.mdpi-res.com/batteries/batteries-09-00221/article_deploy/html/images/batteries-09-00221-g002.png?1680766076)
+
+
+---
+
+### 26. [ELCOGEN – HIGHLY EFFICIENT SOLID OXIDE CELLS AND STACKS FOR FUEL CELL ...](https://innovationsoftheworld.com/elcogen-highly-efficient-solid-oxide-cells-and-stacks-for-fuel-cell-systems-and-electrolysers/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin endüstriyel tasarım ve donanım bileşenlerini (yığın montajı ve sistem entegrasyonu) konu almaktadır; ilk görsel ticari sistem evrimini, ikincisi ise bu sistemlerin temelini oluşturan yığın donanımını göstermektedir.
+- **Tarih:** 2026-11-21 09:14:16
+
+![Önizleme](https://innovationsoftheworld.com/wp-content/uploads/2025/04/stack-2048x1365.jpg)
+
+
+---
+
+### 27. [Figure 1 from Design of Experiment (DOE) Analysis of 5-Cell Stack Fuel ...](https://www.semanticscholar.org/paper/Design-of-Experiment-(DOE)-Analysis-of-5-Cell-Stack-Wilberforce-Olabi/c8c08170fbd78e4e9684f13c7cf61b6c30e13e6a/figure/0)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin genel konfigürasyonunu (ticari sistem seviyesi) gösterirken, aday görsel bu sistemin temelini oluşturan PEM (Proton Değişim Membranı) yakıt hücresi yığınının ve bipolar plakaların teknik montaj şemasını sunmaktadır.
+- **Tarih:** 2026-11-21 09:13:54
+
+![Önizleme](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/82951f11d0b804883b2358a6be3a18a4635fbf4d/2-Figure1-1.png)
+
+
+---
+
+### 28. [Stack Assembly PEM Fuel Cell Assembly Press - Greenlight Innovation ...](https://pdf.directindustry.com/pdf/greenlight-innovation-corp/stack-assembly-pem-fuel-cell-assembly-press/57513-821671.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi yığınlarının montajı ve sıkıştırma plakası presleme süreci için endüstriyel bir ekipmanı temsil etmektedir; bu, yakıt hücresi sistemleri teknik gereksinimleri ile uyumludur.
+- **Tarih:** 2026-11-21 09:13:34
+
+![Önizleme](https://img.directindustry.com/pdf/repository_di/57513/stack-assembly-pem-fuel-cell-assembly-press-821671_1mg.jpg)
+
+
+---
+
+### 29. [Transport Phenomena in a Banded Solid Oxide Fuel Cell Stack—Part 2 ...](https://www.mdpi.com/1996-1073/16/11/4512)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temelini oluşturan membran elektrot takımı ve akış kanallarının detaylı teknik çizimlerini içermekte olup, referans dokümandaki sistem gereksinimleri ile teknik bağlamda tam uyumludur.
+- **Tarih:** 2026-11-21 09:13:14
+
+![Önizleme](https://pub.mdpi-res.com/energies/energies-16-04512/article_deploy/html/images/energies-16-04512-g002.png?1685791108)
+
+
+---
+
+### 30. [Solid oxide fuel cell stack with uniform flow distribution structure ...](https://eureka.patsnap.com/patent-US20140093805A1)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin teknik gelişimini ve membran elektrot takımı ile bipolar plaka katmanlarını detaylandıran endüstriyel tasarım şemalarını temsil etmektedir.
+- **Tarih:** 2026-11-21 09:13:11
+
+![Önizleme](https://images-eureka.patsnap.com/patent_img/42f8ddea-dc89-45cd-a697-b75ee90d4617/US20140093805A1-20140403-D00000.png)
+
+
+---
+
+### 31. [fuel cell stack Archives - MR CFD](https://www.mr-cfd.com/product-tag/fuel-cell-stack/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Her iki görsel de PEM yakıt hücresi sistemlerinin endüstriyel geliştirme aşamalarını, stack donanımını, montaj sıkıştırma plakalarını ve akış modellerini kapsayan teknik dokümantasyon niteliğindedir.
+- **Tarih:** 2026-11-21 09:13:06
+
+![Önizleme](https://www.mr-cfd.com/wp-content/uploads/2023/11/Proton-Exchange-Membrane-Fuel-Cell-PEMFC-Stack-Fuel-Cell-System-1-1024x665.png)
+
+
+---
+
+### 32. [Application of fuel cells - Functionality and fields | MackSmaTec GmbH](https://macksmatec.de/en/company/blog/function-and-application-fields-of-fuel-cells)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemleri için MEA, bipolar plaka ve montaj hattı süreçlerini içeren teknik bir üretim şeması sunarak kullanıcı gereksinimlerini karşılamaktadır.
+- **Tarih:** 2026-11-21 09:13:04
+
+![Önizleme](https://macksmatec.de/macksmatec.de/media/pages/unternehmen/blog/funktionsweise-und-anwendungsfelder-von-brennstoffzellen/06e2132e72-1756975470/fuel-cell-stack-assembly-line-2048x-q80.jpg)
+
+
+---
+
+### 33. [Fuel Cell Pemfc Stack Metal Powered Hydrogen Fuel Cells 1000w Hydrogen ...](https://www.vet-china.com/fuel-cell-pemfc-stack-metal-powered-hydrogen-fuel-cells-1000w-hydrogen-fuel-cell-24v.html/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 1 sistem düzeyinde bir yakıt hücresi tasarımı evrimini gösterirken, Görsel 2 bu sistemlerin kalbinde yer alan PEM yakıt hücresi yığını ve bileşenlerinin (bipolar plakalar, MEA, GDL) detaylı teknik diyagramını içermektedir; her ikisi de yakıt hücresi teknolojisi kapsamında doğrudan ilişkilidir.
+- **Tarih:** 2026-11-21 09:12:49
+
+![Önizleme](https://www.vet-china.com/uploads/6_495782.jpg)
+
+
+---
+
+### 34. [Se vende placa bipolar de grafito para pilas de combustible | Stanford ...](https://www.samaterials.es/gr5615-fuel-cell-graphite-bipolar-plate.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi yığınlarının temel bir bileşeni olan bipolar plaka akış kanalları tasarımını teknik bir çizim/ürün detayı olarak başarıyla temsil etmektedir.
+- **Tarih:** 2026-11-21 09:12:42
+
+![Önizleme](https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/sc/1712473526-normal-13-fuel-cell-graphite-bipolar-plate.png)
+
+
+---
+
+### 35. [Bipolar Plates - Etching in Fuel Cell & Electrolyzer Technology](https://www.elconprecision.com/bipolar-plates/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinin temel bileşenlerinden biri olan bipolar plaka akış kanallarını gösteren profesyonel bir teknik çizim olup, kullanıcının belirttiği teknik çizim gereksinimleri ile tam uyumludur.
+- **Tarih:** 2026-11-21 09:12:36
+
+![Önizleme](https://s38038.pcdn.co/wp-content/uploads/2023/06/Plate-drawing-1000x440-2.jpg)
+
+
+---
+
+### 36. [Membrane–Electrode Assembly Fabrication Techniques for Electrochemical ...](https://blog.krayden.com/membrane-electrode-assembly-fabrication-techniques-for-electrochemical-stacks_11708/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin temel bileşenlerini (sistem tasarımı ve membran elektrot takımı yapısı) temsil etmekte olup, teknik gereksinimlerle doğrudan örtüşmektedir.
+- **Tarih:** 2026-11-21 09:12:33
+
+![Önizleme](https://blog.krayden.com/wp-content/uploads/2025/11/MEA-Fabrication-Techniques.png-scaled.jpg)
+
+
+---
+
+### 37. [DMFC / PEM Membrane Electrode Assembly ( MEA ) Fabrication Unit at best ...](https://www.indiamart.com/proddetail/dmfc-pem-membrane-electrode-assembly-mea-fabrication-unit-2852510064348.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, bir yakıt hücresi sistemi için gerekli olan temel bileşenleri (MEA, Nafion membran, elektrotlar ve sıcak pres montajı) teknik şema formatında detaylı olarak göstermektedir.
+- **Tarih:** 2026-11-21 09:12:28
+
+![Önizleme](https://5.imimg.com/data5/SELLER/Default/2023/9/346502525/OR/HF/NR/198377394/dmfc-pem-membrane-electrode-assembly-mea-fabrication-laboratory-1000x1000.jpg)
+
+
+---
+
+### 38. [Chemical Etching for Bipolar Plate Flow Channels | TMNetch](https://tmnetch.com/chemical-etching-bipolar-plate-flow-channels/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemlerinin temel bileşeni olan bipolar plaka akış kanallarını teknik bir diyagramla başarıyla temsil etmektedir.
+- **Tarih:** 2026-11-21 09:12:23
+
+![Önizleme](https://tmnetch.com/wp-content/uploads/2026/09/How_Chemical_Etching_Enables_Complex_Flow_Channels_on_Bipolar_Plates.webp)
+
+
+---
+
+### 39. [Dichtheitsprüfungen als Serviceleistung für Bipolarplatten | ZELTWANGER](https://www.zeltwanger.de/de/dichtheitspruefungen-als-serviceleistung-fuer-bipolarplatten/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görseller, yakıt hücresi sistemlerinin gelişim aşamalarını ve kritik bileşenlerinden biri olan bipolar plaka montaj süreçlerini teknik düzeyde temsil etmektedir.
+- **Tarih:** 2026-11-21 09:12:19
+
+![Önizleme](https://www.zeltwanger.de/app/uploads/2025/03/Zeltwanger_Test_Stand_Bipolar_Plate-scaled.jpg)
+
+
+---
+
+### 40. [Analysis of flow field design in bipolar plates for water management](https://eureka.patsnap.com/report-analysis-of-flow-field-design-in-bipolar-plates-for-water-management)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi yığınının temel bileşenleri olan bipolar plakalar ve membran elektrot takımını gösteren teknik bir patent çizimidir, bu da referans yakıt hücresi sisteminin alt bileşenleriyle teknik olarak uyumludur.
+- **Tarih:** 2026-11-21 09:11:18
+
+![Önizleme](https://images-eureka.patsnap.com/patent_img/2279224c-e6a0-44da-9ed1-e6c98cff969b/US20070141439A1-20070621-D00001.png)
+
+
+---
+
+### 41. [Figure 1 from Investigation of bio-inspired flow channel designs for ...](https://www.semanticscholar.org/paper/Investigation-of-bio-inspired-flow-channel-designs-Kloess-Wang/9f7e1c96ff5b4beda281e8222ab671a0db96edf9/figure/0)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin teknik gereksinimleri ile uyumludur; birinci görsel sistem entegrasyonunu, ikinci görsel ise yakıt hücresi yığınlarında kullanılan bipolar plaka akış kanalı tasarımlarını (serpentine ve spiral) göstermektedir.
+- **Tarih:** 2026-11-21 09:11:15
+
+![Önizleme](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/9f7e1c96ff5b4beda281e8222ab671a0db96edf9/3-Figure1-1.png)
+
+
+---
+
+### 42. [Top PEM Electrolyzer Manufacturers in China | Heletitanium hydrogen](https://heletitaniumhydrogen.com/pem-electrolyzer-manufacturers-china-heletitanium/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, PEM bazlı bir hidrojen sistemi (elektrolizör) göstermektedir; bu sistem yakıt hücresi sistemleri ile benzer temel elektrokimyasal membran teknolojisini ve endüstriyel kabin donanım yapısını paylaştığı için teknik açıdan uyumludur.
@@ -22,7 +473,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 2. [Polymer Electrolyte Membrane Pem Electrolyzer – CEMK](https://trip.arrowheadsabroad.com/polymer-electrolyte-membrane-pem-electrolyzer/)
+### 43. [Polymer Electrolyte Membrane Pem Electrolyzer – CEMK](https://trip.arrowheadsabroad.com/polymer-electrolyte-membrane-pem-electrolyzer/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller, Proton Değişim Membranlı (PEM) yakıt hücresi sisteminin hem genel endüstriyel uygulama tasarımını hem de temel çalışma prensibi şemasını temsil ederek teknik gereksinimlerle uyumluluk göstermektedir.
@@ -33,7 +484,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 3. [Pem Water Electrolysis Hydrogen – ZXZMJS](https://os.wrub.org/pem-water-electrolysis-hydrogen/)
+### 44. [Pem Water Electrolysis Hydrogen – ZXZMJS](https://os.wrub.org/pem-water-electrolysis-hydrogen/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi bileşenlerini, membran elektrot takımlarını ve akış kanallı plakaları teknik detaylarıyla açıklayan bir sistem şeması içermektedir; kullanıcı gereksinimleriyle doğrudan örtüşmektedir.
@@ -44,7 +495,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 4. [Titanium Mesh For PEM Electrolyzer Support Layer Customized Suppliers ...](https://www.toptitech.com/microporous-filter-components/titanium-mesh-for-pem-electrolyzer-support.html)
+### 45. [Titanium Mesh For PEM Electrolyzer Support Layer Customized Suppliers ...](https://www.toptitech.com/microporous-filter-components/titanium-mesh-for-pem-electrolyzer-support.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, kullanıcı gereksinimlerinde belirtilen membran elektrot takımı (MEA) ve akış plakaları dahil olmak üzere bir yakıt hücresi yığınının temel teknik bileşenlerini ve montaj yapısını net bir şekilde göstermektedir.
@@ -55,7 +506,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 5. [Find a Reliable PEM Electrolyzer OEM Supplier | 2025 Guide](https://heletitaniumhydrogen.com/pem-electrolyzer-oem-supplier-guide/)
+### 46. [Find a Reliable PEM Electrolyzer OEM Supplier | 2025 Guide](https://heletitaniumhydrogen.com/pem-electrolyzer-oem-supplier-guide/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi sisteminin temel çalışma prensibini ve bipolar plaka, membran elektrot takımı gibi bileşenlerin teknik şemasını başarılı bir şekilde göstermektedir.
@@ -66,7 +517,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 6. [Energies | Free Full-Text | Optimal Parameter Identification of a PEM ...](https://www.mdpi.com/1996-1073/16/14/5246/xml)
+### 47. [Energies | Free Full-Text | Optimal Parameter Identification of a PEM ...](https://www.mdpi.com/1996-1073/16/14/5246/xml)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 ticari bir yakıt hücresi sistemi evrimini gösterirken, görsel 2 bu sistemlerin temel çalışma prensibini açıklayan teknik bir şemadır; her ikisi de PEM yakıt hücresi teknolojisi kapsamındadır.
@@ -77,7 +528,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 7. [PEM Electrolyzer: Complete Guide to How It Works, Types & Cost (2026)](https://www.hovogen.com/post/pem-electrolyzer-the-complete-guide)
+### 48. [PEM Electrolyzer: Complete Guide to How It Works, Types & Cost (2026)](https://www.hovogen.com/post/pem-electrolyzer-the-complete-guide)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin endüstriyel tasarım evrimini gösterirken, aday görsel PEM teknolojisinin çalışma prensibini açıklayan teknik bir şema sunmaktadır ve her ikisi de aynı yakıt hücresi ekosistemiyle ilgilidir.
@@ -88,7 +539,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 8. [KR100988915B1 - Fuel cell separator and manufacturing method thereof - Google Patents](https://patents.google.com/patent/KR100988915B1/en)
+### 49. [KR100988915B1 - Fuel cell separator and manufacturing method thereof - Google Patents](https://patents.google.com/patent/KR100988915B1/en)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi yığınına ait bipolar plaka ve membran elektrot takımı bileşenlerini gösteren teknik bir patent çizimi olup, kullanıcı gereksinimlerini doğrudan karşılayan teknik detayları içermektedir.
@@ -99,7 +550,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 9. [Fuel cell gas-liquid separator with adjustable separating efficiency - Eureka | Patsnap](https://eureka.patsnap.com/patent-CN112316569A)
+### 50. [Fuel cell gas-liquid separator with adjustable separating efficiency - Eureka | Patsnap](https://eureka.patsnap.com/patent-CN112316569A)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinde kullanılan gaz-sıvı ayırıcı veya nemlendirici bileşenine ait teknik bir çizim olup, referans dokümandaki PEM yakıt hücresi sistemi mimarisi ile uyumludur.
@@ -110,7 +561,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 10. [Aqueous electrolyte fuel cells patented technology retrieval search results - Eureka | Patsnap](https://eureka.patsnap.com/application-patents-aqueous-electrolyte-fuel-cells)
+### 51. [Aqueous electrolyte fuel cells patented technology retrieval search results - Eureka | Patsnap](https://eureka.patsnap.com/application-patents-aqueous-electrolyte-fuel-cells)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerini ve çalışma prensiplerini detaylandıran teknik dokümantasyon ve parça tasarımı çizimleridir.
@@ -121,7 +572,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 11. [One piece fuel cell separator plate - Eureka | Patsnap](https://eureka.patsnap.com/patent-US6040076A)
+### 52. [One piece fuel cell separator plate - Eureka | Patsnap](https://eureka.patsnap.com/patent-US6040076A)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerine ait olup, referans görsel sistem seviyesinde bir tasarımı temsil ederken, aday görsel bu sistemin temelini oluşturan bipolar plaka akış kanalları ve gaz dağıtım geometrisini içeren teknik bir çizimdir.
@@ -132,7 +583,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 12. [Fuel cell bipolar separator plate and current collector assembly and method of manufacture ...](https://eureka.patsnap.com/patent-US7279016B2)
+### 53. [Fuel cell bipolar separator plate and current collector assembly and method of manufacture ...](https://eureka.patsnap.com/patent-US7279016B2)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü, yakıt hücresi sistemi gereksinimlerinde belirtilen bipolar plaka ve membran elektrot takımı bileşenlerini detaylandıran teknik bir patent çizimidir.
@@ -143,7 +594,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 13. [Fuel Cell Separator Design to Prevent Resin Damage](https://eureka.patsnap.com/blog/triz-case/fuel-cell-separator-resin-damage/)
+### 54. [Fuel Cell Separator Design to Prevent Resin Damage](https://eureka.patsnap.com/blog/triz-case/fuel-cell-separator-resin-damage/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, talep edilen teknik gereksinimlerle tam olarak örtüşen bir yakıt hücresi yığını (stack) montajı ve bipolar plaka akış kanallarına ait teknik detaylı bir patent çizimini göstermektedir.
@@ -154,7 +605,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 14. [Figure 1 from Quantitative contribution of resistance sources of components to stack performance ...](https://www.semanticscholar.org/paper/Quantitative-contribution-of-resistance-sources-of-Jin-Guan/143a468c5313b0ff0d726bc96e7be93420cec1fc/figure/0)
+### 55. [Figure 1 from Quantitative contribution of resistance sources of components to stack performance ...](https://www.semanticscholar.org/paper/Quantitative-contribution-of-resistance-sources-of-Jin-Guan/143a468c5313b0ff0d726bc96e7be93420cec1fc/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerinin tasarım evrimini ve katı oksit yakıt hücresi (SOFC) yığını mekanik yapısını teknik şemalar ile başarıyla tanımlamaktadır.
@@ -165,7 +616,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 15. [Aspen Plus on LinkedIn: Tubular solid oxide fuel cell stack rigorously modelled on aspen plus…](https://www.linkedin.com/posts/aspenpluspk_tubular-solid-oxide-fuel-cell-stack-rigorously-activity-7204185811657863169-d7Pr)
+### 56. [Aspen Plus on LinkedIn: Tubular solid oxide fuel cell stack rigorously modelled on aspen plus…](https://www.linkedin.com/posts/aspenpluspk_tubular-solid-oxide-fuel-cell-stack-rigorously-activity-7204185811657863169-d7Pr)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, Katı Oksit Yakıt Hücresi (SOFC) sistemi için süreç akış şemasını ve teknik bileşenlerini tanımlayan mühendislik tabanlı bir teknik dokümandır.
@@ -176,7 +627,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 16. [(PDF) A new process of forming metallic bipolar plates for PEM fuel cell with pin-type pattern](https://www.academia.edu/11227399/A_new_process_of_forming_metallic_bipolar_plates_for_PEM_fuel_cell_with_pin_type_pattern)
+### 57. [(PDF) A new process of forming metallic bipolar plates for PEM fuel cell with pin-type pattern](https://www.academia.edu/11227399/A_new_process_of_forming_metallic_bipolar_plates_for_PEM_fuel_cell_with_pin_type_pattern)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerini ve bipolar plaka akış kanallarını içeren teknik dokümantasyon gerekliliklerini karşılamaktadır.
@@ -187,7 +638,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 17. [The geometry of the bipolar plate. Electronic category, dwg project details](https://alldwg.com/dwgdetails/83688xallydwgThe_geometry_of_the_bipolar_platexallydwg.html)
+### 58. [The geometry of the bipolar plate. Electronic category, dwg project details](https://alldwg.com/dwgdetails/83688xallydwgThe_geometry_of_the_bipolar_platexallydwg.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sistemi genel yerleşimini gösterirken, görsel 2 bu sistemin temel bileşeni olan bipolar plaka akış kanalının teknik CAD çizimidir ve kullanıcı gereksinimlerini doğrudan karşılamaktadır.
@@ -198,7 +649,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 18. [Fabrication and Performance Evaluation of Six-Cell Two-Dimensional Configuration Solid Oxide ...](https://www.mdpi.com/1996-1073/12/18/3541)
+### 59. [Fabrication and Performance Evaluation of Six-Cell Two-Dimensional Configuration Solid Oxide ...](https://www.mdpi.com/1996-1073/12/18/3541)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin iç çalışma prensibini gösteren teknik bir şematik çizimdir ve kullanıcı gereksinimlerinde belirtilen teknik detaylarla doğrudan örtüşmektedir.
@@ -209,7 +660,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 19. [Thesis Defense Presentation ONE-STEP PROCESS FOR SOLID OXIDE FUEL CELL FABRICATION | PDF](https://www.slideshare.net/slideshow/thesis-defense-presentation-onestep-process-for-solid-oxide-fuel-cell-fabrication/113009872)
+### 60. [Thesis Defense Presentation ONE-STEP PROCESS FOR SOLID OXIDE FUEL CELL FABRICATION | PDF](https://www.slideshare.net/slideshow/thesis-defense-presentation-onestep-process-for-solid-oxide-fuel-cell-fabrication/113009872)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistem teknolojilerinin; birincisi ticari sistem tasarımı ve evrimini, ikincisi ise SOFC yığın konfigürasyonlarının teknik şematik yapısını temsil ederek kullanıcı gereksinimlerini doğrulamaktadır.
@@ -220,7 +671,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 20. [MEA Membrane Electrode Assembly | Fuel Cell Efficiency](https://tmnetch.com/membrane-electrode-assembly-mea-in-fuel-cells/)
+### 61. [MEA Membrane Electrode Assembly | Fuel Cell Efficiency](https://tmnetch.com/membrane-electrode-assembly-mea-in-fuel-cells/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistem teknolojisini temsil etmekte olup, ikinci görsel sistemin temel yapı taşı olan membran elektrot takımı (MEA) ve plaka düzeneğinin teknik şemasını detaylandırmaktadır.
@@ -231,7 +682,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 21. [End Plates](https://www.fuelcellstore.com/end-plates)
+### 62. [End Plates](https://www.fuelcellstore.com/end-plates)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinin temel bileşenleri olan membran elektrot takımı ve bipolar plakaların çalışma prensibini gösteren teknik bir şematiktir ve Görsel 1'deki sistemin iç mekanizmasını tanımlamaktadır.
@@ -242,7 +693,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 22. [Fuel cell stack having an end plate assembly with a tapered spring plate - Eureka | Patsnap](https://eureka.patsnap.com/patent-US10199673B2)
+### 63. [Fuel cell stack having an end plate assembly with a tapered spring plate - Eureka | Patsnap](https://eureka.patsnap.com/patent-US10199673B2)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel görünümünü ve evrimini gösterirken, Görsel 2 bu sistemlerin temelini oluşturan PEM yakıt hücresi yığını ve montaj plakası detaylarını içeren teknik bir patent çizimidir.
@@ -253,7 +704,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 23. [Hydrogen Fuel Cell Stack Exploded View Diagram 3D Illustration Stock Illustration - Illustration ...](https://www.dreamstime.com/hydrogen-fuel-cell-stack-exploded-view-diagram-d-illustration-technical-educational-proton-exchange-membrane-pem-image425398500)
+### 64. [Hydrogen Fuel Cell Stack Exploded View Diagram 3D Illustration Stock Illustration - Illustration ...](https://www.dreamstime.com/hydrogen-fuel-cell-stack-exploded-view-diagram-d-illustration-technical-educational-proton-exchange-membrane-pem-image425398500)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1'deki yakıt hücresi sistemi evriminin bir parçası olan temel bileşen teknolojisi, Görsel 2'de bipolar plaka ve membran elektrot takımı (MEA) yapısını temsil eden teknik bir model ile uyumludur.
@@ -264,7 +715,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 24. [Power Output Optimisation via Arranging Gas Flow Channels for Low-Temperature Polymer ...](https://www.mdpi.com/1996-1073/16/9/3722)
+### 65. [Power Output Optimisation via Arranging Gas Flow Channels for Low-Temperature Polymer ...](https://www.mdpi.com/1996-1073/16/9/3722)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemleri ile ilişkili olup, biri sistem seviyesinde tasarım evrimini gösterirken diğeri PEM yakıt hücresi için gerekli olan bipolar plaka akış kanallarının teknik detaylarını içermektedir.
@@ -275,7 +726,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 25. [Cheap Membrane Electrode Assembly MEA Electrolyzer 9c㎡ 3x3cm Three-S channel - Dekresearch](https://www.dekresearch.com/membrane-electrode-assembly-mea-electrolyzer-9c㎡-3x3cm-three-s-channel-4027.html)
+### 66. [Cheap Membrane Electrode Assembly MEA Electrolyzer 9c㎡ 3x3cm Three-S channel - Dekresearch](https://www.dekresearch.com/membrane-electrode-assembly-mea-electrolyzer-9c㎡-3x3cm-three-s-channel-4027.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü 2, kullanıcı gereksinimlerinde belirtilen PEM yakıt hücresi sistemleri için gerekli olan bipolar plaka akış kanalları ve montaj donanımını fiziksel bir prototip/test düzeneği olarak başarıyla temsil etmektedir.
@@ -286,7 +737,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 26. [Cheap Membrane Electrode Assembly MEA Electrolyzer 1c㎡ 1x1cm channel width 1.5mm - Dekresearch](https://www.dekresearch.com/membrane-electrode-assembly-mea-electrolyzer-1c㎡-1x1cm-channel-width-1.5mm-4021.html)
+### 67. [Cheap Membrane Electrode Assembly MEA Electrolyzer 1c㎡ 1x1cm channel width 1.5mm - Dekresearch](https://www.dekresearch.com/membrane-electrode-assembly-mea-electrolyzer-1c㎡-1x1cm-channel-width-1.5mm-4021.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi sistemlerinde kullanılan tipik bir tek hücreli yığın (stack) donanımını ve montaj plakalarını temsil etmekte olup, kullanıcının belirttiği teknik gereksinimlerle tam uyum sağlamaktadır.
@@ -297,7 +748,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 27. [Hydrogen fuel cell stack assembly on testing bench for green energy storage and zero emission ...](https://stock.adobe.com/images/hydrogen-fuel-cell-stack-assembly-on-testing-bench-for-green-energy-storage-and-zero-emission-vehicle-propulsion/2020277920)
+### 68. [Hydrogen fuel cell stack assembly on testing bench for green energy storage and zero emission ...](https://stock.adobe.com/images/hydrogen-fuel-cell-stack-assembly-on-testing-bench-for-green-energy-storage-and-zero-emission-vehicle-propulsion/2020277920)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi yığınının (stack) fiziksel bir bileşeni olup, kullanıcı gereksinimlerinde belirtilen bipolar plakalar ve montaj donanımları ile doğrudan örtüşen bir sistemdir.
@@ -308,7 +759,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 28. [Membrane Electrode Assemblies MEA Market Unidentified Segments – The Biggest Opportunity Of 2024 ...](https://www.newstrail.com/membrane-electrode-assemblies-mea-market-unidentified-segments-the-biggest-opportunity-of-2024/)
+### 69. [Membrane Electrode Assemblies MEA Market Unidentified Segments – The Biggest Opportunity Of 2024 ...](https://www.newstrail.com/membrane-electrode-assemblies-mea-market-unidentified-segments-the-biggest-opportunity-of-2024/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerini ve montaj yapısını teknik düzeyde belgeleyen, birbirini tamamlayan tasarım ve bileşen çizimleridir.
@@ -319,7 +770,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 29. [What is MEA? Membrane Electrode Assembly Complete Guide](https://www.sciencegears.com.au/blogs/what-is-mea-membrane-electrode-assembly-complete-guide)
+### 70. [What is MEA? Membrane Electrode Assembly Complete Guide](https://www.sciencegears.com.au/blogs/what-is-mea-membrane-electrode-assembly-complete-guide)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller farklı ölçeklerde olsa da, referans görsel sistem seviyesinde bir yakıt hücresi ünitesini, aday görsel ise bu sistemlerin temelini oluşturan membran elektrot takımı ve bipolar plaka yapısını teknik şematik olarak başarıyla tanımlamaktadır.
@@ -330,7 +781,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 30. [Adhesives and Sealants for Hydrogen-Based Fuel Cell Assembly | Adhesives & Sealants Industry](https://www.adhesivesmag.com/articles/100369-adhesives-and-sealants-for-hydrogen-based-fuel-cell-assembly)
+### 71. [Adhesives and Sealants for Hydrogen-Based Fuel Cell Assembly | Adhesives & Sealants Industry](https://www.adhesivesmag.com/articles/100369-adhesives-and-sealants-for-hydrogen-based-fuel-cell-assembly)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bir bileşeni olan PEM yığın yapısını (bipolar plaka, membran elektrot takımı, uç plakalar) gösteren detaylı bir teknik şemadır ve kullanıcı gereksinimindeki donanım tanımlarıyla doğrudan örtüşmektedir.
@@ -341,7 +792,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 31. [Fuel Cell Gaskets, Spacers, and End Plates](https://www.fuelcellstore.com/blog-section/component-information/hardware-information/fuel-cell-gaskets-spacers-and-end-plates)
+### 72. [Fuel Cell Gaskets, Spacers, and End Plates](https://www.fuelcellstore.com/blog-section/component-information/hardware-information/fuel-cell-gaskets-spacers-and-end-plates)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller, yakıt hücresi sisteminin hem sistem düzeyinde genel yerleşimini (Image 1) hem de temel bileşenleri olan membran elektrot takımı ve bipolar plaka konfigürasyonunu (Image 2) teknik olarak doğrulamaktadır.
@@ -352,7 +803,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 32. [Solid oxide fuel cell - Eureka | Patsnap](https://eureka.patsnap.com/patent-US20130202982A1)
+### 73. [Solid oxide fuel cell - Eureka | Patsnap](https://eureka.patsnap.com/patent-US20130202982A1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerini ve yığın mimarisini temsil etmektedir; ikinci görsel, yakıt hücresi yığınının patlatılmış görünüm (exploded view) teknik çizimini sağlayarak sistemin iç yapısını doğrulamaktadır.
@@ -363,7 +814,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 33. [Solid oxide fuel cell stack - Eureka | Patsnap](https://eureka.patsnap.com/patent-CN102122722A)
+### 74. [Solid oxide fuel cell stack - Eureka | Patsnap](https://eureka.patsnap.com/patent-CN102122722A)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin genel yapısını gösterirken, aday görsel bu sistemin temelini oluşturan PEM yakıt hücresi yığını (stack) ve montaj sıkıştırma plakalarının teknik çizimini yansıtmaktadır.
@@ -374,7 +825,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 34. [Numerical Study on the Formability of Metallic Bipolar Plates for Proton Exchange Membrane (PEM ...](https://www.mdpi.com/2075-4701/9/7/810)
+### 75. [Numerical Study on the Formability of Metallic Bipolar Plates for Proton Exchange Membrane (PEM ...](https://www.mdpi.com/2075-4701/9/7/810)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinin temelini oluşturan bipolar plaka akış kanalı tasarımlarını gösteren teknik şemalardır ve kullanıcı gereksinimlerindeki teknik çizim ihtiyacı ile doğrudan örtüşmektedir.
@@ -385,7 +836,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 35. [Design of Flow Fields for High-Temperature PEM Fuel Cells Using Computational Fluid Dynamics](https://www.mdpi.com/1996-1073/17/19/4898)
+### 76. [Design of Flow Fields for High-Temperature PEM Fuel Cells Using Computational Fluid Dynamics](https://www.mdpi.com/1996-1073/17/19/4898)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller, yakıt hücresi sistemlerinin hem sistem seviyesi tasarımını (GenCore) hem de bipolar plaka içindeki akış kanallarının CFD simülasyonu yoluyla teknik analizini içerdiğinden kullanıcı gereksinimleri ile uyumludur.
@@ -396,7 +847,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 36. [Figure 8 from Design and Analysis of Bipolar Plate for 500w Pem Fuel Cell Stack | Semantic Scholar](https://www.semanticscholar.org/paper/Design-and-Analysis-of-Bipolar-Plate-for-500w-Pem-Kalaiyarasan-Srinivasan/74d8c2aad77f72794c8524cca20b5ede48d6a958/figure/7)
+### 77. [Figure 8 from Design and Analysis of Bipolar Plate for 500w Pem Fuel Cell Stack | Semantic Scholar](https://www.semanticscholar.org/paper/Design-and-Analysis-of-Bipolar-Plate-for-500w-Pem-Kalaiyarasan-Srinivasan/74d8c2aad77f72794c8524cca20b5ede48d6a958/figure/7)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 ticari bir yakıt hücresi sistemi entegrasyonunu gösterirken, görsel 2 bu sistemlerin temelini oluşturan PEM yakıt hücresi yığınının teknik şemasını ve bileşen detaylarını teknik bir çizim olarak sunmaktadır.
@@ -407,7 +858,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 37. [Customizable PEM Hydrogen Fuel Cell Membrane Electrode Assemblies (MEA & CCM) for Electric Power ...](https://www.alibaba.com/product-detail/Customization-Hydrogen-Fuel-Cell-Membrane-Electrode_1601068504957.html)
+### 78. [Customizable PEM Hydrogen Fuel Cell Membrane Electrode Assemblies (MEA & CCM) for Electric Power ...](https://www.alibaba.com/product-detail/Customization-Hydrogen-Fuel-Cell-Membrane-Electrode_1601068504957.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemleri için gerekli olan PEM yığını, bipolar plakalar ve gaz difüzyon elektrotları gibi kritik bileşenlerin teknik donanımını doğrudan temsil etmektedir.
@@ -418,7 +869,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 38. [Energies | Free Full-Text | Leakage Analysis of PEMFC Sealing System Considering Temperature Cycling](https://www.mdpi.com/1996-1073/16/14/5475)
+### 79. [Energies | Free Full-Text | Leakage Analysis of PEMFC Sealing System Considering Temperature Cycling](https://www.mdpi.com/1996-1073/16/14/5475)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerini (bipolar plakalar, PEM ve membran elektrot montajı) teknik detay seviyesinde temsil etmektedir.
@@ -429,7 +880,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 39. [Recent Progress in Materials Design and Fabrication Techniques for Membrane Electrode Assembly ...](https://www.mdpi.com/2073-4344/15/1/74)
+### 80. [Recent Progress in Materials Design and Fabrication Techniques for Membrane Electrode Assembly ...](https://www.mdpi.com/2073-4344/15/1/74)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemleri ve bunların temel bileşenleri (bipolar plakalar, MEA, uç plakalar) ile ilgili teknik dokümantasyon ve tasarım şemalarını temsil etmektedir.
@@ -440,7 +891,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 40. [Frontiers | Progress and outlook of solid oxide fuel cell technology for stationary power ...](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2025.1650696/full)
+### 81. [Frontiers | Progress and outlook of solid oxide fuel cell technology for stationary power ...](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2025.1650696/full)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, katı oksit yakıt hücresi (SOFC) sisteminin akış şemasını ve termal yönetim döngüsünü gösteren teknik bir şemadır.
@@ -451,7 +902,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 41. [Development of Simulation Methods for Solid Oxide Fuel Cell Stacks Considering Thermal ...](https://iopscience.iop.org/article/10.1149/MA2025-031225mtgabs)
+### 82. [Development of Simulation Methods for Solid Oxide Fuel Cell Stacks Considering Thermal ...](https://iopscience.iop.org/article/10.1149/MA2025-031225mtgabs)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sistemleri ve stack bileşenlerine ait detaylı CAD şemaları ve teknik analiz çizimlerini göstermektedir.
@@ -462,7 +913,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 42. [Figure 4 from Design and Comparison Analysis of Various Flow Configurations in Bipolar Plates ...](https://www.semanticscholar.org/paper/Design-and-Comparison-Analysis-of-Various-Flow-in-Azzam-Qaq/3923a161f804fecf3311ed371d27c8c03f7e47f5/figure/5)
+### 83. [Figure 4 from Design and Comparison Analysis of Various Flow Configurations in Bipolar Plates ...](https://www.semanticscholar.org/paper/Design-and-Comparison-Analysis-of-Various-Flow-in-Azzam-Qaq/3923a161f804fecf3311ed371d27c8c03f7e47f5/figure/5)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, yakıt hücresi bileşenleri için gerekli olan bipolar plaka akış kanallarının CFD (Hesaplamalı Akışkanlar Dinamiği) analizini ve tasarım optimizasyonunu teknik düzeyde göstermektedir.
@@ -473,7 +924,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 43. [A Competitive Design and Material Consideration for Fabrication of Polymer Electrolyte Membrane ...](https://www.mdpi.com/2411-9660/3/1/13)
+### 84. [A Competitive Design and Material Consideration for Fabrication of Polymer Electrolyte Membrane ...](https://www.mdpi.com/2411-9660/3/1/13)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemi için belirtilen teknik gereksinimlerle tam uyumlu olan bipolar plaka ve akış kanalı yapısını gösteren bir teknik çizim/CAD modelidir.
@@ -484,7 +935,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 44. [Design and modelling of metallic bipolar plates for a fuel cell range extender](https://www.fz-juelich.de/en/iet/iet-4/current/news/design-and-modelling-of-metallic-bipolar-plates-for-a-fuel-cell-range-extender)
+### 85. [Design and modelling of metallic bipolar plates for a fuel cell range extender](https://www.fz-juelich.de/en/iet/iet-4/current/news/design-and-modelling-of-metallic-bipolar-plates-for-a-fuel-cell-range-extender)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin tasarım, modelleme ve teknik mimarisiyle (bipolar plakalar, akış kanalları ve sistem entegrasyonu) doğrudan ilgili profesyonel dokümanlardır.
@@ -495,7 +946,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 45. [Disclosure of the patent for measuring the stack deformation in the SOFC/SOEC joining process ...](https://www.sivonic.com/en/company/news/article/disclosure-of-the-patent-for-measuring-the-stack-deformation-in-the-sofc-soec-joining-process/)
+### 86. [Disclosure of the patent for measuring the stack deformation in the SOFC/SOEC joining process ...](https://www.sivonic.com/en/company/news/article/disclosure-of-the-patent-for-measuring-the-stack-deformation-in-the-sofc-soec-joining-process/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sistemi evrimini gösterirken, aday görsel bu tür sistemlerin temelini oluşturan yakıt hücresi yığını (stack) montajı ve hücre katmanlarını gösteren teknik bir şemadır.
@@ -506,7 +957,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 46. [Assembly comprising a soec/sofc-type solid oxide stack, a clamping system, and a heat exchange ...](https://eureka.patsnap.com/patent-US20200403261A1)
+### 87. [Assembly comprising a soec/sofc-type solid oxide stack, a clamping system, and a heat exchange ...](https://eureka.patsnap.com/patent-US20200403261A1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel evrimini ve uygulama düzeyini gösterirken, Görsel 2 bu sistemlerin temelini oluşturan katı oksit yakıt hücresi (SOFC) birim hücresinin ve akış kanallarının teknik şemasını detaylandırmaktadır.
@@ -517,7 +968,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 47. [Hydrogen Power Generation Unit Exploded Technical Art Stock Illustration - Illustration of layer ...](https://www.dreamstime.com/d-technical-illustration-hydrogen-fuel-cell-stack-exploded-view-educational-diagram-proton-exchange-membrane-pem-image425398503)
+### 88. [Hydrogen Power Generation Unit Exploded Technical Art Stock Illustration - Illustration of layer ...](https://www.dreamstime.com/d-technical-illustration-hydrogen-fuel-cell-stack-exploded-view-educational-diagram-proton-exchange-membrane-pem-image425398503)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, bir yakıt hücresi sisteminin temelini oluşturan bipolar plaka ve membran elektrot takımı (MEA) yığınının detaylı teknik modelini temsil etmektedir.
@@ -528,7 +979,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 48. [Figure 1 from Design and Investigation of Honeycomb End Plates for PEM Fuel Cells | Semantic Scholar](https://www.semanticscholar.org/paper/Design-and-Investigation-of-Honeycomb-End-Plates-Habibnia-Tamami/0648b836f945b1360a7db1a340f60af1693e7fb1/figure/0)
+### 89. [Figure 1 from Design and Investigation of Honeycomb End Plates for PEM Fuel Cells | Semantic Scholar](https://www.semanticscholar.org/paper/Design-and-Investigation-of-Honeycomb-End-Plates-Habibnia-Tamami/0648b836f945b1360a7db1a340f60af1693e7fb1/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, talep edilen teknik gereksinimlerle tam uyumlu olarak bir PEM yakıt hücresi yığınının temel bileşenlerini (bipolar plaka, GDL, MEA ve uç plakalar) detaylandıran teknik bir şemadır.
@@ -539,7 +990,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 49. [Fuel cell stack - Eureka | Patsnap](https://eureka.patsnap.com/patent-US20080305368A1)
+### 90. [Fuel cell stack - Eureka | Patsnap](https://eureka.patsnap.com/patent-US20080305368A1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temelini oluşturan PEM yakıt hücresi yığınının (stack) teknik çizimini ve akış kanallarını detaylandırdığı için kullanıcı gereksinimleri ile teknik olarak uyumludur.
@@ -550,7 +1001,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 50. [Manifold Design in a PEM Fuel Cell Stack to Improve Flow Distribution Uniformity](https://www.mdpi.com/2071-1050/14/23/15702)
+### 91. [Manifold Design in a PEM Fuel Cell Stack to Improve Flow Distribution Uniformity](https://www.mdpi.com/2071-1050/14/23/15702)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü 2, bir yakıt hücresi sisteminin temel bileşeni olan bipolar plaka akış kanalının teknik bir simülasyonunu ve CAD modelleme verilerini göstermektedir, bu da kullanıcı gereksinimlerinde belirtilen teknik tasarım standartlarıyla örtüşmektedir.
@@ -561,7 +1012,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 51. [Design of the fuel cell stack](https://www.academia.edu/figures/42008561/figure-9-design-of-the-fuel-cell-stack)
+### 92. [Design of the fuel cell stack](https://www.academia.edu/figures/42008561/figure-9-design-of-the-fuel-cell-stack)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü 2, referans sistemin temelini oluşturan PEM yakıt hücresi yığınına ait detaylı bir patlatılmış görünüm teknik çizimidir ve kullanıcı gereksinimlerini tam olarak karşılamaktadır.
@@ -572,7 +1023,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 52. [Preventing Resin Manifold Cracking in Fuel Cell Stacks](https://eureka.patsnap.com/blog/triz-case/resin-manifold-cracking-solution/)
+### 93. [Preventing Resin Manifold Cracking in Fuel Cell Stacks](https://eureka.patsnap.com/blog/triz-case/resin-manifold-cracking-solution/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin endüstriyel tasarım ve teknik dokümantasyon aşamalarını temsil etmekte olup, ikinci görsel sistemin montaj ve yapısal bileşenlerini detaylandıran bir mühendislik çizimidir.
@@ -583,7 +1034,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 53. [MEA (Membrane Electrode Assemblies) encapsulated sealing structure as well as manufacturing ...](https://eureka.patsnap.com/patent-CN107742735A)
+### 94. [MEA (Membrane Electrode Assemblies) encapsulated sealing structure as well as manufacturing ...](https://eureka.patsnap.com/patent-CN107742735A)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 75` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerine ve bunların teknik tasarım/yapi özelliklerine odaklanmaktadır; ilki sistem seviyesindeki evrimi gösterirken, ikincisi bipolar plaka ve membran elektrot takımı (MEA) seviyesinde detaylı bir kesit teknik çizim sunmaktadır.
@@ -594,7 +1045,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 54. [Investigating effects of different frame sealing structures on durability of membrane electrode ...](https://techxplore.com/news/2024-08-effects-durability-membrane-electrode.html)
+### 95. [Investigating effects of different frame sealing structures on durability of membrane electrode ...](https://techxplore.com/news/2024-08-effects-durability-membrane-electrode.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, PEM yakıt hücresi sistemine ait bipolar plakaları (BPP), membran elektrot takımını (MEA) ve akış kanallarını ayrıntılı olarak gösteren teknik bir CAD kesit çizimidir.
@@ -605,7 +1056,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 55. [Membrane Electrode Assembly MEA Electrolyzer 4c㎡ 2x2cm channel width 1.5mm - Dekresearch](https://www.dekresearch.com/membrane-electrode-assembly-mea-electrolyzer-4c㎡-2x2cm-channel-width-1.5mm-4023.html)
+### 96. [Membrane Electrode Assembly MEA Electrolyzer 4c㎡ 2x2cm channel width 1.5mm - Dekresearch](https://www.dekresearch.com/membrane-electrode-assembly-mea-electrolyzer-4c㎡-2x2cm-channel-width-1.5mm-4023.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel konfigürasyonunu gösterirken, Görsel 2 bu sistemin temel bileşenlerinden biri olan membran elektrot takımı (MEA) ve bipolar plaka yapısının detaylı teknik şemasını içermektedir.
@@ -616,7 +1067,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 56. [Graphite Bipolar Plates | Hongfeng Carbon Solutions](https://www.hongfengcarbon.com/industry/fuel-cell-flow-battery)
+### 97. [Graphite Bipolar Plates | Hongfeng Carbon Solutions](https://www.hongfengcarbon.com/industry/fuel-cell-flow-battery)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sistemi genel tasarımını gösterirken, aday görsel bu tür sistemlerin temel bileşeni olan bipolar plaka üzerindeki akış kanallarını ve yüzey dokusunu detaylı bir şekilde göstermektedir.
@@ -627,7 +1078,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 57. [Connection of Bipolar Plate with Graphite Felt Electrode for Vanadium Flow Battery Using a ...](https://iopscience.iop.org/article/10.1149/1945-7111/ac96a7)
+### 98. [Connection of Bipolar Plate with Graphite Felt Electrode for Vanadium Flow Battery Using a ...](https://iopscience.iop.org/article/10.1149/1945-7111/ac96a7)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sistemlerinde kullanılan bipolar plakalar ve elektrot montaj süreçlerini gösteren teknik bir şema içermektedir.
@@ -638,7 +1089,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 58. [Graphite Bipolar Plates | Fuel Cell Stacks | Hydrogen | Electric Vehicles | Schunk Carbon ...](https://www.youtube.com/watch?v=eXyqTEj3lYs)
+### 99. [Graphite Bipolar Plates | Fuel Cell Stacks | Hydrogen | Electric Vehicles | Schunk Carbon ...](https://www.youtube.com/watch?v=eXyqTEj3lYs)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 75` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sistem tasarım evrimini gösterirken, görsel 2 bu sistemlerin temel bileşeni olan grafit bipolar plakaları teknik olarak detaylandırmaktadır; her ikisi de yakıt hücresi yığını teknolojisi ile doğrudan ilişkilidir.
@@ -649,7 +1100,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 59. [Functional Test - PEM FUEL CELL STACK ASSEMBLY MODULE EMPTYING & FILLING TESTING - products ...](https://www.marposs.com/eng/product/pem-fuel-cell-stack-assembly-module-emptying-and-filling-test)
+### 100. [Functional Test - PEM FUEL CELL STACK ASSEMBLY MODULE EMPTYING & FILLING TESTING - products ...](https://www.marposs.com/eng/product/pem-fuel-cell-stack-assembly-module-emptying-and-filling-test)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller, yakıt hücresi sistemlerinin endüstriyel tasarımı, gaz yönetimi ve mekanik montaj bileşenlerini içeren teknik bir yapılandırmayı ve evrimsel tasarım şemasını yansıtmaktadır.
@@ -660,7 +1111,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 60. [1-Cell Rebuildable PEM Fuel Cell Kit](https://www.fuelcellstore.com/1-cell-rebuildable-pem-fuel-cell-kit-f107)
+### 101. [1-Cell Rebuildable PEM Fuel Cell Kit](https://www.fuelcellstore.com/1-cell-rebuildable-pem-fuel-cell-kit-f107)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de bir yakıt hücresi sisteminin farklı ölçeklerini (biri sistem seviyesinde entegrasyonu, diğeri ise bileşen seviyesinde stack yapısını) temsil eden teknik dokümantasyonlardır.
@@ -671,7 +1122,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 61. [The structure of fuel cell stack in Bipolar plates](https://tmnetch.com/the-design-of-fuel-cell-stack-in-bipolar-plates/)
+### 102. [The structure of fuel cell stack in Bipolar plates](https://tmnetch.com/the-design-of-fuel-cell-stack-in-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sistemi genel tasarım evrimini gösterirken, Görsel 2 bu sistemlerin temel bileşeni olan bipolar plakayı göstermektedir; her iki görsel de aynı yakıt hücresi teknolojisi ekosistemine aittir.
@@ -682,7 +1133,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 62. [Fuel Cell EVs Hit the Road | ASSEMBLY](https://www.assemblymag.com/articles/97329-fuel-cell-evs-hit-the-road)
+### 103. [Fuel Cell EVs Hit the Road | ASSEMBLY](https://www.assemblymag.com/articles/97329-fuel-cell-evs-hit-the-road)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemlerinde kullanılan bipolar plaka ve membran elektrot takımı (MEA) bileşenlerinin fiziksel detaylarını gösteren teknik bir uygulama olup, sistemin temel donanım gereksinimleriyle doğrudan örtüşmektedir.
@@ -693,7 +1144,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 63. [Efficient Fuel Cell Stack Design: Principles & Integration](https://tmnetch.com/efficient-fuel-cell-stack-design-principles-and-integration/)
+### 104. [Efficient Fuel Cell Stack Design: Principles & Integration](https://tmnetch.com/efficient-fuel-cell-stack-design-principles-and-integration/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistem teknolojisini temsil etmektedir; ilk görsel ticari bir sistemin gelişimini gösterirken, ikinci görsel bu sistemlerin temelini oluşturan PEM yakıt hücresi stack bileşenlerinin teknik şemasını detaylandırmaktadır.
@@ -704,7 +1155,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 64. [Design of Experiment (DOE) Analysis of 5-Cell Stack Fuel Cell Using Three Bipolar Plate Geometry ...](https://www.mdpi.com/2071-1050/12/11/4488)
+### 105. [Design of Experiment (DOE) Analysis of 5-Cell Stack Fuel Cell Using Three Bipolar Plate Geometry ...](https://www.mdpi.com/2071-1050/12/11/4488)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerini temsil etmekte olup, ikinci görsel PEM yakıt hücresi yığını, bipolar plakalar ve montaj bileşenlerini içeren teknik bir patlatılmış montaj çizimini göstermektedir.
@@ -715,7 +1166,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 65. [Figure 1 from Numerical Modeling of an Innovative Bipolar Plate Design ...](https://www.semanticscholar.org/paper/Numerical-Modeling-of-an-Innovative-Bipolar-Plate-Arbabi-Roshandel/b288a86002b737d1530046477c0f039390244a02/figure/0)
+### 106. [Figure 1 from Numerical Modeling of an Innovative Bipolar Plate Design ...](https://www.semanticscholar.org/paper/Numerical-Modeling-of-an-Innovative-Bipolar-Plate-Arbabi-Roshandel/b288a86002b737d1530046477c0f039390244a02/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sistemlerinin önemli bir bileşeni olan akış alanı geometrilerini gösteren teknik çizimler içermektedir.
@@ -726,7 +1177,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 66. [Effect of Terminal Design and Bipolar Plate Material on PEM Fuel Cell ...](https://www.scirp.org/html/6-6401220_28123.htm)
+### 107. [Effect of Terminal Design and Bipolar Plate Material on PEM Fuel Cell ...](https://www.scirp.org/html/6-6401220_28123.htm)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin farklı bileşenlerini ve tasarım evrimini göstermektedir.
@@ -737,7 +1188,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 67. [Toyota Hydrogen Fuel Cell Diagram](https://ar.inspiredpencil.com/pictures-2023/toyota-hydrogen-fuel-cell-diagram)
+### 108. [Toyota Hydrogen Fuel Cell Diagram](https://ar.inspiredpencil.com/pictures-2023/toyota-hydrogen-fuel-cell-diagram)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de bir yakıt hücresi sisteminin temel bileşenlerini ve çalışma prensibini gösteren teknik diyagramlardır; ancak tasarım mimarileri farklı endüstriyel uygulamalara aittir.
@@ -748,7 +1199,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 68. [China R&D Prototype Development SOLUTIONS For Hydrogen Fuel Cell ...](https://www.hfsinopower.com/hydrogen-fuel-cell-producs-solution)
+### 109. [China R&D Prototype Development SOLUTIONS For Hydrogen Fuel Cell ...](https://www.hfsinopower.com/hydrogen-fuel-cell-producs-solution)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de bir yakıt hücresi sisteminin yapısal bileşenlerini ve teknik tasarım evrimini açıklayan teknik diyagramlardır.
@@ -759,7 +1210,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 69. [OEM/ODM Hydrogen Fuel Cell Generator manufacturer, Hydrogen Fuel Cell ...](https://www.hfsinopower.com/hydrogen-fuel-cell-generator)
+### 110. [OEM/ODM Hydrogen Fuel Cell Generator manufacturer, Hydrogen Fuel Cell ...](https://www.hfsinopower.com/hydrogen-fuel-cell-generator)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de hidrojen yakıt hücresi sisteminin mimarisini ve bileşenlerini teknik düzeyde açıklayan şematik ve yapısal dokümanlardır.
@@ -770,7 +1221,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 70. [Hydrogen Fuel Cell Cars Diagram](https://ar.inspiredpencil.com/pictures-2023/hydrogen-fuel-cell-cars-diagram)
+### 111. [Hydrogen Fuel Cell Cars Diagram](https://ar.inspiredpencil.com/pictures-2023/hydrogen-fuel-cell-cars-diagram)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de bir yakıt hücresi sisteminin yapısal bileşenlerini ve teknik tasarım evrimini detaylandıran teknik dokümantasyon niteliğindedir.
@@ -781,7 +1232,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 71. [Review of Flow Field Designs for Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/16/10/4207)
+### 112. [Review of Flow Field Designs for Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/16/10/4207)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin teknik tasarım ve akış şemalarını içeren dokümantasyonel içeriklerdir.
@@ -792,7 +1243,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 72. [Comparative Studies of Three-Dimensional Complex Flow Field Designs in ...](https://www.mdpi.com/1996-1073/18/9/2165)
+### 113. [Comparative Studies of Three-Dimensional Complex Flow Field Designs in ...](https://www.mdpi.com/1996-1073/18/9/2165)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görseldeki yakıt hücresi sisteminin temel çalışma prensibini ve mikroyapısal bileşenlerini gösteren teknik bir diyagramdır.
@@ -803,7 +1254,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 73. [Performance and Limitations of 3D-Printed Bipolar Plates in Fuel Cells ...](https://iopscience.iop.org/article/10.1149/2.0091504jss)
+### 114. [Performance and Limitations of 3D-Printed Bipolar Plates in Fuel Cells ...](https://iopscience.iop.org/article/10.1149/2.0091504jss)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin evrimini gösterirken, aday görsel bu sistemin temel bileşeni olan yakıt hücresi yığınının teknik bir şemasını ve çalışma prensibini sunmaktadır.
@@ -814,7 +1265,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 74. [Proton Exchange Membrane Fuel Cell, PEMFC, Stack Fuel Cell System](https://www.mr-cfd.com/shop/proton-exchange-membrane-fuel-cell-pemfc/)
+### 115. [Proton Exchange Membrane Fuel Cell, PEMFC, Stack Fuel Cell System](https://www.mr-cfd.com/shop/proton-exchange-membrane-fuel-cell-pemfc/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin teknik analizini ve bileşen yapısını ele alan mühendislik dokümantasyonlarıdır.
@@ -825,7 +1276,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 75. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/ko/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
+### 116. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/ko/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller, GenCore yakıt hücresi sisteminin genel yapısı ile bu sistemin temelini oluşturan PEMFC yığınının teknik detaylarını ve bileşenlerini temsil etmektedir.
@@ -836,7 +1287,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 76. [New Patent Innovation Brings Enhanced Reliability to Hydrogen Fuel ...](https://energynews.biz/new-patent-innovation-brings-enhanced-reliability-to-hydrogen-fuel-cells-for-vehicles/)
+### 117. [New Patent Innovation Brings Enhanced Reliability to Hydrogen Fuel ...](https://energynews.biz/new-patent-innovation-brings-enhanced-reliability-to-hydrogen-fuel-cells-for-vehicles/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de endüstriyel tip yakıt hücresi sistemi bileşenlerinin teknik yapısını ve tasarım evrimini gösteren mühendislik dokümantasyonudur.
@@ -847,7 +1298,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 77. [Figure 2 from 3D-printed fuel-cell bipolar plates for evaluating flow ...](https://www.semanticscholar.org/paper/3D-printed-fuel-cell-bipolar-plates-for-evaluating-Piri-Bi/70a5c7eb05727f22633c695e5bb5c6d41e09e2b6/figure/2)
+### 118. [Figure 2 from 3D-printed fuel-cell bipolar plates for evaluating flow ...](https://www.semanticscholar.org/paper/3D-printed-fuel-cell-bipolar-plates-for-evaluating-Piri-Bi/70a5c7eb05727f22633c695e5bb5c6d41e09e2b6/figure/2)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin genel tasarım evrimini gösterirken, aday görsel bu sistemin temelini oluşturan anot plakası ve hücre katmanlarının teknik montaj detaylarını sergilemektedir.
@@ -858,7 +1309,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 78. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.it/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
+### 119. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.it/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel paket tasarımını gösterirken, Görsel 2 bu sistemin içinde yer alan temel bileşenlerden biri olan katot akış alanı ve membran yapısını detaylandıran teknik bir şemadır.
@@ -869,7 +1320,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 79. [Generative Design Puts Hydrogen Fuel Cell Development In High Gear ...](https://fuelcellsworks.com/news/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear/)
+### 120. [Generative Design Puts Hydrogen Fuel Cell Development In High Gear ...](https://fuelcellsworks.com/news/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bileşeni olan hidrojen gaz dağıtım plakası veya bipolar plakayı temsil eden teknik bir mekanik parçadır.
@@ -880,7 +1331,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 80. [Fuel Cells Jolt Plastics Innovation | Plastics Technology](https://www.ptonline.com/articles/fuel-cells-jolt-plastics-innovation)
+### 121. [Fuel Cells Jolt Plastics Innovation | Plastics Technology](https://www.ptonline.com/articles/fuel-cells-jolt-plastics-innovation)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin evrimini gösterirken, aday görsel bu sistemin temelini oluşturan yakıt hücresi yığınının teknik bir şemasını sunmaktadır.
@@ -891,7 +1342,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 81. [Ultra-Thin Stainless Steel Bipolar Plate for PEM Fuel Cells | Materials ...](https://www.huaxiao-ss.com/blogs-news/industry-news/stainless-steel-bipolar-plate-pem-fuel-cell.html)
+### 122. [Ultra-Thin Stainless Steel Bipolar Plate for PEM Fuel Cells | Materials ...](https://www.huaxiao-ss.com/blogs-news/industry-news/stainless-steel-bipolar-plate-pem-fuel-cell.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Referans görsel yakıt hücresi sisteminin genel yapısını gösterirken, aday görsel bu sistemlerin temel bileşeni olan bipolar plakayı teknik bir detay olarak temsil etmektedir.
@@ -902,7 +1353,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 82. [Figure 1 from 3D-printed fuel-cell bipolar plates for evaluating flow ...](https://www.semanticscholar.org/paper/3D-printed-fuel-cell-bipolar-plates-for-evaluating-Piri-Bi/70a5c7eb05727f22633c695e5bb5c6d41e09e2b6/figure/0)
+### 123. [Figure 1 from 3D-printed fuel-cell bipolar plates for evaluating flow ...](https://www.semanticscholar.org/paper/3D-printed-fuel-cell-bipolar-plates-for-evaluating-Piri-Bi/70a5c7eb05727f22633c695e5bb5c6d41e09e2b6/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerinin tasarım evrimini ve teknik geliştirmelerini (bipolar plakalar ve sistem mimarisi) belgelemektedir.
@@ -913,7 +1364,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 83. [Figure 1 from Flow Field Design for Scaled-Up Proton Exchange Membrane ...](https://www.semanticscholar.org/paper/Flow-Field-Design-for-Scaled-Up-Proton-Exchange-YogeshaS-Ghosh/1154bf46aa1bdb620a5f46548b36838c969b6cb5/figure/0)
+### 124. [Figure 1 from Flow Field Design for Scaled-Up Proton Exchange Membrane ...](https://www.semanticscholar.org/paper/Flow-Field-Design-for-Scaled-Up-Proton-Exchange-YogeshaS-Ghosh/1154bf46aa1bdb620a5f46548b36838c969b6cb5/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de bir yakıt hücresi sisteminin farklı seviyelerini (biri sistem bütünleşik tasarımı, diğeri ise hücre düzeyindeki teknik şemayı) temsil etmektedir.
@@ -924,7 +1375,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 84. [How To Prepare Proton Exchange Membrane at Taj Wheatley blog](https://storage.googleapis.com/dwbtmwpvfobfue/how-to-prepare-proton-exchange-membrane.html)
+### 125. [How To Prepare Proton Exchange Membrane at Taj Wheatley blog](https://storage.googleapis.com/dwbtmwpvfobfue/how-to-prepare-proton-exchange-membrane.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de hidrojen yakıt hücresi sistemlerinin çalışma prensiplerini ve bileşenlerini teknik düzeyde açıklayan şematik anlatımlardır.
@@ -935,7 +1386,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 85. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/it/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
+### 126. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/it/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de GenCore yakıt hücresi sisteminin temel bileşenlerini ve çalışma prensibini teknik düzeyde açıklamaktadır.
@@ -946,7 +1397,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 86. [Research on Design and Optimization of Large Metal Bipolar Plate ...](https://www.mdpi.com/2071-1050/15/15/12002)
+### 127. [Research on Design and Optimization of Large Metal Bipolar Plate ...](https://www.mdpi.com/2071-1050/15/15/12002)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel tasarımını gösterirken, Görsel 2 bu sistemin içerisinde kullanılan bir yakıt hücresi yığını (stack) bileşeni olan conta ve membran düzeneğini detaylandırmaktadır.
@@ -957,7 +1408,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 87. [Fuel cell stack compression systems, and fuel cell stacks and fuel cell ...](https://eureka.patsnap.com/patent-US20060093890A1)
+### 128. [Fuel cell stack compression systems, and fuel cell stacks and fuel cell ...](https://eureka.patsnap.com/patent-US20060093890A1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sistemi genel tasarımını gösterirken, aday görsel bu sistemin içindeki kritik bir bileşen olan yakıt hücresi yığınının (stack) teknik çizimidir.
@@ -968,7 +1419,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 88. [Large Series Production Of Metallic Bipolar Plates For Fuel Cell – JENNKR](https://vibe.fotokaltner.de/large-series-production-of-metallic-bipolar-plates-for-fuel-cell/)
+### 129. [Large Series Production Of Metallic Bipolar Plates For Fuel Cell – JENNKR](https://vibe.fotokaltner.de/large-series-production-of-metallic-bipolar-plates-for-fuel-cell/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2'deki bipolar plakalar, yakıt hücresi sisteminin temel bir bileşeni olup, referans görselindeki yakıt hücresi yığını (stack cells) ile doğrudan ilişkilidir.
@@ -979,7 +1430,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 89. [Fuel-cell end plate - Eureka | Patsnap](https://eureka.patsnap.com/patent-US20210305616A1)
+### 130. [Fuel-cell end plate - Eureka | Patsnap](https://eureka.patsnap.com/patent-US20210305616A1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü 2, bir yakıt hücresi sisteminin temelini oluşturan yakıt hücresi yığınına (stack) ait teknik bir patent çizimidir.
@@ -990,7 +1441,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 90. [Proton Exchange Membrane Fuel Cell Stack Guide](https://www.pureguard.net/proton-exchange-membrane-fuel-cell-9/)
+### 131. [Proton Exchange Membrane Fuel Cell Stack Guide](https://www.pureguard.net/proton-exchange-membrane-fuel-cell-9/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de GenCore yakıt hücresi sisteminin çalışma prensibine ve PEM (Proton Değişim Membranı) teknolojisine dayalı teknik bileşenlerini temsil etmektedir.
@@ -1001,7 +1452,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 91. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6)
+### 132. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -1012,7 +1463,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 92. [A Review on the Long-Term Performance of Proton Exchange Membrane Fuel ...](https://www.mdpi.com/1996-1073/15/14/5081)
+### 133. [A Review on the Long-Term Performance of Proton Exchange Membrane Fuel ...](https://www.mdpi.com/1996-1073/15/14/5081)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü, yakıt hücresi sisteminin temelini oluşturan katmanlı yapısal şemayı teknik bir çizim olarak açıklamaktadır.
@@ -1023,7 +1474,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 93. [A Review of Mathematical Modeling of Proton Exchange Membrane and ...](https://www.fuelcellstore.com/blog-section/component-information/mathematical-modeling-pem-membrane-dmfc)
+### 134. [A Review of Mathematical Modeling of Proton Exchange Membrane and ...](https://www.fuelcellstore.com/blog-section/component-information/mathematical-modeling-pem-membrane-dmfc)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.
@@ -1034,7 +1485,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 94. [Layout And Operation Of A Typical Pem Fuel Cell Stack - Fuel Cell Stack ...](https://www.pngkey.com/download/u2w7i1i1o0y3t4i1_layout-and-operation-of-a-typical-pem-fuel/)
+### 135. [Layout And Operation Of A Typical Pem Fuel Cell Stack - Fuel Cell Stack ...](https://www.pngkey.com/download/u2w7i1i1o0y3t4i1_layout-and-operation-of-a-typical-pem-fuel/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görseller, GenCore sisteminin endüstriyel uygulama seviyesinden yakıt hücresi yığınının temel elektrokimyasal çalışma prensibine geçiş yaparak aynı teknolojik altyapıyı farklı teknik seviyelerde temsil etmektedir.
@@ -1045,7 +1496,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 95. [Recent Advances on PEM Fuel Cells: From Key Materials to Membrane ...](https://www.x-mol.com/paper/1692220787262246912?adv)
+### 136. [Recent Advances on PEM Fuel Cells: From Key Materials to Membrane ...](https://www.x-mol.com/paper/1692220787262246912?adv)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemi bileşenlerini ve tasarım evrimini teknik detaylarıyla temsil etmektedir.
@@ -1056,7 +1507,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 96. [Fuel Cell And Chemical Engineering at Bessie Humble blog](https://storage.googleapis.com/dryjkbagszldhe/fuel-cell-and-chemical-engineering.html)
+### 137. [Fuel Cell And Chemical Engineering at Bessie Humble blog](https://storage.googleapis.com/dryjkbagszldhe/fuel-cell-and-chemical-engineering.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin endüstriyel tasarım evrimini, aday görsel ise bu sistemin temel çalışma prensibini gösteren şematik bir teknik çizimdir; her ikisi de aynı teknolojinin farklı düzeydeki (sistem vs. temel bileşen) temsilidir.
@@ -1067,7 +1518,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 97. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/en/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
+### 138. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/en/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin teknik yapısını ve bileşenlerini detaylandıran ilgili teknik dokümanlardır.
@@ -1078,7 +1529,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 98. [Optimizing High-Temperature PEM Fuel Cell Performance](https://www.pureguard.net/optimizing-pem-fuel-cell-performance/)
+### 139. [Optimizing High-Temperature PEM Fuel Cell Performance](https://www.pureguard.net/optimizing-pem-fuel-cell-performance/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de GenCore tasarımı ve yüksek sıcaklık PEM yakıt hücresi sistemlerinin teknik bileşenlerini ve gelişim süreçlerini temsil etmektedir.
@@ -1089,7 +1540,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 99. [(PDF) Modeling, Simulation and Experimental Performance Analysis of PEM ...](https://www.researchgate.net/publication/330941021_Modeling_Simulation_and_Experimental_Performance_Analysis_of_PEM_Fuel_Cell)
+### 140. [(PDF) Modeling, Simulation and Experimental Performance Analysis of PEM ...](https://www.researchgate.net/publication/330941021_Modeling_Simulation_and_Experimental_Performance_Analysis_of_PEM_Fuel_Cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sistemlerinin teknik tasarımını, evrimini ve şematik diyagramlarını içeren dokümantasyonel içeriklerdir.
@@ -1100,7 +1551,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 100. [Hydrogen Fuel Cell Cars Diagram Schematic Diagram Of Reformed Hydrogen](https://narodnatribuna.info/lists/h/hydrogen-fuel-cell-cars-diagram/)
+### 141. [Hydrogen Fuel Cell Cars Diagram Schematic Diagram Of Reformed Hydrogen](https://narodnatribuna.info/lists/h/hydrogen-fuel-cell-cars-diagram/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Her iki görsel de yakıt hücresi sisteminin evrimsel tasarımı ve bileşen yapısı hakkında teknik bilgi sunan profesyonel mühendislik dokümantasyonlarıdır.
@@ -1111,7 +1562,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 101. [30W hydrogen fuel cell electric generator,PEM Fuel Cell Stack](https://www.vet-china.com/30w-hydrogen-fuel-cell-electric-generatorpem-fuel-cell-stack.html/)
+### 142. [30W hydrogen fuel cell electric generator,PEM Fuel Cell Stack](https://www.vet-china.com/30w-hydrogen-fuel-cell-electric-generatorpem-fuel-cell-stack.html/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin evrimini ve genel yerleşimini gösterirken, aday görsel bu sistemin temelini oluşturan PEM yakıt hücresi yığınının teknik şemasını sunmaktadır.
@@ -1122,7 +1573,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 102. [Fuel Cell Manufacturing | Coherent](https://www.coherent.com/industrial-solutions/automotive-energy-solution/automotive-manufacturing/fuel-cell-manufacturing)
+### 143. [Fuel Cell Manufacturing | Coherent](https://www.coherent.com/industrial-solutions/automotive-energy-solution/automotive-manufacturing/fuel-cell-manufacturing)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, bir yakıt hücresi sisteminin temel bileşeni olan metal bir bipolar plaka veya akış alanı plakasını göstermektedir, bu da referans görseldeki yakıt hücresi sistemi ile doğrudan ilişkilidir.
@@ -1133,7 +1584,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 103. [Adhesives and Sealants Play Crucial Role in Hydrogen-Based Fuel Cell ...](https://adhesives.org/adhesives-and-sealants-play-crucial-role-in-hydrogen-based-fuel-cell-assembly/)
+### 144. [Adhesives and Sealants Play Crucial Role in Hydrogen-Based Fuel Cell ...](https://adhesives.org/adhesives-and-sealants-play-crucial-role-in-hydrogen-based-fuel-cell-assembly/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, bir yakıt hücresi sisteminin temelini oluşturan membran elektrot tertibatı ve bipolar plaka bileşenlerini gösteren teknik bir şematiktir.
@@ -1144,7 +1595,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 104. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881948)
+### 145. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881948)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical diagram of a PEM fuel cell internal stack component, whereas Image 1 illustrates the complete GenCore fuel cell system housing and evolution.
@@ -1155,7 +1606,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 105. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881999)
+### 146. [Technical 3D exploded view of PEM electrolyzer cell showing membrane ...](https://stock.adobe.com/images/technical-3d-exploded-view-of-pem-electrolyzer-cell-showing-membrane-anode-and-cathode-layers-green-hydrogen-production-diagram-minimalist-white-background-8k/1906881999)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 illustrating the internal PEM fuel cell stack components.
@@ -1166,7 +1617,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 106. [Segmented Polymer Electrolyte Membrane Fuel Cells—A Review – FHPIP](https://club-london.de/segmented-polymer-electrolyte-membrane-fuel-cellsa-review/)
+### 147. [Segmented Polymer Electrolyte Membrane Fuel Cells—A Review – FHPIP](https://club-london.de/segmented-polymer-electrolyte-membrane-fuel-cellsa-review/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 shows a complete GenCore fuel cell system assembly and cabinet design, Image 2 details the internal membrane electrode assembly (MEA) and cell components, making them technologically related parts of the same fuel cell system domain.
@@ -1177,7 +1628,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 107. [Polymer Electrolyte Membrane , Membranes – NIXLI](https://esslinger-fruehling.de/polymer-electrolyte-membrane-membranes/)
+### 148. [Polymer Electrolyte Membrane , Membranes – NIXLI](https://esslinger-fruehling.de/polymer-electrolyte-membrane-membranes/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts an assembled GenCore fuel cell system unit and table, Image 2 illustrates the fundamental electrochemical working principle and internal membrane structure of a fuel cell.
@@ -1188,7 +1639,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 108. [A Review of Water Management in Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/2/4/1057)
+### 149. [A Review of Water Management in Polymer Electrolyte Membrane Fuel Cells](https://www.mdpi.com/1996-1073/2/4/1057)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of the internal single cell components (PEM fuel cell) that make up the overall fuel cell system shown in Image 1.
@@ -1199,7 +1650,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 109. [Proton Exchange Membrane Fuel Cell Catalyst Layer Degradation ...](https://www.mdpi.com/2073-4344/15/1/97)
+### 150. [Proton Exchange Membrane Fuel Cell Catalyst Layer Degradation ...](https://www.mdpi.com/2073-4344/15/1/97)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system design evolution, while Image 2 illustrates the internal components and operational principle of a proton exchange membrane fuel cell stack used within such systems.
@@ -1210,7 +1661,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 110. [Proton Exchange Membrane Fuel Cell Diagram](https://www.pinterest.com/pin/proton-exchange-membrane-fuel-cell--479211216591043914/)
+### 151. [Proton Exchange Membrane Fuel Cell Diagram](https://www.pinterest.com/pin/proton-exchange-membrane-fuel-cell--479211216591043914/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing system-level GenCore design evolution and Image 2 illustrating the fundamental internal components of a PEM fuel cell.
@@ -1221,7 +1672,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 111. [Proton Exchange Membrane Fuel Cell Diagram Poster | Zazzle](https://www.zazzle.com/proton_exchange_membrane_fuel_cell_diagram_poster-228081772213125610)
+### 152. [Proton Exchange Membrane Fuel Cell Diagram Poster | Zazzle](https://www.zazzle.com/proton_exchange_membrane_fuel_cell_diagram_poster-228081772213125610)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical diagram of a proton exchange membrane fuel cell, which is the foundational component of the fuel cell system shown in Image 1.
@@ -1232,7 +1683,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 112. [Mea Fuel Cell Design at Clifton Curran blog](https://storage.googleapis.com/dpsaiqugmhhdke/mea-fuel-cell-design.html)
+### 153. [Mea Fuel Cell Design at Clifton Curran blog](https://storage.googleapis.com/dpsaiqugmhhdke/mea-fuel-cell-design.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is an exploded technical diagram of a fuel cell component (PEM fuel cell stack) which is directly related to the GenCore fuel cell system shown in Image 1.
@@ -1243,7 +1694,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 113. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6?uuid=uuid:afc6da46-5468-45ff-8043-dd5bbe16b641)
+### 154. [Fuel cell stack redesign and component integration radically increase ...](https://www.cell.com/joule/fulltext/S2542-4351(23)00495-6?uuid=uuid:afc6da46-5468-45ff-8043-dd5bbe16b641)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the evolution of a GenCore fuel cell enclosure system and Image 2 displaying technical micro-structural details of fuel cell components (PEM, GDL, etc.).
@@ -1254,7 +1705,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 114. [PPT - PEM Fuel Cell Stack Sealing PowerPoint Presentation, free ...](https://www.slideserve.com/Mercy/pem-fuel-cell-stack-sealing-powerpoint-ppt-presentation)
+### 155. [PPT - PEM Fuel Cell Stack Sealing PowerPoint Presentation, free ...](https://www.slideserve.com/Mercy/pem-fuel-cell-stack-sealing-powerpoint-ppt-presentation)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete system enclosure evolution and Image 2 illustrating the internal component breakdown of a fuel cell stack.
@@ -1265,7 +1716,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 115. [İki kutuplu plaka geometri. Projesi](https://dizini.net/proje/83688/index.html)
+### 156. [İki kutuplu plaka geometri. Projesi](https://dizini.net/proje/83688/index.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical CAD drawing of a bipolar plate flow field, which is a core internal component of the fuel cell system shown in Image 1.
@@ -1276,7 +1727,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 116. [Structure Of The PEM Fuel Cell Stack | Best Photoetching Factory 2024](https://tmnetch.com/whats-the-structure-of-the-pem-fuel-cell-stack/)
+### 157. [Structure Of The PEM Fuel Cell Stack | Best Photoetching Factory 2024](https://tmnetch.com/whats-the-structure-of-the-pem-fuel-cell-stack/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 illustrates an exploded technical diagram of a fuel cell component (membrane electrode assembly and bipolar plates), which is a related sub-system of the overall fuel cell system shown in Image 1.
@@ -1287,7 +1738,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 117. [Labelled Diagram Of Hydrogen Fuel Cell](https://ar.inspiredpencil.com/pictures-2023/labelled-diagram-of-hydrogen-fuel-cell)
+### 158. [Labelled Diagram Of Hydrogen Fuel Cell](https://ar.inspiredpencil.com/pictures-2023/labelled-diagram-of-hydrogen-fuel-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and Image 2 illustrates the internal working diagram of a hydrogen fuel cell, both fundamentally represent the same core technology.
@@ -1298,7 +1749,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 118. [Scheme showing fuel-cell components, unit cell cross-section of the Nth ...](https://www.researchgate.net/figure/Scheme-showing-fuel-cell-components-unit-cell-cross-section-of-the-Nth-unit-cell-in-a_fig4_307912066)
+### 159. [Scheme showing fuel-cell components, unit cell cross-section of the Nth ...](https://www.researchgate.net/figure/Scheme-showing-fuel-cell-components-unit-cell-cross-section-of-the-Nth-unit-cell-in-a_fig4_307912066)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore design evolution and system integration, while Image 2 illustrates the underlying component-level technical diagram of a PEM fuel cell unit.
@@ -1309,7 +1760,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 119. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.com/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
+### 160. [Generative Design Powers Hydrogen Fuel Cell Development](https://www.comsol.com/story/generative-design-puts-hydrogen-fuel-cell-development-in-high-gear-116191)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed cross-sectional technical diagram of a fuel cell component, perfectly complementing the system-level overview in Image 1.
@@ -1320,7 +1771,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 120. [Figure 1 - from PEM fuel cell as a membrane reactor](https://www.academia.edu/figures/33443596/figure-1-schematic-representation-of-the-pem-fuel-cell-cross)
+### 161. [Figure 1 - from PEM fuel cell as a membrane reactor](https://www.academia.edu/figures/33443596/figure-1-schematic-representation-of-the-pem-fuel-cell-cross)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Although Image 1 depicts a complete GenCore fuel cell system enclosure and specifications, and Image 2 shows a microscopic technical diagram of an individual proton-exchange membrane fuel cell stack layer, both fundamentally represent the same overall technology (Yakıt hücresi sistemi).
@@ -1331,7 +1782,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 121. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/int/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
+### 162. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/int/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a detailed technical schematic of a PEM fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
@@ -1342,7 +1793,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 122. [Innovative Fuel Cells Enabled by Ion Exchange Membranes](https://www.nafion.com/en/support/white-papers/membranes-for-fuel-cells-white-paper)
+### 163. [Innovative Fuel Cells Enabled by Ion Exchange Membranes](https://www.nafion.com/en/support/white-papers/membranes-for-fuel-cells-white-paper)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a schematic diagram of a Proton Exchange Membrane (PEM) fuel cell, which details the core electrochemical components of the fuel cell system shown in Image 1.
@@ -1353,7 +1804,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 123. [Advances in Low Pt Loading Membrane Electrode Assembly for Proton ...](https://www.mdpi.com/1420-3049/28/2/773)
+### 164. [Advances in Low Pt Loading Membrane Electrode Assembly for Proton ...](https://www.mdpi.com/1420-3049/28/2/773)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical schematic of the internal membrane electrode assembly (MEA) of a fuel cell, complementing the system-level design shown in Image 1.
@@ -1364,7 +1815,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 124. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/deu/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
+### 165. [Proton Exchange Membrane Fuel Cell Bipolar Plate Analyses by GD-OES and ...](https://www.horiba.com/deu/scientific/applications/energy/pages/proton-exchange-membrane-fuel-cell-bipolar-plate-analyses-by-gd-oes-and-raman/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 showing a detailed technical breakdown of a proton exchange membrane (PEM) fuel cell stack.
@@ -1375,7 +1826,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 125. [Fuel Cell Electrolyte Membrane at Leonel Muncy blog](https://storage.googleapis.com/dgthcqveerpwke/fuel-cell-electrolyte-membrane.html)
+### 166. [Fuel Cell Electrolyte Membrane at Leonel Muncy blog](https://storage.googleapis.com/dgthcqveerpwke/fuel-cell-electrolyte-membrane.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed explanatory technical diagram of the internal components of a fuel cell system, matching the functional domain of the reference system.
@@ -1386,7 +1837,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 126. [PPT - Fuel Cell System Design (1) PowerPoint Presentation, free ...](https://www.slideserve.com/zorana/fuel-cell-system-design-1)
+### 167. [PPT - Fuel Cell System Design (1) PowerPoint Presentation, free ...](https://www.slideserve.com/zorana/fuel-cell-system-design-1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded technical diagram of a fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
@@ -1397,7 +1848,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 127. [Hydrogen Fuel Cell Stack](https://animalia-life.club/qa/pictures/hydrogen-fuel-cell-stack)
+### 168. [Hydrogen Fuel Cell Stack](https://animalia-life.club/qa/pictures/hydrogen-fuel-cell-stack)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 shows a complete GenCore fuel cell system enclosure and evolutionary data, Image 2 provides a detailed technical schematic of the internal fuel cell stack components, making them conceptually and functionally related.
@@ -1408,7 +1859,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 128. [China 12v Pemfc Stack Supplier, Manufacturer - Vet](https://www.vet-china.com/hydrogen-fuel-cell-12v-pemfc-stack-60w-hydrogen-fuel-cell.html/)
+### 169. [China 12v Pemfc Stack Supplier, Manufacturer - Vet](https://www.vet-china.com/hydrogen-fuel-cell-12v-pemfc-stack-60w-hydrogen-fuel-cell.html/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded view of the fuel cell stack internal components, which directly relates to the GenCore fuel cell system shown in the reference image.
@@ -1419,7 +1870,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 129. [Direct Methanol Fuel Cell Hardware](https://www.fuelcellstore.com/direct-methanol-fuel-cell-hardware-test-cell)
+### 170. [Direct Methanol Fuel Cell Hardware](https://www.fuelcellstore.com/direct-methanol-fuel-cell-hardware-test-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows a technical exploded-view diagram of a fuel cell core stack, which represents the internal functional component of the fuel cell system shown in Image 1.
@@ -1430,7 +1881,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 130. [How to Build a Fuel Cell](https://www.fuelcellstore.com/blog-section/how-to-build-a-fuel-cell)
+### 171. [How to Build a Fuel Cell](https://www.fuelcellstore.com/blog-section/how-to-build-a-fuel-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell technology, with Image 1 showing the complete GenCore system design evolution and Image 2 providing a detailed technical schematic of internal components like the membrane electrode assembly and flow channels.
@@ -1441,7 +1892,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 131. [PEM Fuel Cell Hardware](https://www.fuelcellstore.com/pem-fuel-cell-hardware-test-stack)
+### 172. [PEM Fuel Cell Hardware](https://www.fuelcellstore.com/pem-fuel-cell-hardware-test-stack)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded view of the internal fuel cell stack components, directly supporting the system-level design shown in the reference image.
@@ -1452,7 +1903,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 132. [Bipolar Plate Geometry DWG Block for AutoCAD | Designs CAD](https://designscad.com/downloads/bipolar-plate-geometry-dwg-block-for-autocad/)
+### 173. [Bipolar Plate Geometry DWG Block for AutoCAD | Designs CAD](https://designscad.com/downloads/bipolar-plate-geometry-dwg-block-for-autocad/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a technical CAD drawing of a serpentine flow field bipolar plate, which is a core internal component of the fuel cell system shown in Image 1.
@@ -1463,7 +1914,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 133. [3-In-1 Pem Fuel Cell/Redox Flow Cell Hardware – BLGQMG](https://cecpu.org/3in1-pem-fuel-cellredox-flow-cell-hardware/)
+### 174. [3-In-1 Pem Fuel Cell/Redox Flow Cell Hardware – BLGQMG](https://cecpu.org/3in1-pem-fuel-cellredox-flow-cell-hardware/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed schematic and operational principle of a PEM fuel cell, perfectly complementing the system-level design shown in the reference image.
@@ -1474,7 +1925,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 134. [Toyota Fuel Cell Stack Design at Samantha Tennant blog](https://storage.googleapis.com/dqpgyfraoselee/toyota-fuel-cell-stack-design.html)
+### 175. [Toyota Fuel Cell Stack Design at Samantha Tennant blog](https://storage.googleapis.com/dqpgyfraoselee/toyota-fuel-cell-stack-design.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 illustrates an exploded technical diagram of a fuel cell stack, which is the core internal component belonging to the broader fuel cell system shown in Image 1.
@@ -1485,7 +1936,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 135. [Proton Exchange Membrane Stack Price | OEM & Wholesale Guide](https://heletitaniumhydrogen.com/compare-proton-exchange-membrane-stack-price/)
+### 176. [Proton Exchange Membrane Stack Price | OEM & Wholesale Guide](https://heletitaniumhydrogen.com/compare-proton-exchange-membrane-stack-price/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore system design evolution and Image 2 providing a detailed technical diagram of a Membrane Electrode Assembly (MEA) fuel cell stack.
@@ -1496,7 +1947,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 136. [Hydrogen fuel cell and Bipolar plates](https://www.vet-china.com/news/hydrogen-fuel-cell-and-bipolar-plates/)
+### 177. [Hydrogen fuel cell and Bipolar plates](https://www.vet-china.com/news/hydrogen-fuel-cell-and-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and cabinet evolution, Image 2 details the internal exploded view of the core fuel cell stack, making it a legitimate related technical diagram of the same overall technology.
@@ -1507,7 +1958,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 137. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/zh/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
+### 178. [The Building Blocks of Proton Exchange Membrane Fuel Cells | IDTechEx ...](https://www.idtechex.com/zh/research-article/the-building-blocks-of-proton-exchange-membrane-fuel-cells/34036)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the internal PEMFC core components, complementing the system-level design shown in the reference image.
@@ -1518,7 +1969,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 138. [Hydrogen Fuel Cell Schematic Diagram](https://www.circuitdiagram.co/hydrogen-fuel-cell-schematic-diagram/)
+### 179. [Hydrogen Fuel Cell Schematic Diagram](https://www.circuitdiagram.co/hydrogen-fuel-cell-schematic-diagram/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a complete GenCore enclosure design evolution and Image 2 illustrating the internal component-level technical diagram of a hydrogen fuel cell.
@@ -1529,7 +1980,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 139. [220w Fuel Cell Stack 24v Pemfc Stack Hydrogen Fuel Cell Stack](https://www.vet-china.com/220w-fuel-cell-stack-24v-pemfc-stack-hydrogen-fuel-cell-stack.html/)
+### 180. [220w Fuel Cell Stack 24v Pemfc Stack Hydrogen Fuel Cell Stack](https://www.vet-china.com/220w-fuel-cell-stack-24v-pemfc-stack-hydrogen-fuel-cell-stack.html/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the specific fuel cell stack component used within the broader GenCore fuel cell system shown in Image 1.
@@ -1540,7 +1991,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 140. [Proton Exchange Membrane Fuel Cells (PEMFCs): Advances and Challenges](https://www.mdpi.com/2073-4360/13/18/3064/xml)
+### 181. [Proton Exchange Membrane Fuel Cells (PEMFCs): Advances and Challenges](https://www.mdpi.com/2073-4360/13/18/3064/xml)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of a fuel cell internal stack, accurately illustrating the core components corresponding to the fuel cell system shown in the reference image.
@@ -1551,7 +2002,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 141. [proton exchange membrane fuel cell ~ Electrical Engineering Pics](http://electrical-engineering-pics.blogspot.com/2014/09/proton-exchange-membrane-fuel-cell.html)
+### 182. [proton exchange membrane fuel cell ~ Electrical Engineering Pics](http://electrical-engineering-pics.blogspot.com/2014/09/proton-exchange-membrane-fuel-cell.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts an entire GenCore fuel cell system assembly and cabinet evolution, Image 2 shows a detailed technical diagram of the internal PEM fuel cell stack mechanism, making them conceptually related but visually distinct.
@@ -1562,7 +2013,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 142. [Bipolar Plates of Carbon: A Game-Changer in PEM Fuel Cells](https://www.engineering-group.com/pem-fuel-cells-with-carbon-composite-bipolar-plates/)
+### 183. [Bipolar Plates of Carbon: A Game-Changer in PEM Fuel Cells](https://www.engineering-group.com/pem-fuel-cells-with-carbon-composite-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system cabinet and specifications, Image 2 illustrates the internal exploded view of the fuel cell stack components (MEA, bipolar plates), representing a closely related technical subsystem within the same technology domain.
@@ -1573,7 +2024,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 143. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.compositesworld.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
+### 184. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.compositesworld.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed schematic and exploded technical diagram of a proton exchange membrane fuel cell, which is the foundational core technology of the fuel cell system shown in the reference image.
@@ -1584,7 +2035,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 144. [Solidworks Assembly Drawing Exploded View at PaintingValley.com ...](https://paintingvalley.com/solidworks-assembly-drawing-exploded-view)
+### 185. [Solidworks Assembly Drawing Exploded View at PaintingValley.com ...](https://paintingvalley.com/solidworks-assembly-drawing-exploded-view)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 is a detailed exploded technical drawing of a compressor/expander sub-assembly used within the fuel cell system shown in Image 1.
@@ -1595,7 +2046,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 145. [Figure 2-1 from Flow visualization in 3D printed PEM fuel cell bipolar ...](https://www.semanticscholar.org/paper/Flow-visualization-in-3D-printed-PEM-fuel-cell-Piri/97bfe973d8cc088ebf6bc7c3442bcf751cf6e855/figure/3)
+### 186. [Figure 2-1 from Flow visualization in 3D printed PEM fuel cell bipolar ...](https://www.semanticscholar.org/paper/Flow-visualization-in-3D-printed-PEM-fuel-cell-Piri/97bfe973d8cc088ebf6bc7c3442bcf751cf6e855/figure/3)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While the reference image shows an entire GenCore fuel cell system assembly and cabinet, the candidate image provides a detailed exploded CAD drawing of an individual fuel cell stack component, representing the core technology inside the system.
@@ -1606,7 +2057,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 146. [Pem Fuel Cell Stack Components at Kathryn Serna blog](https://storage.googleapis.com/dktsdgbnevzzme/pem-fuel-cell-stack-components.html)
+### 187. [Pem Fuel Cell Stack Components at Kathryn Serna blog](https://storage.googleapis.com/dktsdgbnevzzme/pem-fuel-cell-stack-components.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded technical diagram of the internal fuel cell stack component used within the broader GenCore fuel cell system shown in Image 1.
@@ -1617,7 +2068,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 147. [How Fuel Cell Engines Work _ Hydrogen fuel cells, explained – AZZU](https://moment.ebus-wiki.org/how-fuel-cell-engines-work-hydrogen-fuel-cells-explained/)
+### 188. [How Fuel Cell Engines Work _ Hydrogen fuel cells, explained – AZZU](https://moment.ebus-wiki.org/how-fuel-cell-engines-work-hydrogen-fuel-cells-explained/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed scientific diagram of the internal components of a fuel cell system, matching the overarching technology domain of Image 1.
@@ -1628,7 +2079,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 148. [Electrochemistry Encyclopedia – PEM fuel cells](https://knowledge.electrochem.org/encycl/art-f04-fuel-cells-pem.htm)
+### 189. [Electrochemistry Encyclopedia – PEM fuel cells](https://knowledge.electrochem.org/encycl/art-f04-fuel-cells-pem.htm)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed technical exploded diagram of a fuel cell stack, which is the core internal component of the fuel cell system shown in Image 1.
@@ -1639,7 +2090,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 149. [Examining Fuel Cells for Transportation - Technical Articles](https://eepower.com/technical-articles/examining-fuel-cells-for-transportation/)
+### 190. [Examining Fuel Cells for Transportation - Technical Articles](https://eepower.com/technical-articles/examining-fuel-cells-for-transportation/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded schematic diagram of a fuel cell stack components, which directly relates to the underlying technology of the fuel cell system shown in Image 1.
@@ -1650,7 +2101,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 150. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.gardnerweb.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
+### 191. [Composite bipolar plates provide 81% improvement to hydrogen fuel cell ...](https://www.gardnerweb.com/articles/composite-bipolar-plates-provide-81-improvement-to-hydrogen-fuel-cell-power-density)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** The reference image describes a GenCore fuel cell system design evolution, while the candidate image depicts an actual physical PEM fuel cell stack plate assembly that serves as the core functional component within such systems.
@@ -1661,7 +2112,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 151. [Geometries of bipolar plates. in AutoCAD | CAD (18.99 KB) | Bibliocad](https://www.bibliocad.com/en/library/geometries-of-bipolar-plates_81561/)
+### 192. [Geometries of bipolar plates. in AutoCAD | CAD (18.99 KB) | Bibliocad](https://www.bibliocad.com/en/library/geometries-of-bipolar-plates_81561/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 displays a technical blueprint of a bipolar plate flow field, which is a critical internal component of the fuel cell stack referenced in the GenCore system documentation.
@@ -1672,7 +2123,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 152. [CNC Machining in Metal Bipolar Plates for Fuel Cells - Runsom Precision](https://www.runsom.com/es/blog/cnc-machining-in-metal-bipolar-plates-for-fuel-cells/)
+### 193. [CNC Machining in Metal Bipolar Plates for Fuel Cells - Runsom Precision](https://www.runsom.com/es/blog/cnc-machining-in-metal-bipolar-plates-for-fuel-cells/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While the reference image depicts a complete GenCore fuel cell system unit and the second image depicts the internal component-level exploded view of a PEM fuel cell stack, both represent the same fundamental fuel cell technology and system architecture.
@@ -1683,7 +2134,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 153. [How To Build A DIY Hydrogen Fuel Cell - Climatebiz](https://climatebiz.com/diy-hydrogen-fuel-cell/)
+### 194. [How To Build A DIY Hydrogen Fuel Cell - Climatebiz](https://climatebiz.com/diy-hydrogen-fuel-cell/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** While image 1 shows a full GenCore fuel cell cabinet system and image 2 shows a generic schematic diagram of a PEM fuel cell stack, both are technically related to fuel cell system architecture.
@@ -1694,7 +2145,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 154. [Fuel Cell Stack Components | Metal Bipolar Plates | Precision Resource](https://www.precisionresource.com/precision-metal-components/fuel-cell-stack-components/)
+### 195. [Fuel Cell Stack Components | Metal Bipolar Plates | Precision Resource](https://www.precisionresource.com/precision-metal-components/fuel-cell-stack-components/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images illustrate different hierarchical levels of the same GenCore fuel cell system technology, with Image 1 showing the cabinet integration and Image 2 providing an exploded technical view of the core stack assembly.
@@ -1705,7 +2156,7 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-### 155. [Principles of Fuel Cell Stack Design and Development | TMNetch](https://tmnetch.com/principles-of-fuel-cell-stack-design-and-development/)
+### 196. [Principles of Fuel Cell Stack Design and Development | TMNetch](https://tmnetch.com/principles-of-fuel-cell-stack-design-and-development/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images illustrate different components of the same GenCore fuel cell system, with image 1 showing the physical enclosure evolution and image 2 providing the technical schematic of the internal stack architecture.
@@ -1716,10 +2167,142 @@ _2D teknik resimler, ölçü tabloları ve montaj kesitleri_
 
 ---
 
-## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (69 adet)
+## 🖨️ 3D CAD Modelleri & 3D Yazıcı Dosyaları (GrabCAD / STL) (81 adet)
 _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
-### 1. [Free 3D file Terminator Fuel Cell Base for Laser Diode ⛽・3D print object to download・Cults](https://cults3d.com/en/3d-model/tool/terminator-fuel-cell-base-for-laser-diode)
+### 1. [3D design guide for laser cut with bending | LaserBoost](https://www.laserboost.com/metal-sheet-bending-design-guideline/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinde kullanılan bir montaj veya sıkıştırma plakası bileşeninin CAD modelini temsil etmektedir ve kullanıcı gereksinimlerinde belirtilen teknik parça spesifikasyonlarıyla uyumludur.
+- **Tarih:** 2026-11-21 09:22:42
+
+![Önizleme](https://www.laserboost.com/wp-content/uploads/2023/06/placa-01.jpg)
+
+
+---
+
+### 2. [Hydrogen Fuel Cell Stack Isolated on Clean White Background with ...](https://www.freepik.com/premium-ai-image/hydrogen-fuel-cell-stack-isolated-clean-white-background-with-visible-detailed-parts_257917841.htm)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi yığını donanımını, montaj sıkıştırma plakaları ve soğutma/akış bileşenleri ile temsil eden yüksek kaliteli bir CAD modelidir ve endüstriyel standarttaki yakıt hücresi sistemleri ile teknik olarak örtüşmektedir.
+- **Tarih:** 2026-11-21 09:21:59
+
+![Önizleme](https://img.freepik.com/premium-photo/hydrogen-fuel-cell-stack-isolated-clean-white-background-with-visible-detailed-parts_38013-85344.jpg?w=2000)
+
+
+---
+
+### 3. [PEM stacks with hydrogen fuel cells Products from Zhuzhou Zenpon ...](https://www.machineryoffers.com/offer/51140-PEM-stacks-with-hydrogen-fuel-cells.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel konfigürasyonunu (GenCore) gösterirken, Görsel 2 bu sistemlerin temelini oluşturan PEM yakıt hücresi yığınının (stack) teknik CAD modelini temsil etmektedir.
+- **Tarih:** 2026-11-21 09:20:48
+
+![Önizleme](https://s.alicdn.com/@sc04/kf/H07375114a76f4398b94ef1fcb0e4ffbc5/200433959/H07375114a76f4398b94ef1fcb0e4ffbc5.png)
+
+
+---
+
+### 4. [Novel Sealants to Significantly Improve the Lifetime and Performance of ...](https://mo-sci.com/novel-sealants-Improve-solid-oxide-fuel-cells/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** İkinci görsel, katı oksit yakıt hücresi (SOFC) bileşenlerinin patlatılmış montaj diyagramını göstererek hedef sistem gereksinimlerini doğrudan karşılamaktadır.
+- **Tarih:** 2026-11-21 09:19:30
+
+![Önizleme](https://mo-sci.com/wp-content/uploads/2016/11/sofc-illustration-02-1.jpg)
+
+
+---
+
+### 5. [Membrane Electrode Assembly (MEA) Electrochemical Cell with Graphite ...](https://mtimalaysia.com/products/mea-mfc)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görüntü, yakıt hücresi yığınının (stack) bileşenlerini, bipolar plakaları ve membran elektrot takımı (MEA) montajını gösteren teknik bir CAD patlatılmış görünüm modelidir.
+- **Tarih:** 2026-11-21 09:18:53
+
+![Önizleme](https://cdn.shopify.com/s/files/1/0638/4664/6008/files/FuelCelltesting-02.jpg?v=1737743491)
+
+
+---
+
+### 6. [Design and construction of 0.5 – 3 kW high temperature PEM fuel cell ...](https://www.iceht.forth.gr/en/iceht_achievements/design-and-construction-of-0-5-3-kw-high-temperature-pem-fuel-cell-stacks/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** İkinci görseldeki düzenek, yakıt hücresi yığınına ait montaj sıkıştırma plakalarını ve test düzeneğini içermekte olup, referans verilen yakıt hücresi sistem bileşenlerinin teknik gereksinimleri ile doğrudan uyumludur.
+- **Tarih:** 2026-11-21 09:17:33
+
+![Önizleme](https://www.iceht.forth.gr/wp-content/uploads/achievements/Achievement-1.jpg)
+
+
+---
+
+### 7. [Unlocking the Value of End-of-Life JÜLICH Solid Oxide Cell Stack ...](https://www.mdpi.com/2075-4701/14/4/406)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, katı oksit yakıt hücresi (SOFC) yığını için teknik bir patlatılmış montaj çizimidir ve kullanıcı gereksinimlerinde belirtilen membran elektrot takımı ve montaj plakaları bileşenlerini doğrudan temsil etmektedir.
+- **Tarih:** 2026-11-21 09:16:03
+
+![Önizleme](https://pub.mdpi-res.com/metals/metals-14-00406/article_deploy/html/images/metals-14-00406-g001.png?1712021286)
+
+
+---
+
+### 8. [PEM Stack Components for Large-Scale Projects | OEM Supply](https://heletitaniumhydrogen.com/pem-stack-components-large-scale-hydrogen/)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel konfigürasyonunu gösterirken, Görsel 2 bu sistemin temel bileşeni olan membran elektrot takımı ve bipolar plaka yapısının teknik bir patlatılmış montaj çizimini detaylandırmaktadır.
+- **Tarih:** 2026-11-21 09:14:20
+
+![Önizleme](https://heletitaniumhydrogen.com/wp-content/uploads/2025/09/pem-electrolyzer-stack-components-diagram.webp)
+
+
+---
+
+### 9. [Bipolar plates | Ensinger](https://www.ensingerplastics.com/en/hydrogen/bipolar-plates)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 90` (technical_drawing)
+- **AI Teknik İncelemesi:** Görüntü, PEM yakıt hücresi yığınının (stack) patlatılmış montaj diyagramını ve sıkıştırma plakası yapısını teknik olarak doğru bir şekilde temsil etmektedir.
+- **Tarih:** 2026-11-21 09:14:14
+
+![Önizleme](https://www.ensingerplastics.com/-/media/ensinger/images/industries/hydrogen/redox-flow-battery-stack-hq25-640x360px.jpg?rev=9fc0352c4da64e7d94762e3a80bcdc48&la=en&iar=1&as=1&h=360&w=640&hash=FB2BF9B478812FF362EB2E8CF5119C65)
+
+
+---
+
+### 10. [PEMFC Stack Cell - 3D model by j1p2 [11f66da] - Sketchfab](https://sketchfab.com/3d-models/pemfc-stack-cell-11f66dab951d4cf9b8ae06dd3ccba798)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Görsel, yakıt hücresi sisteminin temelini oluşturan PEM stack donanımının teknik bir CAD modelini temsil etmektedir ve kullanıcı gereksinimlerindeki yakıt hücresi bileşenleri tanımıyla uyumludur.
+- **Tarih:** 2026-11-21 09:13:37
+
+![Önizleme](https://media.sketchfab.com/models/11f66dab951d4cf9b8ae06dd3ccba798/thumbnails/7a0af64179ee487b97fdd8db5543de2e/4ce1365d4cee46f0afcf5874a034b75e.jpeg)
+
+
+---
+
+### 11. [Help Design Our Next-Generation Solid Oxide Fuel Cell - Freelance ...](https://www.cadcrowd.com/contest/2643-help-design-our-next-generation-solid-oxide-fuel)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (technical_drawing)
+- **AI Teknik İncelemesi:** Her iki görsel de bir yakıt hücresi sisteminin endüstriyel tasarım ve montaj aşamalarını (SolidWorks CAD ortamı üzerinden) teknik olarak temsil etmektedir.
+- **Tarih:** 2026-11-21 09:11:11
+
+![Önizleme](https://cdn.cadcrowd.com/designs/medium/26/43/2643_1619199465.png)
+
+
+---
+
+### 12. [What Is A Fuel Cell Stack at Rene Neal blog](https://storage.googleapis.com/dwapxxmfgdlwue/what-is-a-fuel-cell-stack.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 90` (working_variation)
+- **AI Teknik İncelemesi:** Aday görsel, yakıt hücresi yığını donanımını ve sıkıştırma plakalarını gösteren detaylı bir CAD modelidir ve hedef gereksinimleri karşılamaktadır.
+- **Tarih:** 2026-11-21 09:11:08
+
+![Önizleme](https://preview.free3d.com/img/2015/11/2162652572358280353/wyavv7bk.jpg)
+
+
+---
+
+### 13. [Free 3D file Terminator Fuel Cell Base for Laser Diode ⛽・3D print object to download・Cults](https://cults3d.com/en/3d-model/tool/terminator-fuel-cell-base-for-laser-diode)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Referans görsel bir yakıt hücresi sisteminin evrimini ve sistem düzeyindeki tasarımını gösterirken, aday görsel bu sistemlerin temelini oluşturan PEM yakıt hücresi yığınına ait 3D bir CAD modelini temsil etmektedir.
@@ -1730,7 +2313,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 2. [Membrane Electrode Assembly Price | Supplier & Manufacturer - Shanghai Metal Corporation](https://www.shanghaimetal.com/membrane_electrode_assembly-15725.htm)
+### 14. [Membrane Electrode Assembly Price | Supplier & Manufacturer - Shanghai Metal Corporation](https://www.shanghaimetal.com/membrane_electrode_assembly-15725.htm)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi yığını bileşenlerini (bipolar plakalar ve sıkıştırma plakaları) detaylı bir CAD montaj modeli olarak göstermektedir.
@@ -1741,7 +2324,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 3. [Ballard Unveils 8th Generation Zero-Emission Fuel Cell Module for Heavy Duty Motive Market](https://fuelcellsworks.com/news/ballard-unveils-8th-generation-zero-emission-fuel-cell-module-for-heavy-duty-motive-market)
+### 15. [Ballard Unveils 8th Generation Zero-Emission Fuel Cell Module for Heavy Duty Motive Market](https://fuelcellsworks.com/news/ballard-unveils-8th-generation-zero-emission-fuel-cell-module-for-heavy-duty-motive-market)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü, endüstri standardı bir yakıt hücresi üreticisi olan Ballard Power Systems'a ait bir PEM yakıt hücresi yığını (stack) montajını ve teknik bileşenlerini göstermektedir.
@@ -1752,7 +2335,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 4. [SERA Orders More Ballard Fuel Cell Modules - Railway Age](https://www.railwayage.com/mechanical/locomotives/sera-orders-more-ballard-fuel-cell-modules/)
+### 16. [SERA Orders More Ballard Fuel Cell Modules - Railway Age](https://www.railwayage.com/mechanical/locomotives/sera-orders-more-ballard-fuel-cell-modules/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, Ballard Power Systems markasına ait endüstriyel bir yakıt hücresi yığını (fuel cell stack) donanımını göstermekte olup, referans dokümanda belirtilen PEM yakıt hücresi sistemleri gereksinimleri ile teknik olarak tam uyumludur.
@@ -1763,7 +2346,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 5. [FCgen® - Fuel Cell Stacks](https://www.ballard.com/fcgen/)
+### 17. [FCgen® - Fuel Cell Stacks](https://www.ballard.com/fcgen/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, Ballard Power Systems tarafından üretilen endüstriyel standartta bir PEM yakıt hücresi yığını (stack) CAD modelidir ve hedef gereksinimlerde belirtilen yakıt hücresi sistemi bileşenleri ile teknik olarak tam uyumludur.
@@ -1774,7 +2357,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 6. [Fuel cell makers for more than 40 years, Ballard is at the forefront of the truck revolution ...](https://www.sustainabletruckvan.com/ballard-fuel-cell-interview-nicolas-pocard/)
+### 18. [Fuel cell makers for more than 40 years, Ballard is at the forefront of the truck revolution ...](https://www.sustainabletruckvan.com/ballard-fuel-cell-interview-nicolas-pocard/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de endüstriyel tip bir yakıt hücresi sisteminin (PEMFC) teknik yapılandırmasını, gaz yönetim üniteleri, soğutma hatları ve yığın (stack) bileşenleri ile birlikte temsil etmektedir.
@@ -1785,7 +2368,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 7. [Membrane Electrode Assembly Electrolytic Cell | Ossila](https://www.ossila.com/products/membrane-electrode-assembly-electrolyzer)
+### 19. [Membrane Electrode Assembly Electrolytic Cell | Ossila](https://www.ossila.com/products/membrane-electrode-assembly-electrolyzer)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görüntü 1 genel bir yakıt hücresi sisteminin tasarım evrimini gösterirken, Görüntü 2 yakıt hücresi yığını için kritik olan bipolar plaka akış kanalı detayını göstermektedir; her ikisi de yakıt hücresi sistemleri teknik gereksinimleri ile uyumludur.
@@ -1796,7 +2379,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 8. [Membrane Electrode Assembly (MEA) Electrolyzer with Ti Bipolar Plates for Water Splitting and ...](https://mtimalaysia.com/products/membrane-electrode-assembly-mea-electrolyzer-with-ti-bipolar-plates-for-water-splitting-and-co2-reduction-eq-mea-e-tibp)
+### 20. [Membrane Electrode Assembly (MEA) Electrolyzer with Ti Bipolar Plates for Water Splitting and ...](https://mtimalaysia.com/products/membrane-electrode-assembly-mea-electrolyzer-with-ti-bipolar-plates-for-water-splitting-and-co2-reduction-eq-mea-e-tibp)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemleri için gerekli olan bipolar plakalar, akış kanalları ve montaj donanımlarını içeren teknik bir CAD modelidir ve belirtilen yakıt hücresi sistemi gereksinimleriyle uyumludur.
@@ -1807,7 +2390,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 9. [Membrane Electrode Assembly (MEA) Electrolyzer with Ti Bipolar Plates – MTI Online Store](https://mtixtl.com/en-internon/products/membrane-electrode-assembly-mea-electrolyzer-with-ti-bipolar-plates-for-water-splitting-and-co2-reduction-eq-mea-e-tibp)
+### 21. [Membrane Electrode Assembly (MEA) Electrolyzer with Ti Bipolar Plates – MTI Online Store](https://mtixtl.com/en-internon/products/membrane-electrode-assembly-mea-electrolyzer-with-ti-bipolar-plates-for-water-splitting-and-co2-reduction-eq-mea-e-tibp)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi yığını montajı için bipolar plakaları, membran elektrot takımını ve sıkıştırma bileşenlerini gösteren teknik bir CAD modelidir; bu da kullanıcı gereksinimlerinde belirtilen teknik detaylarla doğrudan örtüşmektedir.
@@ -1818,7 +2401,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 10. [3D model Solid oxide fuel cell SOFC VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/electronics/other/solid-oxide-fuel-cell-sofc)
+### 22. [3D model Solid oxide fuel cell SOFC VR / AR / low-poly | CGTrader](https://www.cgtrader.com/3d-models/electronics/other/solid-oxide-fuel-cell-sofc)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, katı oksit yakıt hücresi (SOFC) sistem mimarisini temsil eden 3D bir CAD modelidir ve belirtilen endüstriyel yakıt hücresi sistemi gereksinimleriyle uyumludur.
@@ -1829,7 +2412,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 11. [Fuel assembly - 3D Printing - Free Downloads - Energy Encyclopedia](https://www.energyencyclopedia.com/en/free-downloads/3d-printing/fuel-assembly-38)
+### 23. [Fuel assembly - 3D Printing - Free Downloads - Energy Encyclopedia](https://www.energyencyclopedia.com/en/free-downloads/3d-printing/fuel-assembly-38)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, yakıt hücresi sistemleri için gerekli olan teknik detayları, bipolar plaka ve istif montaj yapısını içeren standart bir CAD modelini temsil etmektedir.
@@ -1840,7 +2423,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 12. [Fuel Cell Stack 10 Model - TurboSquid 2243145](https://www.turbosquid.com/3d-models/fuel-cell-stack-10-model-2243145)
+### 24. [Fuel Cell Stack 10 Model - TurboSquid 2243145](https://www.turbosquid.com/3d-models/fuel-cell-stack-10-model-2243145)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temel bileşeni olan PEMFC yığın yapısını (stack) ve montaj sıkıştırma plakalarını teknik CAD modeli düzeyinde doğru bir şekilde temsil etmektedir.
@@ -1851,7 +2434,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 13. [Figure 1 from Manufacturing Process of Laboratory Bipolar Plates Designed with Gas Flow ...](https://www.semanticscholar.org/paper/Manufacturing-Process-of-Laboratory-Bipolar-Plates-Varga-Kelemen/c921f238eb2da0a7acf56c95a820e2f877efa8d9/figure/0)
+### 25. [Figure 1 from Manufacturing Process of Laboratory Bipolar Plates Designed with Gas Flow ...](https://www.semanticscholar.org/paper/Manufacturing-Process-of-Laboratory-Bipolar-Plates-Varga-Kelemen/c921f238eb2da0a7acf56c95a820e2f877efa8d9/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi bipolar plakalarının akış kanallarını ve su molekülü fraksiyonunu gösteren teknik bir analiz modelidir; bu, kullanıcı gereksinimlerinde belirtilen teknik tasarım içeriğiyle doğrudan örtüşmektedir.
@@ -1862,7 +2445,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 14. [Energies | Free Full-Text | Thermal Stress in Full-Size Solid Oxide Fuel Cell Stacks by Multi ...](https://www.mdpi.com/1996-1073/17/9/2025/xml)
+### 26. [Energies | Free Full-Text | Thermal Stress in Full-Size Solid Oxide Fuel Cell Stacks by Multi ...](https://www.mdpi.com/1996-1073/17/9/2025/xml)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 90` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, katı oksit yakıt hücresi (SOFC) stack bileşenlerini ve akış kanallarını gösteren detaylı bir CAD/tasarım şemasıdır.
@@ -1873,7 +2456,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 15. [3D Hydrogen Fuel Cell Stack 4 KW - TurboSquid 2252728](https://www.turbosquid.com/3d-models/3d-hydrogen-fuel-cell-stack-4-kw-2252728)
+### 27. [3D Hydrogen Fuel Cell Stack 4 KW - TurboSquid 2252728](https://www.turbosquid.com/3d-models/3d-hydrogen-fuel-cell-stack-4-kw-2252728)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sistemlerinde kullanılan bipolar plaka ve soğutma kanalları yapısını temsil eden 3D CAD modelidir, kullanıcı gereksinimlerindeki teknik tasarım kriterleri ile uyumludur.
@@ -1884,7 +2467,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 16. [Assembly Process of a Hydrogen Fuel Cell Stack Design Stock Illustration - Illustration of ...](https://www.dreamstime.com/assembly-process-hydrogen-fuel-cell-stack-design-image-showcases-intricate-highlighting-its-clean-energy-technology-image368587030)
+### 28. [Assembly Process of a Hydrogen Fuel Cell Stack Design Stock Illustration - Illustration of ...](https://www.dreamstime.com/assembly-process-hydrogen-fuel-cell-stack-design-image-showcases-intricate-highlighting-its-clean-energy-technology-image368587030)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, PEM yakıt hücresi sistemleri için gereksinimleri karşılayan, gelişmiş bir yakıt hücresi yığını (stack) montajının teknik CAD modelini temsil etmektedir.
@@ -1895,7 +2478,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 17. [Research and Development Trend of Fuel Cell Injection Molding Integrated End Plate Technology ...](https://inf.news/en/news/ab4815a4196af2fe49c1d2a03ea410ff.html)
+### 29. [Research and Development Trend of Fuel Cell Injection Molding Integrated End Plate Technology ...](https://inf.news/en/news/ab4815a4196af2fe49c1d2a03ea410ff.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel, talep edilen PEM yakıt hücresi sisteminin temel bileşenleri olan bipolar plaka, membran elektrot takımı ve montaj sıkıştırma plakalarının teknik montaj yapısını ve katmanlı tasarımını detaylı olarak göstermektedir.
@@ -1906,7 +2489,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 18. [Membrane Electrode Assembly (MEA) Electrolyzer with Ti Bipolar Plates – MTI Online Store](https://mtixtl.com/products/membrane-electrode-assembly-mea-electrolyzer-with-ti-bipolar-plates-for-water-splitting-and-co2-reduction-eq-mea-e-tibp)
+### 30. [Membrane Electrode Assembly (MEA) Electrolyzer with Ti Bipolar Plates – MTI Online Store](https://mtixtl.com/products/membrane-electrode-assembly-mea-electrolyzer-with-ti-bipolar-plates-for-water-splitting-and-co2-reduction-eq-mea-e-tibp)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sisteminin temelini oluşturan PEM yakıt hücresi yığını (stack) montajının 3D CAD modelidir ve belirtilen teknik gereksinimlerle tam uyumludur.
@@ -1917,7 +2500,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 19. [Planar diagram of a pem fuel cell](https://www.academia.edu/figures/7711438/figure-2-planar-diagram-of-pem-fuel-cell)
+### 31. [Planar diagram of a pem fuel cell](https://www.academia.edu/figures/7711438/figure-2-planar-diagram-of-pem-fuel-cell)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi yığınının teknik patlatılmış görünümünü ve montaj bileşenlerini (bipolar plakalar, MEA, sıkıştırma plakaları) detaylandıran teknik bir çizimdir; Görsel 1'deki yakıt hücresi sisteminin temel çalışma prensibiyle tam uyumludur.
@@ -1928,7 +2511,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 20. [Fuel Cell Design Parameters at Isabella Embry blog](https://storage.googleapis.com/dhqtiujcrqalae/fuel-cell-design-parameters.html)
+### 32. [Fuel Cell Design Parameters at Isabella Embry blog](https://storage.googleapis.com/dhqtiujcrqalae/fuel-cell-design-parameters.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sisteminin iç bileşenlerini ve katmanlarını gösteren açıklayıcı bir CAD modelidir.
@@ -1939,7 +2522,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 21. [Plates](https://www.fuelcellstore.com/plates)
+### 33. [Plates](https://www.fuelcellstore.com/plates)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, yakıt hücresi sistemlerinin temel bileşenlerinden biri olan bipolar akışkan plakalarını göstermektedir.
@@ -1950,7 +2533,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 22. [Innovation launched to enhance hydrogen fuel cell efficiency - Electric ...](https://www.electrichybridvehicletechnology.com/news/fuel-cell-technology/innovation-launched-to-enhance-hydrogen-fuel-cell-efficiency.html)
+### 34. [Innovation launched to enhance hydrogen fuel cell efficiency - Electric ...](https://www.electrichybridvehicletechnology.com/news/fuel-cell-technology/innovation-launched-to-enhance-hydrogen-fuel-cell-efficiency.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görselde yer alan bileşen, yakıt hücresi sisteminin temelini oluşturan bir bipolar plaka olup, sistemin alt seviye mekanik bir parçasını temsil etmektedir.
@@ -1961,7 +2544,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 23. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/green-hydrogen-from-space-1)
+### 35. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/green-hydrogen-from-space-1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntü, yakıt hücresi sistemlerinde kullanılan yardımcı bileşenlerin (pompa, valf, tank ve hatlar) teknik bir CAD modelini temsil etmektedir.
@@ -1972,7 +2555,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 24. [Three-dimensional Rendering of a Compact Hydrogen Energy Generator ...](https://www.dreamstime.com/three-dimensional-rendering-compact-hydrogen-energy-generator-three-dimensional-rendering-compact-hydrogen-energy-image444312823)
+### 36. [Three-dimensional Rendering of a Compact Hydrogen Energy Generator ...](https://www.dreamstime.com/three-dimensional-rendering-compact-hydrogen-energy-generator-three-dimensional-rendering-compact-hydrogen-energy-image444312823)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de hidrojen yakıt hücresi sistemlerinin teknik bileşenlerini ve çalışma prensiplerini gösteren endüstriyel tasarımlardır.
@@ -1983,7 +2566,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 25. [3D Hydrogen Generator - TurboSquid 1280110](https://www.turbosquid.com/3d-models/3d-hydrogen-generator-1280110)
+### 37. [3D Hydrogen Generator - TurboSquid 1280110](https://www.turbosquid.com/3d-models/3d-hydrogen-generator-1280110)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Referans görseldeki yakıt hücresi sistemi ile aday görseldeki bileşenler, hidrojen yakıt hücresi teknolojisinin temel çalışma prensibini ve mekanik yapısını temsil etmektedir.
@@ -1994,7 +2577,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 26. [Robotic Technologies for Proton Exchange Membrane Fuel Cell Assembly ...](https://www.intechopen.com/chapters/57505)
+### 38. [Robotic Technologies for Proton Exchange Membrane Fuel Cell Assembly ...](https://www.intechopen.com/chapters/57505)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 1 bir yakıt hücresi sisteminin genel paketleme tasarımını ve gelişimini gösterirken, görsel 2 bu sistemin temelini oluşturan yakıt hücresi yığınının (stack) teknik CAD modelini göstermektedir.
@@ -2005,7 +2588,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 27. [3D model Proton Exchange Membrane Fuel Cell Stack - TurboSquid 1848618](https://www.turbosquid.com/3d-models/3d-model-proton-exchange-membrane-fuel-cell-stack-1848618)
+### 39. [3D model Proton Exchange Membrane Fuel Cell Stack - TurboSquid 1848618](https://www.turbosquid.com/3d-models/3d-model-proton-exchange-membrane-fuel-cell-stack-1848618)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, yakıt hücresi sisteminin temelini oluşturan ve Görsel 1'deki sistemin içinde kullanılan hidrojen yakıt hücresi yığını bileşenini (stack) temsil etmektedir.
@@ -2016,7 +2599,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 28. [Hydrogen Fuel Cell Engine](https://ar.inspiredpencil.com/pictures-2023/hydrogen-fuel-cell-engine)
+### 40. [Hydrogen Fuel Cell Engine](https://ar.inspiredpencil.com/pictures-2023/hydrogen-fuel-cell-engine)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Her iki görsel de hidrojen yakıt hücresi sisteminin temel bileşenlerini ve teknik tasarım yapısını sergileyen profesyonel mühendislik modelleridir.
@@ -2027,7 +2610,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 29. [Precision Chemical Machining for Bipolar Plate Manufacturing](https://www.photofabrication.com/why-photochemical-etching-is-ideal-for-bipolar-plates/)
+### 41. [Precision Chemical Machining for Bipolar Plate Manufacturing](https://www.photofabrication.com/why-photochemical-etching-is-ideal-for-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki parça, yakıt hücresi sisteminin temel bileşeni olan çift kutuplu plakayı (bipolar plate) temsil etmektedir.
@@ -2038,7 +2621,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 30. [3D model Pragma Industries PEM Fuel Cell Stack - TurboSquid 1848559](https://www.turbosquid.com/3d-models/3d-model-pragma-industries-pem-fuel-cell-stack-1848559)
+### 42. [3D model Pragma Industries PEM Fuel Cell Stack - TurboSquid 1848559](https://www.turbosquid.com/3d-models/3d-model-pragma-industries-pem-fuel-cell-stack-1848559)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, endüstriyel bir yakıt hücresi sisteminin temel çalışma prensibini gösteren modüler bir yakıt hücresi yığını (stack) tasarımını temsil etmektedir.
@@ -2049,7 +2632,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 31. [Proton Exchange Membrane Fuel Cell Stack 3D Model $33 - .3ds .blend ...](https://free3d.com/3d-model/proton-exchange-membrane-fuel-cell-stack-9167.html)
+### 43. [Proton Exchange Membrane Fuel Cell Stack 3D Model $33 - .3ds .blend ...](https://free3d.com/3d-model/proton-exchange-membrane-fuel-cell-stack-9167.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 2, referans sistemindeki yakıt hücresi yığınının (stack) tek bir modüler prototip bileşenini temsil eden teknik bir 3D modeldir.
@@ -2060,7 +2643,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 32. [Homemade Hydrogen Fuel Cell Horizon DIY Fuel Cell Science Classroom](https://fity.club/lists/suggestions/homemade-hydrogen-fuel-cell/)
+### 44. [Homemade Hydrogen Fuel Cell Horizon DIY Fuel Cell Science Classroom](https://fity.club/lists/suggestions/homemade-hydrogen-fuel-cell/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, though the reference shows the GenCore design evolution while the candidate displays a generic hydrogen fuel cell power generator cart with CAD and physical build views.
@@ -2071,7 +2654,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 33. [Hydrogen Fuel Cell 3D Model - TurboSquid 2269715](https://www.turbosquid.com/3d-models/hydrogen-fuel-cell-3d-model-2269715)
+### 45. [Hydrogen Fuel Cell 3D Model - TurboSquid 2269715](https://www.turbosquid.com/3d-models/hydrogen-fuel-cell-3d-model-2269715)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 depicts a detailed CAD model of a multi-stack fuel cell core, which represents the core internal component of the fuel cell system shown in Image 1.
@@ -2082,7 +2665,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 34. [Hydrogen Energy Fuel Cell Stack - Gas Diffusion and Energy Storage](https://ssiconveyer.en.made-in-china.com/product/bwgtixIUYCYL/China-Hydrogen-Energy-Fuel-Cell-Stack.html)
+### 46. [Hydrogen Energy Fuel Cell Stack - Gas Diffusion and Energy Storage](https://ssiconveyer.en.made-in-china.com/product/bwgtixIUYCYL/China-Hydrogen-Energy-Fuel-Cell-Stack.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows the GenCore design evolution while Image 2 illustrates a modular fuel cell stack assembly breakdown.
@@ -2093,7 +2676,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 35. [What Is Toyota Hydrogen Fuel Cell](https://storage.googleapis.com/rzkjpr79v3bc/what-is-toyota-hydrogen-fuel-cell.html)
+### 47. [What Is Toyota Hydrogen Fuel Cell](https://storage.googleapis.com/rzkjpr79v3bc/what-is-toyota-hydrogen-fuel-cell.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 2 focuses on an internal automotive FC stack assembly rather than the GenCore stationary cabinet design in Image 1.
@@ -2104,7 +2687,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 36. [3D Fuel Cell Bipolarplate2 - TurboSquid 1727041](https://www.turbosquid.com/3d-models/3d-fuel-cell-bipolarplate2-1727041)
+### 48. [3D Fuel Cell Bipolarplate2 - TurboSquid 1727041](https://www.turbosquid.com/3d-models/3d-fuel-cell-bipolarplate2-1727041)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows a CAD model of a fuel cell bipolar plate stack, which is a key internal component of the fuel cell system shown in Image 1.
@@ -2115,7 +2698,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 37. [The Status of On-Board Hydrogen Storage in Fuel Cell Electric Vehicles](https://www.mdpi.com/2411-9660/7/4/97)
+### 49. [The Status of On-Board Hydrogen Storage in Fuel Cell Electric Vehicles](https://www.mdpi.com/2411-9660/7/4/97)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 provides a detailed exploded CAD assembly of a PEM fuel cell stack component which is functionally related to the GenCore fuel cell system shown in the reference image.
@@ -2126,7 +2709,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 38. [Efficient Fuel Cell Flow Field Design Guide](https://tmnetch.com/efficient-fuel-cell-flow-field-design-guide/)
+### 50. [Efficient Fuel Cell Flow Field Design Guide](https://tmnetch.com/efficient-fuel-cell-flow-field-design-guide/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Although Image 1 depicts a complete GenCore fuel cell cabinet system and Image 2 shows detailed fuel cell flow field bipolar plates, both pertain directly to the core technology of fuel cell systems.
@@ -2137,7 +2720,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 39. [Optimization of Cooling Channel Structure of Bipolar Plate for Proton ...](https://www.mdpi.com/1996-1073/16/16/5858)
+### 51. [Optimization of Cooling Channel Structure of Bipolar Plate for Proton ...](https://www.mdpi.com/1996-1073/16/16/5858)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded CAD model of a fuel cell component layer which is functionally related to the fuel cell system shown in Image 1.
@@ -2148,7 +2731,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 40. [Fuel Cells Bipolar Plate - Interplex](https://interplex.com/fuel-cell-bipolar-plate/)
+### 52. [Fuel Cells Bipolar Plate - Interplex](https://interplex.com/fuel-cell-bipolar-plate/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore fuel cell system assembly and Image 2 detailing its internal components like the bipolar plates and flow channels.
@@ -2159,7 +2742,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 41. [Recent Development of Fuel Cell Core Components and Key Materials: A Review](https://www.mdpi.com/1996-1073/16/5/2099)
+### 53. [Recent Development of Fuel Cell Core Components and Key Materials: A Review](https://www.mdpi.com/1996-1073/16/5/2099)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Although Image 1 shows a complete GenCore fuel cell system cabinet design and Image 2 shows an exploded CAD view of a fuel cell stack core component, they both clearly represent parts of the same overarching fuel cell system technology.
@@ -2170,7 +2753,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 42. [(PDF) Study of PEM Fuel Cell End Plate Design by Structural Analysis ...](https://www.academia.edu/71211899/Study_of_PEM_Fuel_Cell_End_Plate_Design_by_Structural_Analysis_Based_on_Contact_Pressure)
+### 54. [(PDF) Study of PEM Fuel Cell End Plate Design by Structural Analysis ...](https://www.academia.edu/71211899/Study_of_PEM_Fuel_Cell_End_Plate_Design_by_Structural_Analysis_Based_on_Contact_Pressure)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system cabinet overview, whereas Image 2 illustrates a detailed exploded CAD model schematic of the internal PEMFC stack component.
@@ -2181,7 +2764,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 43. [Endplate Design and Topology Optimization of Fuel Cell Stack Clamped ...](https://www.mdpi.com/2071-1050/14/8/4730)
+### 55. [Endplate Design and Topology Optimization of Fuel Cell Stack Clamped ...](https://www.mdpi.com/2071-1050/14/8/4730)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded CAD model of a fuel cell component (PEM fuel cell single cell stack layers), which is intrinsically related to the GenCore fuel cell system in Image 1.
@@ -2192,7 +2775,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 44. [Water Management Strategies for Proton Exchange Membrane Fuel Cells: A ...](https://www.mdpi.com/2673-3293/6/4/38)
+### 56. [Water Management Strategies for Proton Exchange Membrane Fuel Cells: A ...](https://www.mdpi.com/2673-3293/6/4/38)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a full commercial system design evolution and Image 2 showing a detailed CAD exploded view of a component fuel cell stack.
@@ -2203,7 +2786,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 45. [Toyota Hydrogen Fuel Cell Diagram](https://www.animalia-life.club/qa/pictures/toyota-hydrogen-fuel-cell-diagram.html)
+### 57. [Toyota Hydrogen Fuel Cell Diagram](https://www.animalia-life.club/qa/pictures/toyota-hydrogen-fuel-cell-diagram.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems and related hardware architectures, though Image 2 focuses on a specific internal core stack assembly rather than the full enclosure shown in Image 1.
@@ -2214,7 +2797,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 46. [Green Energy Hydrogen Technology with Exploded Parts View Stock ...](https://www.dreamstime.com/d-technical-illustration-hydrogen-fuel-cell-stack-exploded-view-educational-diagram-proton-exchange-membrane-pem-image425398497)
+### 58. [Green Energy Hydrogen Technology with Exploded Parts View Stock ...](https://www.dreamstime.com/d-technical-illustration-hydrogen-fuel-cell-stack-exploded-view-educational-diagram-proton-exchange-membrane-pem-image425398497)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 shows an exploded CAD rendering of a fuel cell stack core component, which is a key subsystem of the overall fuel cell system shown in Image 1.
@@ -2225,7 +2808,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 47. [PRODUKTE - Hydrogen Innovation GmbH](https://hydrogen-innovation.de/en/produkte/)
+### 59. [PRODUKTE - Hydrogen Innovation GmbH](https://hydrogen-innovation.de/en/produkte/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** While Image 1 depicts an entire GenCore fuel cell system cabinet and Image 2 shows a specific internal fuel cell stack CAD model, both represent the same fundamental technology domain of hydrogen fuel cell systems.
@@ -2236,7 +2819,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 48. [Graebener Bipolar Plate Technologies – ZPUFG](https://energy.otoko-diet.com/graebener-bipolar-plate-technologies/)
+### 60. [Graebener Bipolar Plate Technologies – ZPUFG](https://energy.otoko-diet.com/graebener-bipolar-plate-technologies/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** While image 1 shows the complete GenCore fuel cell system housing and image 2 shows an individual metallic bipolar plate component, both are fundamentally related as components within the same hydrogen fuel cell stack architecture.
@@ -2247,7 +2830,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 49. [[FreeCAD Showcase] Simulating a hydrogen fuel cell bipolar plate gasket ...](https://grabcad.com/groups/freecad-help-showcase/discussions/freecad-showcase-simulating-a-hydrogen-fuel-cell-bipolar-plate-gasket-using-open-source-software)
+### 61. [[FreeCAD Showcase] Simulating a hydrogen fuel cell bipolar plate gasket ...](https://grabcad.com/groups/freecad-help-showcase/discussions/freecad-showcase-simulating-a-hydrogen-fuel-cell-bipolar-plate-gasket-using-open-source-software)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** The candidate image shows a CAD model of a fuel cell bipolar plate, which is a core internal component of the fuel cell system shown in the reference.
@@ -2258,7 +2841,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 50. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hydrogen-fuel-cell-bipolar-plate-with-gasket-and-collector-1)
+### 62. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/hydrogen-fuel-cell-bipolar-plate-with-gasket-and-collector-1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a CAD model of a bipolar plate, which is an internal component of the fuel cell stack referenced in Image 1.
@@ -2269,7 +2852,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 51. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bipolar-plate-1)
+### 63. [Free CAD Designs, Files & 3D Models | The GrabCAD Community Library](https://grabcad.com/library/bipolar-plate-1)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a fuel cell bipolar plate CAD model which is an essential internal component of the fuel cell system shown in Image 1.
@@ -2280,7 +2863,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 52. [Bipolar plates and stack components - Components for the hydrogen ...](https://www.hoerbiger.com/en/products-and-services/components-for-the-hydrogen-industry/bipolar-plates-and-stack-components.html)
+### 64. [Bipolar plates and stack components - Components for the hydrogen ...](https://www.hoerbiger.com/en/products-and-services/components-for-the-hydrogen-industry/bipolar-plates-and-stack-components.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system assembly while Image 2 displays a detailed CAD model of an internal component (bipolar plate with flow channels and manifold seals) belonging to the same fuel cell technology.
@@ -2291,7 +2874,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 53. [Hydrogen Fuel Cell Stack System Electricity Power Supply Battery Energy ...](https://taijipower.en.made-in-china.com/product/MQhROVCdQyck/China-Hydrogen-Fuel-Cell-Stack-System-Electricity-Power-Supply-Battery-Energy-Storage.html)
+### 65. [Hydrogen Fuel Cell Stack System Electricity Power Supply Battery Energy ...](https://taijipower.en.made-in-china.com/product/MQhROVCdQyck/China-Hydrogen-Fuel-Cell-Stack-System-Electricity-Power-Supply-Battery-Energy-Storage.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems with internal components, stack modules, and auxiliary plumbing housed in an enclosure or frame.
@@ -2302,7 +2885,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 54. [Graphite Bipolar Plate – An Important Part in Hydrogen Fuel Cell](https://www.xrgraphite.com/graphite-products/graphite-special-shaped-parts/graphite-bipolar-plates.html)
+### 66. [Graphite Bipolar Plate – An Important Part in Hydrogen Fuel Cell](https://www.xrgraphite.com/graphite-products/graphite-special-shaped-parts/graphite-bipolar-plates.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows an assembled fuel cell system enclosure, while Image 2 shows individual bipolar flow field plates which are core internal components of the same fuel cell technology.
@@ -2313,7 +2896,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 55. [How Does PEM Technology Work? 2025 Electrolysis & Fuel Cell Guide](https://heletitaniumhydrogen.com/how-pem-technology-works-hydrogen-electrolysis-guide/)
+### 67. [How Does PEM Technology Work? 2025 Electrolysis & Fuel Cell Guide](https://heletitaniumhydrogen.com/how-pem-technology-works-hydrogen-electrolysis-guide/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore design evolution and Image 2 illustrating the internal membrane electrode assembly (MEA) stack components.
@@ -2324,7 +2907,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 56. [Hydrogen Fuel Cell Powertrains](https://www.schoolcraft.edu/workforce/training-programs/electrified-mobility/hydrogen-fuel-cell-powertrains/)
+### 68. [Hydrogen Fuel Cell Powertrains](https://www.schoolcraft.edu/workforce/training-programs/electrified-mobility/hydrogen-fuel-cell-powertrains/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system design evolution, while Image 2 shows a detailed exploded CAD model of the specific internal fuel cell stack components used within such systems.
@@ -2335,7 +2918,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 57. [Portable Prototype of Hydrogen Fuel Cells for Educational Training](https://www.mdpi.com/2076-3417/13/1/608)
+### 69. [Portable Prototype of Hydrogen Fuel Cells for Educational Training](https://www.mdpi.com/2076-3417/13/1/608)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows a complete GenCore cabinet enclosure design while Image 2 illustrates the internal component breakdown and assembly of a fuel cell stack.
@@ -2346,7 +2929,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 58. [1.5W Air Cooled Pem Hydrogen Fuel Cell Stack - China Stack and Hydrogen](https://edeb8150fe8a868d.en.made-in-china.com/product/QxIURkCHJLWK/China-1-5W-Air-Cooled-Pem-Hydrogen-Fuel-Cell-Stack.html)
+### 70. [1.5W Air Cooled Pem Hydrogen Fuel Cell Stack - China Stack and Hydrogen](https://edeb8150fe8a868d.en.made-in-china.com/product/QxIURkCHJLWK/China-1-5W-Air-Cooled-Pem-Hydrogen-Fuel-Cell-Stack.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a PEM fuel cell stack core which is the internal functional component of the GenCore fuel cell system shown in Image 1.
@@ -2357,7 +2940,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 59. [GAC Group rolls off first self-developed 140kW hydrogen fuel cell stack ...](https://hydrogen-central.com/gac-group-rolls-off-first-self-developed-140kw-hydrogen-fuel-cell-stack/)
+### 71. [GAC Group rolls off first self-developed 140kW hydrogen fuel cell stack ...](https://hydrogen-central.com/gac-group-rolls-off-first-self-developed-140kw-hydrogen-fuel-cell-stack/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows an evolutionary overview of a complete GenCore fuel cell system, while Image 2 shows a detailed physical fuel cell stack core component belonging to a similar hydrogen power system.
@@ -2368,7 +2951,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 60. [Do you understand the power principle of hydrogen fuel cell vehicles ...](https://tmnetch.com/understanding-how-hydrogen-fuel-cell-vehicles-work/)
+### 72. [Do you understand the power principle of hydrogen fuel cell vehicles ...](https://tmnetch.com/understanding-how-hydrogen-fuel-cell-vehicles-work/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing a cabinet-enclosed GenCore design and Image 2 displaying a detailed CAD assembly of internal fuel cell components.
@@ -2379,7 +2962,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 61. [Pragma Industries PEM Fuel Cell Stack 3D Model $39 - .3ds .blend .c4d ...](https://free3d.com/3d-model/pragma-industries-pem-fuel-cell-stack-6279.html)
+### 73. [Pragma Industries PEM Fuel Cell Stack 3D Model $39 - .3ds .blend .c4d ...](https://free3d.com/3d-model/pragma-industries-pem-fuel-cell-stack-6279.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows an entire GenCore fuel cell system housing and evolution chart, while Image 2 shows a detailed CAD model of a fuel cell stack component which is functionally part of the same technology family.
@@ -2390,7 +2973,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 62. [HTPEM Fuel Cell Stack - 3D model by 2D3DYESD [550b850] - Sketchfab](https://sketchfab.com/3d-models/htpem-fuel-cell-stack-550b850180624a7091d3e375c38977a3)
+### 74. [HTPEM Fuel Cell Stack - 3D model by 2D3DYESD [550b850] - Sketchfab](https://sketchfab.com/3d-models/htpem-fuel-cell-stack-550b850180624a7091d3e375c38977a3)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 depicts a detailed CAD model of a fuel cell stack, which is the core internal mechanism of the fuel cell system shown in the reference image.
@@ -2401,7 +2984,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 63. [PEM Electrolyzer Stack](https://www.pfsamembrane.com/photo/PEM-Electrolyzer-Stack.html)
+### 75. [PEM Electrolyzer Stack](https://www.pfsamembrane.com/photo/PEM-Electrolyzer-Stack.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, with Image 1 showing the complete GenCore cabinet assembly and Image 2 showing a detailed CAD model of the internal fuel cell stack.
@@ -2412,7 +2995,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 64. [Fuel Cell Bipolar Plate Design at Alexis Whitaker blog](https://storage.googleapis.com/duhjhswxihtbwe/fuel-cell-bipolar-plate-design.html)
+### 76. [Fuel Cell Bipolar Plate Design at Alexis Whitaker blog](https://storage.googleapis.com/duhjhswxihtbwe/fuel-cell-bipolar-plate-design.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 2 illustrates an exploded CAD model of a fuel cell stack (membrane electrode assembly and bipolar plates), which directly relates to the internal components of the fuel cell system shown in Image 1.
@@ -2423,7 +3006,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 65. [ZSW: Stack technology](https://www.zsw-bw.de/en/research/fuel-cells/topics/stack-technology.html)
+### 77. [ZSW: Stack technology](https://www.zsw-bw.de/en/research/fuel-cells/topics/stack-technology.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 presents an exploded CAD assembly of internal fuel cell components which corresponds to the fuel cell system architecture referenced in Image 1.
@@ -2434,7 +3017,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 66. [PEM Hydrogen Fuel Cell Stack - Efficient Energy Solution](https://www.alibaba.com/product-detail/PEM-Hydrogen-Fuel-Cell-stack_1600444682621.html)
+### 78. [PEM Hydrogen Fuel Cell Stack - Efficient Energy Solution](https://www.alibaba.com/product-detail/PEM-Hydrogen-Fuel-Cell-stack_1600444682621.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** The reference image shows the overall GenCore fuel cell system housing and evolution, while the candidate image depicts a detailed CAD model of a fuel cell core/stack with fluid manifolds, representing a core internal component of the same technology family.
@@ -2445,7 +3028,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 67. [5-150kw Water-Cooled High-Power Fuel Cell Stack Customization ...](https://h2etech.en.made-in-china.com/product/knmUhXIcsERC/China-5-150kw-Water-Cooled-High-Power-Fuel-Cell-Stack-Customization.html)
+### 79. [5-150kw Water-Cooled High-Power Fuel Cell Stack Customization ...](https://h2etech.en.made-in-china.com/product/knmUhXIcsERC/China-5-150kw-Water-Cooled-High-Power-Fuel-Cell-Stack-Customization.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a generic fuel cell stack assembly which is a core component contained within the larger GenCore system enclosures depicted in Image 1.
@@ -2456,7 +3039,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 68. [10-150kw Custom High-Power Hydrogen Fuel Cell Stack Liquid-Cooled ...](https://h2etech.en.made-in-china.com/product/LFkGwVnOMdpo/China-10-150kw-Custom-High-Power-Hydrogen-Fuel-Cell-Stack-Liquid-Cooled.html)
+### 80. [10-150kw Custom High-Power Hydrogen Fuel Cell Stack Liquid-Cooled ...](https://h2etech.en.made-in-china.com/product/LFkGwVnOMdpo/China-10-150kw-Custom-High-Power-Hydrogen-Fuel-Cell-Stack-Liquid-Cooled.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (technical_drawing)
 - **AI Teknik İncelemesi:** Image 1 shows the complete GenCore fuel cell system cabinet, while Image 2 provides a detailed CAD representation of the fuel cell stack core component used within such systems.
@@ -2467,7 +3050,7 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-### 69. [Fuel Cell Stack 3D Model $29 - .3ds .obj .c4d .ma .max - Free3D](https://free3d.com/3d-model/fuel-cell-stack-3756.html)
+### 81. [Fuel Cell Stack 3D Model $29 - .3ds .obj .c4d .ma .max - Free3D](https://free3d.com/3d-model/fuel-cell-stack-3756.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a 3D CAD model of a fuel cell stack, which is the core functional component housed within the GenCore fuel cell system depicted in the reference image.
@@ -2483,10 +3066,43 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 _Bu kategoride henüz doğrulanmış kaynak bulunamadı._
 
-## 💡 Proje Fikirleri & DIY Varyasyonları (20 adet)
+## 💡 Proje Fikirleri & DIY Varyasyonları (23 adet)
 _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
-### 1. [Comprendre les composants d’un électrolyseur PEM et leurs fonctions](https://senzahydrogen.com/fr/understanding-pem-electrolyzer-components/)
+### 1. [Hydrogen Fuel Cell Clamping Fixture Single Mea Testing Tooling Fixture ...](https://hfsinopower.en.made-in-china.com/product/vpMRcOHyEEWi/China-Hydrogen-Fuel-Cell-Clamping-Fixture-Single-Mea-Testing-Tooling-Fixture-Customization.html)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Görsel 2, PEM yakıt hücresi yığınına ait montaj sıkıştırma plakaları ve akış kanalları bileşenlerini içeren çalışan bir prototip sistemi temsil etmektedir.
+- **Tarih:** 2026-11-21 09:19:49
+
+![Önizleme](https://image.made-in-china.com/202f0j00liYBEKAqkcbJ/Hydrogen-Fuel-Cell-Clamping-Fixture-Single-Mea-Testing-Tooling-Fixture-Customization.webp)
+
+
+---
+
+### 2. [Horizon Educational - What’s Inside a PEM Fuel Cell Stack? A Simple ...](https://www.horizoneducational.com/what-s-inside-a-pem-fuel-cell-stack-a-simple-anatomy-guide/t1737?currency=usd)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 75` (working_variation)
+- **AI Teknik İncelemesi:** Her iki görsel de Proton Değişim Membranlı (PEM) yakıt hücresi yığını teknolojisini temsil etmektedir; birinci görsel endüstriyel bir sistemi, ikinci görsel ise bu sistemin eğitim ve deney amaçlı kullanılan çalışma prensibine uygun bir prototip/laboratuvar ölçekli varyasyonunu yansıtmaktadır.
+- **Tarih:** 2026-11-21 09:18:03
+
+![Önizleme](https://static.viaaurea.eu/t/horizoneducational.com/images/2569.jpg/o-w:1920|h:1920/s-2b420ff2d47a?_ts=1634046461)
+
+
+---
+
+### 3. [PEM Fuel cell short stack Assembly - YouTube](https://www.youtube.com/watch?v=tMBSYVkTsRU)
+- **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
+- **Doğrulama Skoru:** `% 85` (working_variation)
+- **AI Teknik İncelemesi:** Görsel 2, kullanıcı gereksinimlerinde belirtilen PEM yakıt hücresi yığını (stack) montajı, sıkıştırma plakaları ve akış kanalları mekanizmasını içeren işlevsel bir laboratuvar ölçekli prototip örneğidir.
+- **Tarih:** 2026-11-21 09:12:52
+
+![Önizleme](https://i.ytimg.com/vi/tMBSYVkTsRU/maxresdefault.jpg)
+
+
+---
+
+### 4. [Comprendre les composants d’un électrolyseur PEM et leurs fonctions](https://senzahydrogen.com/fr/understanding-pem-electrolyzer-components/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görsel 1 ticari bir yakıt hücresi sistemi evrimini, Görsel 2 ise bu sistemlerin temelini oluşturan PEM elektrolizör/yakıt hücresi yığını bileşenlerini (bipolar plakalar, akış alanları ve membran) gösteren bir prototip çalışmasını temsil etmektedir.
@@ -2497,7 +3113,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 2. [Hydrogen Fuel Cell Diy](https://ar.inspiredpencil.com/pictures-2023/hydrogen-fuel-cell-diy)
+### 5. [Hydrogen Fuel Cell Diy](https://ar.inspiredpencil.com/pictures-2023/hydrogen-fuel-cell-diy)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans görselindeki endüstriyel yakıt hücresi sisteminin aksine el yapımı bir yakıt hücresi yığını (stack) prototipini göstermektedir.
@@ -2508,7 +3124,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 3. [Diy Hydrogen Fuel Cell - DIY Ceiling Makeover](https://phpmyadmin.muycomputerpro.com/diy/diy-hydrogen-fuel-cell.html)
+### 6. [Diy Hydrogen Fuel Cell - DIY Ceiling Makeover](https://phpmyadmin.muycomputerpro.com/diy/diy-hydrogen-fuel-cell.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans görseldeki endüstriyel yakıt hücresi sisteminin çalışma prensibini ve bileşenlerini (yakıt hücresi yığını, sıvı tankı, hortumlar) içeren çalışan bir kendin-yap (DIY) varyasyonunu göstermektedir.
@@ -2519,7 +3135,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 4. [Perfect Tips About How To Build A Dry Cell Hydrogen Generator - Melloo](https://melloo.adammannauthor.com/how-to-build-a-dry-cell-hydrogen-generator.html)
+### 7. [Perfect Tips About How To Build A Dry Cell Hydrogen Generator - Melloo](https://melloo.adammannauthor.com/how-to-build-a-dry-cell-hydrogen-generator.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, birinci görseldeki büyük endüstriyel yakıt hücresi sisteminin temelini oluşturan, laboratuvar tipi ev yapımı (DIY) bir yakıt hücresi yığınını göstermektedir.
@@ -2530,7 +3146,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 5. [How are the metallic bipolar plates used for PEM fuel cell stacks](https://www.linkedin.com/pulse/how-metallic-bipolar-plates-used-pem-fuel-cell-stacks-lydia-hu-uzexc)
+### 8. [How are the metallic bipolar plates used for PEM fuel cell stacks](https://www.linkedin.com/pulse/how-metallic-bipolar-plates-used-pem-fuel-cell-stacks-lydia-hu-uzexc)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntü 2'deki metal iki kutuplu plakalar, yakıt hücresi sisteminin temel bir bileşeni olup sistemle doğrudan ilgilidir ancak doğrudan aynı tam sistem değildir.
@@ -2541,7 +3157,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 6. [Hydrogen Fuel Cells - Beswick Engineering](https://www.beswick.com/industries-served/hydrogen-fuel-cells/)
+### 9. [Hydrogen Fuel Cells - Beswick Engineering](https://www.beswick.com/industries-served/hydrogen-fuel-cells/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Although Image 1 shows a commercial GenCore fuel cell system assembly and Image 2 shows a transparent experimental PEM fuel cell stack, both fundamentally represent the same core technology of hydrogen fuel cell systems.
@@ -2552,7 +3168,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 7. [Hydrogen Fuel Cells Diy at Kevin Marsh blog](https://storage.googleapis.com/dfaowkmksdwobe/hydrogen-fuel-cells-diy.html)
+### 10. [Hydrogen Fuel Cells Diy at Kevin Marsh blog](https://storage.googleapis.com/dfaowkmksdwobe/hydrogen-fuel-cells-diy.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows an industrial GenCore fuel cell system while Image 2 depicts a smaller experimental PEM fuel cell stack, but both represent the same fundamental technology and domain of fuel cell systems.
@@ -2563,7 +3179,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 8. [How to Build DIY Hydrogen Fuel Cells: A Beginner’s Guide](https://www.horizoneducational.com/fr/how-to-build-diy-hydrogen-fuel-cells-a-beginner-s-guide/t1638?currency=usd)
+### 11. [How to Build DIY Hydrogen Fuel Cells: A Beginner’s Guide](https://www.horizoneducational.com/fr/how-to-build-diy-hydrogen-fuel-cells-a-beginner-s-guide/t1638?currency=usd)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows an industrial GenCore design while Image 2 shows an educational or DIY tabletop fuel cell training kit.
@@ -2574,7 +3190,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 9. [Understanding Graphite Bipolar Plates: The Key Component Of Fuel Cells ...](https://tmnetch.com/understanding-graphite-bipolar-plates/)
+### 12. [Understanding Graphite Bipolar Plates: The Key Component Of Fuel Cells ...](https://tmnetch.com/understanding-graphite-bipolar-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays bipolar plates which are internal core components of the fuel cell system shown in Image 1.
@@ -2585,7 +3201,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 10. [Graphite Bipolar Electrode Graphite Fuel Cell Bipolar Electrolyzer ...](https://ttwymachinery.en.made-in-china.com/product/pmaYFrIJIBRW/China-Graphite-Bipolar-Electrode-Graphite-Fuel-Cell-Bipolar-Electrolyzer-Plate-Products.html)
+### 13. [Graphite Bipolar Electrode Graphite Fuel Cell Bipolar Electrolyzer ...](https://ttwymachinery.en.made-in-china.com/product/pmaYFrIJIBRW/China-Graphite-Bipolar-Electrode-Graphite-Fuel-Cell-Bipolar-Electrolyzer-Plate-Products.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a stacked array of bipolar flow plates which are core internal components of a fuel cell system shown in Image 1.
@@ -2596,7 +3212,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 11. [End Plates – The Open Fuel Cell Project](https://openfuelcell.org/componentsposts/end-plates/)
+### 14. [End Plates – The Open Fuel Cell Project](https://openfuelcell.org/componentsposts/end-plates/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows a complete commercial fuel cell system design evolution, while Image 2 shows a custom-machined bipolar plate component typical of DIY fuel cell stack fabrication.
@@ -2607,7 +3223,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 12. [What is a graphite bipolar plate? - VET Energy](https://www.vet-china.com/news/what-is-a-graphite-bipolar-plate/)
+### 15. [What is a graphite bipolar plate? - VET Energy](https://www.vet-china.com/news/what-is-a-graphite-bipolar-plate/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** While the reference image displays a complete GenCore fuel cell system cabinet enclosure, the candidate image shows bipolar plates and components internal to a fuel cell stack, making them functionally related within the same technology domain.
@@ -2618,7 +3234,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 13. [H2e Custom 5-150kw Pem Hydrogen Fuel Cell Stack with Good Performance ...](https://h2etech.en.made-in-china.com/product/LxVpqzioTmRJ/China-H2e-Custom-5-150kw-Pem-Hydrogen-Fuel-Cell-Stack-with-Good-Performance.html)
+### 16. [H2e Custom 5-150kw Pem Hydrogen Fuel Cell Stack with Good Performance ...](https://h2etech.en.made-in-china.com/product/LxVpqzioTmRJ/China-H2e-Custom-5-150kw-Pem-Hydrogen-Fuel-Cell-Stack-with-Good-Performance.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays a standalone fuel cell stack core component which is the internal functional heart of the complete fuel cell system shown in the reference image.
@@ -2629,7 +3245,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 14. [Hydrogen Fuel Cell Stack 1500W Hydrogen Fuel Cell Stack Air Cooling ...](https://hfsinopower.en.made-in-china.com/product/MmFUxOPlbXVG/China-Hydrogen-Fuel-Cell-Stack-1500W-Hydrogen-Fuel-Cell-Stack-Air-Cooling.html)
+### 17. [Hydrogen Fuel Cell Stack 1500W Hydrogen Fuel Cell Stack Air Cooling ...](https://hfsinopower.en.made-in-china.com/product/MmFUxOPlbXVG/China-Hydrogen-Fuel-Cell-Stack-1500W-Hydrogen-Fuel-Cell-Stack-Air-Cooling.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows the evolution of a GenCore fuel cell system housing and design specs, while Image 2 shows individual PEM fuel cell core stacks which are the internal components of such systems.
@@ -2640,7 +3256,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 15. [Horizon Educational - How to Build DIY Hydrogen Fuel Cells: A Beginner ...](https://www.horizoneducational.com/how-to-build-diy-hydrogen-fuel-cells-a-beginner-s-guide/t1638?currency=usd)
+### 18. [Horizon Educational - How to Build DIY Hydrogen Fuel Cells: A Beginner ...](https://www.horizoneducational.com/how-to-build-diy-hydrogen-fuel-cells-a-beginner-s-guide/t1638?currency=usd)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images feature fuel cell systems, though the reference shows an industrial GenCore design while the candidate displays a desktop DIY educational hydrogen fuel cell trainer.
@@ -2651,7 +3267,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 16. [Impermeable Graphite Bipolar Plates for Pem Hydrogen Fuel Cell Battery ...](https://f69fe4bdad5cc81f.en.made-in-china.com/product/GmnYPKUCvWcH/China-Impermeable-Graphite-Bipolar-Plates-for-Pem-Hydrogen-Fuel-Cell-Battery.html)
+### 19. [Impermeable Graphite Bipolar Plates for Pem Hydrogen Fuel Cell Battery ...](https://f69fe4bdad5cc81f.en.made-in-china.com/product/GmnYPKUCvWcH/China-Impermeable-Graphite-Bipolar-Plates-for-Pem-Hydrogen-Fuel-Cell-Battery.html)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** While Image 1 depicts a complete GenCore fuel cell system assembly and Image 2 shows individual bipolar plates used inside such systems, they both fundamentally belong to the same fuel cell domain.
@@ -2662,7 +3278,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 17. [Bipolar Plates for Hydrogen Fuel Cells | Switzer](https://www.switzermfg.com/metal-bipolar-plates-for-hydrogen-fuel-cells/)
+### 20. [Bipolar Plates for Hydrogen Fuel Cells | Switzer](https://www.switzermfg.com/metal-bipolar-plates-for-hydrogen-fuel-cells/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 1 shows a complete GenCore fuel cell system assembly, while Image 2 shows an internal bipolar flow plate component used in fuel cell stacks, sharing the same domain but differing in scale.
@@ -2673,7 +3289,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 18. [Figure 1 from Exergy Analysis of a PEM Fuel Cell System with Different ...](https://www.semanticscholar.org/paper/Exergy-Analysis-of-a-PEM-Fuel-Cell-System-with-Flow-Ionescu-Buzbuchi/966b628cbd2559940e9fd56d74ed5098f84956ec/figure/0)
+### 21. [Figure 1 from Exergy Analysis of a PEM Fuel Cell System with Different ...](https://www.semanticscholar.org/paper/Exergy-Analysis-of-a-PEM-Fuel-Cell-System-with-Flow-Ionescu-Buzbuchi/966b628cbd2559940e9fd56d74ed5098f84956ec/figure/0)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** While the reference depicts an industrial GenCore fuel cell system design evolution, the candidate shows a detailed laboratory-scale PEM fuel cell single-cell assembly with labeled components (MEA, bipolar plates, current collectors), representing a functional working variant within the same overarching technology.
@@ -2684,7 +3300,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 19. [Welcome to the Fuel Cell Lab – Green Technology Laboratory](https://research.engineering.ucdavis.edu/greentech/fuel-cell/)
+### 22. [Welcome to the Fuel Cell Lab – Green Technology Laboratory](https://research.engineering.ucdavis.edu/greentech/fuel-cell/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Both images depict fuel cell systems, though Image 1 shows a complete GenCore commercial/prototype system whereas Image 2 displays a small laboratory PEM fuel cell assembly and component.
@@ -2695,7 +3311,7 @@ _Topluluk projeleri, tasarım varyasyonları ve makaleler_
 
 ---
 
-### 20. [Proton Exchange Membrane Fuel Cell Structure Key Components](https://tmnetch.com/a-deeper-look-at-proton-exchange-membrane-fuel-cells/)
+### 23. [Proton Exchange Membrane Fuel Cell Structure Key Components](https://tmnetch.com/a-deeper-look-at-proton-exchange-membrane-fuel-cells/)
 - **Hedef Parça:** `Fuel cell system / Yakıt hücresi sistemi`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 displays bipolar plates used in fuel cell stacks, which are fundamental internal components related to the GenCore fuel cell system shown in Image 1.
