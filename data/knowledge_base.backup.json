@@ -20514,6 +20514,94 @@
       "variant_type": "technical_drawing",
       "reason": "Referans görsel bir yakıt hücresi sisteminin evrimini ve sistem düzeyindeki tasarımını gösterirken, aday görsel bu sistemlerin temelini oluşturan PEM yakıt hücresi yığınına ait 3D bir CAD modelini temsil etmektedir.",
       "discovered_at": "2026-11-20 18:40:16"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "PEM Electrolyzer: Complete Guide to How It Works, Types & Cost (2026)",
+      "page_url": "https://www.hovogen.com/post/pem-electrolyzer-the-complete-guide",
+      "candidate_image_url": "https://static.wixstatic.com/media/149405_746c5a97dd194306946b35367604a6d0~mv2.jpg/v1/fill/w_800,h_436,al_c,q_80,enc_avif,quality_auto/149405_746c5a97dd194306946b35367604a6d0~mv2.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Referans görsel bir yakıt hücresi sisteminin endüstriyel tasarım evrimini gösterirken, aday görsel PEM teknolojisinin çalışma prensibini açıklayan teknik bir şema sunmaktadır ve her ikisi de aynı yakıt hücresi ekosistemiyle ilgilidir.",
+      "discovered_at": "2026-11-21 01:04:22"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Comprendre les composants d’un électrolyseur PEM et leurs fonctions",
+      "page_url": "https://senzahydrogen.com/fr/understanding-pem-electrolyzer-components/",
+      "candidate_image_url": "https://senzahydrogen.com/wp-content/uploads/2023/05/PEM-Electrolyzer-Components.png",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel 1 ticari bir yakıt hücresi sistemi evrimini, Görsel 2 ise bu sistemlerin temelini oluşturan PEM elektrolizör/yakıt hücresi yığını bileşenlerini (bipolar plakalar, akış alanları ve membran) gösteren bir prototip çalışmasını temsil etmektedir.",
+      "discovered_at": "2026-11-21 01:04:24"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Energies | Free Full-Text | Optimal Parameter Identification of a PEM ...",
+      "page_url": "https://www.mdpi.com/1996-1073/16/14/5246/xml",
+      "candidate_image_url": "https://pub.mdpi-res.com/energies/energies-16-05246/article_deploy/html/images/energies-16-05246-g001.png?1689041579",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 1 ticari bir yakıt hücresi sistemi evrimini gösterirken, görsel 2 bu sistemlerin temel çalışma prensibini açıklayan teknik bir şemadır; her ikisi de PEM yakıt hücresi teknolojisi kapsamındadır.",
+      "discovered_at": "2026-11-21 01:04:26"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Find a Reliable PEM Electrolyzer OEM Supplier | 2025 Guide",
+      "page_url": "https://heletitaniumhydrogen.com/pem-electrolyzer-oem-supplier-guide/",
+      "candidate_image_url": "https://heletitaniumhydrogen.com/wp-content/uploads/2025/08/pem-electrolyzer-stack-diagram.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, PEM yakıt hücresi sisteminin temel çalışma prensibini ve bipolar plaka, membran elektrot takımı gibi bileşenlerin teknik şemasını başarılı bir şekilde göstermektedir.",
+      "discovered_at": "2026-11-21 01:04:29"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Titanium Mesh For PEM Electrolyzer Support Layer Customized Suppliers ...",
+      "page_url": "https://www.toptitech.com/microporous-filter-components/titanium-mesh-for-pem-electrolyzer-support.html",
+      "candidate_image_url": "https://www.toptitech.com/uploads/36754/products/20240314152314fd5d8.jpg?size=1600x0",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, kullanıcı gereksinimlerinde belirtilen membran elektrot takımı (MEA) ve akış plakaları dahil olmak üzere bir yakıt hücresi yığınının temel teknik bileşenlerini ve montaj yapısını net bir şekilde göstermektedir.",
+      "discovered_at": "2026-11-21 01:04:32"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Pem Water Electrolysis Hydrogen – ZXZMJS",
+      "page_url": "https://os.wrub.org/pem-water-electrolysis-hydrogen/",
+      "candidate_image_url": "https://scitechdaily.com/images/PEM-Water-Electrolyzer-Graphic-scaled.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, PEM yakıt hücresi bileşenlerini, membran elektrot takımlarını ve akış kanallı plakaları teknik detaylarıyla açıklayan bir sistem şeması içermektedir; kullanıcı gereksinimleriyle doğrudan örtüşmektedir.",
+      "discovered_at": "2026-11-21 01:04:36"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Polymer Electrolyte Membrane Pem Electrolyzer – CEMK",
+      "page_url": "https://trip.arrowheadsabroad.com/polymer-electrolyte-membrane-pem-electrolyzer/",
+      "candidate_image_url": "https://www.pompe-filtration-piscine.fr/images/electrolyseur-pem_1.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görseller, Proton Değişim Membranlı (PEM) yakıt hücresi sisteminin hem genel endüstriyel uygulama tasarımını hem de temel çalışma prensibi şemasını temsil ederek teknik gereksinimlerle uyumluluk göstermektedir.",
+      "discovered_at": "2026-11-21 01:05:58"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Top PEM Electrolyzer Manufacturers in China | Heletitanium hydrogen",
+      "page_url": "https://heletitaniumhydrogen.com/pem-electrolyzer-manufacturers-china-heletitanium/",
+      "candidate_image_url": "https://heletitaniumhydrogen.com/wp-content/uploads/2025/07/pem-electrolyzer-manufacturers-in-china.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, PEM bazlı bir hidrojen sistemi (elektrolizör) göstermektedir; bu sistem yakıt hücresi sistemleri ile benzer temel elektrokimyasal membran teknolojisini ve endüstriyel kabin donanım yapısını paylaştığı için teknik açıdan uyumludur.",
+      "discovered_at": "2026-11-21 01:06:01"
     }
   ]
 }
