@@ -22945,6 +22945,237 @@
       "variant_type": "working_variation",
       "reason": "İkinci görsel, yakıt hücresi sisteminin temel alt bileşeni olan akış kanallı bipolar plakasını ve üretim süreçlerini detaylandırmaktadır.",
       "discovered_at": "2026-11-22 14:09:22"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "bipolar graphite plates CNC machining - YouTube",
+      "page_url": "https://www.youtube.com/watch?v=y2Ioqzg_GsA",
+      "candidate_image_url": "https://i.ytimg.com/vi/y2Ioqzg_GsA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGeBIACwAeKAgwIABABGGUgZShlMA8=&rs=AOn4CLAIGfa3ES3vOTbO0ZUwxUB1G7LVzA",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, yakıt hücresi sistemlerinde kullanılan bipolar plaka yüzeyinin CNC freze tezgahında işlendiğini göstermektedir; bu durum, talep edilen teknik bileşenlerin (bipolar plaka akış kanalları) üretim aşamasıyla doğrudan örtüşmektedir.",
+      "discovered_at": "2026-11-22 20:41:52"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Titanium Bipolar Plate Machining: Flatness and Channel Accuracy Achieved",
+      "page_url": "https://sendottech.com/case-studies/titanium-bipolar-plate-machining",
+      "candidate_image_url": "https://sendottech.com/images/uploads/2026/04/channel-size-and-channel-distrubution.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sistemlerinin temel yapı taşı olan bipolar plaka akış kanallarını ve montaj detaylarını gösteren teknik bir CAD modelidir.",
+      "discovered_at": "2026-11-22 20:41:56"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 1 from The effects of compression and gas diffusion layers on ...",
+      "page_url": "https://www.semanticscholar.org/paper/The-effects-of-compression-and-gas-diffusion-layers-Lee-Ho/11ec76609be73dc28152ae6f99b17e126a481cbf/figure/0",
+      "candidate_image_url": "https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/11ec76609be73dc28152ae6f99b17e126a481cbf/2-Figure1-1.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistemi bileşenlerini ve montaj yapısını teknik dokümantasyon perspektifinden tanımlamaktadır; biri sistem seviyesinde tasarım evrimini, diğeri ise PEM yakıt hücresinin detaylı katmanlı montaj bileşenlerini göstermektedir.",
+      "discovered_at": "2026-11-22 20:41:58"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Mechanical Analysis of PEM Fuel Cell Stack Design Firat, Ahmet Evren ...",
+      "page_url": "https://www.jarir.com/sa-en/mechanical-analysis-of-pem-fuel-cell-stack-design-9783736992573.html",
+      "candidate_image_url": "https://ak-asset.jarir.com/akeneo-prod/asset/ingram/a/5/1/d/a51d6a29e64c9a8c4b9f21aed2c3948a99643a7e_9783736992573.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de PEM yakıt hücresi sistemi bileşenlerini ve stack tasarımını teknik ve yapısal analiz seviyesinde temsil etmektedir.",
+      "discovered_at": "2026-11-22 20:42:17"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "What’s the Structure of the PEM Fuel Cell Stack?",
+      "page_url": "https://www.linkedin.com/pulse/whats-structure-pem-fuel-cell-stack-tmn-electronics-co-limited-xnopf",
+      "candidate_image_url": "https://media.licdn.com/dms/image/v2/D4D12AQG1ESNy-AXxqA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1727698210906?e=2147483647&v=beta&t=vau4OUtbHnYyY1gyzbdSQNI2PAxrO3YTow-mzywbH5M",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, PEM yakıt hücresi yığınının montaj bileşenlerini (bipolar plakalar, MEA, sıkıştırma plakaları) detaylandıran teknik bir şema olup yakıt hücresi sistemi gereksinimlerini doğrudan karşılamaktadır.",
+      "discovered_at": "2026-11-22 20:42:19"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Start-Up of a Solid Oxide Fuel Cell System with a View to Materials ...",
+      "page_url": "https://www.mdpi.com/2073-4352/11/7/732",
+      "candidate_image_url": "https://pub.mdpi-res.com/crystals/crystals-11-00732/article_deploy/html/images/crystals-11-00732-g003.png?1624537064",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistem teknolojilerini (sırasıyla sistem seviyesi evrimi ve tübüler katı oksit yakıt hücresi yığın mimarisi) konu aldığından teknik gereksinimlerle uyumludur.",
+      "discovered_at": "2026-11-22 20:42:22"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Gas-filled gasket for a solid-oxide fuel cell assembly - Eureka | Patsnap",
+      "page_url": "https://eureka.patsnap.com/patent-US7402357B2",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/28934ecf-4457-4dde-8797-ff220dcebbf9/US07402357-20080722-D00000.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, bir yakıt hücresi sisteminin temel bileşeni olan membran elektrot takımı ve bipolar plaka arayüzünü gösteren teknik bir patent çizimidir; bu durum, talep edilen yakıt hücresi sistemi bileşenleri gereksinimi ile teknik açıdan uyumludur.",
+      "discovered_at": "2026-11-22 20:42:25"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Multiple serpentine flow channels [25].",
+      "page_url": "https://www.academia.edu/figures/7481276/figure-13-multiple-serpentine-flow-channels",
+      "candidate_image_url": "https://figures.academia-assets.com/47439557/figure_014.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, yakıt hücresi yığını için kritik bir bileşen olan bipolar plaka akış kanallarını gösteren teknik bir çizim olup, belirtilen teknik gereksinimlerle doğrudan uyumludur.",
+      "discovered_at": "2026-11-22 20:43:19"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Optimization, Design, and Manufacturing of New Steel-FRP Automotive ...",
+      "page_url": "https://www.mdpi.com/2624-8921/6/2/41",
+      "candidate_image_url": "https://pub.mdpi-res.com/vehicles/vehicles-06-00041/article_deploy/html/images/vehicles-06-00041-g018.png?1716633281",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Birinci görsel yakıt hücresi sisteminin genel yapısını gösterirken, ikinci görsel bu sistemlerin üretimi veya montajı için kullanılan kalıp/fikstür (die/holder) bileşenlerinin teknik çizimini yansıtmaktadır; her ikisi de yakıt hücresi sistem donanımı kategorisindedir.",
+      "discovered_at": "2026-11-22 20:43:25"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 2 from A predictive model of solid oxide fuel cell stacks for ...",
+      "page_url": "https://www.semanticscholar.org/paper/A-predictive-model-of-solid-oxide-fuel-cell-stacks-Zhang-Zhang/bb7d6f46dae9b032942506da55fcddd14093769a/figure/1",
+      "candidate_image_url": "https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/bb7d6f46dae9b032942506da55fcddd14093769a/2-Figure2-1.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistemlerinin teknik tasarımını ve katı oksit yakıt hücresi (SOFC) yığını bileşenlerini temsil eden standart endüstriyel şemalardır.",
+      "discovered_at": "2026-11-22 20:43:44"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "PEMFC Stack Assembly | Marposs",
+      "page_url": "https://www.marposs.com/eng/application/pemfc-stack-assembly",
+      "candidate_image_url": "https://www.marposs.com/media/14902/stack-assembly.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sisteminin temelini oluşturan bir PEM yakıt hücresi yığını (stack) CAD modelidir ve belirtilen teknik gereksinimlerle doğrudan uyumludur.",
+      "discovered_at": "2026-11-22 20:43:48"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "The influence of bipolar plate structure on fuel cell performance | TMNetch",
+      "page_url": "https://tmnetch.com/overview-of-key-mechanical-design-points-for-fuel-cell-bipolar-plates/",
+      "candidate_image_url": "https://tmnetch.com/wp-content/uploads/2024/06/Grid-type-bipolar-plate-flow-channel.webp",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sistemlerinin temel bileşeni olan bipolar plaka akış kanallarının teknik tasarımını temsil ettiği için kullanıcı gereksinimleriyle tam uyumludur.",
+      "discovered_at": "2026-11-22 20:43:50"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "How to Build, Test & Optimise an MEA | ScienceGears AU",
+      "page_url": "https://www.sciencegears.com.au/blogs/how-to-build-test-and-optimise-a-membrane-electrode-assembly-mea",
+      "candidate_image_url": "https://res.cloudinary.com/dbniglyrl/image/upload/v1781602631/ee5rb3sq8nryj7obdnyl.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, yakıt hücresi sistemlerinde membran elektrot takımı (MEA) üretimi için kullanılan temel endüstriyel yöntemleri ve montaj süreçlerini açıklayan teknik bir şemadır.",
+      "discovered_at": "2026-11-22 20:44:06"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Proton exchange membrane fuel cell bipolar plate based on symmetrical ...",
+      "page_url": "https://eureka.patsnap.com/patent-CN112103531A",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/e466fd28-a869-4733-97ce-84de0b113b8a/HDA0002670085020000011.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, yakıt hücresi sisteminin temel bir bileşeni olan bipolar plaka akış kanallarını gösteren teknik bir çizim olup, kullanıcının belirttiği teknik çizim gereksinimleriyle doğrudan örtüşmektedir.",
+      "discovered_at": "2026-11-22 20:44:12"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "FUEL CELL BIPOLAR PLATES - Patent 4207397",
+      "page_url": "https://data.epo.org/publication-server/rest/v1.0/publication-dates/20230705/patents/EP4207397NWA1/document.html",
+      "candidate_image_url": "https://data.epo.org/publication-server/image?imagePath=2023/27/DOC/EPNWA1/EP21218388NWA1/imgf0010",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü, yakıt hücresi sistemi için gerekli olan bipolar plaka akış kanalları ve yığın sıkıştırma plakaları montajını gösteren teknik bir çizimdir; kullanıcı gereksinimleri ile doğrudan uyumludur.",
+      "discovered_at": "2026-11-22 20:46:31"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Clamp for detecting compactness of bipolar plate of fuel cell - Eureka ...",
+      "page_url": "https://eureka.patsnap.com/patent-CN111006967A",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/dec714d4-9e50-4580-9a0c-22deeb19008c/HDA0002291797860000011.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sistemlerinde kullanılan bir bipolar plaka veya hücre yığını montajına ait teknik bir çizim olup, kullanıcının belirttiği yakıt hücresi sistemi bileşenleri gereksinimleriyle uyumludur.",
+      "discovered_at": "2026-11-22 20:46:34"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Ballard Launches Industry-Leading High-Power Density Fuel Cell Stack ...",
+      "page_url": "https://fuelcellsworks.com/news/ballard-launches-industry-leading-high-power-density-fuel-cell-stack-for-vehicle-propulsion/",
+      "candidate_image_url": "https://img.fuelcellsworks.com/wp-content/uploads/2020/09/Ballard-Fuel-Cell-Audi.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, Ballard Power Systems tarafından üretilen endüstriyel bir PEM yakıt hücresi yığını (stack) CAD modelini temsil etmekte olup, talep edilen teknik gereksinimlerle tam uyumludur.",
+      "discovered_at": "2026-11-22 20:46:39"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/fixture-assembly-56",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0a6a623c38818f99e97549e6335e7702/large.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü, yakıt hücresi yığını için gerekli olan montaj ve sıkıştırma plakası mekanizmasının temel bir CAD modelini göstermektedir ve kullanıcı gereksinimleriyle uyumludur.",
+      "discovered_at": "2026-11-22 20:46:41"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "COMSOL 6.4 - High Temperature PEM Fuel Cell with Serpentine Flow Field",
+      "page_url": "https://doc.comsol.com/6.4/doc/com.comsol.help.models.fce.ht_pem_flow_field/ht_pem_flow_field.html",
+      "candidate_image_url": "https://doc.comsol.com/6.4/doc/com.comsol.help.models.fce.ht_pem_flow_field/images/ht_pem_flow_field.1.1.040.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sisteminin temel bileşenlerinden biri olan bipolar plaka üzerindeki akış kanallarının teknik bir CAD modelidir ve belirtilen teknik gereksinimlerle doğrudan uyumludur.",
+      "discovered_at": "2026-11-22 20:47:08"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Design and Modeling of Metallic Bipolar Plates for a Fuel Cell Range ...",
+      "page_url": "https://www.mdpi.com/1996-1073/14/17/5484",
+      "candidate_image_url": "https://pub.mdpi-res.com/energies/energies-14-05484/article_deploy/html/images/energies-14-05484-g016.png?1630666349",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü 2, bir yakıt hücresi sisteminin temel bileşeni olan bipolar plaka akış kanallarının akış dinamiği analizini içeren teknik bir çizimdir ve kullanıcı gereksinimleriyle tam olarak örtüşmektedir.",
+      "discovered_at": "2026-11-22 20:47:10"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Free CAD Designs, Files & 3D Models | The GrabCAD Community Library",
+      "page_url": "https://grabcad.com/library/stiffener-frame-1",
+      "candidate_image_url": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/241eea6f5175c634fc9fb0aa94594a3f/large.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, yakıt hücresi yığını için gerekli olan montaj sıkıştırma plakası ve destek şasisine ait bir CAD tasarımıdır ve teknik gereksinimlerle tam uyumludur.",
+      "discovered_at": "2026-11-22 20:47:16"
     }
   ]
 }
