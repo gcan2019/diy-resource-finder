@@ -24529,6 +24529,226 @@
       "variant_type": "technical_drawing",
       "reason": "İkinci görsel, yakıt hücresi sistemlerinin temel bileşeni olan Membran Elektrot Takımı (MEA) yapısını ve katmanlarını detaylı bir teknik şema ile göstermektedir.",
       "discovered_at": "2026-11-25 07:06:25"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Solid-oxide fuel cell system having an integrated air/fuel manifold ...",
+      "page_url": "https://eureka.patsnap.com/patent-US7279246B2",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/76fffcd9-a4c4-4840-be3d-e6dc57acf06d/US07279246-20071009-D00000.png",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sistemi bileşenlerini ve akış plakalarını detaylı şekilde gösteren patent teknik çizimidir.",
+      "discovered_at": "2026-11-25 18:26:19"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Thermal Stress in Full-Size Solid Oxide Fuel Cell Stacks by Multi ...",
+      "page_url": "https://www.mdpi.com/1996-1073/17/9/2025",
+      "candidate_image_url": "https://pub.mdpi-res.com/energies/energies-17-02025/article_deploy/html/images/energies-17-02025-g001.png?1714037797",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi yığını ve bileşenlerinin (bipolar plakalar, membran elektrot takımı ve montaj katmanları) teknik çizim ve CAD modelini başarıyla göstermektedir.",
+      "discovered_at": "2026-11-25 18:26:23"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "3D-printable gas diffusion layers promise improved performance in ...",
+      "page_url": "https://pls.llnl.gov/article/22416/3d-printable-gas-diffusion-layers-promise-improved-performance-electrochemical-reduction-co2",
+      "candidate_image_url": "https://contenthub.llnl.gov/sites/contenthub/files/styles/orig/public/2022-01/2021-03-15_diffusion.jpg?itok=6VqJ_dNP",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 1 bir yakıt hücresi sisteminin genel entegrasyonunu gösterirken, Görsel 2 bu sistemin temelini oluşturan membran elektrot takımı ve akış alanı mimarisinin teknik bir şemasını temsil etmektedir.",
+      "discovered_at": "2026-11-25 18:26:45"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Fuel Cell Technology: Powering the Future",
+      "page_url": "https://www.ballard.com/",
+      "candidate_image_url": "https://www.ballard.com/wp-content/uploads/2024/08/LCS-M_20241009-768x504.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, endüstriyel standartlara uygun bir yakıt hücresi stack donanımını (Ballard benzeri PEMFC) göstermektedir.",
+      "discovered_at": "2026-11-25 18:27:50"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Nondestructive Testing of the Integrity of Solid Oxide Fuel Cell Stack ...",
+      "page_url": "https://www.mdpi.com/1996-1073/15/3/831",
+      "candidate_image_url": "https://pub.mdpi-res.com/energies/energies-15-00831/article_deploy/html/images/energies-15-00831-g006.png?1643025177",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, yakıt hücresi sistemlerinde kullanılan bipolar plakaların test ve kalite kontrol sürecini gösteren ilgili bir bileşen test düzeneğidir.",
+      "discovered_at": "2026-11-25 18:29:18"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Extruded graphite bipolar plates, carbon plate, customized carbon ...",
+      "page_url": "https://www.yuhacreate.com/products/extruded-graphite-bipolar-plates.html",
+      "candidate_image_url": "https://image.chukouplus.com/upload/C_3735/file/20230923/f6cf517bb0ac3a5255616afebd2db053.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Aday görsel, yakıt hücresi sistemleri için gerekli olan bipolar plaka akış kanalları ve membran elemanlarının 3D CAD modellerini göstermektedir.",
+      "discovered_at": "2026-11-25 18:34:58"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "What Is The Significance Of Laboratory Presses In Pem Fuel Cell ...",
+      "page_url": "https://kinteksolution.com/faqs/what-is-the-significance-of-laboratory-presses-in-pem-fuel-cell-development",
+      "candidate_image_url": "https://image.kinteksolution.com/images/faqs/665/info_image_1764764389_69302ae5b4aa7.webp",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de PEM yakıt hücresi sistemleri ve bileşenlerinin (MEA, sıkıştırma, akışkan yönetimi) teknik tasarım evrimini ve imalat parametrelerini göstermektedir.",
+      "discovered_at": "2026-11-25 18:35:42"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Laser welding of conductive coated metallic bipolar plates - Eureka ...",
+      "page_url": "https://eureka.patsnap.com/patent-US20050252892A1",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/8df7222f-02f6-4cee-abbf-b724945d6465/US20050252892A1-20051117-D00000.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi bileşenlerinden biri olan membran elektrot takımı (MEA) veya gaz difüzyon katmanına ait patent teknik çizimidir ve kullanıcı gereksinimlerini doğrudan destekler.",
+      "discovered_at": "2026-11-25 18:36:07"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 4 from Multiphysics Field Distribution Characteristics within the One-Cell Solid Oxide ...",
+      "page_url": "https://www.semanticscholar.org/paper/Multiphysics-Field-Distribution-Characteristics-the-Xu-Kukolin/269aee4a96d7906974bf6455763aebeab547e8cb/figure/1",
+      "candidate_image_url": "https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/672dd3c0a0c0c942ffabbb70510f0bf53b585bbb/6-Figure4-1.png",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi bipolar plaka akış kanalları ve akış simülasyonunu gösteren bir CAD ve CFD analiz modelidir.",
+      "discovered_at": "2026-11-25 18:37:22"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Channel Flow Field Plates | Switzer",
+      "page_url": "https://www.switzermfg.com/products/flow-field-plates/",
+      "candidate_image_url": "https://www.switzermfg.com/wp-content/uploads/2025/01/SWZ_Hydro-Fuel-Cell_Efficiencies_987x757.jpg",
+      "score": 90,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, yakıt hücresi sistemlerinin temel bileşeni olan bipolar plaka akış kanallarını net bir şekilde göstermektedir.",
+      "discovered_at": "2026-11-25 18:38:08"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "End Of Line - END OF LINE TEST BENCH FOR SOLID OXIDE FUEL CELLS STACK ...",
+      "page_url": "https://www.marposs.com/eng/product/solid-oxide-fuel-cells-stack-assembly",
+      "candidate_image_url": "https://www.marposs.com/media/20595/End-Of-Line-Bench-for-Solid-Oxide-Fuel-Cells-Stack-Assembly.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-11-25 18:39:40"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Evaluation Of Hydrogen Crossover Through Fuel Cell Membranes – WEOS",
+      "page_url": "https://jodelpeter.de/evaluation-of-hydrogen-crossover-through-fuel-cell-membranes/",
+      "candidate_image_url": "https://fuelcellscars.com/pictures_fuel_cells_cars/Fuel_Cell_Hydrogen_PEM_Sandwich.gif",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, hedef yakıt hücresi sisteminin proton değişim membranı, akışkan plakaları ve çalışma prensibini gösteren teknik bir şema içermektedir.",
+      "discovered_at": "2026-11-25 18:44:25"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Optimizing the Performance of Proton Exchange Membranes",
+      "page_url": "https://www.azom.com/article.aspx?ArticleID=18783",
+      "candidate_image_url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_18783_15752925504955507.jpg",
+      "score": 85,
+      "category": "diy_project",
+      "variant_type": "working_variation",
+      "reason": "Görsel 2, referans belgedeki genel yakıt hücresi sistemi tanımına uyan akrilik plakalı şeffaf bir PEM yakıt hücresi yığını (stack) prototipini göstermektedir.",
+      "discovered_at": "2026-11-25 18:44:43"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Showing The Working Principle Of Pem Fuel Cell – XOXUF",
+      "page_url": "https://quiz.mental-leadership.de/showing-the-working-principle-of-pem-fuel-cell/",
+      "candidate_image_url": "https://www.nafion.com/en/-/media/images/nafion/in/pem-fuel-cells-diagram.jpg?rev=712c5df85536416286b33ae0662d57e8",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-11-25 18:45:04"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "What are PEM Fuel Cells and Electrolyzers? - BioLogic Learning Center",
+      "page_url": "https://www.biologic.net/topics/what-are-pem-fuel-cells-and-electrolyzers/",
+      "candidate_image_url": "https://www.biologic.net/wp-content/uploads/2023/11/scheme-fuel-cell-02-1.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, yakıt hücresi sistemleri için gerekli olan PEM membran, anot/katot bipolar plakalar ve gaz difüzyon katmanlarını net bir teknik şema olarak göstermektedir.",
+      "discovered_at": "2026-11-25 18:45:46"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Exploded view of a proton exchange membrane fuel cell. flow",
+      "page_url": "https://www.academia.edu/figures/36394584/figure-4-exploded-view-of-proton-exchange-membrane-fuel-cell",
+      "candidate_image_url": "https://figures.academia-assets.com/75646577/figure_004.jpg",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-11-25 18:47:11"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 1 from Design of a proton exchange membrane portable fuel cell ...",
+      "page_url": "https://www.semanticscholar.org/paper/Design-of-a-proton-exchange-membrane-portable-fuel-Inman-Ahmad/09a6f249042348eb93d194dd4b538e57257ef116/figure/0",
+      "candidate_image_url": "https://figures.semanticscholar.org/09a6f249042348eb93d194dd4b538e57257ef116/2-Figure1-1.png",
+      "score": 89,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel Piksel Analizi (2D Teknik Çizim / CAD Şeması tespit edildi) + Teknik Kaynak Doğrulaması.",
+      "discovered_at": "2026-11-25 18:47:46"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "A Three-Dimensional Simulation Model for Proton Exchange Membrane Fuel ...",
+      "page_url": "https://www.mdpi.com/1996-1073/16/10/4086",
+      "candidate_image_url": "https://pub.mdpi-res.com/energies/energies-16-04086/article_deploy/html/images/energies-16-04086-g001.png?1685000013",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, yakıt hücresi sistemlerinin temel bileşenlerinden biri olan membran elektrot takımı ve gaz kanallarını gösteren teknik bir şema içermektedir.",
+      "discovered_at": "2026-11-25 18:47:53"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Proton Exchange Membrane Fuel Cell. News Photo - Getty Images",
+      "page_url": "https://www.gettyimages.com.au/detail/news-photo/proton-exchange-membrane-fuel-cell-news-photo/143064502",
+      "candidate_image_url": "https://media.gettyimages.com/id/143064502/photo/proton-exchange-membrane-fuel-cell.jpg?s=1024x1024&w=gi&k=20&c=zmgmKaDJ6ZfV5qKIDkcR6w0_hFfTezIbAWoRiXuKGuw=",
+      "score": 95,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi bileşenlerini (bipolar plakalar, gaz difüzyon katmanı ve proton değişim membranı) detaylı teknik şema olarak göstermektedir.",
+      "discovered_at": "2026-11-25 18:47:56"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "A Brief Description of High Temperature Solid Oxide Fuel Cell’s ...",
+      "page_url": "https://www.mdpi.com/2076-3417/6/3/75",
+      "candidate_image_url": "https://pub.mdpi-res.com/applsci/applsci-06-00075/article_deploy/html/images/applsci-06-00075-g005.png?1459156966",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Aday görsel, yakıt hücresi sistemleri için gerekli olan katı oksit yakıt hücresi bileşenlerini, anot, katot, elektrolit ve akışkan kanallarını teknik şema formatında detaylıca göstermektedir.",
+      "discovered_at": "2026-11-25 18:48:20"
     }
   ]
 }
