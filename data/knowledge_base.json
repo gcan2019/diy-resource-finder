@@ -25013,6 +25013,17 @@
       "variant_type": "technical_drawing",
       "reason": "Görsel, yakıt hücresi sisteminin temel bileşeni olan membran elektrot takımı (MEA) ve bipolar plaka montajının teknik bir CAD modelini temsil etmektedir.",
       "discovered_at": "2026-11-26 02:52:40"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Benefits of Fuel Cells in Energy Efficient Power Generation",
+      "page_url": "https://www.fuelcellenergy.com/blog/benefits-of-fuel-cells",
+      "candidate_image_url": "https://www.fuelcellenergy.com/hubfs/benefits-of-fuel-cells.png#keepProtocol",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel, FuelCell Energy markasına ait endüstriyel ölçekli bir yakıt hücresi sistemini temsil etmekte olup, referans ile aynı endüstriyel teknoloji kategorisinde yer alan ticari bir üründür.",
+      "discovered_at": "2026-11-26 22:48:32"
     }
   ]
 }
