@@ -2,8 +2,8 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Delikli 3D kaynak ve fikstür masaları (D28 / D16)`
-**Doğrulanmış Kaynak Sayısı:** 114 adet
-**Son Güncelleme:** 2026-11-26 23:11:12
+**Doğrulanmış Kaynak Sayısı:** 115 adet
+**Son Güncelleme:** 2026-11-27 06:56:23
 > 💡 **Ürün Tanımı / Notlar:** D28 veya D16 lazer/CNC delik aralığı (50x50 veya 100x100 mm), hassas frezelenmiş düzlemsel yüzey ve yan yanaklar, ağır hizmet rijit şasi ve yükseklik ayarlı ayaklar.
 
 ---
@@ -1092,10 +1092,19 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (0 adet)
+## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (1 adet)
 _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
-_Bu kategoride henüz doğrulanmış kaynak bulunamadı._
+### 1. [Welding Protective Clothing And Equipment | Explora Madeira](https://www.exploramadeira.com/welding-protective-clothing-and-equipment/)
+- **Hedef Parça:** `Delikli 3D kaynak ve fikstür masaları (D28 / D16)`
+- **Doğrulama Skoru:** `% 95` (working_variation)
+- **AI Teknik İncelemesi:** Aday görsel, hedef ürün olan delikli 3D kaynak ve fikstür masasının gerçek bir çalışma ortamında kullanımını ve delikli tabla yüzeyini açıkça göstermektedir.
+- **Tarih:** 2026-11-27 06:42:47
+
+![Önizleme](https://www.familyhandyman.com/wp-content/uploads/2022/06/FH22JAU_619_10_039-Learn-MIG-Welding-Tips-From-a-Pro.jpg)
+
+
+---
 
 ## 💡 Proje Fikirleri & DIY Varyasyonları (16 adet)
 _Topluluk projeleri, tasarım varyasyonları ve makaleler_

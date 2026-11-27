@@ -2,8 +2,8 @@
 > Bu katalog, Otonom Görsel Araştırma Ajanı tarafından taranmış ve **Gemini Vision** ile doğrulanmış kaynakları içerir.
 
 **Hedef Ürün:** `Tüm Ürünler Genel Kataloğu`
-**Doğrulanmış Kaynak Sayısı:** 2275 adet
-**Son Güncelleme:** 2026-11-26 23:11:12
+**Doğrulanmış Kaynak Sayısı:** 2276 adet
+**Son Güncelleme:** 2026-11-27 06:56:23
 
 ---
 
@@ -19846,10 +19846,21 @@ _İndirilebilir CAD modelleri, 3D baskı dosyaları ve katı modeller_
 
 ---
 
-## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (32 adet)
+## 🎥 DIY / Nasıl Yapılır & İmalat Videoları (33 adet)
 _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
-### 1. [Liquid Cylinder Transport Cart with powered wheel drive - YouTube](https://www.youtube.com/watch?v=bPtQvy4bbCE)
+### 1. [Welding Protective Clothing And Equipment | Explora Madeira](https://www.exploramadeira.com/welding-protective-clothing-and-equipment/)
+- **Hedef Parça:** `Delikli 3D kaynak ve fikstür masaları (D28 / D16)`
+- **Doğrulama Skoru:** `% 95` (working_variation)
+- **AI Teknik İncelemesi:** Aday görsel, hedef ürün olan delikli 3D kaynak ve fikstür masasının gerçek bir çalışma ortamında kullanımını ve delikli tabla yüzeyini açıkça göstermektedir.
+- **Tarih:** 2026-11-27 06:42:47
+
+![Önizleme](https://www.familyhandyman.com/wp-content/uploads/2022/06/FH22JAU_619_10_039-Learn-MIG-Welding-Tips-From-a-Pro.jpg)
+
+
+---
+
+### 2. [Liquid Cylinder Transport Cart with powered wheel drive - YouTube](https://www.youtube.com/watch?v=bPtQvy4bbCE)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel, endüstriyel standartlara uygun, zincirli emniyet kilidi ve ergonomik taşıma yapısına sahip Wesco marka bir tüp taşıma arabasını göstermektedir.
@@ -19860,7 +19871,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 2. [Building a gas cylinder rack with my new Omnipro 220!!! - YouTube](https://www.youtube.com/watch?v=xkNTVDCqEEE)
+### 3. [Building a gas cylinder rack with my new Omnipro 220!!! - YouTube](https://www.youtube.com/watch?v=xkNTVDCqEEE)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görseldeki ürün, sanayi tipi gaz tüplerini taşımak için kullanılan emniyet zincirli ve tekerlekli yapısıyla kullanıcı gereksinimlerini karşılayan işlevsel bir taşıma arabasıdır.
@@ -19871,7 +19882,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 3. [Oxy Acetylene Gas Cylinder Truck - YouTube](https://www.youtube.com/watch?v=YCEBnCbnKk4)
+### 4. [Oxy Acetylene Gas Cylinder Truck - YouTube](https://www.youtube.com/watch?v=YCEBnCbnKk4)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüpü arabalarının emniyet zinciri mekanizmasını gösteren ilgili bir video karesidir ve temel gereksinimleri karşılamaktadır.
@@ -19882,7 +19893,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 4. [Gas Cylinder Cart from Strong Hand Tools - YouTube](https://www.youtube.com/shorts/JXMfLinVZMw)
+### 5. [Gas Cylinder Cart from Strong Hand Tools - YouTube](https://www.youtube.com/shorts/JXMfLinVZMw)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel gaz tüplerini taşımak ve kaldırmak için kullanılan referans ürünle yüksek mekanik benzerliğe sahip işlevsel bir tüp taşıma arabası varyasyonunu göstermektedir.
@@ -19893,7 +19904,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 5. [HOW TO WELD WITH A MIG WELDER — ALL ABOUT THE BUILD](https://www.allaboutthebuild.com/blog/2024/8/how-to-weld-with-a-mig-welder)
+### 6. [HOW TO WELD WITH A MIG WELDER — ALL ABOUT THE BUILD](https://www.allaboutthebuild.com/blog/2024/8/how-to-weld-with-a-mig-welder)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, gaz tüpünü güvenli bir şekilde sabitleyen zincir mekanizmasına sahip, kaynak makinesiyle entegre bir taşıma ünitesini göstermektedir ve belirtilen gereksinimleri karşılamaktadır.
@@ -19904,7 +19915,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 6. [Welding Cart Assembly Tips. Some things you may miss in the instructions Ep.2018-28 - YouTube](https://www.youtube.com/watch?v=ILyBiarnKi4)
+### 7. [Welding Cart Assembly Tips. Some things you may miss in the instructions Ep.2018-28 - YouTube](https://www.youtube.com/watch?v=ILyBiarnKi4)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, kaynak makinesi taşıma ve gaz tüpü depolama amaçlı çok raflı bir DIY kaynak arabası gösterse de, tüp taşıma ve emniyet zinciri gereksinimlerini karşılamaktadır.
@@ -19915,7 +19926,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 7. [BOC - How to use the magnetic cylinder trolley - YouTube](https://www.youtube.com/watch?v=UsygsNDBsto)
+### 8. [BOC - How to use the magnetic cylinder trolley - YouTube](https://www.youtube.com/watch?v=UsygsNDBsto)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 88` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel gaz tüplerinin güvenle taşınması ve devrilerek boşaltılması için tasarlanmış profesyonel bir tüp taşıma arabasının kullanımını göstermektedir.
@@ -19926,7 +19937,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 8. [Magliner® Motorized Dewar Cylinder Tank Cart MDC90B-1 Foam Tires and 2 Straps - 1100 Lb. Cap.](https://www.globalindustrial.com/p/motorized-dewar-cart-foam-tires-and-2-straps-1100-lb-capacity)
+### 9. [Magliner® Motorized Dewar Cylinder Tank Cart MDC90B-1 Foam Tires and 2 Straps - 1100 Lb. Cap.](https://www.globalindustrial.com/p/motorized-dewar-cart-foam-tires-and-2-straps-1100-lb-capacity)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Görüntüdeki ekipman, sanayi tipi gaz tüplerini güvenli bir şekilde taşımak için tasarlanmış, zincirli emniyet kilidi ve tekerlekli yapısı ile kullanıcı gereksinimlerini karşılayan endüstriyel bir taşıma arabasıdır.
@@ -19937,7 +19948,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 9. [HOW TO MAKE PUSH CART FOR OXYGEN ACETYLENE TANK DIY - YouTube](https://www.youtube.com/watch?v=z_qnoH0IT5Y)
+### 10. [HOW TO MAKE PUSH CART FOR OXYGEN ACETYLENE TANK DIY - YouTube](https://www.youtube.com/watch?v=z_qnoH0IT5Y)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referansla aynı temel mekanizmaya sahip, zincir kilitli ve destek tekerlekli çalışan bir DIY tüp taşıma arabası varyantıdır.
@@ -19948,7 +19959,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 10. [ZERO HAND TRUCK - GAS CYLINDER HAND TRUCK - YouTube](https://www.youtube.com/watch?v=IEAbPp-9eOA)
+### 11. [ZERO HAND TRUCK - GAS CYLINDER HAND TRUCK - YouTube](https://www.youtube.com/watch?v=IEAbPp-9eOA)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 94` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -19959,7 +19970,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 11. [Videos - Zero Hand Truck](https://zerohandtruck.com/videos)
+### 12. [Videos - Zero Hand Truck](https://zerohandtruck.com/videos)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, gaz tüpünü güvenli şekilde kavramak ve taşımak üzere tasarlanmış iki pnömatik tekerlekli fonksiyonel bir tüp taşıma arabasını göstermektedir.
@@ -19970,7 +19981,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 12. [Welding Cart Upgrade / Securing A Welding Gas Cylinder - YouTube](https://www.youtube.com/watch?v=q1TWfBw-jPA)
+### 13. [Welding Cart Upgrade / Securing A Welding Gas Cylinder - YouTube](https://www.youtube.com/watch?v=q1TWfBw-jPA)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 93` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -19981,7 +19992,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 13. [Safely handle heavy Gas Cylinders with the Strong Hand Tools® Cylinder ...](https://www.youtube.com/watch?v=w9eeBaNwzT4)
+### 14. [Safely handle heavy Gas Cylinders with the Strong Hand Tools® Cylinder ...](https://www.youtube.com/watch?v=w9eeBaNwzT4)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, endüstriyel gaz tüplerini taşımak için kullanılan üç tekerlekli tüp arabasını iş başında gösteren işlevsel bir varyasyondur.
@@ -19992,7 +20003,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 14. [WELDING A GAS TANK & NEW "BUDGET FRIENDLY" MAG DRILL! C5500 DUMP TRUCK BUILD - YouTube](https://www.youtube.com/watch?v=C7Zt6h_jQ9o)
+### 15. [WELDING A GAS TANK & NEW "BUDGET FRIENDLY" MAG DRILL! C5500 DUMP TRUCK BUILD - YouTube](https://www.youtube.com/watch?v=C7Zt6h_jQ9o)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20003,7 +20014,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 15. [Welding Cart Project part 5 - Making Brackets for the Gas Cylinders ...](https://www.youtube.com/watch?v=NtHg-45pZJw)
+### 16. [Welding Cart Project part 5 - Making Brackets for the Gas Cylinders ...](https://www.youtube.com/watch?v=NtHg-45pZJw)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 93` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20014,7 +20025,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 16. [Clamping Device for Gas Cylinders and LPG Cylinders - M125-126-001 - YouTube](https://www.youtube.com/watch?v=UGM6-RPYQO0)
+### 17. [Clamping Device for Gas Cylinders and LPG Cylinders - M125-126-001 - YouTube](https://www.youtube.com/watch?v=UGM6-RPYQO0)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20025,7 +20036,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 17. [Welding Gas Cylinder Tips & Tricks the Pros Use to SAVE BIG ! - YouTube](https://www.youtube.com/watch?v=LkBajnQdr-w)
+### 18. [Welding Gas Cylinder Tips & Tricks the Pros Use to SAVE BIG ! - YouTube](https://www.youtube.com/watch?v=LkBajnQdr-w)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 93` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20036,7 +20047,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 18. [How its made gas cylinders | Amazed How These Workers Made Gas Cylinder ...](https://www.youtube.com/watch?v=7Qp-29hYZ6Y)
+### 19. [How its made gas cylinders | Amazed How These Workers Made Gas Cylinder ...](https://www.youtube.com/watch?v=7Qp-29hYZ6Y)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20047,7 +20058,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 19. [Argonlifter to lift heavy gas cylinders onto your welding machine - YouTube](https://www.youtube.com/watch?v=dXnCWSI3hXs)
+### 20. [Argonlifter to lift heavy gas cylinders onto your welding machine - YouTube](https://www.youtube.com/watch?v=dXnCWSI3hXs)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20058,7 +20069,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 20. [DIY Gas Cylinder Bracket For Welding Cart / Gas Bottle Bracket / Mig ...](https://www.youtube.com/watch?v=-MmvqRgwr7I)
+### 21. [DIY Gas Cylinder Bracket For Welding Cart / Gas Bottle Bracket / Mig ...](https://www.youtube.com/watch?v=-MmvqRgwr7I)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (480x360px)) + Teknik Kaynak Doğrulaması.
@@ -20069,7 +20080,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 21. [Super DIY Idea From an Old Gas Cylinder You Have to See! NOH Tricky ...](https://www.youtube.com/watch?v=TNpcmBjp4zI)
+### 22. [Super DIY Idea From an Old Gas Cylinder You Have to See! NOH Tricky ...](https://www.youtube.com/watch?v=TNpcmBjp4zI)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 93` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20080,7 +20091,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 22. [From Steel Sheet to Gas Cylinder | Factory Process You Must See! - YouTube](https://www.youtube.com/shorts/D22I3sRLvMI)
+### 23. [From Steel Sheet to Gas Cylinder | Factory Process You Must See! - YouTube](https://www.youtube.com/shorts/D22I3sRLvMI)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (720x720px)) + Teknik Kaynak Doğrulaması.
@@ -20091,7 +20102,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 23. [Building a Welding Cart for Dual Gas Cylinders - YouTube](https://www.youtube.com/watch?v=Xde4ErYi70c)
+### 24. [Building a Welding Cart for Dual Gas Cylinders - YouTube](https://www.youtube.com/watch?v=Xde4ErYi70c)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 95` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20102,7 +20113,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 24. [SUWAS Trolleystore™ Cylinder Trolley For Argon , Cylinder , Oxygen ...](https://www.youtube.com/watch?v=jLau1MX_VoI)
+### 25. [SUWAS Trolleystore™ Cylinder Trolley For Argon , Cylinder , Oxygen ...](https://www.youtube.com/watch?v=jLau1MX_VoI)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans ürüne çok benzeyen ve üzerinde büyük bir gaz tüpü taşınan çalışan bir tüp arabası varyasyonunu göstermektedir.
@@ -20113,7 +20124,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 25. [Making a Oxygen Gas Cylinder Trolley - YouTube](https://www.youtube.com/watch?v=vXwbWXAxcH0)
+### 26. [Making a Oxygen Gas Cylinder Trolley - YouTube](https://www.youtube.com/watch?v=vXwbWXAxcH0)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabasıyla aynı fonksiyona sahip ancak farklı bir atölye ortamında el yapımı olarak üretilmiş bir tüp taşıma arabası varyasyonudur.
@@ -20124,7 +20135,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 26. [Rookie Welder's DIY: Crafting an Oxy-Acetylene Torch Cart - YouTube](https://www.youtube.com/watch?v=nwVQEz6og4A)
+### 27. [Rookie Welder's DIY: Crafting an Oxy-Acetylene Torch Cart - YouTube](https://www.youtube.com/watch?v=nwVQEz6og4A)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, tüp taşımak için tasarlanmış özel yapım (DIY) oksijen-asetilen arabası göstermektedir ve temel işlevi referans ürünle aynıdır.
@@ -20135,7 +20146,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 27. [How to make Oxygen and acetylene trolley step by step instruction - YouTube](https://www.youtube.com/watch?v=sGhkUjkhN44)
+### 28. [How to make Oxygen and acetylene trolley step by step instruction - YouTube](https://www.youtube.com/watch?v=sGhkUjkhN44)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 82` (working_variation)
 - **AI Teknik İncelemesi:** İkinci görsel, referans tüp arabasıyla aynı fonksiyona sahip ancak el yapımı (DIY) olarak imal edilmiş bir oksijen/asetilen tüp arabası varyasyonudur.
@@ -20146,7 +20157,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 28. [Make your own - Gas Cylinder Trolley | DIY - YouTube](https://www.youtube.com/watch?v=b3EvJNwt83k)
+### 29. [Make your own - Gas Cylinder Trolley | DIY - YouTube](https://www.youtube.com/watch?v=b3EvJNwt83k)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans ürünle aynı işlevi gören iki tüplü kaynak tüpü arabasının ev yapımı bir varyasyonunu göstermektedir.
@@ -20157,7 +20168,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 29. [DIY LPG Gas Cylinder Carrying Trolley - YouTube | Cylinder, Gas delivery, Gas](https://www.pinterest.com/pin/diy-lpg-gas-cylinder-carrying-trolley-youtube--1100637596421693891/)
+### 30. [DIY LPG Gas Cylinder Carrying Trolley - YouTube | Cylinder, Gas delivery, Gas](https://www.pinterest.com/pin/diy-lpg-gas-cylinder-carrying-trolley-youtube--1100637596421693891/)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 80` (working_variation)
 - **AI Teknik İncelemesi:** Aday görsel, referans ürünle aynı amaca hizmet eden ve benzer tekerlekli şasi yapısına sahip ev yapımı bir tüp arabası varyasyonudur.
@@ -20168,7 +20179,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 30. [How to Make Gas Cylinder with Amazing Skills | Cylinder Manufacturing Factory - YouTube](https://www.youtube.com/watch?v=D8IeWQzhpfg)
+### 31. [How to Make Gas Cylinder with Amazing Skills | Cylinder Manufacturing Factory - YouTube](https://www.youtube.com/watch?v=D8IeWQzhpfg)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 90` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (1280x720px)) + Teknik Kaynak Doğrulaması.
@@ -20179,7 +20190,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 31. [Step by step Process of making Gas Cylinder #manufacturing - YouTube](https://www.youtube.com/shorts/xhZg2KYAXE8)
+### 32. [Step by step Process of making Gas Cylinder #manufacturing - YouTube](https://www.youtube.com/shorts/xhZg2KYAXE8)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 93` (working_variation)
 - **AI Teknik İncelemesi:** Görsel Piksel Analizi (Görsel yapı ve kenar yoğunluğu doğrulandı (720x720px)) + Teknik Kaynak Doğrulaması.
@@ -20190,7 +20201,7 @@ _Adım adım montaj, torna, freze ve atölye yapım videoları_
 
 ---
 
-### 32. [Oxy Acetylene Cart | JIMBO'S GARAGE - YouTube](https://www.youtube.com/watch?v=ZA_YjfdeVmE)
+### 33. [Oxy Acetylene Cart | JIMBO'S GARAGE - YouTube](https://www.youtube.com/watch?v=ZA_YjfdeVmE)
 - **Hedef Parça:** `Gas cylinder truck / Tüp arabası`
 - **Doğrulama Skoru:** `% 85` (working_variation)
 - **AI Teknik İncelemesi:** Image 2 represents a custom DIY oxy-acetylene cart built from a modified hand truck, serving the same core function as the gas cylinder truck in Image 1.
