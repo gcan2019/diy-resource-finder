@@ -25035,6 +25035,160 @@
       "variant_type": "working_variation",
       "reason": "Aday görsel, hedef ürün olan delikli 3D kaynak ve fikstür masasının gerçek bir çalışma ortamında kullanımını ve delikli tabla yüzeyini açıkça göstermektedir.",
       "discovered_at": "2026-11-27 06:42:47"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Fuel Cell Bipolarplate 3D Model $39 - .c4d .3ds .obj .fbx - Free3D",
+      "page_url": "https://free3d.com/3d-model/fuel-cell-bipolarplate-7542.html",
+      "candidate_image_url": "https://preview.free3d.com/img/2018/08/2705061759424660797/sxptpgwg.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, yakıt hücresi sisteminin temel bir bileşeni olan bipolar plakanın teknik CAD modelini göstermektedir; bu, talep edilen teknik çizim gereksinimleri ile tam uyumludur.",
+      "discovered_at": "2026-11-27 17:49:50"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Table 1 from Manufacturing of Metallic Bipolar Plate Channels by ...",
+      "page_url": "https://www.semanticscholar.org/paper/Manufacturing-of-Metallic-Bipolar-Plate-Channels-by-Bauer-Härtel/22be6371aeaa2ef2edef1cf37d654a203bb2ce6b/figure/0",
+      "candidate_image_url": "https://figures.semanticscholar.org/ac3e04a9510cbd49ab0deaa1b0ca336c9494b9e4/2-Figure1-1.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistemi bileşenlerinin tasarım aşamalarını ve bipolar plaka akış kanallarının teknik detaylarını içeren mühendislik dokümantasyonudur.",
+      "discovered_at": "2026-11-27 17:56:21"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Hydrogen fuel cell - Free 3D Print Model - MakerWorld",
+      "page_url": "https://makerworld.com/en/models/1146422-hydrogen-fuel-cell",
+      "candidate_image_url": "https://makerworld.bblmw.com/makerworld/model/US2a6fddfca478bc/design/2025-02-24_93ec3d4235aad.png?x-oss-process=image/resize,w_1000/format,webp",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, yakıt hücresi sistemlerinin temel bileşeni olan PEM yakıt hücresi yığınının (stack) tipik bir CAD modelini temsil etmektedir.",
+      "discovered_at": "2026-11-27 17:56:39"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Bipolar Plates CNC Machining for Fuel Cell Applications",
+      "page_url": "https://www.zintilon.com/industry/new-energy/bipolar-plates-2/",
+      "candidate_image_url": "https://www.zintilon.com/wp-content/uploads/2025/11/Bipolar-Plates-CNC-Machining-for-Fuel-Cell-Applications.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, yakıt hücresi sistemlerinin temel bir bileşeni olan bipolar plakanın teknik tasarımını ve CNC işleme detayını göstermektedir; bu durum kullanıcı gereksinimlerindeki teknik özelliklerle doğrudan örtüşmektedir.",
+      "discovered_at": "2026-11-27 17:56:54"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Fraunhofer explores lighter fuel cell bipolar plates - electrive.com",
+      "page_url": "https://www.electrive.com/es/2026/11/23/fraunhofer-investiga-placas-bipolares-mas-ligeras-para-pilas-de-combustible/",
+      "candidate_image_url": "https://www.electrive.com/media/2026/11/202611-fraunhofer-iwu-strubiplate-laserstrukturierte-bipolarhalbplatte.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü, bir yakıt hücresi sistemi bileşeni olan bipolar plaka işleme sürecini (CNC imalat) gösterdiği için belirtilen teknik gereksinimlerle doğrudan uyumludur.",
+      "discovered_at": "2026-11-27 17:56:58"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "A High-Precision Micro-Roll Forming Facility for Fuel Cell Metal ...",
+      "page_url": "https://www.mdpi.com/2072-666X/16/1/91",
+      "candidate_image_url": "https://pub.mdpi-res.com/micromachines/micromachines-16-00091/article_deploy/html/images/micromachines-16-00091-g008.png?1736999071",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Referans görsel bir yakıt hücresi sisteminin evrimini gösterirken, aday görsel bu tür sistemlerin üretiminde kritik bir bileşen olan bipolar plaka akış kanallarının mikroskobik incelemesini ve teknik analizini sunmaktadır.",
+      "discovered_at": "2026-11-27 17:57:24"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Titanium Bipolar Plates: The Ideal Choice for Eco-Friendly Fuel Cell ...",
+      "page_url": "https://www.sintered-mesh.com/technology/titanium-bipolar-plate-hydrogen-pem-fuel-cell.html",
+      "candidate_image_url": "https://www.sintered-mesh.com/img/titanium-bipolar-plate-pem-cell-explosive-view.png",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "İkinci görsel, yakıt hücresi bileşenlerini ve titanyum bipolar plakaların patlatılmış montaj CAD modelini açıkça göstermektedir.",
+      "discovered_at": "2026-11-27 17:57:42"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Fuel cell stack - Eureka | Patsnap",
+      "page_url": "https://eureka.patsnap.com/patent-US20050221149A1",
+      "candidate_image_url": "https://images-eureka.patsnap.com/patent_img/150b6ae6-1666-4e94-b2af-6d7ff4f00ab0/US20050221149A1-20051006-D00000.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü, yakıt hücresi yığınına ait montaj sıkıştırma ve akış kanalları düzenini gösteren teknik bir patent çizimi olup kullanıcı gereksinimleriyle tam örtüşmektedir.",
+      "discovered_at": "2026-11-27 17:58:01"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "US20090117443A1 - Bipolar Plate Hydrophilic Treatment for Stable Fuel ...",
+      "page_url": "https://patents.google.com/patent/US20090117443A1/en",
+      "candidate_image_url": "https://patentimages.storage.googleapis.com/94/f6/86/ef6e45e0fe8f0d/US20090117443A1-20090507-D00000.png",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel 2, yakıt hücresi sisteminin temel bileşenlerinden olan bipolar plaka ve membran elektrot takımı (MEA) montajının teknik kesit çizimini temsil etmektedir, bu da kullanıcı gereksinimleriyle doğrudan uyumludur.",
+      "discovered_at": "2026-11-27 17:58:05"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Ballard Nexa Fuel Cell Power Module Installation Manual : Free Download ...",
+      "page_url": "https://archive.org/details/ballard-nexa-fuel-cell-power-module-installation-manual",
+      "candidate_image_url": "https://archive.org/services/img/ballard-nexa-fuel-cell-power-module-installation-manual/full/pct:200/0/default.jpg",
+      "score": 90,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistem teknolojisi ile ilgili olup, referans görsel evrimsel tasarım şemasını, aday görsel ise sektör lideri Ballard Power Systems'e ait teknik dokümantasyon ve modül donanımını temsil etmektedir.",
+      "discovered_at": "2026-11-27 17:58:15"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Video: Incline test of Ballard's FCwave™ marine fuel cell module",
+      "page_url": "https://blog.ballard.com/marine/inclining-test-video-of-ballards-marine-fuel-cell-module-fcwave",
+      "candidate_image_url": "https://blog.ballard.com/hs-fs/hubfs/Marine/fcwave-installation.jpg?width=975&height=1302&name=fcwave-installation.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de endüstriyel ölçekli yakıt hücresi sistemlerini temsil etmekte olup, Ballard Power Systems gibi küresel endüstriyel standartlara uygun ticari enerji üretim modüllerini sergilemektedir.",
+      "discovered_at": "2026-11-27 17:58:17"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "China 60w Pemfc Stack Supplier, Manufacturer - Vet",
+      "page_url": "https://www.vet-china.com/hydrogen-fuel-cell-60w-air-cooled-pemfc-stack-for-laboratory-demonstration.html/",
+      "candidate_image_url": "https://www.vet-china.com/uploads/150.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "İkinci görsel, Ballard Power Systems markasına ait bir PEM yakıt hücresi yığınının teknik kesit şemasını göstermekte olup, kullanıcı gereksinimlerinde belirtilen membran elektrot takımı ve bipolar plaka detaylarını doğrudan içermektedir.",
+      "discovered_at": "2026-11-27 17:58:38"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Fuel Cell Bipolar Plate Design Features - Fuel Cell Coating - Cheersonic",
+      "page_url": "https://cheersonic-liquid.com/en/fuel-cell-bipolar-plate-design-features/",
+      "candidate_image_url": "https://cheersonic-liquid.com/wp-content/uploads/2021/04/Design-Features-Of-Fuel-Cell-Bipolar-Plate-Ultrasonic-Spray-Cheersonic.jpg",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görsel, PEM yakıt hücresi sisteminin temel bileşeni olan membran elektrot takımı (MEGA) ve bipolar plaka akış kanallarını teknik şematik düzeyinde doğru şekilde tanımlamaktadır.",
+      "discovered_at": "2026-11-27 17:58:54"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "A Deep Dive into EV Technology and Hydrogen Fuel Cells - Scientia Magazine",
+      "page_url": "https://scientiamag.org/a-deep-dive-into-ev-technology-and-hydrogen-fuel-cells/",
+      "candidate_image_url": "https://scientiamag.org/wp-content/uploads/2024/06/image-4.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistem bileşenlerini ve bunların teknik montaj detaylarını, özellikle membran elektrot takımı (MEA) ve bipolar plaka (BPP) yapısını endüstriyel standartlara uygun şekilde belgelemektedir.",
+      "discovered_at": "2026-11-27 17:58:57"
     }
   ]
 }
