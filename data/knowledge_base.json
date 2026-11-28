@@ -25189,6 +25189,83 @@
       "variant_type": "technical_drawing",
       "reason": "Her iki görsel de yakıt hücresi sistem bileşenlerini ve bunların teknik montaj detaylarını, özellikle membran elektrot takımı (MEA) ve bipolar plaka (BPP) yapısını endüstriyel standartlara uygun şekilde belgelemektedir.",
       "discovered_at": "2026-11-27 17:58:57"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Ballard Power Fuel Cell – Ballard Fuel Cell – BVFSXM",
+      "page_url": "https://omtn.boshidora.com/ballard-power-fuel-cell-ballard-fuel-cell/",
+      "candidate_image_url": "https://img.fuelcellsworks.com/wp-content/uploads/2024/08/2024-08-21_10-09-32.webp",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "working_variation",
+      "reason": "Her iki görsel de Ballard Power Systems tarafından üretilen endüstriyel tip PEM yakıt hücresi yığınlarını ve entegre sistem donanımlarını temsil etmektedir.",
+      "discovered_at": "2026-11-28 01:07:29"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 3 - from CFD modeling and simulation of PEM fuel cell",
+      "page_url": "https://www.academia.edu/figures/10891302/figure-3-membrane-cathode-interface-showing-the-distribution",
+      "candidate_image_url": "https://figures.academia-assets.com/89115127/figure_001.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü, yakıt hücresi sisteminin temel bileşenlerini oluşturan bipolar plaka (BP), membran elektrot takımı (MEA) ve gaz akış kanallarının (GFC) teknik bir CAD modelini detaylı şekilde göstermektedir.",
+      "discovered_at": "2026-11-28 01:07:52"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Finite Element Analysis and Optimization of Hydrogen Fuel Cell City Bus ...",
+      "page_url": "https://www.mdpi.com/2076-3417/13/19/10964/xml",
+      "candidate_image_url": "https://pub.mdpi-res.com/applsci/applsci-13-10964/article_deploy/html/images/applsci-13-10964-g002.png?1696649322",
+      "score": 75,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Görüntü 1, taşınabilir bir yakıt hücresi sisteminin evrimini gösterirken, Görüntü 2, bir otobüs şasisi içerisinde entegre edilmiş bir yakıt hücresi sistemi ve batarya paketini içeren teknik bir diyagramdır; her iki görüntü de endüstriyel yakıt hücresi sistem uygulamalarını temsil etmektedir.",
+      "discovered_at": "2026-11-28 01:07:58"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Hydrogen Fuel Cell SUV Chassis X-Ray 3D Model - TurboSquid 2052892",
+      "page_url": "https://www.turbosquid.com/3d-models/hydrogen-fuel-cell-suv-chassis-xray-3d-model-2052892",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/Ka/kJqi2V/8N/a02/jpg/1680799449/1920x1080/fit_q87/8fa223403033ea0f671f2be3307e2639ace18d0d/a02.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Referans görseldeki sabit yakıt hücresi sistemi ile aday görseldeki hidrojen yakıt hücreli araç şasi platformu, aynı teknolojik temel olan PEM yakıt hücresi teknolojisini ve genel mühendislik prensiplerini temsil etmektedir.",
+      "discovered_at": "2026-11-28 01:08:05"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "3D Hydrogen Fuel Cell Car Chassis - TurboSquid 2052897",
+      "page_url": "https://www.turbosquid.com/3d-models/3d-hydrogen-fuel-cell-car-chassis-2052897",
+      "candidate_image_url": "https://p.turbosquid.com/ts-thumb/OU/pvItzD/9U/a01/jpg/1680800232/1920x1080/fit_q87/5ea4a91790056b842f9e2ddd73ba0994bf77d04b/a01.jpg",
+      "score": 85,
+      "category": "cad_model",
+      "variant_type": "working_variation",
+      "reason": "Görsel, hidrojen yakıt hücreli bir otomotiv şasisini ve entegre hidrojen depolama sistemini göstermektedir; bu, talep edilen yakıt hücresi sistem teknolojisinin (PEMFC) mobil bir uygulama üzerindeki teknik karşılığıdır.",
+      "discovered_at": "2026-11-28 01:08:16"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 6. Polymer electrolyte membrane fuel cell (PEMFC) System (a ...",
+      "page_url": "https://pubs.sciepub.com/rse/10/1/1/figure/6",
+      "candidate_image_url": "https://pubs.sciepub.com/rse/10/1/1/bigimage/fig6.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de endüstriyel bir yakıt hücresi sisteminin mimarisini, bileşenlerini (PEMFC yığını, dengeleyici sistemler) ve çalışma prensiplerini teknik düzeyde açıklamaktadır.",
+      "discovered_at": "2026-11-28 01:08:19"
+    },
+    {
+      "target_name": "Fuel cell system / Yakıt hücresi sistemi",
+      "title": "Figure 4 from Design and Modelling of 3D Bionic Cathode Flow Field for ...",
+      "page_url": "https://www.semanticscholar.org/paper/Design-and-Modelling-of-3D-Bionic-Cathode-Flow-for-Xuan-Wang/7cdd422383616b083846ce2641cc3df05f3f4014/figure/3",
+      "candidate_image_url": "https://d3i71xaburhd42.cloudfront.net/256977ee2befc0e05d8aa7b14e1291a617e66ebd/3-Figure1-1.png",
+      "score": 85,
+      "category": "technical_drawing",
+      "variant_type": "technical_drawing",
+      "reason": "Her iki görsel de yakıt hücresi sistemi bileşenlerini ve tasarım evrimini teknik belgeler çerçevesinde temsil etmektedir; biri sistem seviyesinde entegrasyonu, diğeri ise bipolar plaka içindeki akış kanalı mekaniğini göstermektedir.",
+      "discovered_at": "2026-11-28 01:20:24"
     }
   ]
 }
